@@ -54,6 +54,29 @@ def fetch_trending_repos(limit: int = 50, language: str = "python") -> list[dict
 - 所有外部 API 调用必须配置超时（`timeout=30`）
 - 敏感信息（API Key、Telegram Bot Token 等）通过环境变量读取，禁止硬编码
 
+### 3.5 格式化要求
+
+| 语言 | 工具 | 配置 |
+|------|------|------|
+| Python | black | 默认配置 |
+| TypeScript | Prettier | `compilerOptions: { "strict": true }` |
+
+### 3.6 禁止事项
+
+- **禁止使用无解释的魔法字符串**：允许有常量定义或注释说明的字符串
+- **禁止提交 TODO / FIXME / XXX / HACK 到 main**：使用 lint 工具检测
+
+### 3.7 覆盖率要求
+
+- 行覆盖率 ≥ 80%（排除 `tests/` 文件和简单数据模型）
+
+### 3.8 CI 验证
+
+| 语言 | Lint | Format | Test |
+|------|------|--------|------|
+| Python | ruff | ruff | pytest |
+| TypeScript | ESLint | Prettier | vitest |
+
 ## 4. 项目结构
 
 ```
