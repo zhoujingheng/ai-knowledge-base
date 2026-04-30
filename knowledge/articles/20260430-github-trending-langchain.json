@@ -1,0 +1,19 @@
+{
+  "id": "gh-20260430-015",
+  "title": "LangChain：LLM 应用开发框架",
+  "source_url": "https://github.com/LangChainAI/langchain",
+  "source": "github_trending",
+  "summary": "LLM 应用开发框架。完整工具链，生态完善，入门首选，68K stars 广泛使用。",
+  "tags": ["框架", "RAG", "Agent"],
+  "status": "published",
+  "priority": "medium",
+  "created_at": "2026-04-30T10:00:00Z",
+  "updated_at": "2026-04-30T10:00:00Z",
+  "published_channels": [],
+  "metadata": {
+    "score": 7,
+    "stars": 68000,
+    "language": "Python",
+    "score_reason": "入门首选，生态完善"
+  }
+}

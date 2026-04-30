@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-29-github-pytorch",
+  "title": "PyTorch",
+  "url": "https://github.com/pytorch/pytorch",
+  "source": "github",
+  "popularity": 99296,
+  "summary": "Meta开源的深度学习框架，动态计算图设计，支持GPU加速和神经网络构建，是AI研究和企业应用的主流选择，社区活跃度极高。",
+  "detailed_summary": "PyTorch 是 Meta（原 Facebook）开源的深度学习框架，以其动态计算图设计而闻名。与静态图框架相比，PyTorch 提供了更灵活的开发体验，使调试和实验更加直观。项目支持 GPU 加速和神经网络构建，是当前 AI 研究和企业应用的主流选择，拥有极其活跃的社区生态。",
+  "highlights": [
+    "99K Stars，Meta 开源的深度学习框架",
+    "动态计算图设计，灵活易用",
+    "GPU 加速支持",
+    "AI 研究和企业应用的主流选择",
+    "极其活跃的社区生态"
+  ],
+  "score": 10,
+  "score_reason": "99K Stars 顶级热度，深度学习领域的事实标准，PyTorch 在 AI 研究中的占比极高，是每个 AI 从业者必须掌握的核心技术。",
+  "tags": ["深度学习", "PyTorch", "神经网络", "GPU"],
+  "category": "frameworks",
+  "collected_at": "2026-04-29T00:00:00Z",
+  "analyzed_at": "2026-04-29T00:00:00Z",
+  "organized_at": "2026-04-29T16:51:00Z"
+}

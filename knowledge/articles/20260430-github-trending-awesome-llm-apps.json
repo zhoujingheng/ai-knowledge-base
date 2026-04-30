@@ -1,0 +1,19 @@
+{
+  "id": "gh-20260430-006",
+  "title": "Awesome LLM Apps：100+ 可运行 AI 应用集",
+  "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "source": "github_trending",
+  "summary": "100+ 可运行 AI 应用集。提供丰富的 Agent 和 RAG 落地参考，108K stars 社区认可。",
+  "tags": ["应用集", "参考", "落地"],
+  "status": "published",
+  "priority": "low",
+  "created_at": "2026-04-30T10:00:00Z",
+  "updated_at": "2026-04-30T10:00:00Z",
+  "published_channels": [],
+  "metadata": {
+    "score": 6,
+    "stars": 108099,
+    "language": "Python",
+    "score_reason": "参考价值高，但非核心技术"
+  }
+}

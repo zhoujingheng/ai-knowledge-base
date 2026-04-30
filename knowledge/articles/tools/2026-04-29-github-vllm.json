@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-29-github-vllm",
+  "title": "vLLM",
+  "url": "https://github.com/vllm-project/vllm",
+  "source": "github",
+  "popularity": 78500,
+  "summary": "高吞吐量、内存高效的LLM推理与服务引擎，采用PagedAttention技术，支持连续批处理、量化、张量并行，兼容200+模型架构，是生产环境部署首选。",
+  "detailed_summary": "vLLM 是由 UC Berkeley 开发的高吞吐量、内存高效的 LLM 推理与服务引擎。项目采用了创新的 PagedAttention 技术，极大提升了推理效率。在功能方面，vLLM 支持连续批处理、量化、张量并行等优化技术，兼容 200 多种模型架构。这些特性使其成为生产环境部署 LLM 的首选解决方案。",
+  "highlights": [
+    "79K Stars，高吞吐量 LLM 推理引擎",
+    "PagedAttention 技术创新",
+    "支持连续批处理、量化、张量并行",
+    "兼容 200+ 模型架构",
+    "生产环境部署首选"
+  ],
+  "score": 9,
+  "score_reason": "79K Stars 高热度，生产环境 LLM 部署的核心基础设施，PagedAttention 技术代表了推理优化的重要突破，是每个 AI 工程师需要了解的工具。",
+  "tags": ["LLM 推理", "性能优化", "部署", "PagedAttention"],
+  "category": "tools",
+  "collected_at": "2026-04-29T00:00:00Z",
+  "analyzed_at": "2026-04-29T00:00:00Z",
+  "organized_at": "2026-04-29T16:51:00Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "gh-20260430-009",
+  "title": "SWE-agent：软件工程专用 AI Agent",
+  "source_url": "https://github.com/princeton-nlp/SWE-agent",
+  "source": "github_trending",
+  "summary": "软件工程专用 AI Agent。普林斯顿 NLP 组出品，垂直领域突破，解决软件工程实际需求。",
+  "tags": ["SWE", "Agent", "软件工程"],
+  "status": "published",
+  "priority": "high",
+  "created_at": "2026-04-30T10:00:00Z",
+  "updated_at": "2026-04-30T10:00:00Z",
+  "published_channels": [],
+  "metadata": {
+    "score": 8,
+    "stars": 89000,
+    "language": "Python",
+    "score_reason": "垂直领域突破，解决软件工程实际需求"
+  }
+}

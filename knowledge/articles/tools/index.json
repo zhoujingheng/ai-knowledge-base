@@ -1,0 +1,42 @@
+{
+  "category": "tools",
+  "count": 5,
+  "last_updated": "2026-04-29T16:51:00Z",
+  "items": [
+    {
+      "id": "2026-04-29-github-markitdown",
+      "title": "MarkItDown",
+      "score": 8,
+      "tags": ["文档转换", "Markdown", "OCR", "RAG"],
+      "file": "2026-04-29-github-markitdown.json"
+    },
+    {
+      "id": "2026-04-29-github-firecrawl",
+      "title": "Firecrawl",
+      "score": 8,
+      "tags": ["网页爬取", "数据提取", "RAG", "Markdown"],
+      "file": "2026-04-29-github-firecrawl.json"
+    },
+    {
+      "id": "2026-04-29-github-vllm",
+      "title": "vLLM",
+      "score": 9,
+      "tags": ["LLM 推理", "性能优化", "部署", "PagedAttention"],
+      "file": "2026-04-29-github-vllm.json"
+    },
+    {
+      "id": "2026-04-29-github-mem0",
+      "title": "mem0",
+      "score": 8,
+      "tags": ["AI 智能体", "记忆层", "上下文", "个性化"],
+      "file": "2026-04-29-github-mem0.json"
+    },
+    {
+      "id": "2026-04-29-github-awesome-llm-apps",
+      "title": "Awesome LLM Apps",
+      "score": 8,
+      "tags": ["LLM 应用", "RAG", "Agent", "教程"],
+      "file": "2026-04-29-github-awesome-llm-apps.json"
+    }
+  ]
+}

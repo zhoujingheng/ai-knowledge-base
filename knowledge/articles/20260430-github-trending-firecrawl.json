@@ -1,0 +1,19 @@
+{
+  "id": "gh-20260430-005",
+  "title": "Firecrawl：AI 网页数据抓取工具",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "source": "github_trending",
+  "summary": "AI 网页数据抓取工具。解决 RAG 数据获取痛点，AI 应用基础设施，113K stars 广泛使用。",
+  "tags": ["RAG", "数据抓取", "Scraper"],
+  "status": "published",
+  "priority": "high",
+  "created_at": "2026-04-30T10:00:00Z",
+  "updated_at": "2026-04-30T10:00:00Z",
+  "published_channels": [],
+  "metadata": {
+    "score": 8,
+    "stars": 113133,
+    "language": "TypeScript",
+    "score_reason": "解决 RAG 数据获取痛点，AI 应用基础设施"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-29-github-hermes-agent",
+  "title": "Hermes Agent",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "source": "github",
+  "popularity": 124000,
+  "summary": "Nous Research开发的自我进化AI智能体，具有内置学习循环，能够从经验中创建技能、使用时自动改进、积累持久记忆，支持多平台（ Telegram、Discord等）交互。",
+  "detailed_summary": "Hermes Agent 是由 Nous Research 开发的具有自我进化能力的 AI 智能体。该项目的核心创新在于内置学习循环机制，使智能体能够从经验中创建新技能、在使用过程中自动改进，并积累持久记忆。与传统静态 AI 代理不同，Hermes Agent 具有实时学习和适应的能力。项目支持多平台集成，包括 Telegram、Discord 等主流通讯平台，为用户提供了灵活的交互方式。",
+  "highlights": [
+    "124K Stars，自我进化 AI 智能体",
+    "内置学习循环，从经验中创建技能",
+    "使用过程中自动改进",
+    "持久记忆积累机制",
+    "多平台支持（Telegram、Discord 等）"
+  ],
+  "score": 9,
+  "score_reason": "124K Stars 高热度，自我进化能力是 AI 智能体的重要突破方向，代表了 AI Agent 的未来发展趋势，具有重要的技术探索价值。",
+  "tags": ["AI 智能体", "自我进化", "机器学习", "多平台"],
+  "category": "projects",
+  "collected_at": "2026-04-29T00:00:00Z",
+  "analyzed_at": "2026-04-29T00:00:00Z",
+  "organized_at": "2026-04-29T16:51:00Z"
+}

@@ -1,0 +1,42 @@
+{
+  "category": "frameworks",
+  "count": 5,
+  "last_updated": "2026-04-29T16:51:00Z",
+  "items": [
+    {
+      "id": "2026-04-29-github-superpowers",
+      "title": "Superpowers",
+      "score": 9,
+      "tags": ["AI 编程", "Agent 框架", "软件开发", "TDD"],
+      "file": "2026-04-29-github-superpowers.json"
+    },
+    {
+      "id": "2026-04-29-github-ollama",
+      "title": "Ollama",
+      "score": 10,
+      "tags": ["本地部署", "LLM 运行", "开源模型", "跨平台"],
+      "file": "2026-04-29-github-ollama.json"
+    },
+    {
+      "id": "2026-04-29-github-transformers",
+      "title": "Transformers",
+      "score": 10,
+      "tags": ["Hugging Face", "机器学习", "预训练模型", "多模态"],
+      "file": "2026-04-29-github-transformers.json"
+    },
+    {
+      "id": "2026-04-29-github-pytorch",
+      "title": "PyTorch",
+      "score": 10,
+      "tags": ["深度学习", "PyTorch", "神经网络", "GPU"],
+      "file": "2026-04-29-github-pytorch.json"
+    },
+    {
+      "id": "2026-04-29-github-openhands",
+      "title": "OpenHands",
+      "score": 9,
+      "tags": ["AI 编程", "开发平台", "Agent", "自动化"],
+      "file": "2026-04-29-github-openhands.json"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "gh-20260430-002",
+  "title": "Everything Claude Code：Claude Code 性能优化系统",
+  "source_url": "https://github.com/affaan-m/everything-claude-code",
+  "source": "github_trending",
+  "summary": "Claude Code 性能优化系统。直接提升 Claude Code 使用效率，技能和记忆机制实用，170K stars 社区认可。",
+  "tags": ["Claude", "性能优化", "框架"],
+  "status": "published",
+  "priority": "high",
+  "created_at": "2026-04-30T10:00:00Z",
+  "updated_at": "2026-04-30T10:00:00Z",
+  "published_channels": [],
+  "metadata": {
+    "score": 8,
+    "stars": 170307,
+    "language": "JavaScript",
+    "score_reason": "直接提升 Claude Code 使用效率，技能和记忆机制实用"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-29-github-markitdown",
+  "title": "MarkItDown",
+  "url": "https://github.com/microsoft/markitdown",
+  "source": "github",
+  "popularity": 119000,
+  "summary": "微软开源的Python工具，可将PDF、Word、Excel、PowerPoint、图片、音频、HTML等文件转换为Markdown格式，支持LLM图像描述和OCR功能。",
+  "detailed_summary": "MarkItDown 是微软开源的 Python 文档转换工具，专注于将各种格式的文档转换为 Markdown 格式。项目支持 PDF、Word、Excel、PowerPoint、图片、音频、HTML 等多种文件格式的转换，并集成了 LLM 图像描述和 OCR 功能，方便用户提取文件中的文本内容。该工具是构建 RAG 系统和数据pipeline的重要组件。",
+  "highlights": [
+    "119K Stars，微软官方开源工具",
+    "支持多种文档格式转换（PDF、Word、Excel、PPT）",
+    "支持图片和音频内容提取",
+    "集成 LLM 图像描述和 OCR 功能",
+    "RAG 系统文档处理的重要工具"
+  ],
+  "score": 8,
+  "score_reason": "119K Stars 高热度，微软官方背书，文档处理是 RAG 系统的关键环节，该工具极大简化了文档预处理流程。",
+  "tags": ["文档转换", "Markdown", "OCR", "RAG"],
+  "category": "tools",
+  "collected_at": "2026-04-29T00:00:00Z",
+  "analyzed_at": "2026-04-29T00:00:00Z",
+  "organized_at": "2026-04-29T16:51:00Z"
+}

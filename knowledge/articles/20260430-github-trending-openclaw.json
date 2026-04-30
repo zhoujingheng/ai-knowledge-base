@@ -1,0 +1,19 @@
+{
+  "id": "gh-20260430-001",
+  "title": "OpenClaw：开源跨平台 AI 助手框架",
+  "source_url": "https://github.com/openclaw/openclaw",
+  "source": "github_trending",
+  "summary": "开源 AI 助手框架，跨平台支持。突破性创新，真正的开放式 AI 助手架构，重新定义人机交互方式，366K stars 证明业界认可。",
+  "tags": ["AI助手", "开源", "跨平台"],
+  "status": "published",
+  "priority": "high",
+  "created_at": "2026-04-30T10:00:00Z",
+  "updated_at": "2026-04-30T10:00:00Z",
+  "published_channels": [],
+  "metadata": {
+    "score": 10,
+    "stars": 366427,
+    "language": "TypeScript",
+    "score_reason": "突破性创新，真正的开放式 AI 助手架构，重新定义人机交互方式"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-29-github-ollama",
+  "title": "Ollama",
+  "url": "https://github.com/ollama/ollama",
+  "source": "github",
+  "popularity": 170000,
+  "summary": "本地大模型运行框架，支持Kimi-K2.5、GLM-5、MiniMax、DeepSeek、Qwen、Gemma等主流开源模型，可在Mac、Linux、Windows上本地部署运行，支持REST API和多种集成。",
+  "detailed_summary": "Ollama 是最流行的本地大模型运行框架，为开发者提供了在个人电脑上部署和运行大型语言模型的能力。项目支持包括 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、Qwen、Gemma 等主流开源模型，覆盖了从轻量级到超大规模的模型。Ollama 提供了跨平台支持，可在 Mac、Linux、Windows 系统上本地部署运行，并通过 REST API 提供标准化的接口，支持与多种应用和工具的集成。",
+  "highlights": [
+    "170K Stars，最流行的本地大模型运行框架",
+    "支持主流开源模型（DeepSeek、Qwen、Gemma等）",
+    "跨平台支持（Mac、Linux、Windows）",
+    "REST API 标准化接口",
+    "开箱即用的本地部署体验"
+  ],
+  "score": 10,
+  "score_reason": "170K Stars 顶级热度，本地大模型部署的事实标准，极大降低了 LLM 使用门槛，是 AI 应用开发的基础设施级别的项目。",
+  "tags": ["本地部署", "LLM 运行", "开源模型", "跨平台"],
+  "category": "frameworks",
+  "collected_at": "2026-04-29T00:00:00Z",
+  "analyzed_at": "2026-04-29T00:00:00Z",
+  "organized_at": "2026-04-29T16:51:00Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-29-github-firecrawl",
+  "title": "Firecrawl",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "source": "github",
+  "popularity": 104599,
+  "summary": "强大的网页数据提取工具，可将网站内容转换为Markdown格式，支持LLM和RAG应用的数据采集，具备爬取、转换、结构化输出能力。",
+  "detailed_summary": "Firecrawl 是一个功能强大的网页数据提取工具，专为 LLM 和 RAG 应用设计。项目能够高效地爬取网站内容，并将数据转换为干净的 Markdown 格式，便于后续的 AI 处理。项目具备完整的爬取、转换、结构化输出能力，是构建基于网页数据的 AI 应用的重要工具。",
+  "highlights": [
+    "105K Stars，强大的网页数据提取工具",
+    "专为 LLM 和 RAG 应用设计",
+    "网站内容转换为 Markdown 格式",
+    "完整的爬取、转换、结构化输出能力",
+    "AI 数据采集的重要工具"
+  ],
+  "score": 8,
+  "score_reason": "105K Stars 高热度，网页数据是 RAG 系统的重要数据源，Firecrawl 提供了高效、可靠的网页数据采集能力。",
+  "tags": ["网页爬取", "数据提取", "RAG", "Markdown"],
+  "category": "tools",
+  "collected_at": "2026-04-29T00:00:00Z",
+  "analyzed_at": "2026-04-29T00:00:00Z",
+  "organized_at": "2026-04-29T16:51:00Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "gh-20260430-013",
+  "title": "llama.cpp：本地 LLM 推理库",
+  "source_url": "https://github.com/ggerganov/llama.cpp",
+  "source": "github_trending",
+  "summary": "本地 LLM 推理库。纯 C/C++ 实现，本地部署必备，隐私敏感场景首选，75K stars 广泛使用。",
+  "tags": ["本地部署", "隐私", "边缘计算"],
+  "status": "published",
+  "priority": "high",
+  "created_at": "2026-04-30T10:00:00Z",
+  "updated_at": "2026-04-30T10:00:00Z",
+  "published_channels": [],
+  "metadata": {
+    "score": 8,
+    "stars": 75000,
+    "language": "C++",
+    "score_reason": "本地部署必备，隐私敏感场景首选"
+  }
+}

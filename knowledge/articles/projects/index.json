@@ -1,0 +1,28 @@
+{
+  "category": "projects",
+  "count": 3,
+  "last_updated": "2026-04-29T16:51:00Z",
+  "items": [
+    {
+      "id": "2026-04-29-github-hermes-agent",
+      "title": "Hermes Agent",
+      "score": 9,
+      "tags": ["AI 智能体", "自我进化", "机器学习", "多平台"],
+      "file": "2026-04-29-github-hermes-agent.json"
+    },
+    {
+      "id": "2026-04-29-github-awesome-llm-apps",
+      "title": "Awesome LLM Apps",
+      "score": 8,
+      "tags": ["LLM 应用", "RAG", "Agent", "教程"],
+      "file": "2026-04-29-github-awesome-llm-apps.json"
+    },
+    {
+      "id": "2026-04-29-github-ragflow",
+      "title": "RAGFlow",
+      "score": 9,
+      "tags": ["RAG", "知识库", "语义搜索", "企业级"],
+      "file": "2026-04-29-github-ragflow.json"
+    }
+  ]
+}

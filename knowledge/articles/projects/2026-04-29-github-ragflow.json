@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-29-github-ragflow",
+  "title": "RAGFlow",
+  "url": "https://github.com/infiniflow/ragflow",
+  "source": "github",
+  "popularity": 77186,
+  "summary": "基于深度文档理解的RAG引擎，支持复杂文档解析、全文和语义搜索，提供可观测性和企业级功能，是构建知识库和智能问答系统的热门选择。",
+  "detailed_summary": "RAGFlow 是由 Infiniflow 开发的基于深度文档理解的 RAG（检索增强生成）引擎。项目专注于解决复杂文档的解析和理解问题，支持多种文档格式的深度解析。在搜索方面，RAGFlow 同时支持全文搜索和语义搜索，提供完整的可观测性和企业级功能。这些特性使其成为构建知识库和智能问答系统的热门选择。",
+  "highlights": [
+    "77K Stars，基于深度文档理解的 RAG 引擎",
+    "支持复杂文档解析",
+    "全文和语义搜索双重支持",
+    "提供可观测性和企业级功能",
+    "构建知识库和智能问答系统的热门选择"
+  ],
+  "score": 9,
+  "score_reason": "77K Stars 高热度，RAG 是当前 LLM 应用的核心架构，RAGFlow 提供了企业级的解决方案，是构建知识库系统的重要选择。",
+  "tags": ["RAG", "知识库", "语义搜索", "企业级"],
+  "category": "projects",
+  "collected_at": "2026-04-29T00:00:00Z",
+  "analyzed_at": "2026-04-29T00:00:00Z",
+  "organized_at": "2026-04-29T16:51:00Z"
+}

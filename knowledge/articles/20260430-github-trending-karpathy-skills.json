@@ -1,0 +1,19 @@
+{
+  "id": "gh-20260430-008",
+  "title": "Andrej Karpathy Skills：LLM 编程最佳实践",
+  "source_url": "https://github.com/forrestchang/andrej-karpathy-skills",
+  "source": "github_trending",
+  "summary": "Karpathy LLM 编程最佳实践。大神经验沉淀，实测有效提升编程质量，97K stars 高度认可。",
+  "tags": ["最佳实践", "LLM编程", "经验"],
+  "status": "published",
+  "priority": "high",
+  "created_at": "2026-04-30T10:00:00Z",
+  "updated_at": "2026-04-30T10:00:00Z",
+  "published_channels": [],
+  "metadata": {
+    "score": 9,
+    "stars": 97000,
+    "language": null,
+    "score_reason": "大神经验，实测有效提升编程质量"
+  }
+}

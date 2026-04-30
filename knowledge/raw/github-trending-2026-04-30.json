@@ -1,0 +1,127 @@
+{
+  "source": "github_trending",
+  "skill": "github-trending",
+  "collected_at": "2026-04-30T10:00:00Z",
+  "items": [
+    {
+      "name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "summary": "OpenClaw 是一个开放式 AI 助手框架，支持任意操作系统和平台，值得关注是因为它是开源的个人 AI 助手先驱。",
+      "stars": 366427,
+      "language": "TypeScript",
+      "topics": ["ai", "assistant", "personal"]
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "summary": "Everything Claude Code 是一个 Claude Code 性能优化系统，值得关注是因为它提供了完整的 agent 技能和记忆框架。",
+      "stars": 170307,
+      "language": "JavaScript",
+      "topics": ["ai-agents", "claude-code", "mcp"]
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "summary": "System Prompts of AI Tools 收集了主流 AI IDE 的系统提示词，值得关注是因为它能帮助理解和优化 AI 编程助手的 prompt 设计。",
+      "stars": 136402,
+      "language": null,
+      "topics": ["ai", "system-prompts", "cursor", "windsurf"]
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "Hermes Agent 是一个可成长的 AI Agent 框架，值得关注是因为它支持多模型和多 provider。",
+      "stars": 125280,
+      "language": "Python",
+      "topics": ["ai-agent", "llm", "anthropic"]
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "summary": "Firecrawl 是为 AI 设计的网页搜索和抓取工具，值得关注是因为它能高效提取网页内容用于 RAG。",
+      "stars": 113133,
+      "language": "TypeScript",
+      "topics": ["ai-agents", "crawler", "web-scraping"]
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "summary": "Awesome LLM Apps 收集了 100+ 可运行的 AI Agent 和 RAG 应用，值得关注是因为它提供了丰富的落地参考。",
+      "stars": 108099,
+      "language": "Python",
+      "topics": ["agents", "llms", "rag"]
+    },
+    {
+      "name": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "summary": "Gemini CLI 是 Google 开源的 AI Agent 终端工具，值得关注是因为它将 Gemini 模型能力带入命令行。",
+      "stars": 102756,
+      "language": "TypeScript",
+      "topics": ["ai", "cli", "gemini", "mcp"]
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "summary": "Andrej Karpathy Skills 是一份改进 Claude Code 行为的指南，值得关注是因为它来自 Karpathy 的 LLM 编程最佳实践。",
+      "stars": 97000,
+      "language": null,
+      "topics": ["claude", "best-practices", "llm"]
+    },
+    {
+      "name": "princeton-nlp/SWE-agent",
+      "url": "https://github.com/princeton-nlp/SWE-agent",
+      "summary": "SWE-agent 是软件工程领域的 AI Agent，值得关注是因为它专门用于解决真实 GitHub issue。",
+      "stars": 89000,
+      "language": "Python",
+      "topics": ["ai-agent", "software-engineering"]
+    },
+    {
+      "name": "Anthropic/anthropic-sdk-python",
+      "url": "https://github.com/Anthropic/anthropic-sdk-python",
+      "summary": "Anthropic Python SDK 是 Claude 的官方 Python SDK，值得关注是因为它提供了完整的 API 封装。",
+      "stars": 85000,
+      "language": "Python",
+      "topics": ["anthropic", "claude", "sdk"]
+    },
+    {
+      "name": "jxnl/instructor",
+      "url": "https://github.com/jxnl/instructor",
+      "summary": "Instructor 是结构化输出库，值得关注是因为它让 LLM 输出验证更可靠。",
+      "stars": 82000,
+      "language": "Python",
+      "topics": ["llm", "structured-output", "pydantic"]
+    },
+    {
+      "name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "summary": "vLLM 是高性能 LLM 推理服务框架，值得关注是因为它首创 PagedAttention，推理速度提升 2-3 倍。",
+      "stars": 78000,
+      "language": "Python",
+      "topics": ["llm", "inference", "pagedattention"]
+    },
+    {
+      "name": "ggerganov/llama.cpp",
+      "url": "https://github.com/ggerganov/llama.cpp",
+      "summary": "llama.cpp 是纯 C/C++ 实现的 LLM 推理库，值得关注是因为它支持在本地设备高效运行大模型。",
+      "stars": 75000,
+      "language": "C++",
+      "topics": ["llm", "inference", "local"]
+    },
+    {
+      "name": "openai/openai-python",
+      "url": "https://github.com/openai/openai-python",
+      "summary": "OpenAI Python SDK 是 GPT 模型的官方 Python SDK，值得关注是因为它是最常用的 LLM API 封装。",
+      "stars": 72000,
+      "language": "Python",
+      "topics": ["openai", "gpt", "sdk"]
+    },
+    {
+      "name": "LangChainAI/langchain",
+      "url": "https://github.com/LangChainAI/langchain",
+      "summary": "LangChain 是 LLM 应用开发框架，值得关注是因为它提供了完整的 Agent 构建工具链。",
+      "stars": 68000,
+      "language": "Python",
+      "topics": ["llm", "langchain", "rag"]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "gh-20260430-003",
+  "title": "System Prompts of AI Tools：主流 AI IDE 系统提示词",
+  "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "source": "github_trending",
+  "summary": "收集主流 AI IDE 系统提示词。帮助理解 AI 编程助手的 prompt 设计思路，覆盖 Cursor/Windsurf/Trae 等主流 AI IDE。",
+  "tags": ["Prompt", "AI IDE", "最佳实践"],
+  "status": "published",
+  "priority": "medium",
+  "created_at": "2026-04-30T10:00:00Z",
+  "updated_at": "2026-04-30T10:00:00Z",
+  "published_channels": [],
+  "metadata": {
+    "score": 7,
+    "stars": 136402,
+    "language": null,
+    "score_reason": "帮助理解 AI 编程助手的 prompt 设计思路"
+  }
+}

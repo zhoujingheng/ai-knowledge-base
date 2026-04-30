@@ -1,0 +1,19 @@
+{
+  "id": "gh-20260430-010",
+  "title": "Anthropic Python SDK：Claude 官方 Python SDK",
+  "source_url": "https://github.com/Anthropic/anthropic-sdk-python",
+  "source": "github_trending",
+  "summary": "Claude 官方 Python SDK。官方维护，稳定可靠，85K stars 广泛使用。",
+  "tags": ["SDK", "Anthropic", "Claude"],
+  "status": "published",
+  "priority": "medium",
+  "created_at": "2026-04-30T10:00:00Z",
+  "updated_at": "2026-04-30T10:00:00Z",
+  "published_channels": [],
+  "metadata": {
+    "score": 7,
+    "stars": 85000,
+    "language": "Python",
+    "score_reason": "官方 SDK，稳定性有保障"
+  }
+}

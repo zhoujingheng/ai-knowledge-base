@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "source": "github",
+    "popularity": 172000,
+    "summary": "面向AI编程代理的完整技能框架与软件开发方法论，通过可组合技能和指令让AI智能体遵循TDD、YAGNI等工程实践，包括头脑风暴、计划编写、子代理开发、代码审查等完整工作流。"
+  },
+  {
+    "title": "Ollama",
+    "url": "https://github.com/ollama/ollama",
+    "source": "github",
+    "popularity": 170000,
+    "summary": "本地大模型运行框架，支持Kimi-K2.5、GLM-5、MiniMax、DeepSeek、Qwen、Gemma等主流开源模型，可在Mac、Linux、Windows上本地部署运行，支持REST API和多种集成。"
+  },
+  {
+    "title": "Transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "source": "github",
+    "popularity": 160000,
+    "summary": "Hugging Face推出的最流行的机器学习模型定义框架，支持文本、视觉、音频、多模态模型的推理与训练，提供Pipeline API和超过100万个预训练模型检查点。"
+  },
+  {
+    "title": "Hermes Agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github",
+    "popularity": 124000,
+    "summary": "Nous Research开发的自我进化AI智能体，具有内置学习循环，能够从经验中创建技能、使用时自动改进、积累持久记忆，支持多平台（ Telegram、Discord等）交互。"
+  },
+  {
+    "title": "MarkItDown",
+    "url": "https://github.com/microsoft/markitdown",
+    "source": "github",
+    "popularity": 119000,
+    "summary": "微软开源的Python工具，可将PDF、Word、Excel、PowerPoint、图片、音频、HTML等文件转换为Markdown格式，支持LLM图像描述和OCR功能。"
+  },
+  {
+    "title": "Awesome LLM Apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source": "github",
+    "popularity": 106609,
+    "summary": "精选的LLM应用集合，展示如何使用RAG技术、Agent框架构建AI应用，包含多个可直接运行示例，涵盖知识库、自动化、对话系统等场景。"
+  },
+  {
+    "title": "Firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github",
+    "popularity": 104599,
+    "summary": "强大的网页数据提取工具，可将网站内容转换为Markdown格式，支持LLM和RAG应用的数据采集，具备爬取、转换、结构化输出能力。"
+  },
+  {
+    "title": "PyTorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "source": "github",
+    "popularity": 99296,
+    "summary": "Meta开源的深度学习框架，动态计算图设计，支持GPU加速和神经网络构建，是AI研究和企业应用的主流选择，社区活跃度极高。"
+  },
+  {
+    "title": "vLLM",
+    "url": "https://github.com/vllm-project/vllm",
+    "source": "github",
+    "popularity": 78500,
+    "summary": "高吞吐量、内存高效的LLM推理与服务引擎，采用PagedAttention技术，支持连续批处理、量化、张量并行，兼容200+模型架构，是生产环境部署首选。"
+  },
+  {
+    "title": "RAGFlow",
+    "url": "https://github.com/infiniflow/ragflow",
+    "source": "github",
+    "popularity": 77186,
+    "summary": "基于深度文档理解的RAG引擎，支持复杂文档解析、全文和语义搜索，提供可观测性和企业级功能，是构建知识库和智能问答系统的热门选择。"
+  },
+  {
+    "title": "OpenHands",
+    "url": "https://github.com/OpenHands/OpenHands",
+    "source": "github",
+    "popularity": 72300,
+    "summary": "AI驱动开发平台，支持本地GUI、CLI、云端托管等多种运行模式，可作为SDK集成或独立使用，支持Claude、GPT等主流LLM，被多家科技公司采用。"
+  },
+  {
+    "title": "mem0",
+    "url": "https://github.com/mem0ai/mem0",
+    "source": "github",
+    "popularity": 52036,
+    "summary": "为AI智能体打造的智能记忆层，提供多层级记忆管理（用户、会话、全局），支持跨会话上下文保持，让AI代理能够记住用户偏好和历史交互。"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "gh-20260430-007",
+  "title": "Gemini CLI：Google 开源 AI Agent CLI 工具",
+  "source_url": "https://github.com/google-gemini/gemini-cli",
+  "source": "github_trending",
+  "summary": "Google 开源 AI Agent CLI 工具。将 Gemini 能力带入命令行，大厂入局 CLI 工具生态补充。",
+  "tags": ["CLI", "Gemini", "Google"],
+  "status": "published",
+  "priority": "medium",
+  "created_at": "2026-04-30T10:00:00Z",
+  "updated_at": "2026-04-30T10:00:00Z",
+  "published_channels": [],
+  "metadata": {
+    "score": 7,
+    "stars": 102756,
+    "language": "TypeScript",
+    "score_reason": "大厂入局 CLI 工具，生态补充"
+  }
+}

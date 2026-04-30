@@ -1,0 +1,19 @@
+{
+  "id": "gh-20260430-004",
+  "title": "Hermes Agent：可成长的 AI Agent 框架",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "source": "github_trending",
+  "summary": "可成长的 AI Agent 框架。支持多模型灵活切换，有一定实用性，125K stars 社区认可。",
+  "tags": ["Agent", "多模型", "框架"],
+  "status": "published",
+  "priority": "medium",
+  "created_at": "2026-04-30T10:00:00Z",
+  "updated_at": "2026-04-30T10:00:00Z",
+  "published_channels": [],
+  "metadata": {
+    "score": 7,
+    "stars": 125280,
+    "language": "Python",
+    "score_reason": "多模型灵活切换，有一定实用性"
+  }
+}

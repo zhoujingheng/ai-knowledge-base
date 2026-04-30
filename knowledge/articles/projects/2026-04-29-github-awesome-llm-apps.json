@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-29-github-awesome-llm-apps",
+  "title": "Awesome LLM Apps",
+  "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "source": "github",
+  "popularity": 106609,
+  "summary": "精选的LLM应用集合，展示如何使用RAG技术、Agent框架构建AI应用，包含多个可直接运行示例，涵盖知识库、自动化、对话系统等场景。",
+  "detailed_summary": "Awesome LLM Apps 是一个精心策划的 LLM 应用集合，由开发者 Shubhamsaboo 创建和维护。该项目展示了如何使用 RAG（检索增强生成）技术和 Agent 框架构建各种 AI 应用，包含多个可直接运行的示例代码。项目涵盖知识库构建、自动化流程、对话系统等多种应用场景，是学习 LLM 应用开发的优秀资源。",
+  "highlights": [
+    "107K Stars，精选的 LLM 应用集合",
+    "展示 RAG 技术和 Agent 框架的使用",
+    "包含可直接运行的示例代码",
+    "涵盖知识库、自动化、对话系统等场景",
+    "LLM 应用开发的学习资源"
+  ],
+  "score": 8,
+  "score_reason": "107K Stars 高热度，优秀的 LLM 应用学习资源，提供了丰富的示例和最佳实践，对于想要入门 LLM 应用开发的开发者非常有价值。",
+  "tags": ["LLM 应用", "RAG", "Agent", "教程"],
+  "category": "projects",
+  "collected_at": "2026-04-29T00:00:00Z",
+  "analyzed_at": "2026-04-29T00:00:00Z",
+  "organized_at": "2026-04-29T16:51:00Z"
+}

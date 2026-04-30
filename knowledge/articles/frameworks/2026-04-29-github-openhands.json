@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-29-github-openhands",
+  "title": "OpenHands",
+  "url": "https://github.com/OpenHands/OpenHands",
+  "source": "github",
+  "popularity": 72300,
+  "summary": "AI驱动开发平台，支持本地GUI、CLI、云端托管等多种运行模式，可作为SDK集成或独立使用，支持Claude、GPT等主流LLM，被多家科技公司采用。",
+  "detailed_summary": "OpenHands 是一个 AI 驱动的开发平台，旨在将 AI 能力融入软件开发流程。项目支持多种运行模式，包括本地 GUI、CLI 和云端托管，开发者可以根据需求选择最合适的部署方式。OpenHands 可作为 SDK 集成到现有项目中，也支持独立使用。项目支持 Claude、GPT 等主流 LLM，已被多家科技公司采用。",
+  "highlights": [
+    "72K Stars，AI 驱动开发平台",
+    "多种运行模式（本地 GUI、CLI、云端托管）",
+    "支持 SDK 集成或独立使用",
+    "支持 Claude、GPT 等主流 LLM",
+    "被多家科技公司采用"
+  ],
+  "score": 9,
+  "score_reason": "72K Stars 高热度，AI 编程代理领域的标杆平台，被多家科技公司采用证明了其工业级可用性，是 AI 开发者的重要工具。",
+  "tags": ["AI 编程", "开发平台", "Agent", "自动化"],
+  "category": "frameworks",
+  "collected_at": "2026-04-29T00:00:00Z",
+  "analyzed_at": "2026-04-29T00:00:00Z",
+  "organized_at": "2026-04-29T16:51:00Z"
+}

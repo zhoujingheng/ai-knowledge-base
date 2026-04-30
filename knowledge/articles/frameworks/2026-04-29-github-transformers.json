@@ -1,0 +1,23 @@
+{
+  "id": "2026-04-29-github-transformers",
+  "title": "Transformers",
+  "url": "https://github.com/huggingface/transformers",
+  "source": "github",
+  "popularity": 160000,
+  "summary": "Hugging Face推出的最流行的机器学习模型定义框架，支持文本、视觉、音频、多模态模型的推理与训练，提供Pipeline API和超过100万个预训练模型检查点。",
+  "detailed_summary": "Transformers 是 Hugging Face 推出的标志性项目，是当前最流行的机器学习模型定义框架。该项目支持文本、视觉、音频、多模态等多种模型的推理与训练，提供了统一的 API 接口。通过 Pipeline API，开发者可以快速使用预训练模型进行推理。项目维护了超过 100 万个预训练模型检查点，是 AI 领域最重要的开源资源之一。",
+  "highlights": [
+    "160K Stars，AI 领域最具影响力的项目之一",
+    "支持文本、视觉、音频、多模态模型",
+    "Pipeline API 简化模型使用",
+    "超过 100 万个预训练模型检查点",
+    "Hugging Face 生态的核心"
+  ],
+  "score": 10,
+  "score_reason": "160K Stars 顶级热度，Hugging Face 生态的核心组件，AI 领域的标杆项目，几乎所有大模型应用都基于此构建。",
+  "tags": ["Hugging Face", "机器学习", "预训练模型", "多模态"],
+  "category": "frameworks",
+  "collected_at": "2026-04-29T00:00:00Z",
+  "analyzed_at": "2026-04-29T00:00:00Z",
+  "organized_at": "2026-04-29T16:51:00Z"
+}

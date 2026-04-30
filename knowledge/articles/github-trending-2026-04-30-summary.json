@@ -1,0 +1,215 @@
+{
+  "source": "github_trending",
+  "skill": "tech-summary",
+  "collected_at": "2026-04-30T10:00:00Z",
+  "items": [
+    {
+      "name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "summary": "开源 AI 助手框架，跨平台支持",
+      "highlights": [
+        "开源个人 AI 助手先驱，366K stars 证明业界认可",
+        "支持任意 OS 和平台",
+        "MIT 许可证，完全开源"
+      ],
+      "score": 10,
+      "score_reason": "突破性创新，真正的开放式 AI 助手架构，重新定义人机交互方式",
+      "tags": ["AI助手", "开源", "跨平台"]
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "summary": "Claude Code 性能优化系统",
+      "highlights": [
+        "提供完整的 Agent 技能框架",
+        "包含记忆和安全机制",
+        "支持多 provider"
+      ],
+      "score": 8,
+      "score_reason": "直接提升 Claude Code 使用效率，技能和记忆机制实用",
+      "tags": ["Claude", "性能优化", "框架"]
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "summary": "收集主流 AI IDE 系统提示词",
+      "highlights": [
+        "覆盖 Cursor/Windsurf/Trae 等主流 AI IDE",
+        "可学习和借鉴 prompt 设计",
+        "136K stars 社区认可"
+      ],
+      "score": 7,
+      "score_reason": "帮助理解 AI 编程助手的 prompt 设计思路",
+      "tags": ["Prompt", "AI IDE", "最佳实践"]
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "可成长的 AI Agent 框架",
+      "highlights": [
+        "支持多模型",
+        "支持多 provider",
+        "MIT 许可证"
+      ],
+      "score": 7,
+      "score_reason": "多模型灵活切换，有一定实用性",
+      "tags": ["Agent", "多模型", "框架"]
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "summary": "AI 网页数据抓取工具",
+      "highlights": [
+        "专为 AI 设计的数据抓取",
+        "支持 Markdown 输出",
+        "RAG 数据源必备"
+      ],
+      "score": 8,
+      "score_reason": "解决 RAG 数据获取痛点，AI 应用基础设施",
+      "tags": ["RAG", "数据抓取", "Scraper"]
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "summary": "100+ 可运行 AI 应用",
+      "highlights": [
+        "100+ 可落地参考",
+        "涵盖 Agent 和 RAG",
+        "Python 为主"
+      ],
+      "score": 6,
+      "score_reason": "参考价值高，但非核心技术",
+      "tags": ["应用集", "参考", "落地"]
+    },
+    {
+      "name": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "summary": "Google 开源 AI Agent CLI",
+      "highlights": [
+        "Google 官方开源",
+        "支持 MCP 协议",
+        "将 Gemini 带入终端"
+      ],
+      "score": 7,
+      "score_reason": "大厂入局 CLI 工具，生态补充",
+      "tags": ["CLI", "Gemini", "Google"]
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "summary": "Karpathy LLM 编程最佳实践",
+      "highlights": [
+        "来自大神的经验沉淀",
+        "针对性改进 Claude Code",
+        "97K stars 高度认可"
+      ],
+      "score": 9,
+      "score_reason": "大神经验，实测有效提升编程质量",
+      "tags": ["最佳实践", "LLM编程", "经验"]
+    },
+    {
+      "name": "princeton-nlp/SWE-agent",
+      "url": "https://github.com/princeton-nlp/SWE-agent",
+      "summary": "软件工程专用 Agent",
+      "highlights": [
+        "普林斯顿 NLP 组出品",
+        "解决真实 GitHub issue",
+        "89K stars 社区认可"
+      ],
+      "score": 8,
+      "score_reason": "垂直领域突破，解决软件工程实际需求",
+      "tags": ["SWE", "Agent", "软件工程"]
+    },
+    {
+      "name": "Anthropic/anthropic-sdk-python",
+      "url": "https://github.com/Anthropic/anthropic-sdk-python",
+      "summary": "Claude 官方 Python SDK",
+      "highlights": [
+        "官方维护",
+        "完整 API 封装",
+        "稳定可靠"
+      ],
+      "score": 7,
+      "score_reason": "官方 SDK，稳定性有保障",
+      "tags": ["SDK", "Anthropic", "Claude"]
+    },
+    {
+      "name": "jxnl/instructor",
+      "url": "https://github.com/jxnl/instructor",
+      "summary": "LLM 结构化输出库",
+      "highlights": [
+        "Pydantic 集成",
+        "输出验证可靠",
+        "82K stars 广泛使用"
+      ],
+      "score": 8,
+      "score_reason": "结构化输出事实标准，RAG 和 Agent 必备",
+      "tags": ["结构化输出", "Pydantic", "验证"]
+    },
+    {
+      "name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "summary": "高性能 LLM 推理框架",
+      "highlights": [
+        "首创 PagedAttention",
+        "推理速度提升 2-3 倍",
+        "78K stars 广泛认可"
+      ],
+      "score": 9,
+      "score_reason": "突破性技术创新，直接解决 LLM 推理瓶颈",
+      "tags": ["推理优化", "PagedAttention", "性能"]
+    },
+    {
+      "name": "ggerganov/llama.cpp",
+      "url": "https://github.com/ggerganov/llama.cpp",
+      "summary": "本地 LLM 推理库",
+      "highlights": [
+        "纯 C/C++ 实现",
+        "本地部署事实标准",
+        "75K stars 广泛使用"
+      ],
+      "score": 8,
+      "score_reason": "本地部署必备，隐私敏感场景首选",
+      "tags": ["本地部署", "隐私", "边缘计算"]
+    },
+    {
+      "name": "openai/openai-python",
+      "url": "https://github.com/openai/openai-python",
+      "summary": "OpenAI 官方 Python SDK",
+      "highlights": [
+        "OpenAI 官方维护",
+        "最常用 GPT SDK",
+        "72K stars 广泛使用"
+      ],
+      "score": 7,
+      "score_reason": "最常用 SDK，生态基础",
+      "tags": ["SDK", "OpenAI", "GPT"]
+    },
+    {
+      "name": "LangChainAI/langchain",
+      "url": "https://github.com/LangChainAI/langchain",
+      "summary": "LLM 应用开发框架",
+      "highlights": [
+        "完整工具链",
+        "丰富生态系统",
+        "68K stars 广泛使用"
+      ],
+      "score": 7,
+      "score_reason": "入门首选，生态完善",
+      "tags": ["框架", "RAG", "Agent"]
+    }
+  ],
+  "trends": {
+    "common_themes": [
+      "Agent 框架",
+      "推理优化",
+      "RAG 数据处理",
+      "SDK 封装"
+    ],
+    "new_concepts": [
+      "PagedAttention",
+      "MCP 协议",
+      "SWE Agent"
+    ]
+  }
+}

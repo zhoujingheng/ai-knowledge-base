@@ -1,0 +1,19 @@
+{
+  "id": "gh-20260430-012",
+  "title": "vLLM：高性能 LLM 推理框架",
+  "source_url": "https://github.com/vllm-project/vllm",
+  "source": "github_trending",
+  "summary": "高性能 LLM 推理框架。首创 PagedAttention，推理速度提升 2-3 倍，突破性技术创新。",
+  "tags": ["推理优化", "PagedAttention", "性能"],
+  "status": "published",
+  "priority": "high",
+  "created_at": "2026-04-30T10:00:00Z",
+  "updated_at": "2026-04-30T10:00:00Z",
+  "published_channels": [],
+  "metadata": {
+    "score": 9,
+    "stars": 78000,
+    "language": "Python",
+    "score_reason": "突破性技术创新，直接解决 LLM 推理瓶颈"
+  }
+}
