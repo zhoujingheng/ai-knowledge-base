@@ -32,7 +32,7 @@ load_dotenv()
 import httpx
 import yaml
 
-from model_client import chat_with_retry
+from model_client import chat_with_retry, cost_tracker
 
 # Configure logging
 logging.basicConfig(
@@ -515,6 +515,8 @@ class Pipeline:
         logger.info(f"Organized: {stats['organized']}")
         logger.info(f"Saved: {stats['saved']}")
         logger.info("=" * 60)
+
+        cost_tracker.report()
 
         return stats
 

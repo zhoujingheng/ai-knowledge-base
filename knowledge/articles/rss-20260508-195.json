@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-195",
+  "title": "A CSS Engine in OCaml",
+  "source_url": "https://gazagnaire.org/blog/2026-04-02-cascade.html",
+  "source": "rss",
+  "summary": "This is a link to a discussion about implementing a CSS engine in OCaml, focusing on the technical aspects of building a CSS parser and layout engine using a functional programming language. It highlights OCaml's strengths for such tasks.",
+  "tags": [
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T07:18:20.329264Z",
+  "updated_at": "2026-05-08T07:19:23.976314Z"
+}
