@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260508-722",
+  "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+  "source_url": "https://www.anthropic.com/research/natural-language-autoencoders",
+  "source": "rss",
+  "summary": "Anthropic introduces Natural Language Autoencoders (NLAEs), a method to translate Claude's internal representations into human-readable text. This technique aims to interpret the model's 'thoughts' by mapping activations to natural language, enhancing interpretability and safety in large language models.",
+  "tags": [
+    "research",
+    "llm",
+    "interpretability"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-05-08T09:07:41.892780Z",
+  "updated_at": "2026-05-08T09:36:42.700291Z"
+}

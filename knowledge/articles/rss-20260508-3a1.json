@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260508-3a1",
+  "title": "Permacomputing Principles",
+  "source_url": "https://permacomputing.net/principles/",
+  "source": "rss",
+  "summary": "Permacomputing is a set of design principles for computing that emphasizes sustainability, resilience, and minimal resource use, drawing inspiration from permaculture. It advocates for hardware longevity, software simplicity, and community-oriented practices to reduce e-waste and energy consumption, contrasting with the AI/ML trend of massive compute.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-08T09:07:41.893068Z",
+  "updated_at": "2026-05-08T09:36:42.700561Z"
+}

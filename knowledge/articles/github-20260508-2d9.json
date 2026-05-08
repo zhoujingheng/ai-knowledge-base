@@ -1,16 +1,16 @@
 {
   "id": "github-20260508-2d9",
-  "title": "fighting41love/funNLP",
-  "source_url": "https://github.com/fighting41love/funNLP",
+  "title": "pytorch/pytorch",
+  "source_url": "https://github.com/pytorch/pytorch",
   "source": "github",
-  "summary": "A comprehensive collection of Chinese NLP resources, including datasets, tools, models, and code for tasks like text classification, NER, sentiment analysis, knowledge graphs, and speech recognition. It aggregates open-source projects, pre-trained models, and practical utilities for developers and researchers.",
+  "summary": "PyTorch is an open-source machine learning framework that provides tensor computation with strong GPU acceleration and dynamic neural network capabilities. It is widely used for research and production in deep learning.",
   "tags": [
-    "tool",
+    "framework",
     "research",
-    "llm"
+    "deployment"
   ],
   "status": "draft",
   "score": 7,
-  "created_at": "2026-05-08T06:37:14.874569Z",
-  "updated_at": "2026-05-08T06:37:49.747757Z"
+  "created_at": "2026-05-08T09:07:41.686139Z",
+  "updated_at": "2026-05-08T09:36:42.699760Z"
 }
