@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-a9f",
+  "title": "Transformers are Inherently Succinct",
+  "source_url": "https://arxiv.org/abs/2510.19315",
+  "source": "rss",
+  "summary": "This research proposes 'succinctness' as a measure of transformer expressivity, proving transformers can represent formal languages more compactly than finite automata or LTL formulas. A key finding is that verifying transformer properties is EXPSPACE-complete, indicating fundamental computational limits.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 9,
+  "created_at": "2026-05-08T06:37:16.791262Z",
+  "updated_at": "2026-05-08T06:37:49.748553Z"
+}

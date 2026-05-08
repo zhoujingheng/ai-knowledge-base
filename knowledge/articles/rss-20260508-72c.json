@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-72c",
+  "title": "Reversing SynthID",
+  "source_url": "https://hackerfactor.com/blog/index.php?/archives/1092-Reversing-SynthID.html",
+  "source": "rss",
+  "summary": "This content discusses the process of reverse-engineering SynthID, a watermarking system for AI-generated content. It likely explores methods to detect or remove such watermarks, highlighting vulnerabilities in current AI content identification techniques.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:16.791287Z",
+  "updated_at": "2026-05-08T06:37:49.748577Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260508-016",
+  "title": "DeepSeek 4 Flash local inference engine for Metal",
+  "source_url": "https://github.com/antirez/ds4",
+  "source": "rss",
+  "summary": "A local inference engine for DeepSeek models optimized for Apple Metal, enabling efficient on-device execution. It provides a lightweight alternative to cloud-based AI, focusing on performance and accessibility for macOS users.",
+  "tags": [
+    "tool",
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:15.251253Z",
+  "updated_at": "2026-05-08T06:37:49.747914Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-4e8",
+  "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+  "source_url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+  "source": "rss",
+  "summary": "Nano Banana 2 is a new image generation model that merges advanced capabilities like world knowledge, subject consistency, and production-ready specs with the speed of Flash-class models, enabling rapid, high-quality visual content creation.",
+  "tags": [
+    "model",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:19.839170Z",
+  "updated_at": "2026-05-08T06:37:49.749311Z"
+}

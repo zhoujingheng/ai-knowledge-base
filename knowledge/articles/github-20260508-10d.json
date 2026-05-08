@@ -1,0 +1,16 @@
+{
+  "id": "github-20260508-10d",
+  "title": "d2l-ai/d2l-zh",
+  "source_url": "https://github.com/d2l-ai/d2l-zh",
+  "source": "github",
+  "summary": "《动手学深度学习》是一本面向中文读者的开源教材，提供可运行的代码和互动讨论，被全球70多个国家500多所大学用于教学。内容覆盖深度学习核心概念与实践，适合初学者和进阶学习者。",
+  "tags": [
+    "framework",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:14.874581Z",
+  "updated_at": "2026-05-08T06:37:49.747809Z"
+}

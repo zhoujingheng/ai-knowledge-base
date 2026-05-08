@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-02a",
+  "title": "Mojo v1.0.0b1",
+  "source_url": "https://mojolang.org/releases/v1.0.0b1",
+  "source": "rss",
+  "summary": "Mojo v1.0.0b1 is a beta release of the Mojo programming language, designed for high-performance AI/ML workloads with Python-like syntax and systems-level control. It targets developers building efficient AI models and frameworks.",
+  "tags": [
+    "framework",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:16.791017Z",
+  "updated_at": "2026-05-08T06:37:49.748284Z"
+}

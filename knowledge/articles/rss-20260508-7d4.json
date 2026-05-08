@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260508-7d4",
+  "title": "Measuring progress toward AGI: A cognitive framework",
+  "source_url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+  "source": "rss",
+  "summary": "This content introduces a cognitive framework for measuring progress toward Artificial General Intelligence (AGI) and announces a Kaggle hackathon to develop corresponding evaluations. It focuses on defining and benchmarking AGI capabilities.",
+  "tags": [
+    "research",
+    "framework",
+    "evaluation"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:19.839136Z",
+  "updated_at": "2026-05-08T06:37:49.749289Z"
+}

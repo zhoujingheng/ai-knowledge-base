@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260508-11e",
+  "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+  "source_url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+  "source": "rss",
+  "summary": "This content discusses the evolution of vLLM from version 0 to version 1, emphasizing a shift in reinforcement learning (RL) where correctness (reward accuracy) is prioritized over post-hoc corrections. It likely covers architectural improvements for reliable RL training with LLMs.",
+  "tags": [
+    "llm",
+    "framework",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:19.223655Z",
+  "updated_at": "2026-05-08T06:37:49.748919Z"
+}

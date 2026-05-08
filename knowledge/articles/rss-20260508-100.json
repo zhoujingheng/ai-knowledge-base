@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260508-100",
+  "title": "How to build scalable web apps with OpenAI&apos;s Privacy Filter",
+  "source_url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+  "source": "rss",
+  "summary": "This content explains how to integrate OpenAI's Privacy Filter into web applications to ensure user data is anonymized before being sent to the API, enabling scalable and compliant AI-powered apps. It covers implementation steps, filtering mechanisms, and best practices for maintaining privacy at scale.",
+  "tags": [
+    "tool",
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-08T06:37:19.223708Z",
+  "updated_at": "2026-05-08T06:37:49.748990Z"
+}

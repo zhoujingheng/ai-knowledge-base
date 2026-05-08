@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260508-8f2",
+  "title": "Porting a complete HTML5 parser and browser test suite [from Python to OCaml using LLMs]",
+  "source_url": "https://anil.recoil.org/notes/aoah-2025-15",
+  "source": "rss",
+  "summary": "The author describes using LLMs to port a full HTML5 parser and browser test suite from Python to OCaml. This involves translating complex parsing logic and ensuring compatibility with existing browser tests, leveraging LLMs for code generation and adaptation across languages.",
+  "tags": [
+    "llm",
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:16.992576Z",
+  "updated_at": "2026-05-08T06:37:49.748847Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260508-c64",
+  "title": "Gemma 4: Byte for byte, the most capable open models",
+  "source_url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+  "source": "rss",
+  "summary": "Google's Gemma 4 represents a new generation of open models optimized for advanced reasoning and agentic workflows. It claims to be the most capable open model per byte, emphasizing efficiency and performance for complex tasks.",
+  "tags": [
+    "agent",
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:19.839087Z",
+  "updated_at": "2026-05-08T06:37:49.749243Z"
+}

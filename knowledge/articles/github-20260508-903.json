@@ -1,0 +1,16 @@
+{
+  "id": "github-20260508-903",
+  "title": "langchain-ai/langchain",
+  "source_url": "https://github.com/langchain-ai/langchain",
+  "source": "github",
+  "summary": "LangChain is a platform for building agent-based applications using LLMs. It provides modular components for chaining, memory, and tool integration, with a focus on agent engineering. Available in TypeScript, it simplifies developing complex AI workflows.",
+  "tags": [
+    "agent",
+    "framework",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:14.874535Z",
+  "updated_at": "2026-05-08T06:37:49.747608Z"
+}

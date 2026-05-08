@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260508-fbf",
+  "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+  "source_url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+  "source": "rss",
+  "summary": "This content covers training and fine-tuning multimodal embedding and reranker models using the Sentence Transformers library. It likely explains how to adapt models for tasks like image-text retrieval or cross-modal ranking, focusing on practical implementation with contrastive learning and loss functions.",
+  "tags": [
+    "fine-tuning",
+    "rag",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:19.223760Z",
+  "updated_at": "2026-05-08T06:37:49.749062Z"
+}

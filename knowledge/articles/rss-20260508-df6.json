@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260508-df6",
+  "title": "Your First Parser",
+  "source_url": "https://davesnx.github.io/parseff/guides/first-parser/",
+  "source": "rss",
+  "summary": "This content appears to be a link to a discussion about building a parser, likely as an introductory programming exercise. It focuses on the fundamental concepts of parsing, which is a core component in AI/ML for processing structured data like code or natural language.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-08T06:37:16.992408Z",
+  "updated_at": "2026-05-08T06:37:49.748730Z"
+}

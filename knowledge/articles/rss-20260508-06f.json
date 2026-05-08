@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260508-06f",
+  "title": "OpenMythos: A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature",
+  "source_url": "https://github.com/kyegomez/OpenMythos",
+  "source": "rss",
+  "summary": "OpenMythos is a theoretical reconstruction of the Claude architecture, built from first principles using publicly available research. It aims to reverse-engineer and document the design of Anthropic's Claude model, focusing on architectural insights rather than a working implementation.",
+  "tags": [
+    "research",
+    "llm",
+    "architecture"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:16.791108Z",
+  "updated_at": "2026-05-08T06:37:49.748361Z"
+}

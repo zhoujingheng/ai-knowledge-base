@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260508-750",
+  "title": "SQLite Is a Library of Congress Recommended Storage Format",
+  "source_url": "https://sqlite.org/locrsf.html",
+  "source": "rss",
+  "summary": "The Library of Congress recommends SQLite as a preferred storage format for digital preservation due to its stability, widespread use, and self-contained nature. This highlights SQLite's role as a reliable, long-term data format, relevant for AI/ML pipelines where data durability and portability are critical.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-08T06:37:15.251496Z",
+  "updated_at": "2026-05-08T06:37:49.748171Z"
+}

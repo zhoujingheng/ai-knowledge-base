@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-161",
+  "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+  "source_url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+  "source": "rss",
+  "summary": "This content describes Gemini 3.1 Flash Live, a new voice model with enhanced precision and reduced latency, aiming to make audio AI interactions more fluid and natural. It focuses on improving real-time voice interaction quality.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-08T06:37:19.839099Z",
+  "updated_at": "2026-05-08T06:37:49.749278Z"
+}

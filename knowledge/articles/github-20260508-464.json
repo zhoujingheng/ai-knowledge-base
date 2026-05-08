@@ -1,0 +1,16 @@
+{
+  "id": "github-20260508-464",
+  "title": "Shubhamsaboo/awesome-llm-apps",
+  "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "source": "github",
+  "summary": "A curated collection of 100+ production-ready AI agent and RAG applications. Designed for practical use, users can clone, customize, and deploy these apps, bridging the gap between theoretical AI concepts and real-world implementation.",
+  "tags": [
+    "agent",
+    "rag",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:14.874553Z",
+  "updated_at": "2026-05-08T06:37:49.747670Z"
+}

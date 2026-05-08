@@ -1,0 +1,15 @@
+{
+  "id": "github-20260508-bd7",
+  "title": "hacksider/Deep-Live-Cam",
+  "source_url": "https://github.com/hacksider/Deep-Live-Cam",
+  "source": "github",
+  "summary": "Deep-Live-Cam enables real-time face swapping and deepfake video generation using a single image, with a one-click interface. It leverages AI models for live facial manipulation, making advanced deepfake technology accessible for real-time applications.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:14.874566Z",
+  "updated_at": "2026-05-08T06:37:49.747722Z"
+}

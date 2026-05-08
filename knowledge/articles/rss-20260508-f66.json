@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260508-f66",
+  "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+  "source_url": "https://huggingface.co/blog/inference-providers-deepinfra",
+  "source": "rss",
+  "summary": "DeepInfra is now available as an inference provider on Hugging Face, offering serverless GPU-powered access to popular open-source models like Llama, Mistral, and Stable Diffusion. This integration simplifies deployment for developers by providing scalable, low-latency inference without managing infrastructure.",
+  "tags": [
+    "deployment",
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-08T06:37:19.223691Z",
+  "updated_at": "2026-05-08T06:37:49.748978Z"
+}

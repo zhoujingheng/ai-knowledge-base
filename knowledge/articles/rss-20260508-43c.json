@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-43c",
+  "title": "Open weights are quietly closing up - and that's a problem",
+  "source_url": "https://martinalderson.com/posts/open-weights-are-quietly-closing-up/",
+  "source": "rss",
+  "summary": "The content discusses a trend where open-weight AI models are becoming less accessible or transparent, despite being labeled as 'open.' This shift poses risks to the open-source ecosystem, reproducibility, and community trust in AI development.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-05-08T06:37:16.791065Z",
+  "updated_at": "2026-05-08T06:37:49.748323Z"
+}

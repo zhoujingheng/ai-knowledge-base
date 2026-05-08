@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260508-b1c",
+  "title": "A Path Not Taken for OxCaml",
+  "source_url": "https://joel.place/blog/path-not-taken/",
+  "source": "rss",
+  "summary": "This is a link to a discussion on Lobsters about a design choice or alternative approach in the development of OxCaml, an OCaml compiler or tool. The content likely explores a technical decision not implemented, relevant to compiler design or programming language implementation.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:16.992331Z",
+  "updated_at": "2026-05-08T06:37:49.748588Z"
+}

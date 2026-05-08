@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-04e",
+  "title": "Programming Still Sucks",
+  "source_url": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
+  "source": "rss",
+  "summary": "The article argues that despite advances in AI and tooling, programming remains fundamentally difficult due to complexity, poor abstractions, and the inherent messiness of real-world systems. It critiques over-reliance on AI without addressing core software engineering challenges.",
+  "tags": [
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-08T06:37:15.251544Z",
+  "updated_at": "2026-05-08T06:37:49.748228Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260508-60d",
+  "title": "TurboQuant: A First-Principles Walkthrough",
+  "source_url": "https://arkaung.github.io/interactive-turboquant/",
+  "source": "rss",
+  "summary": "TurboQuant is a technical walkthrough of a quantization method for LLMs, likely focusing on reducing model size and inference cost while maintaining accuracy. It appears to be a research-oriented piece explaining the approach from first principles, targeting practitioners interested in model optimization.",
+  "tags": [
+    "research",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:16.791240Z",
+  "updated_at": "2026-05-08T06:37:49.748565Z"
+}

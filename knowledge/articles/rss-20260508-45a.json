@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-45a",
+  "title": "Google’s Prompt API",
+  "source_url": "https://wil.to/posts/googles-prompt-api/",
+  "source": "rss",
+  "summary": "Google's Prompt API is a tool that simplifies prompt engineering for AI models, likely offering structured ways to manage and optimize prompts. It abstracts complexity for developers, enabling easier integration with Google's AI services.",
+  "tags": [
+    "prompt-engineering",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-05-08T06:37:16.791050Z",
+  "updated_at": "2026-05-08T06:37:49.748310Z"
+}

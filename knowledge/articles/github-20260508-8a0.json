@@ -1,0 +1,15 @@
+{
+  "id": "github-20260508-8a0",
+  "title": "github/spec-kit",
+  "source_url": "https://github.com/github/spec-kit",
+  "source": "github",
+  "summary": "Spec-kit is a toolkit for Spec-Driven Development, likely integrating AI/ML to automate or assist in generating code or tests from specifications. It aims to streamline development workflows by leveraging specification-based approaches, potentially using LLMs for interpretation or generation.",
+  "tags": [
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-05-08T06:37:14.874560Z",
+  "updated_at": "2026-05-08T06:37:49.747745Z"
+}

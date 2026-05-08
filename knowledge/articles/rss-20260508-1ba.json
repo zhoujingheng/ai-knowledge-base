@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-1ba",
+  "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+  "source_url": "https://huggingface.co/blog/Hcompany/holotab",
+  "source": "rss",
+  "summary": "HoloTab is an AI-powered browser companion from HCompany, likely integrating LLM capabilities to assist with browsing tasks, information retrieval, and user interaction directly within the browser environment.",
+  "tags": [
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-05-08T06:37:19.223774Z",
+  "updated_at": "2026-05-08T06:37:49.749098Z"
+}
