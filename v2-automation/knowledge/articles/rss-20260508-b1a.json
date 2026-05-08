@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260508-b1a",
+  "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+  "source_url": "https://huggingface.co/blog/ecom-rlve",
+  "source": "rss",
+  "summary": "This paper introduces Ecom-RLVE, a framework for creating adaptive, verifiable environments to train and evaluate conversational agents in e-commerce. It focuses on reinforcement learning with verifiable rewards to improve agent reliability and task completion in dynamic shopping scenarios.",
+  "tags": [
+    "agent",
+    "research",
+    "reinforcement-learning"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:19.223745Z",
+  "updated_at": "2026-05-08T06:37:49.749050Z"
+}

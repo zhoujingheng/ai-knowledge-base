@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-537",
+  "title": "Maybe you shouldn't install new software for a bit",
+  "source_url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+  "source": "rss",
+  "summary": "The article argues that installing new software carries security risks, especially with supply chain attacks and dependency vulnerabilities. It suggests a temporary moratorium on installing new packages or tools to reduce attack surface, advocating for a more cautious, minimal-install approach in development workflows.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-08T06:37:15.251023Z",
+  "updated_at": "2026-05-08T06:37:49.747821Z"
+}

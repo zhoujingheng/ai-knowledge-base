@@ -1,0 +1,15 @@
+{
+  "id": "github-20260508-212",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "source": "github",
+  "summary": "A browser-based interface for Stable Diffusion, enabling image generation from text prompts. It supports models, extensions, and advanced features like inpainting, upscaling, and prompt weighting, making AI art creation accessible.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T05:45:03.148838Z",
+  "updated_at": "2026-05-08T05:45:08.171065Z"
+}

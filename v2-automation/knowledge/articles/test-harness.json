@@ -1,0 +1,12 @@
+{
+  "id": "github-20260430-002",
+  "title": "Harness Engineering: 企业级 CI/CD 平台",
+  "source_url": "https://github.com/harness/harness-core",
+  "source": "github_trending",
+  "summary": "Harness 是一个现代化的持续交付平台，提供自动化部署、智能验证和成本优化功能",
+  "tags": ["devops", "ci-cd", "platform"],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-04-30T14:30:00Z",
+  "updated_at": "2026-04-30T14:30:00Z"
+}

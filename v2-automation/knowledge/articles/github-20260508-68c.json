@@ -1,0 +1,16 @@
+{
+  "id": "github-20260508-68c",
+  "title": "PaddlePaddle/PaddleOCR",
+  "source_url": "https://github.com/PaddlePaddle/PaddleOCR",
+  "source": "github",
+  "summary": "PaddleOCR is a lightweight OCR toolkit that extracts structured text from images and PDFs, supporting 100+ languages. It serves as a bridge between visual documents and LLMs, enabling downstream AI processing.",
+  "tags": [
+    "tool",
+    "llm",
+    "rag"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:14.874587Z",
+  "updated_at": "2026-05-08T06:37:49.747781Z"
+}

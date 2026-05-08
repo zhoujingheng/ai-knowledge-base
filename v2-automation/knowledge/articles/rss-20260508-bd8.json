@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260508-bd8",
+  "title": "YOCaml a framework used to describe static site generator",
+  "source_url": "https://yocaml.github.io/tutorial/index.html",
+  "source": "rss",
+  "summary": "YOCaml is a framework for describing static site generators, likely using OCaml. It provides a declarative approach to building static sites, focusing on type safety and functional programming principles.",
+  "tags": [
+    "framework"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-08T06:37:16.992589Z",
+  "updated_at": "2026-05-08T06:37:49.748858Z"
+}

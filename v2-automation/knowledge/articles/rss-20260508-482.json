@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-482",
+  "title": "Lyria 3 Pro: Create longer tracks in more",
+  "source_url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+  "source": "rss",
+  "summary": "Lyria 3 Pro is an AI model update that enables generation of longer music tracks with structural coherence. It is being integrated into more Google products, suggesting a focus on deployment and user-facing creative tools.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-05-08T06:37:19.839123Z",
+  "updated_at": "2026-05-08T06:37:49.749267Z"
+}

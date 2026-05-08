@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-36a",
+  "title": "Safetensors is Joining the PyTorch Foundation",
+  "source_url": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+  "source": "rss",
+  "summary": "Safetensors, a secure file format for storing tensors, is joining the PyTorch Foundation. This move aims to standardize safe model serialization in the PyTorch ecosystem, preventing malicious code execution often associated with pickle-based formats.",
+  "tags": [
+    "framework",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-05-08T06:37:19.223794Z",
+  "updated_at": "2026-05-08T06:37:49.749125Z"
+}

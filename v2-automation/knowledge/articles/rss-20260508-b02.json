@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-b02",
+  "title": "The map that keeps Burning Man honest",
+  "source_url": "https://www.not-ship.com/burning-man-moop/",
+  "source": "rss",
+  "summary": "This article discusses a crowdsourced map used at Burning Man to track and report MOOP (Matter Out Of Place, i.e., trash). It highlights how community-driven data collection and visualization help enforce the event's Leave No Trace principle, blending AI/ML for image recognition and pattern analysis to identify litter hotspots and improve cleanup efforts.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-05-08T06:37:15.251371Z",
+  "updated_at": "2026-05-08T06:37:49.748047Z"
+}

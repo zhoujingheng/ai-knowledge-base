@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-21a",
+  "title": "Mostly Automated Proof Repair for Verified Libraries",
+  "source_url": "https://kirancodes.me/pdfs/sisyphus-pldi23.pdf",
+  "source": "rss",
+  "summary": "This work presents a mostly automated approach to repairing proofs in verified libraries when dependencies change, reducing manual effort in maintaining formal verification. It targets proof repair for library updates, leveraging automation to fix broken proofs.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-05-08T06:37:16.992562Z",
+  "updated_at": "2026-05-08T06:37:49.748837Z"
+}

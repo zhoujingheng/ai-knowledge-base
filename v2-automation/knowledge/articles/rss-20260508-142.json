@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-142",
+  "title": "OxCaml Labs",
+  "source_url": "https://anil.recoil.org/projects/oxcaml",
+  "source": "rss",
+  "summary": "OxCaml Labs appears to be a project or discussion related to OCaml and AI/ML, likely focusing on tooling or frameworks for machine learning in the OCaml ecosystem. The link to Lobsters suggests community discussion, but the content is minimal, indicating a niche or early-stage resource.",
+  "tags": [
+    "framework",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-08T06:37:16.992394Z",
+  "updated_at": "2026-05-08T06:37:49.748693Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260508-f84",
+  "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+  "source_url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+  "source": "rss",
+  "summary": "Gemini Robotics-ER 1.6 improves embodied reasoning for autonomous robots by enhancing spatial reasoning and multi-view understanding. This enables more accurate real-world task execution, bridging AI perception with physical action.",
+  "tags": [
+    "research",
+    "agent",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:19.839076Z",
+  "updated_at": "2026-05-08T06:37:49.749196Z"
+}

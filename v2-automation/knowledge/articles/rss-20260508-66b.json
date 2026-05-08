@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260508-66b",
+  "title": "How to Use Transformers.js in a Chrome Extension",
+  "source_url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+  "source": "rss",
+  "summary": "This content explains how to integrate Transformers.js, a JavaScript library for running transformer models directly in the browser, into a Chrome extension. It covers setup, model loading, and inference for tasks like text classification or sentiment analysis, enabling offline AI capabilities without a backend server.",
+  "tags": [
+    "framework",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-08T06:37:19.223722Z",
+  "updated_at": "2026-05-08T06:37:49.749015Z"
+}

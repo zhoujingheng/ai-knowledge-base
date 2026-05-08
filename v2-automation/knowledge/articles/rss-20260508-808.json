@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-808",
+  "title": "jlearn: Machine Learning Library in J",
+  "source_url": "https://github.com/jonghough/jlearn",
+  "source": "rss",
+  "summary": "jlearn is a machine learning library implemented in the J programming language, enabling ML tasks within J's array-oriented paradigm. It provides tools for building and running models directly in J, catering to users familiar with the language's unique syntax and capabilities.",
+  "tags": [
+    "framework",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:16.791035Z",
+  "updated_at": "2026-05-08T06:37:49.748297Z"
+}

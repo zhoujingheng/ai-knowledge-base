@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-3af",
+  "title": "Lessons from Pyre that Shaped Pyrefly",
+  "source_url": "https://pyrefly.org/blog/lessons-from-pyre/",
+  "source": "rss",
+  "summary": "This content discusses lessons learned from the Pyre project that influenced the design and development of Pyrefly, a successor or related tool. It likely covers technical insights, architectural decisions, and improvements in static analysis or type checking for Python.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:16.992422Z",
+  "updated_at": "2026-05-08T06:37:49.748718Z"
+}

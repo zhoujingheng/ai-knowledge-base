@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260508-a6e",
+  "title": "Falcon Perception",
+  "source_url": "https://huggingface.co/blog/tiiuae/falcon-perception",
+  "source": "rss",
+  "summary": "Falcon Perception is an AI/ML system focused on perception tasks, likely involving computer vision or multimodal understanding. It processes sensory data to enable intelligent decision-making, potentially for robotics or autonomous systems. The title suggests a specialized model or framework for high-level perception.",
+  "tags": [
+    "framework",
+    "research",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:19.223808Z",
+  "updated_at": "2026-05-08T06:37:49.749134Z"
+}

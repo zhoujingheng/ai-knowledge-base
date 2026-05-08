@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-239",
+  "title": "A new way to express yourself: Gemini can now create music",
+  "source_url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+  "source": "rss",
+  "summary": "Google's Gemini app integrates Lyria 3, a state-of-the-art music generation model, enabling users to create 30-second tracks from text or image prompts. This expands AI-driven creative expression beyond text and images into audio generation.",
+  "tags": [
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-08T06:37:19.839193Z",
+  "updated_at": "2026-05-08T06:37:49.749345Z"
+}

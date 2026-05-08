@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260508-213",
+  "title": "Crane is a new extraction system from Rocq to C++",
+  "source_url": "https://github.com/bloomberg/crane",
+  "source": "rss",
+  "summary": "Crane is a new extraction system that translates Rocq (formerly Coq) proofs into efficient C++ code, enabling verified software to run in performance-critical environments. It bridges formal verification with systems programming.",
+  "tags": [
+    "tool",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-05-08T06:37:16.992478Z",
+  "updated_at": "2026-05-08T06:37:49.748763Z"
+}

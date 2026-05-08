@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-a45",
+  "title": "Fun with Algebraic Effects - from Toy Examples to Hardcaml Simulations",
+  "source_url": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
+  "source": "rss",
+  "summary": "Explores algebraic effects in programming, progressing from simple examples to practical simulations using Hardcaml. Demonstrates how effects can model complex control flow and hardware interactions, bridging theory and application.",
+  "tags": [
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:16.992507Z",
+  "updated_at": "2026-05-08T06:37:49.748786Z"
+}

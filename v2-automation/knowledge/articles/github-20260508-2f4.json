@@ -1,0 +1,15 @@
+{
+  "id": "github-20260508-2f4",
+  "title": "browser-use/browser-use",
+  "source_url": "https://github.com/browser-use/browser-use",
+  "source": "github",
+  "summary": "This project enables AI agents to interact with and automate tasks on websites, making web content accessible for autonomous agent workflows. It likely uses browser automation to bridge LLMs with live web environments.",
+  "tags": [
+    "agent",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-08T06:37:14.874563Z",
+  "updated_at": "2026-05-08T06:37:49.747706Z"
+}

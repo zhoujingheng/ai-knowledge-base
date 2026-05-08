@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260508-244",
+  "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+  "source_url": "https://deepmind.google/blog/decoupled-diloco/",
+  "source": "rss",
+  "summary": "Decoupled DiLoCo introduces a novel approach to distributed AI training that enhances resilience by decoupling computation and communication. This method improves fault tolerance and scalability, addressing key challenges in large-scale machine learning workflows.",
+  "tags": [
+    "research",
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:19.839040Z",
+  "updated_at": "2026-05-08T06:37:49.749208Z"
+}

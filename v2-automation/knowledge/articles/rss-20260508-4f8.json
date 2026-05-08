@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-4f8",
+  "title": "Zero heap allocation HTTP server using OxCaml",
+  "source_url": "https://github.com/avsm/httpz",
+  "source": "rss",
+  "summary": "This content discusses an HTTP server built with OxCaml that achieves zero heap allocations, focusing on performance optimization and memory management in systems programming. It highlights advanced techniques for minimizing runtime overhead.",
+  "tags": [
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-05-08T06:37:16.992520Z",
+  "updated_at": "2026-05-08T06:37:49.748815Z"
+}

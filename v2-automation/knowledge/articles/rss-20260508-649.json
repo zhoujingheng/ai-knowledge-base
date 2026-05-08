@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-649",
+  "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+  "source_url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+  "source": "rss",
+  "summary": "This content discusses the addition of a 'Benchmaxxer Repellant' mechanism to the Open ASR Leaderboard, likely to detect or mitigate benchmark overfitting and cheating in automatic speech recognition evaluations. It aims to improve leaderboard integrity by filtering out submissions that exploit benchmark weaknesses.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-08T06:37:19.223671Z",
+  "updated_at": "2026-05-08T06:37:49.748931Z"
+}

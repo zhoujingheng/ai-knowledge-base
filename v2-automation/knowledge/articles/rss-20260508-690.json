@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-690",
+  "title": "My (very) fast zero-allocation webserver using OxCaml",
+  "source_url": "https://anil.recoil.org/notes/oxcaml-httpz",
+  "source": "rss",
+  "summary": "This content describes a high-performance web server built with OxCaml, emphasizing zero-allocation design for speed. It targets low-level systems programming and optimization, likely involving manual memory management and efficient request handling.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-05-08T06:37:16.992464Z",
+  "updated_at": "2026-05-08T06:37:49.748741Z"
+}

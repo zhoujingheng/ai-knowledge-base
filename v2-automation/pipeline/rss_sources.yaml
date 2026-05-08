@@ -1,0 +1,102 @@
+# RSS Data Sources Configuration
+#
+# Each source contains:
+#   - name: Display name
+#   - url: RSS feed URL
+#   - category: Content category
+#   - enabled: Whether to collect from this source
+
+sources:
+  # Comprehensive Tech News
+  - name: "Hacker News Best"
+    url: "https://hnrss.org/best"
+    category: "tech-news"
+    enabled: true
+    note: "Filter for AI/ML related posts during processing"
+
+  - name: "Lobsters AI/ML"
+    url: "https://lobste.rs/t/ai.rss"
+    category: "tech-news"
+    enabled: true
+
+  - name: "Lobsters Machine Learning"
+    url: "https://lobste.rs/t/ml.rss"
+    category: "tech-news"
+    enabled: true
+
+  # AI Research
+  - name: "arXiv cs.AI"
+    url: "http://export.arxiv.org/rss/cs.AI"
+    category: "research"
+    enabled: false
+    note: "High volume - enable only when needed"
+
+  - name: "arXiv cs.LG (Machine Learning)"
+    url: "http://export.arxiv.org/rss/cs.LG"
+    category: "research"
+    enabled: false
+    note: "High volume - enable only when needed"
+
+  - name: "arXiv cs.CL (Computation and Language)"
+    url: "http://export.arxiv.org/rss/cs.CL"
+    category: "research"
+    enabled: false
+    note: "High volume - enable only when needed"
+
+  # Company Blogs
+  - name: "OpenAI Blog"
+    url: "https://openai.com/blog/rss.xml"
+    category: "company-blog"
+    enabled: true
+
+  - name: "Anthropic Research"
+    url: "https://www.anthropic.com/research/rss.xml"
+    category: "company-blog"
+    enabled: true
+    note: "Check if RSS feed exists, may need to use alternative method"
+
+  - name: "Hugging Face Blog"
+    url: "https://huggingface.co/blog/feed.xml"
+    category: "company-blog"
+    enabled: true
+
+  - name: "Google AI Blog"
+    url: "https://blog.research.google/feeds/posts/default"
+    category: "company-blog"
+    enabled: true
+
+  - name: "DeepMind Blog"
+    url: "https://deepmind.google/blog/rss.xml"
+    category: "company-blog"
+    enabled: true
+
+  - name: "Meta AI Blog"
+    url: "https://ai.meta.com/blog/rss/"
+    category: "company-blog"
+    enabled: true
+
+  # Chinese Tech Communities
+  - name: "机器之心"
+    url: "https://www.jiqizhixin.com/rss"
+    category: "chinese-community"
+    enabled: false
+    note: "Verify RSS availability before enabling"
+
+  - name: "量子位"
+    url: "https://www.qbitai.com/feed"
+    category: "chinese-community"
+    enabled: false
+    note: "Verify RSS availability before enabling"
+
+  - name: "AI科技评论"
+    url: "https://www.leiphone.com/category/ai/feed"
+    category: "chinese-community"
+    enabled: false
+    note: "Verify RSS availability before enabling"
+
+# Category descriptions
+categories:
+  tech-news: "Aggregated tech news and discussions"
+  research: "Academic papers and research publications"
+  company-blog: "Official blogs from AI companies"
+  chinese-community: "Chinese language tech communities"

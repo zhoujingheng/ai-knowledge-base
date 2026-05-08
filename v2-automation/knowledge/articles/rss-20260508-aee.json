@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260508-aee",
+  "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+  "source_url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+  "source": "rss",
+  "summary": "This content covers multimodal embedding and reranker models using Sentence Transformers, focusing on integrating text and image data for improved retrieval and ranking. It likely discusses model architectures, training techniques, and practical applications in search and RAG systems.",
+  "tags": [
+    "rag",
+    "fine-tuning",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:19.223788Z",
+  "updated_at": "2026-05-08T06:37:49.749118Z"
+}

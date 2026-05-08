@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-f33",
+  "title": "Dirtyfrag: Universal Linux LPE",
+  "source_url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+  "source": "rss",
+  "summary": "This is a security vulnerability disclosure (CVE-2026-xxxx) for a Linux Local Privilege Escalation (LPE) exploit named 'Dirtyfrag'. It leverages a race condition in the kernel's memory management subsystem, allowing an unprivileged user to gain root access. The post includes technical details and a proof-of-concept exploit.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-05-08T06:37:15.251140Z",
+  "updated_at": "2026-05-08T06:37:49.747902Z"
+}

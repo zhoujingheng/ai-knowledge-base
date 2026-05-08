@@ -1,0 +1,16 @@
+{
+  "id": "github-20260508-6ca",
+  "title": "vllm-project/vllm",
+  "source_url": "https://github.com/vllm-project/vllm",
+  "source": "github",
+  "summary": "vLLM is an open-source inference and serving engine optimized for large language models, featuring high throughput and memory efficiency through techniques like PagedAttention and continuous batching.",
+  "tags": [
+    "deployment",
+    "llm",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:14.874578Z",
+  "updated_at": "2026-05-08T06:37:49.747768Z"
+}

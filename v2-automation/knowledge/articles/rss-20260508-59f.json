@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-59f",
+  "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+  "source_url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+  "source": "rss",
+  "summary": "Chrome removed a claim that its on-device AI does not send data to Google servers, sparking debate about privacy and trust in AI features. The change suggests potential data transmission, raising concerns about user consent and transparency in AI deployment.",
+  "tags": [
+    "deployment",
+    "privacy"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-08T06:37:15.251225Z",
+  "updated_at": "2026-05-08T06:37:49.747940Z"
+}

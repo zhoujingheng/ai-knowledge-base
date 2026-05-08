@@ -1,0 +1,15 @@
+{
+  "id": "github-20260508-cfd",
+  "title": "Comfy-Org/ComfyUI",
+  "source_url": "https://github.com/Comfy-Org/ComfyUI",
+  "source": "github",
+  "summary": "ComfyUI is a powerful, modular GUI, API, and backend for diffusion models, featuring a graph/nodes interface that enables flexible and customizable AI image generation workflows.",
+  "tags": [
+    "framework",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:14.874550Z",
+  "updated_at": "2026-05-08T06:37:49.747682Z"
+}

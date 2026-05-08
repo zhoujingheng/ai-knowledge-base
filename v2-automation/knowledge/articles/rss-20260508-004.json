@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-004",
+  "title": "Porting microgpt to Futhark, Part I",
+  "source_url": "https://www.kmjn.org/notes/microgpt_futhark.html",
+  "source": "rss",
+  "summary": "This article discusses porting the microgpt model to Futhark, a high-performance functional programming language for GPU computing. It explores the challenges and techniques of implementing neural network operations in a parallel, data-parallel paradigm, focusing on performance and correctness.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:16.791135Z",
+  "updated_at": "2026-05-08T06:37:49.748384Z"
+}

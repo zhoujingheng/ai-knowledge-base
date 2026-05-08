@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260508-7be",
+  "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+  "source_url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+  "source": "rss",
+  "summary": "This content analyzes VAKRA, an AI agent, focusing on its reasoning capabilities, tool use, and failure modes. It likely examines how the agent plans, executes tasks via external tools, and where it breaks down, offering insights into agent limitations and design improvements.",
+  "tags": [
+    "agent",
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-08T06:37:19.223767Z",
+  "updated_at": "2026-05-08T06:37:49.749084Z"
+}

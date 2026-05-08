@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-302",
+  "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+  "source_url": "https://huggingface.co/blog/cybersecurity-openness",
+  "source": "rss",
+  "summary": "The content discusses the role of AI in cybersecurity, emphasizing the importance of open-source approaches to ensure transparency, trust, and collaborative defense against evolving threats. It argues that openness fosters innovation and accountability, countering risks from proprietary black-box systems.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-05-08T06:37:19.223738Z",
+  "updated_at": "2026-05-08T06:37:49.749027Z"
+}

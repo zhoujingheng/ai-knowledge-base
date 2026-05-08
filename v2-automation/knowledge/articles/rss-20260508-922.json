@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260508-922",
+  "title": "minikv: A little KV store implementation in OCaml to practice DB systems things",
+  "source_url": "https://github.com/alpha-convert/minikv",
+  "source": "rss",
+  "summary": "A small key-value store implemented in OCaml as a learning exercise for database systems concepts. The project focuses on practical implementation of KV store internals, likely covering storage, indexing, and basic operations.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-08T06:37:16.992534Z",
+  "updated_at": "2026-05-08T06:37:49.748803Z"
+}

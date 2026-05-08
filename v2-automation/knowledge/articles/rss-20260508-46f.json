@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260508-46f",
+  "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+  "source_url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+  "source": "rss",
+  "summary": "Google's Gemini 3.1 Flash-Lite is introduced as the fastest and most cost-efficient model in the Gemini 3 series, designed for scalable AI deployment with optimized performance and reduced operational costs.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-08T06:37:19.839158Z",
+  "updated_at": "2026-05-08T06:37:49.749300Z"
+}
