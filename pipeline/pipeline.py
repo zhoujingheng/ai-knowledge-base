@@ -20,6 +20,7 @@ import logging
 import os
 import re
 import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
 from typing import Any
@@ -477,9 +478,11 @@ class Pipeline:
         # Step 2: Analyze
         analyzer = ContentAnalyzer()
         analyzed_items = []
-        for item in raw_items:
-            analyzed = analyzer.analyze(item)
-            analyzed_items.append(analyzed)
+        max_workers = min(8, len(raw_items))
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            futures = {executor.submit(analyzer.analyze, item): i for i, item in enumerate(raw_items)}
+            for future in as_completed(futures):
+                analyzed_items.append(future.result())
 
         stats["analyzed"] = len(analyzed_items)
         logger.info(f"Step 2: Analyzed {stats['analyzed']} items")
