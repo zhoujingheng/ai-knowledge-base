@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python check_quality.py --help)",
+      "Bash(python check_quality.py)",
+      "Bash(python *)",
+      "Bash(echo \"Exit code: $?\")",
+      "Bash(bun run *)",
+      "Bash(chmod +x *)"
+    ]
+  }
+}

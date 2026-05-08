@@ -1,0 +1,12 @@
+{
+  "id": "github-20260430-001",
+  "title": "LangGraph: 构建有状态的多 Agent 应用框架",
+  "source_url": "https://github.com/langchain-ai/langgraph",
+  "source": "github_trending",
+  "summary": "LangGraph 是 LangChain 推出的 Agent 编排框架，支持循环、状态管理和人机协作",
+  "tags": ["agent", "framework"],
+  "status": "draft",
+  "score": 9,
+  "created_at": "2026-04-30T14:00:00Z",
+  "updated_at": "2026-04-30T14:00:00Z"
+}
