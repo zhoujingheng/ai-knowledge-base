@@ -6,7 +6,7 @@ Provides a unified interface for calling different LLM providers
 (DeepSeek, Qwen, OpenAI) with retry logic, usage tracking, and cost estimation.
 
 Usage:
-    from pipeline.model_client import quick_chat, get_client
+    from pipeline.model_client import quick_chat, get_client, cost_tracker
 
     # Quick one-liner
     response = quick_chat("Explain quantum computing in one sentence")
@@ -18,13 +18,17 @@ Usage:
         {"role": "user", "content": "Hello!"}
     ])
     print(f"Cost: ${response.usage.estimated_cost:.6f}")
+
+    # Print cost summary
+    cost_tracker.report()
 """
 
 import logging
 import os
+import threading
 import time
 from abc import ABC, abstractmethod
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from typing import Any
 
 import httpx
@@ -72,6 +76,153 @@ PRICING = {
         "gpt-3.5-turbo": {"prompt": 0.50, "completion": 1.50},
     },
 }
+
+# Pricing per 1M tokens (CNY)
+CNY_PRICING: dict[str, dict[str, float]] = {
+    "deepseek": {"prompt": 1, "completion": 2},
+    "qwen": {"prompt": 4, "completion": 12},
+    "openai": {"prompt": 150, "completion": 600},
+}
+
+
+@dataclass
+class ProviderStats:
+    """Accumulated statistics for a single LLM provider.
+
+    Attributes:
+        calls: Total number of API calls.
+        prompt_tokens: Total prompt tokens consumed.
+        completion_tokens: Total completion tokens consumed.
+        total_tokens: Total tokens consumed.
+    """
+
+    calls: int = 0
+    prompt_tokens: int = 0
+    completion_tokens: int = 0
+    total_tokens: int = 0
+
+
+class CostTracker:
+    """Tracks LLM API call token consumption and costs (CNY).
+
+    Thread-safe for use with concurrent API calls.
+
+    Usage:
+        tracker = CostTracker()
+        tracker.record(usage, "deepseek")
+        print(f"Cost: ¥{tracker.estimated_cost():.4f}")
+        tracker.report()
+    """
+
+    def __init__(self) -> None:
+        """Initialize the cost tracker."""
+        self._lock = threading.Lock()
+        self._stats: dict[str, ProviderStats] = {}
+
+    def record(self, usage: Usage, provider: str) -> None:
+        """Record a single API call.
+
+        Args:
+            usage: Usage information from the API response.
+            provider: Provider name (deepseek, qwen, openai).
+        """
+        with self._lock:
+            if provider not in self._stats:
+                self._stats[provider] = ProviderStats()
+            stats = self._stats[provider]
+            stats.calls += 1
+            stats.prompt_tokens += usage.prompt_tokens
+            stats.completion_tokens += usage.completion_tokens
+            stats.total_tokens += usage.total_tokens
+
+    def estimated_cost(self, provider: str | None = None) -> float:
+        """Estimate total cost in CNY (元).
+
+        Args:
+            provider: Provider name. If None, returns total across all providers.
+
+        Returns:
+            Estimated cost in CNY.
+        """
+        with self._lock:
+            if provider is not None:
+                stats = self._stats.get(provider)
+                if not stats or provider not in CNY_PRICING:
+                    return 0.0
+                pricing = CNY_PRICING[provider]
+                prompt_cost = (stats.prompt_tokens / 1_000_000) * pricing["prompt"]
+                completion_cost = (stats.completion_tokens / 1_000_000) * pricing["completion"]
+                return prompt_cost + completion_cost
+
+            total = 0.0
+            for prov, stats in self._stats.items():
+                if prov not in CNY_PRICING:
+                    continue
+                pricing = CNY_PRICING[prov]
+                prompt_cost = (stats.prompt_tokens / 1_000_000) * pricing["prompt"]
+                completion_cost = (stats.completion_tokens / 1_000_000) * pricing["completion"]
+                total += prompt_cost + completion_cost
+            return total
+
+    def report(self, provider: str | None = None) -> None:
+        """Print a formatted cost report via logger.
+
+        Args:
+            provider: Provider name. If None, prints summary for all providers.
+        """
+        with self._lock:
+            providers = [provider] if provider else list(self._stats.keys())
+
+            if not providers:
+                logger.info("[CostTracker] No API calls recorded.")
+                return
+
+            logger.info("=" * 60)
+            logger.info("LLM Cost Report (CNY)")
+            logger.info("=" * 60)
+            logger.info(
+                f"{'Provider':12} {'Calls':>6} {'Prompt':>10} {'Completion':>12} "
+                f"{'Total':>10} {'Cost(¥)':>10}"
+            )
+            logger.info("-" * 60)
+
+            grand_calls = 0
+            grand_tokens = 0
+            grand_cost = 0.0
+
+            for prov in providers:
+                stats = self._stats.get(prov)
+                if not stats:
+                    continue
+
+                cost = 0.0
+                if prov in CNY_PRICING:
+                    pricing = CNY_PRICING[prov]
+                    prompt_cost = (stats.prompt_tokens / 1_000_000) * pricing["prompt"]
+                    completion_cost = (stats.completion_tokens / 1_000_000) * pricing["completion"]
+                    cost = prompt_cost + completion_cost
+
+                logger.info(
+                    f"{prov:12} {stats.calls:>6} {stats.prompt_tokens:>10,} "
+                    f"{stats.completion_tokens:>12,} {stats.total_tokens:>10,} "
+                    f"¥{cost:>9.4f}"
+                )
+
+                grand_calls += stats.calls
+                grand_tokens += stats.total_tokens
+                grand_cost += cost
+
+            if not provider:
+                logger.info("-" * 60)
+                logger.info(
+                    f"{'TOTAL':12} {grand_calls:>6} {'':>10} {'':>12} "
+                    f"{grand_tokens:>10,} ¥{grand_cost:>9.4f}"
+                )
+                logger.info("=" * 60)
+
+
+# Global cost tracker instance
+cost_tracker = CostTracker()
 
 
 class LLMProvider(ABC):
@@ -189,6 +340,8 @@ class OpenAICompatibleProvider(LLMProvider):
             total_tokens=total_tokens,
             estimated_cost=estimated_cost,
         )
+
+        cost_tracker.record(usage, self.provider_name)
 
         return LLMResponse(
             content=content,
