@@ -4,9 +4,6 @@
     "knowledge": {
       "type": "local",
       "command": ["python", "-u", "mcp_knowledge_server.py"],
-      "environment": {
-        "PYTHONUNBUFFERED": "1"
-      },
       "timeout": 15000,
       "enabled": true
     }

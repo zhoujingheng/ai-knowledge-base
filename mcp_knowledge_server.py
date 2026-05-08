@@ -12,6 +12,7 @@ Protocol: JSON-RPC 2.0 over stdio
 """
 
 import json
+import os
 import sys
 from pathlib import Path
 from typing import Any
@@ -261,24 +262,28 @@ class MCPServer:
     def _read_message(self) -> dict[str, Any] | None:
         """Read a single JSON-RPC message from stdin using Content-Length framing.
 
+        Uses os.read() for unbuffered I/O to avoid Windows pipe blocking issues.
+
         Returns:
             Parsed message dict, or None if input stream ends.
         """
+        fd = sys.stdin.fileno()
+        header_bytes = b""
+        separator = b"\r\n\r\n"
+
+        while separator not in header_bytes:
+            ch = os.read(fd, 1)
+            if not ch:
+                return None
+            header_bytes += ch
+
+        header_str = header_bytes.decode("utf-8")
         content_length = None
 
-        # Read headers until the blank separator line
-        while True:
-            line = sys.stdin.buffer.readline()
+        for line in header_str.split("\r\n"):
+            line = line.strip()
             if not line:
-                return None
-
-            line = line.decode("utf-8").rstrip("\r\n")
-
-            if not line:
-                if content_length is not None:
-                    break
                 continue
-
             if line.lower().startswith("content-length:"):
                 try:
                     content_length = int(line.split(":", 1)[1].strip())
@@ -288,7 +293,7 @@ class MCPServer:
         if content_length is None:
             return None
 
-        body = sys.stdin.buffer.read(content_length)
+        body = os.read(fd, content_length)
         return json.loads(body.decode("utf-8"))
 
     def _send_message(self, message: dict[str, Any]) -> None:
