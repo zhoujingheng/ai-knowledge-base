@@ -1,0 +1,18 @@
+{
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "content": "Stable Diffusion 的 Web 界面，支持多种图像生成和编辑功能。",
+  "metadata": {
+    "category": "计算机视觉",
+    "tags": [
+      "Stable Diffusion",
+      "图像生成",
+      "Web UI",
+      "Python"
+    ],
+    "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "quality_score": 0.95
+  },
+  "hash": 2887228078713707521,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:40:47.666010"
+}

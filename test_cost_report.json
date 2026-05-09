@@ -1,0 +1,29 @@
+{
+  "total_cost_yuan": 0.0042,
+  "total_prompt_tokens": 2100,
+  "total_completion_tokens": 1050,
+  "total_calls": 2,
+  "budget_yuan": 1.0,
+  "cost_by_node": {
+    "collect": 0.0002,
+    "analyze": 0.004
+  },
+  "records": [
+    {
+      "timestamp": 1778300112.5944862,
+      "node_name": "collect",
+      "prompt_tokens": 100,
+      "completion_tokens": 50,
+      "cost_yuan": 0.0002,
+      "model": ""
+    },
+    {
+      "timestamp": 1778300112.594488,
+      "node_name": "analyze",
+      "prompt_tokens": 2000,
+      "completion_tokens": 1000,
+      "cost_yuan": 0.004,
+      "model": ""
+    }
+  ]
+}

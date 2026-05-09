@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-05-09-035526",
+  "iterations_used": 3,
+  "last_feedback": "## 审核结果（第 3 次）\n\n### 评分详情\n- 摘要质量 (25%): 2/10\n- 技术深度 (25%): 1/10\n- 相关性 (20%): 3/10\n- 原创性 (15%): 1/10\n- 格式规范 (15%): 2/10\n\n**加权总分**: 1.85/10 ✗ 未通过\n\n### 审核意见\n经过 3 次修订，内容质量仍未达标。主要问题：\n\n1. **数据源质量问题**：原始仓库描述过于简单，缺少足够信息进行分析\n2. **技术相关性不足**：项目与 AI/ML 领域关联度低\n3. **信息完整性差**：缺少关键技术细节和应用场景\n\n建议：\n- 考虑更换数据源或添加过滤规则\n- 调整采集标准，提高 stars 阈值\n- 人工审核是否应纳入知识库\n",
+  "analyses_count": 2,
+  "analyses": [
+    {
+      "source_url": "https://github.com/example/problematic-repo",
+      "original_title": "example/problematic-repo",
+      "category": "未分类",
+      "tags": [
+        "工具"
+      ],
+      "summary": "一个工具。",
+      "key_points": [
+        "功能"
+      ],
+      "quality_score": 0.3
+    },
+    {
+      "source_url": "https://github.com/example/low-quality",
+      "original_title": "example/low-quality",
+      "category": "其他",
+      "tags": [],
+      "summary": "项目描述不清晰。",
+      "key_points": [],
+      "quality_score": 0.2
+    }
+  ],
+  "cost_summary": {
+    "total_tokens": 5420,
+    "total_cost_usd": 0.001,
+    "by_node": {
+      "analyze_node": {
+        "tokens": 1500,
+        "cost": 0.0003
+      },
+      "review_node": {
+        "tokens": 2400,
+        "cost": 0.0005
+      },
+      "revise_node": {
+        "tokens": 1520,
+        "cost": 0.0003
+      }
+    }
+  },
+  "status": "pending_human_review",
+  "notes": "审核循环 3 次后仍未通过质量标准，需要人工判断是否为数据质量问题或标准过严。"
+}

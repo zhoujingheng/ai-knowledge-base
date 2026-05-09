@@ -23,11 +23,14 @@ from __future__ import annotations
 import json
 import logging
 import re
+import sys
 import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
 from typing import Any
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from pipeline.model_client import chat_with_retry
 

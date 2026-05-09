@@ -1,0 +1,1118 @@
+﻿python : D:\Programs\Python\Python314\Lib\site-packages\langchain_core\_api\deprecation.py:25: UserWa
+rning: Core Pydantic V1 functionality isn't compatible with Python 3.14 or greater.
+At line:1 char:33
++ ... env:PLANNER_TARGET_COUNT="10"; python -m workflows.graph 2>&1 | Out-F ...
++                                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (D:\Programs\Pyt....14 or greater.:String) [], RemoteExc 
+   eption
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  from pydantic.v1.fields import FieldInfo as FieldInfoV1
+2026-05-09 13:46:07,689 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:46:07,828 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:46:10,499 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:46:10,747 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:46:12,688 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:46:12,832 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:46:15,273 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:46:15,417 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:46:17,470 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:46:17,624 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:46:19,469 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:46:19,608 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:46:21,666 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:46:21,813 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:46:24,329 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:46:24,569 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:46:26,639 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:46:26,760 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:46:28,845 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:46:29,022 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:46:31,071 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:46:31,198 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:46:35,953 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:46:36,140 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:46:38,389 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:46:38,523 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:46:42,331 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:46:42,488 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:46:45,921 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:46:46,075 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:46:48,667 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:46:48,801 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:46:52,891 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:46:53,021 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:46:56,691 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:46:56,892 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:00,074 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:00,207 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:03,181 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:03,362 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:06,394 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:06,577 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:10,013 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:10,159 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:12,105 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:12,245 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:14,543 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:15,293 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:18,106 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:18,236 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:20,104 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:20,259 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:22,216 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:22,338 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:24,530 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:24,678 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:26,844 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:26,976 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:29,600 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:29,737 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:32,050 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:32,181 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:34,311 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:34,438 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:36,382 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:36,520 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:38,693 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:38,830 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:41,380 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:41,524 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:43,410 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:43,554 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:45,702 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:45,907 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:47,801 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:47,945 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:50,104 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:50,229 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:52,340 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:52,477 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:54,458 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:54,608 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:56,432 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:56,556 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:47:58,824 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:47:58,960 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:00,776 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:00,916 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:03,073 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:03,229 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:05,337 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:05,518 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:07,466 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:07,650 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:09,841 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:09,960 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:12,036 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:12,175 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:14,413 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:14,764 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:16,903 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:17,040 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:18,870 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:18,988 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:21,418 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:21,548 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:23,816 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:23,978 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:26,333 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:26,465 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:28,558 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:28,688 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:30,668 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:30,805 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:32,811 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:32,984 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:35,266 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:35,415 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:37,623 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:37,755 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:40,368 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:40,504 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:42,492 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:42,621 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:44,828 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:44,965 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:47,478 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:47,602 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:50,122 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:50,252 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:52,326 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:52,473 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:54,421 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:54,553 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:56,708 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:56,849 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:48:58,429 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:48:58,554 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:00,555 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:00,679 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:02,832 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:02,960 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:04,983 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:05,137 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:07,348 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:07,494 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:09,484 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:09,691 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:12,435 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:12,564 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:14,223 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:14,512 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:16,500 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:16,924 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:18,828 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:19,020 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:21,186 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:21,321 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:23,891 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:24,028 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:26,248 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:26,370 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:28,491 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:28,637 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:30,647 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:30,788 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:32,803 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:32,984 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:35,080 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:35,272 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:37,040 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:37,183 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:39,409 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:39,543 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:41,420 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:41,555 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:43,847 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:43,983 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:46,449 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:46,595 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:48,974 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:49,096 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:51,109 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:51,240 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:53,256 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:53,388 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:55,395 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:55,533 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:57,538 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:49:57,678 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:49:59,835 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:00,186 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:02,362 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:02,483 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:04,583 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:04,817 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:06,835 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:06,969 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:09,075 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:09,298 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:11,408 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:11,548 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:13,730 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:13,860 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:16,145 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:16,276 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:18,493 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:18,716 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:20,894 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:21,034 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:22,815 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:22,952 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:25,126 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:25,276 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:27,075 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:27,242 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:29,426 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:29,585 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:31,766 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:31,895 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:34,011 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:34,152 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:36,134 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:36,274 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:38,446 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:38,578 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:40,681 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:40,835 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:43,120 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:43,257 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:45,400 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:45,558 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:47,422 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:47,560 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:49,848 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:49,978 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:52,186 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:52,323 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:54,471 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:54,632 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:56,751 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:56,879 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:50:58,861 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:50:59,025 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:01,048 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:01,239 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:03,858 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:04,019 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:06,154 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:06,302 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:08,444 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:08,674 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:10,545 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:10,682 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:12,877 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:12,997 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:15,388 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:15,526 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:18,256 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:18,383 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:20,567 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:20,774 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:23,123 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:23,257 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:25,651 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:25,835 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:28,000 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:28,136 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:30,589 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:30,719 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:33,335 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:33,467 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:35,219 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:35,469 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:37,810 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:37,963 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:40,032 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:40,219 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:42,548 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:42,710 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:44,826 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:44,975 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:46,953 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:47,106 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:49,182 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:49,441 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:51,723 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:51,899 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:54,243 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:54,391 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:56,293 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:56,416 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:51:58,209 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:51:58,386 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:52:00,434 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:52:00,683 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:52:02,993 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:52:03,140 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:52:05,380 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:52:05,502 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:52:07,426 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:52:22,617 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:52:24,521 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:52:24,686 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:52:26,965 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:52:27,095 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:52:29,342 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:52:29,460 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:52:31,473 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:52:31,617 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:52:33,855 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:52:34,022 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:52:35,769 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:52:35,910 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:52:38,045 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:52:38,233 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:52:39,920 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:52:40,044 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:52:42,213 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:52:42,333 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:52:44,393 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:52:44,543 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:52:47,016 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:52:47,156 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:52:49,303 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:52:49,449 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:52:51,656 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:52:51,797 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:52:54,045 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:52:54,171 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:52:56,339 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:52:56,518 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:52:58,331 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:52:58,513 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:00,379 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:00,552 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:02,673 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:02,808 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:04,932 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:05,139 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:07,324 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:07,476 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:09,469 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:09,610 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:11,616 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:11,758 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:13,789 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:13,928 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:16,169 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:16,298 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:18,182 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:18,315 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:20,193 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:20,321 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:22,185 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:22,324 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:24,473 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:24,638 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:27,048 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:27,200 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:29,496 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:29,654 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:32,110 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:32,237 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:34,370 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:34,511 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:36,733 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:36,851 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:39,204 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:39,440 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:41,233 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:41,399 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:43,314 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:43,433 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:45,520 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:45,665 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:47,860 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:48,002 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:50,499 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:50,626 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:52,748 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:52,923 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:54,792 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:54,935 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:56,776 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:56,909 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:53:59,715 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:53:59,849 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:02,219 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:02,358 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:04,400 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:04,512 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:06,589 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:06,720 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:08,727 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:08,897 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:11,011 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:11,183 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:13,562 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:13,696 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:15,981 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:16,164 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:18,518 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:18,647 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:20,883 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:21,004 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:23,006 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:23,142 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:25,298 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:25,431 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:27,195 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:27,423 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:29,606 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:29,726 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:31,764 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:31,901 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:34,399 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:34,521 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:36,781 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:36,918 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:39,218 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:39,348 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:41,585 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:41,704 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:43,541 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:43,673 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:45,645 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:45,878 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:48,118 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:48,238 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:50,235 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:50,377 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:52,071 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:52,221 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:54,468 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:54,624 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:56,742 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:56,870 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:54:58,823 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:54:58,949 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:00,875 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:01,135 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:03,002 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:03,144 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:05,370 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:05,503 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:07,533 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:07,698 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:09,996 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:10,109 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:12,289 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:12,461 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:14,359 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:15,229 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:17,072 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:17,205 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:19,298 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:19,601 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:21,580 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:21,704 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:23,593 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:23,894 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:25,489 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:25,612 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:27,986 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:28,127 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:30,140 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:30,259 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:32,661 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:32,785 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:34,741 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:34,869 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:37,018 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:37,168 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:39,475 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:39,587 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:41,840 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:41,962 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:44,265 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:44,380 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:46,620 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:46,745 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:48,804 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:49,004 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:50,866 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:51,085 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:53,219 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:53,335 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:55,784 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:55,899 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:55:57,980 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:55:58,144 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:00,128 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:00,253 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:02,372 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:02,492 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:04,727 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:04,853 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:07,007 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:07,120 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:09,211 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:09,357 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:11,403 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:11,530 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:13,407 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:13,548 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:16,060 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:16,204 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:18,808 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:18,920 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:20,918 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:21,089 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:23,052 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:23,194 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:25,325 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:25,468 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:27,550 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:27,745 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:29,808 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:29,947 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:32,334 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:32,472 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:34,612 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:34,744 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:37,053 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:37,170 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:39,243 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:39,522 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:41,569 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:41,707 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:43,759 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:43,888 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:45,735 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:45,887 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:47,870 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:47,999 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:50,546 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:50,677 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:52,714 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:52,889 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:55,389 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:55,530 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:57,414 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:57,552 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:56:59,375 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:56:59,528 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:57:02,006 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:57:02,159 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:57:04,281 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:57:04,413 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:57:06,229 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:57:06,443 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"
+2026-05-09 13:57:08,713 - pipeline.model_client - INFO - Calling deepseek API: model=deepseek-chat, m
+essages=2
+2026-05-09 13:57:08,875 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completi
+ons "HTTP/1.1 200 OK"

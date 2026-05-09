@@ -1,0 +1,19 @@
+{
+  "title": "langchain-ai/langchain",
+  "content": "LangChain是一个用于构建基于大语言模型应用的代理工程平台，支持Python和TypeScript。",
+  "metadata": {
+    "category": "NLP工具",
+    "tags": [
+      "LangChain",
+      "大语言模型",
+      "代理框架",
+      "Python",
+      "TypeScript"
+    ],
+    "source_url": "https://github.com/langchain-ai/langchain",
+    "quality_score": 0.95
+  },
+  "hash": 3189232556359384752,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:40:47.674792"
+}

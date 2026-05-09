@@ -1,0 +1,18 @@
+{
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "content": "A web interface for Stable Diffusion, enabling image generation from text prompts.",
+  "metadata": {
+    "category": "计算机视觉/图像生成",
+    "tags": [
+      "Stable Diffusion",
+      "Web UI",
+      "图像生成",
+      "Python"
+    ],
+    "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "quality_score": 0.95
+  },
+  "hash": 3465528275667758190,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:34:36.537840"
+}

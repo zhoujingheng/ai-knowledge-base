@@ -1,0 +1,19 @@
+{
+  "title": "Shubhamsaboo/awesome-llm-apps",
+  "content": "收录100多个可运行的大模型应用，涵盖AI Agent和RAG，支持克隆、定制和部署。",
+  "metadata": {
+    "category": "AI Agent/RAG 应用",
+    "tags": [
+      "LLM应用",
+      "AI Agent",
+      "RAG",
+      "Python",
+      "实战项目"
+    ],
+    "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "quality_score": 0.85
+  },
+  "hash": -5832993920044911437,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:40:47.676285"
+}

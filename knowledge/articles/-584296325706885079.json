@@ -1,0 +1,20 @@
+{
+  "title": "huggingface/transformers",
+  "content": "🤗 Transformers 是用于文本、视觉、音频和多模态最先进机器学习模型的推理与训练框架。",
+  "metadata": {
+    "category": "深度学习框架/NLP工具",
+    "tags": [
+      "Transformers",
+      "预训练模型",
+      "多模态",
+      "PyTorch",
+      "TensorFlow",
+      "Hugging Face"
+    ],
+    "source_url": "https://github.com/huggingface/transformers",
+    "quality_score": 0.95
+  },
+  "hash": -584296325706885079,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:37:27.646319"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Shubhamsaboo/awesome-llm-apps",
+  "content": "100多个可直接运行的AI Agent和RAG应用合集，支持克隆、定制和部署。",
+  "metadata": {
+    "category": "AI Agent/RAG工具",
+    "tags": [
+      "LLM",
+      "AI Agent",
+      "RAG",
+      "Python"
+    ],
+    "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "quality_score": 0.95
+  },
+  "hash": -2402810420479473437,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:34:36.546539"
+}

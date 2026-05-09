@@ -1,0 +1,20 @@
+{
+  "title": "NousResearch/hermes-agent",
+  "content": "一个基于用户交互持续进化、提供个性化智能服务的AI代理框架，专为动态学习与自适应场景设计。",
+  "metadata": {
+    "category": "AI Agent框架",
+    "tags": [
+      "AI Agent",
+      "自适应学习",
+      "Python",
+      "NLP",
+      "RL",
+      "用户个性化"
+    ],
+    "source_url": "https://github.com/NousResearch/hermes-agent",
+    "quality_score": 0.95
+  },
+  "hash": 5400499024246861198,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:43:38.190802"
+}

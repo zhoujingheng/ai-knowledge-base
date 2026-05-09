@@ -1,0 +1,22 @@
+{
+  "title": "langflow-ai/langflow",
+  "content": "Langflow 是一款基于 Python 的低代码平台，专注于可视化编排和部署 AI 代理与自动化工作流，适用于 NLP、CV 及多模态任务的快速原型开发。",
+  "metadata": {
+    "category": "AI代理与工作流工具",
+    "tags": [
+      "AI代理",
+      "工作流",
+      "低代码",
+      "Python",
+      "NLP",
+      "CV",
+      "多模态",
+      "部署"
+    ],
+    "source_url": "https://github.com/langflow-ai/langflow",
+    "quality_score": 0.95
+  },
+  "hash": 7303858561194514486,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:43:38.190256"
+}

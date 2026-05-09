@@ -1,0 +1,22 @@
+{
+  "title": "Shubhamsaboo/awesome-llm-apps",
+  "content": "汇集100多个可立即运行的AI智能体与RAG应用，支持克隆、定制及一键部署，涵盖NLP、CV等主流领域。",
+  "metadata": {
+    "category": "LLM应用/智能代理/多领域",
+    "tags": [
+      "NLP",
+      "CV",
+      "RL",
+      "AI Agent",
+      "RAG",
+      "LLM应用",
+      "开源项目",
+      "Python"
+    ],
+    "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "quality_score": 0.95
+  },
+  "hash": -7312023219280818658,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:43:38.193001"
+}

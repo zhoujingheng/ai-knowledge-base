@@ -1,0 +1,17 @@
+{
+  "title": "langchain-ai/langchain",
+  "content": "LangChain是一个用于构建基于大语言模型的应用的Agent工程平台，提供TypeScript支持。",
+  "metadata": {
+    "category": "NLP工具",
+    "tags": [
+      "Agent工程",
+      "LLM应用开发",
+      "TypeScript"
+    ],
+    "source_url": "https://github.com/langchain-ai/langchain",
+    "quality_score": 0.95
+  },
+  "hash": -5548394148938579988,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:34:36.544877"
+}

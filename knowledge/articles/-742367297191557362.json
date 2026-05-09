@@ -1,0 +1,19 @@
+{
+  "title": "pytorch/pytorch",
+  "content": "PyTorch是一个基于Python的深度学习框架，支持动态神经网络和张量计算，具有强大的GPU加速能力。",
+  "metadata": {
+    "category": "深度学习框架",
+    "tags": [
+      "PyTorch",
+      "GPU加速",
+      "动态神经网络",
+      "张量计算",
+      "Python"
+    ],
+    "source_url": "https://github.com/pytorch/pytorch",
+    "quality_score": 0.95
+  },
+  "hash": -742367297191557362,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:34:36.547126"
+}

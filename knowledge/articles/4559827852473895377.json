@@ -1,0 +1,21 @@
+{
+  "title": "open-webui/open-webui",
+  "content": "用户友好的AI交互界面，集成Ollama、OpenAI等多种API，支持自然语言处理（NLP）任务，提供灵活部署的聊天机器人解决方案。",
+  "metadata": {
+    "category": "AI工具与平台",
+    "tags": [
+      "用户界面",
+      "聊天机器人",
+      "Ollama",
+      "OpenAI",
+      "NLP",
+      "API集成",
+      "Python"
+    ],
+    "source_url": "https://github.com/open-webui/open-webui",
+    "quality_score": 0.9
+  },
+  "hash": 4559827852473895377,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:43:38.191434"
+}

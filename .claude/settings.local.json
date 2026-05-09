@@ -6,7 +6,25 @@
       "Bash(python *)",
       "Bash(echo \"Exit code: $?\")",
       "Bash(bun run *)",
-      "Bash(chmod +x *)"
+      "Bash(chmod +x *)",
+      "PowerShell(New-Item *)",
+      "Bash(PYTHONPATH=. python *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(pip install *)",
+      "Bash(pytest tests/eval_test.py -v)",
+      "PowerShell(Get-ChildItem -Recurse -File | Where-Object { $_.Name -match \"11|planner|Planner\" } | Select-Object -First 30 FullName)",
+      "PowerShell(Get-ChildItem \"D:\\\\Obsidian\\\\obsidian-vault\\\\ai_base_knowledge\" -Recurse -File | Where-Object { $_.Name -match \"11|planner\" } | Select-Object -First 20 FullName)",
+      "PowerShell(python -c \"from workflows.planner import plan_strategy; import json; print\\(json.dumps\\(plan_strategy\\(5\\), indent=2, ensure_ascii=False\\)\\)\")",
+      "PowerShell(python -c \"from workflows.planner import plan_strategy; import json; print\\(json.dumps\\(plan_strategy\\(15\\), indent=2, ensure_ascii=False\\)\\)\")",
+      "PowerShell(python -c \"from workflows.planner import plan_strategy; import json; print\\(json.dumps\\(plan_strategy\\(30\\), indent=2, ensure_ascii=False\\)\\)\")",
+      "PowerShell(python -c \"from workflows.state import KBState; print\\(f'KBState OK, {len\\(KBState.__annotations__\\)} fields'\\); print\\('Fields:', list\\(KBState.__annotations__.keys\\(\\)\\)\\)\")",
+      "PowerShell($env:PLANNER_TARGET_COUNT=\"10\"; python -m workflows.graph 2>&1 | Select-Object -First 100)",
+      "PowerShell(Out-File *)",
+      "PowerShell(if \\(Test-Path test_output.txt\\) { \\(Get-Content test_output.txt | Measure-Object -Line\\).Lines } else { \"File not found\" })",
+      "PowerShell($env:PLANNER_TARGET_COUNT=\"5\"; python -m workflows.graph 2>&1 | Select-String -Pattern \"Planner|collect_node|organize_node|review_node|CostGuard|工作流\" | Select-Object -First 30)",
+      "PowerShell(python test_planner.py)",
+      "PowerShell(python -c \"from workflows.graph import build_graph; app = build_graph\\(\\); print\\('Graph built successfully'\\); print\\(f'Entry point: plan'\\); print\\(f'Nodes: {list\\(app.get_graph\\(\\).nodes.keys\\(\\)\\)}'\\)\")"
     ]
   }
 }

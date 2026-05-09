@@ -1,0 +1,21 @@
+{
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "content": "Stable Diffusion的Web用户界面，提供图像生成、模型管理、扩展支持等功能，广泛应用于AIGC领域。",
+  "metadata": {
+    "category": "计算机视觉/图像生成/扩散模型",
+    "tags": [
+      "Stable Diffusion",
+      "Web UI",
+      "图像生成",
+      "AIGC",
+      "NLP",
+      "CV",
+      "扩散模型"
+    ],
+    "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "quality_score": 0.95
+  },
+  "hash": 1514856644075720983,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:43:38.188945"
+}

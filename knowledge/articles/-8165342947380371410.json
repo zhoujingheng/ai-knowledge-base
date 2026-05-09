@@ -1,0 +1,18 @@
+{
+  "title": "Comfy-Org/ComfyUI",
+  "content": "功能强大且模块化的扩散模型GUI、API及后端，采用图形化节点界面。",
+  "metadata": {
+    "category": "深度学习框架",
+    "tags": [
+      "扩散模型",
+      "GUI",
+      "节点界面",
+      "模块化"
+    ],
+    "source_url": "https://github.com/Comfy-Org/ComfyUI",
+    "quality_score": 0.9
+  },
+  "hash": -8165342947380371410,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:37:27.650207"
+}

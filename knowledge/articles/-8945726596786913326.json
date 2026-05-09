@@ -1,0 +1,21 @@
+{
+  "title": "huggingface/transformers",
+  "content": "HuggingFace 开发的 Transformers 库，提供统一的 API 接口，支持 NLP、计算机视觉、音频处理及多模态任务的预训练模型加载、微调与推理。",
+  "metadata": {
+    "category": "深度学习框架与工具",
+    "tags": [
+      "NLP",
+      "CV",
+      "音频处理",
+      "多模态",
+      "预训练模型",
+      "Transformer",
+      "HuggingFace"
+    ],
+    "source_url": "https://github.com/huggingface/transformers",
+    "quality_score": 0.95
+  },
+  "hash": -8945726596786913326,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:43:38.189609"
+}

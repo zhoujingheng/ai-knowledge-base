@@ -1,0 +1,19 @@
+{
+  "title": "huggingface/transformers",
+  "content": "Hugging Face的Transformers库，提供预训练模型，支持文本、视觉、音频等多模态任务的推理与训练。",
+  "metadata": {
+    "category": "深度学习框架",
+    "tags": [
+      "Transformers",
+      "NLP",
+      "多模态",
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "source_url": "https://github.com/huggingface/transformers",
+    "quality_score": 0.95
+  },
+  "hash": 649782290671485931,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:34:36.538771"
+}

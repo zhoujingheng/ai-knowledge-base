@@ -1,0 +1,19 @@
+{
+  "title": "open-webui/open-webui",
+  "content": "一个用户友好的AI交互界面，支持Ollama和OpenAI等多种API。",
+  "metadata": {
+    "category": "AI应用工具",
+    "tags": [
+      "AI界面",
+      "Ollama",
+      "OpenAI",
+      "用户友好",
+      "WebUI"
+    ],
+    "source_url": "https://github.com/open-webui/open-webui",
+    "quality_score": 0.95
+  },
+  "hash": 8086664692029843475,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:34:36.542534"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "huggingface/transformers",
+  "content": "Hugging Face 开发的统一框架，支持文本、视觉、音频和多模态最先进模型的推理与训练。",
+  "metadata": {
+    "category": "深度学习框架",
+    "tags": [
+      "Transformer",
+      "预训练模型",
+      "多模态",
+      "NLP",
+      "计算机视觉",
+      "音频处理"
+    ],
+    "source_url": "https://github.com/huggingface/transformers",
+    "quality_score": 0.95
+  },
+  "hash": 2074268722905119297,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:40:47.667896"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Significant-Gravitas/AutoGPT",
+  "content": "AutoGPT 是一个基于 GPT-4 的开源自主 AI 代理框架，支持任务分解、记忆管理和工具调用，帮助用户构建和运行复杂的自动化工作流。",
+  "metadata": {
+    "category": "AI 代理框架",
+    "tags": [
+      "AutoGPT",
+      "自主AI代理",
+      "GPT-4",
+      "任务规划",
+      "Python",
+      "NLP",
+      "RL",
+      "开源框架"
+    ],
+    "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "quality_score": 0.95
+  },
+  "hash": 7623309938119192331,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:43:38.188012"
+}

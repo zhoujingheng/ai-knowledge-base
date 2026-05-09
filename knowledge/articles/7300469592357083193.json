@@ -1,0 +1,19 @@
+{
+  "title": "langflow-ai/langflow",
+  "content": "Langflow 是一个用于构建和部署 AI 代理与工作流的强大工具。",
+  "metadata": {
+    "category": "AI代理与工作流平台",
+    "tags": [
+      "AI代理",
+      "工作流",
+      "低代码",
+      "Python",
+      "Langflow"
+    ],
+    "source_url": "https://github.com/langflow-ai/langflow",
+    "quality_score": 0.9
+  },
+  "hash": 7300469592357083193,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:40:47.670020"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Comfy-Org/ComfyUI",
+  "content": "一个面向扩散模型的高级图形化界面与后端系统，支持通过节点式工作流灵活编排模型推理流程，适用于图像生成与编辑任务。",
+  "metadata": {
+    "category": "计算机视觉工具",
+    "tags": [
+      "扩散模型",
+      "图形用户界面",
+      "节点工作流",
+      "CV",
+      "图像生成"
+    ],
+    "source_url": "https://github.com/Comfy-Org/ComfyUI",
+    "quality_score": 0.95
+  },
+  "hash": 964638788807769924,
+  "is_duplicate": false,
+  "saved_at": "2026-05-09T11:43:38.192426"
+}

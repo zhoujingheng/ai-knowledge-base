@@ -1,0 +1,572 @@
+{
+  "total_articles": 40,
+  "last_updated": "2026-05-09T11:43:38.194969",
+  "articles": [
+    {
+      "hash": 4881536000461319285,
+      "title": "Significant-Gravitas/AutoGPT",
+      "category": "AI应用框架",
+      "tags": [
+        "AI Agent",
+        "自动化",
+        "GPT",
+        "Python",
+        "开源工具"
+      ],
+      "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "saved_at": "2026-05-09T11:34:36.536612"
+    },
+    {
+      "hash": 3465528275667758190,
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "category": "计算机视觉/图像生成",
+      "tags": [
+        "Stable Diffusion",
+        "Web UI",
+        "图像生成",
+        "Python"
+      ],
+      "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "saved_at": "2026-05-09T11:34:36.537840"
+    },
+    {
+      "hash": 649782290671485931,
+      "title": "huggingface/transformers",
+      "category": "深度学习框架",
+      "tags": [
+        "Transformers",
+        "NLP",
+        "多模态",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "source_url": "https://github.com/huggingface/transformers",
+      "saved_at": "2026-05-09T11:34:36.538771"
+    },
+    {
+      "hash": 8917236483671369165,
+      "title": "langflow-ai/langflow",
+      "category": "AI代理与工作流工具",
+      "tags": [
+        "AI代理",
+        "工作流构建",
+        "低代码",
+        "Python",
+        "部署工具"
+      ],
+      "source_url": "https://github.com/langflow-ai/langflow",
+      "saved_at": "2026-05-09T11:34:36.539510"
+    },
+    {
+      "hash": 7599161954974103113,
+      "title": "NousResearch/hermes-agent",
+      "category": "AI代理/智能体框架",
+      "tags": [
+        "AI代理",
+        "智能体框架",
+        "Python"
+      ],
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "saved_at": "2026-05-09T11:34:36.540561"
+    },
+    {
+      "hash": 8086664692029843475,
+      "title": "open-webui/open-webui",
+      "category": "AI应用工具",
+      "tags": [
+        "AI界面",
+        "Ollama",
+        "OpenAI",
+        "用户友好",
+        "WebUI"
+      ],
+      "source_url": "https://github.com/open-webui/open-webui",
+      "saved_at": "2026-05-09T11:34:36.542534"
+    },
+    {
+      "hash": -5548394148938579988,
+      "title": "langchain-ai/langchain",
+      "category": "NLP工具",
+      "tags": [
+        "Agent工程",
+        "LLM应用开发",
+        "TypeScript"
+      ],
+      "source_url": "https://github.com/langchain-ai/langchain",
+      "saved_at": "2026-05-09T11:34:36.544877"
+    },
+    {
+      "hash": -7915603245945162489,
+      "title": "Comfy-Org/ComfyUI",
+      "category": "深度学习框架",
+      "tags": [
+        "扩散模型",
+        "GUI",
+        "节点编辑器",
+        "模块化"
+      ],
+      "source_url": "https://github.com/Comfy-Org/ComfyUI",
+      "saved_at": "2026-05-09T11:34:36.545978"
+    },
+    {
+      "hash": -2402810420479473437,
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "category": "AI Agent/RAG工具",
+      "tags": [
+        "LLM",
+        "AI Agent",
+        "RAG",
+        "Python"
+      ],
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "saved_at": "2026-05-09T11:34:36.546539"
+    },
+    {
+      "hash": -742367297191557362,
+      "title": "pytorch/pytorch",
+      "category": "深度学习框架",
+      "tags": [
+        "PyTorch",
+        "GPU加速",
+        "动态神经网络",
+        "张量计算",
+        "Python"
+      ],
+      "source_url": "https://github.com/pytorch/pytorch",
+      "saved_at": "2026-05-09T11:34:36.547126"
+    },
+    {
+      "hash": 4712211665785165714,
+      "title": "Significant-Gravitas/AutoGPT",
+      "category": "AI工具/自动化框架",
+      "tags": [
+        "AutoGPT",
+        "AI代理",
+        "自动化",
+        "Python",
+        "开源AI"
+      ],
+      "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "saved_at": "2026-05-09T11:37:27.644806"
+    },
+    {
+      "hash": -8999778998918601512,
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "category": "计算机视觉",
+      "tags": [
+        "Stable Diffusion",
+        "图像生成",
+        "Web界面",
+        "Python"
+      ],
+      "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "saved_at": "2026-05-09T11:37:27.645634"
+    },
+    {
+      "hash": -584296325706885079,
+      "title": "huggingface/transformers",
+      "category": "深度学习框架/NLP工具",
+      "tags": [
+        "Transformers",
+        "预训练模型",
+        "多模态",
+        "PyTorch",
+        "TensorFlow",
+        "Hugging Face"
+      ],
+      "source_url": "https://github.com/huggingface/transformers",
+      "saved_at": "2026-05-09T11:37:27.646319"
+    },
+    {
+      "hash": 7555516691904755820,
+      "title": "langflow-ai/langflow",
+      "category": "AI开发工具/工作流构建",
+      "tags": [
+        "AI代理",
+        "工作流",
+        "低代码",
+        "Python",
+        "部署"
+      ],
+      "source_url": "https://github.com/langflow-ai/langflow",
+      "saved_at": "2026-05-09T11:37:27.647115"
+    },
+    {
+      "hash": -5781904327344586384,
+      "title": "NousResearch/hermes-agent",
+      "category": "智能代理框架",
+      "tags": [
+        "智能代理",
+        "Python",
+        "AI助手",
+        "长期记忆"
+      ],
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "saved_at": "2026-05-09T11:37:27.647958"
+    },
+    {
+      "hash": 57384374366144699,
+      "title": "open-webui/open-webui",
+      "category": "AI工具/用户界面",
+      "tags": [
+        "AI界面",
+        "Ollama",
+        "OpenAI API",
+        "Python",
+        "用户友好"
+      ],
+      "source_url": "https://github.com/open-webui/open-webui",
+      "saved_at": "2026-05-09T11:37:27.648813"
+    },
+    {
+      "hash": -5776963673510039809,
+      "title": "langchain-ai/langchain",
+      "category": "NLP工具",
+      "tags": [
+        "LLM",
+        "Agent",
+        "AI工程化",
+        "TypeScript",
+        "Python"
+      ],
+      "source_url": "https://github.com/langchain-ai/langchain",
+      "saved_at": "2026-05-09T11:37:27.649545"
+    },
+    {
+      "hash": -8165342947380371410,
+      "title": "Comfy-Org/ComfyUI",
+      "category": "深度学习框架",
+      "tags": [
+        "扩散模型",
+        "GUI",
+        "节点界面",
+        "模块化"
+      ],
+      "source_url": "https://github.com/Comfy-Org/ComfyUI",
+      "saved_at": "2026-05-09T11:37:27.650207"
+    },
+    {
+      "hash": 1709396979297466210,
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "category": "AI Agent/RAG应用",
+      "tags": [
+        "LLM",
+        "RAG",
+        "AI Agent",
+        "Python",
+        "应用集合"
+      ],
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "saved_at": "2026-05-09T11:37:27.650858"
+    },
+    {
+      "hash": -8878420213726557113,
+      "title": "pytorch/pytorch",
+      "category": "深度学习框架",
+      "tags": [
+        "PyTorch",
+        "张量计算",
+        "GPU加速",
+        "动态神经网络"
+      ],
+      "source_url": "https://github.com/pytorch/pytorch",
+      "saved_at": "2026-05-09T11:37:27.651570"
+    },
+    {
+      "hash": 7008857556386686084,
+      "title": "Significant-Gravitas/AutoGPT",
+      "category": "AI工具/自动化",
+      "tags": [
+        "AI代理",
+        "自动任务",
+        "GPT-4",
+        "Python"
+      ],
+      "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "saved_at": "2026-05-09T11:40:47.665020"
+    },
+    {
+      "hash": 2887228078713707521,
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "category": "计算机视觉",
+      "tags": [
+        "Stable Diffusion",
+        "图像生成",
+        "Web UI",
+        "Python"
+      ],
+      "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "saved_at": "2026-05-09T11:40:47.666010"
+    },
+    {
+      "hash": 2074268722905119297,
+      "title": "huggingface/transformers",
+      "category": "深度学习框架",
+      "tags": [
+        "Transformer",
+        "预训练模型",
+        "多模态",
+        "NLP",
+        "计算机视觉",
+        "音频处理"
+      ],
+      "source_url": "https://github.com/huggingface/transformers",
+      "saved_at": "2026-05-09T11:40:47.667896"
+    },
+    {
+      "hash": 7300469592357083193,
+      "title": "langflow-ai/langflow",
+      "category": "AI代理与工作流平台",
+      "tags": [
+        "AI代理",
+        "工作流",
+        "低代码",
+        "Python",
+        "Langflow"
+      ],
+      "source_url": "https://github.com/langflow-ai/langflow",
+      "saved_at": "2026-05-09T11:40:47.670020"
+    },
+    {
+      "hash": 1615401056787218612,
+      "title": "NousResearch/hermes-agent",
+      "category": "AI Agent框架",
+      "tags": [
+        "AI Agent",
+        "自主代理",
+        "Python"
+      ],
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "saved_at": "2026-05-09T11:40:47.672328"
+    },
+    {
+      "hash": 6418562084365318682,
+      "title": "open-webui/open-webui",
+      "category": "AI工具/用户界面",
+      "tags": [
+        "AI界面",
+        "Ollama",
+        "OpenAI",
+        "Python",
+        "用户友好"
+      ],
+      "source_url": "https://github.com/open-webui/open-webui",
+      "saved_at": "2026-05-09T11:40:47.673061"
+    },
+    {
+      "hash": 3189232556359384752,
+      "title": "langchain-ai/langchain",
+      "category": "NLP工具",
+      "tags": [
+        "LangChain",
+        "大语言模型",
+        "代理框架",
+        "Python",
+        "TypeScript"
+      ],
+      "source_url": "https://github.com/langchain-ai/langchain",
+      "saved_at": "2026-05-09T11:40:47.674792"
+    },
+    {
+      "hash": 819098098009415525,
+      "title": "Comfy-Org/ComfyUI",
+      "category": "深度学习框架",
+      "tags": [
+        "扩散模型",
+        "图形界面",
+        "模块化",
+        "Python"
+      ],
+      "source_url": "https://github.com/Comfy-Org/ComfyUI",
+      "saved_at": "2026-05-09T11:40:47.675634"
+    },
+    {
+      "hash": -5832993920044911437,
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "category": "AI Agent/RAG 应用",
+      "tags": [
+        "LLM应用",
+        "AI Agent",
+        "RAG",
+        "Python",
+        "实战项目"
+      ],
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "saved_at": "2026-05-09T11:40:47.676285"
+    },
+    {
+      "hash": 3363555613984984794,
+      "title": "pytorch/pytorch",
+      "category": "深度学习框架",
+      "tags": [
+        "PyTorch",
+        "张量",
+        "神经网络",
+        "GPU加速",
+        "Python"
+      ],
+      "source_url": "https://github.com/pytorch/pytorch",
+      "saved_at": "2026-05-09T11:40:47.676855"
+    },
+    {
+      "hash": 7623309938119192331,
+      "title": "Significant-Gravitas/AutoGPT",
+      "category": "AI 代理框架",
+      "tags": [
+        "AutoGPT",
+        "自主AI代理",
+        "GPT-4",
+        "任务规划",
+        "Python",
+        "NLP",
+        "RL",
+        "开源框架"
+      ],
+      "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "saved_at": "2026-05-09T11:43:38.188012"
+    },
+    {
+      "hash": 1514856644075720983,
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "category": "计算机视觉/图像生成/扩散模型",
+      "tags": [
+        "Stable Diffusion",
+        "Web UI",
+        "图像生成",
+        "AIGC",
+        "NLP",
+        "CV",
+        "扩散模型"
+      ],
+      "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "saved_at": "2026-05-09T11:43:38.188945"
+    },
+    {
+      "hash": -8945726596786913326,
+      "title": "huggingface/transformers",
+      "category": "深度学习框架与工具",
+      "tags": [
+        "NLP",
+        "CV",
+        "音频处理",
+        "多模态",
+        "预训练模型",
+        "Transformer",
+        "HuggingFace"
+      ],
+      "source_url": "https://github.com/huggingface/transformers",
+      "saved_at": "2026-05-09T11:43:38.189609"
+    },
+    {
+      "hash": 7303858561194514486,
+      "title": "langflow-ai/langflow",
+      "category": "AI代理与工作流工具",
+      "tags": [
+        "AI代理",
+        "工作流",
+        "低代码",
+        "Python",
+        "NLP",
+        "CV",
+        "多模态",
+        "部署"
+      ],
+      "source_url": "https://github.com/langflow-ai/langflow",
+      "saved_at": "2026-05-09T11:43:38.190256"
+    },
+    {
+      "hash": 5400499024246861198,
+      "title": "NousResearch/hermes-agent",
+      "category": "AI Agent框架",
+      "tags": [
+        "AI Agent",
+        "自适应学习",
+        "Python",
+        "NLP",
+        "RL",
+        "用户个性化"
+      ],
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "saved_at": "2026-05-09T11:43:38.190802"
+    },
+    {
+      "hash": 4559827852473895377,
+      "title": "open-webui/open-webui",
+      "category": "AI工具与平台",
+      "tags": [
+        "用户界面",
+        "聊天机器人",
+        "Ollama",
+        "OpenAI",
+        "NLP",
+        "API集成",
+        "Python"
+      ],
+      "source_url": "https://github.com/open-webui/open-webui",
+      "saved_at": "2026-05-09T11:43:38.191434"
+    },
+    {
+      "hash": -5173904302162019282,
+      "title": "langchain-ai/langchain",
+      "category": "AI 应用开发框架",
+      "tags": [
+        "LLM",
+        "Agent",
+        "NLP",
+        "AI Framework",
+        "LangChain",
+        "Python",
+        "TypeScript"
+      ],
+      "source_url": "https://github.com/langchain-ai/langchain",
+      "saved_at": "2026-05-09T11:43:38.191934"
+    },
+    {
+      "hash": 964638788807769924,
+      "title": "Comfy-Org/ComfyUI",
+      "category": "计算机视觉工具",
+      "tags": [
+        "扩散模型",
+        "图形用户界面",
+        "节点工作流",
+        "CV",
+        "图像生成"
+      ],
+      "source_url": "https://github.com/Comfy-Org/ComfyUI",
+      "saved_at": "2026-05-09T11:43:38.192426"
+    },
+    {
+      "hash": -7312023219280818658,
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "category": "LLM应用/智能代理/多领域",
+      "tags": [
+        "NLP",
+        "CV",
+        "RL",
+        "AI Agent",
+        "RAG",
+        "LLM应用",
+        "开源项目",
+        "Python"
+      ],
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "saved_at": "2026-05-09T11:43:38.193001"
+    },
+    {
+      "hash": 4308255098508725236,
+      "title": "PyTorch: 动态计算图深度学习框架",
+      "category": "深度学习框架与工具",
+      "tags": [
+        "PyTorch",
+        "深度学习",
+        "自动微分",
+        "GPU加速",
+        "动态计算图",
+        "CV",
+        "NLP"
+      ],
+      "source_url": "https://github.com/pytorch/pytorch",
+      "saved_at": "2026-05-09T11:43:38.193570"
+    }
+  ]
+}
