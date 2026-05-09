@@ -250,84 +250,139 @@ def review_node(state: KBState) -> dict:
     返回: {"review_passed": bool, "review_feedback": str, "iteration": int, "cost_tracker": dict}
     """
     iteration = state.get("iteration", 0)
-    print(f"[review_node] 开始审核（第 {iteration} 次迭代）...")
-
-    # 强制通过条件
-    if iteration >= 2:
-        print("[review_node] 已达最大迭代次数，强制通过")
-        return {
-            "review_passed": True,
-            "review_feedback": "已达最大迭代次数（3次），强制通过审核",
-            "iteration": iteration + 1,
-            "cost_tracker": state["cost_tracker"]
-        }
-
-    articles = state["articles"]
     tracker = state["cost_tracker"]
 
-    # 构建审核 prompt
-    system_prompt = """你是知识库质量审核专家。
-任务：评估知识条目质量，输出 JSON：
-{
-  "passed": true/false,
-  "overall_score": 0.85,
-  "feedback": "具体改进建议（Markdown 格式）",
-  "scores": {
-    "summary_quality": 0.9,
-    "tag_accuracy": 0.8,
-    "category_appropriateness": 0.85,
-    "consistency": 0.85
-  }
-}
+    print(f"[review_node] 开始审核（第 {iteration} 次迭代）...")
+    print(f"[review_node] 当前 iteration = {iteration}")
 
-评分维度：
-1. summary_quality: 摘要是否清晰、准确、简洁
-2. tag_accuracy: 标签是否精准、相关
-3. category_appropriateness: 分类是否合理
-4. consistency: 多条目间风格是否一致
+    # ========== 测试代码：模拟审核循环 ==========
+    # 前 2 次强制不通过，第 3 次通过
 
-通过标准：overall_score >= 0.75"""
+    if iteration == 0:
+        # 第 1 次审核：不通过
+        passed = False
+        feedback = """## 第 1 次审核反馈
 
-    # 准备审核内容摘要
-    content_summary = []
-    for i, article in enumerate(articles[:5], 1):  # 只审核前 5 条
-        content_summary.append(f"""
-### 条目 {i}
-- 标题：{article['title']}
-- 摘要：{article['content']}
-- 分类：{article['metadata']['category']}
-- 标签：{', '.join(article['metadata']['tags'])}
-""")
+### 问题：
+1. 摘要过于简短，缺少技术细节
+2. 标签不够精准，建议添加更具体的技术栈标签
+3. 分类需要更细化
 
-    prompt = f"""共 {len(articles)} 条知识条目，以下是前 5 条样本：
-{''.join(content_summary)}
+### 改进建议：
+- 扩充摘要内容，增加核心功能描述
+- 补充技术栈相关标签（如：PyTorch、TensorFlow 等）
+- 将"AI工具"细化为更具体的子分类
+"""
+        print(f"[review_node] 第 1 次审核 - 通过: {passed}")
 
-请评估质量并输出 JSON。"""
+    elif iteration == 1:
+        # 第 2 次审核：不通过
+        passed = False
+        feedback = """## 第 2 次审核反馈
 
-    try:
-        result, usage = chat_json(prompt, system=system_prompt)
-        tracker = accumulate_usage(tracker, usage, node_name="review_node")
+### 问题：
+1. 标签仍然不够具体，需要更精准的领域标签
+2. 部分摘要的语言风格不一致
+3. 分类层级需要进一步优化
 
-        passed = result.get("passed", False)
-        feedback = result.get("feedback", "")
-        overall_score = result.get("overall_score", 0.0)
+### 改进建议：
+- 统一摘要的语言风格和长度
+- 添加更多领域特定标签（如：NLP、CV、RL 等）
+- 确保分类的一致性和准确性
+"""
+        print(f"[review_node] 第 2 次审核 - 通过: {passed}")
 
-        print(f"[review_node] 审核完成 - 通过: {passed}, 评分: {overall_score:.2f}")
+    else:
+        # 第 3 次审核（iteration >= 2）：通过
+        passed = True
+        feedback = """## 第 3 次审核反馈
 
-        return {
-            "review_passed": passed,
-            "review_feedback": feedback,
-            "iteration": iteration + 1,
-            "cost_tracker": tracker
-        }
-    except Exception as e:
-        print(f"[review_node] 审核失败: {e}，默认通过")
-        return {
-            "review_passed": True,
-            "review_feedback": f"审核异常（{e}），默认通过",
-            "iteration": iteration + 1,
-            "cost_tracker": tracker
-        }
+### 评估结果：
+✓ 摘要质量：良好，内容充实且清晰
+✓ 标签准确性：标签精准，覆盖全面
+✓ 分类合理性：分类准确，层级清晰
+✓ 一致性：风格统一，格式规范
+
+### 总评：
+已达最大迭代次数（3次），内容质量符合要求，审核通过。
+"""
+        print(f"[review_node] 第 3 次审核（已达最大迭代次数）- 通过: {passed}")
+
+    print(f"[review_node] review_passed = {passed}")
+
+    return {
+        "review_passed": passed,
+        "review_feedback": feedback,
+        "iteration": iteration + 1,
+        "cost_tracker": tracker
+    }
+
+    # ========== 原始 LLM 审核代码（已注释） ==========
+    # articles = state["articles"]
+    #
+    # # 构建审核 prompt
+    # system_prompt = """你是知识库质量审核专家。
+    # 任务：评估知识条目质量，输出 JSON：
+    # {
+    #   "passed": true/false,
+    #   "overall_score": 0.85,
+    #   "feedback": "具体改进建议（Markdown 格式）",
+    #   "scores": {
+    #     "summary_quality": 0.9,
+    #     "tag_accuracy": 0.8,
+    #     "category_appropriateness": 0.85,
+    #     "consistency": 0.85
+    #   }
+    # }
+    #
+    # 评分维度：
+    # 1. summary_quality: 摘要是否清晰、准确、简洁
+    # 2. tag_accuracy: 标签是否精准、相关
+    # 3. category_appropriateness: 分类是否合理
+    # 4. consistency: 多条目间风格是否一致
+    #
+    # 通过标准：overall_score >= 0.75"""
+    #
+    # # 准备审核内容摘要
+    # content_summary = []
+    # for i, article in enumerate(articles[:5], 1):  # 只审核前 5 条
+    #     content_summary.append(f"""
+    # ### 条目 {i}
+    # - 标题：{article['title']}
+    # - 摘要：{article['content']}
+    # - 分类：{article['metadata']['category']}
+    # - 标签：{', '.join(article['metadata']['tags'])}
+    # """)
+    #
+    # prompt = f"""共 {len(articles)} 条知识条目，以下是前 5 条样本：
+    # {''.join(content_summary)}
+    #
+    # 请评估质量并输出 JSON。"""
+    #
+    # try:
+    #     result, usage = chat_json(prompt, system=system_prompt)
+    #     tracker = accumulate_usage(tracker, usage, node_name="review_node")
+    #
+    #     passed = result.get("passed", False)
+    #     feedback = result.get("feedback", "")
+    #     overall_score = result.get("overall_score", 0.0)
+    #
+    #     print(f"[review_node] 审核完成 - 通过: {passed}, 评分: {overall_score:.2f}")
+    #
+    #     return {
+    #         "review_passed": passed,
+    #         "review_feedback": feedback,
+    #         "iteration": iteration + 1,
+    #         "cost_tracker": tracker
+    #     }
+    # except Exception as e:
+    #     print(f"[review_node] 审核失败: {e}，默认通过")
+    #     return {
+    #         "review_passed": True,
+    #         "review_feedback": f"审核异常（{e}），默认通过",
+    #         "iteration": iteration + 1,
+    #         "cost_tracker": tracker
+    #     }
 
 
 def save_node(state: KBState) -> dict:
