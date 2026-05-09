@@ -3,10 +3,17 @@ LangGraph 工作流组装
 
 工作流结构：
 collect → analyze → organize → review
-                      ↑           ↓
-                      └─ (False) ─┘
-                                  ↓ (True)
-                                save → END
+                                  ↓
+                    ┌─────────────┼─────────────┐
+                    ↓             ↓             ↓
+              (通过)          (未通过        (未通过
+                              iter<3)       iter>=3)
+                    ↓             ↓             ↓
+                  save        revise      human_flag
+                    ↓             ↓             ↓
+                  END         review          END
+                                ↑
+                                └─ (循环)
 """
 
 import sys
@@ -40,23 +47,34 @@ from workflows.nodes import (
     collect_node,
     analyze_node,
     organize_node,
-    review_node,
     save_node
 )
+from workflows.reviewer import review_node
+from workflows.reviser import revise_node
+from workflows.human_flag import human_flag_node
 
 
-def review_router(state: KBState) -> str:
+def route_after_review(state: KBState) -> str:
     """
-    审核路由函数：根据 review_passed 决定下一步
+    审核后的 3 路条件路由
 
     返回:
-        - "save": 审核通过，进入保存流程
-        - "organize": 审核未通过，返回整理节点修正
+        - "organize": 审核通过，进入整理和保存流程
+        - "revise": 审核未通过且 iteration < 3，进入修订流程
+        - "human_flag": 审核未通过且 iteration >= 3，进入人工介入流程
     """
-    if state["review_passed"]:
-        return "save"
-    else:
+    passed = state["review_passed"]
+    iteration = state["iteration"]
+
+    if passed:
+        # 审核通过，进入整理节点（然后保存）
         return "organize"
+    elif iteration < 3:
+        # 审核未通过，但未达最大迭代次数，进入修订
+        return "revise"
+    else:
+        # 审核未通过，且已达最大迭代次数，进入人工介入
+        return "human_flag"
 
 
 def build_graph():
@@ -73,6 +91,8 @@ def build_graph():
     graph.add_node("analyze", analyze_node)
     graph.add_node("organize", organize_node)
     graph.add_node("review", review_node)
+    graph.add_node("revise", revise_node)
+    graph.add_node("human_flag", human_flag_node)
     graph.add_node("save", save_node)
 
     # 设置入口点
@@ -83,18 +103,23 @@ def build_graph():
     graph.add_edge("analyze", "organize")
     graph.add_edge("organize", "review")
 
-    # 添加条件边：review 之后根据审核结果分支
+    # 添加条件边：review 之后根据审核结果和迭代次数分支
     graph.add_conditional_edges(
         "review",
-        review_router,
+        route_after_review,
         {
-            "save": "save",        # 审核通过 → 保存
-            "organize": "organize"  # 审核未通过 → 返回整理
+            "organize": "organize",    # 审核通过 → 整理（然后保存）
+            "revise": "revise",        # 审核未通过 + iter<3 → 修订
+            "human_flag": "human_flag" # 审核未通过 + iter>=3 → 人工介入
         }
     )
 
+    # 添加修订循环边：revise → review
+    graph.add_edge("revise", "review")
+
     # 添加终止边
     graph.add_edge("save", END)
+    graph.add_edge("human_flag", END)
 
     # 编译图
     app = graph.compile()
@@ -118,6 +143,7 @@ if __name__ == "__main__":
         "review_feedback": "",
         "review_passed": False,
         "iteration": 0,
+        "needs_human_review": False,
         "cost_tracker": {
             "total_tokens": 0,
             "prompt_tokens": 0,
@@ -162,6 +188,11 @@ if __name__ == "__main__":
                     print(f"  当前迭代: {iteration}")
                     if not passed and state_update.get('review_feedback'):
                         print(f"  反馈摘要: {state_update['review_feedback'][:100]}...")
+
+                if "needs_human_review" in state_update:
+                    needs_review = state_update['needs_human_review']
+                    if needs_review:
+                        print(f"[WARN] 需要人工审核: {needs_review}")
 
                 if "cost_tracker" in state_update:
                     tracker = state_update['cost_tracker']

@@ -59,6 +59,14 @@ class KBState(TypedDict):
     超过限制后强制通过或人工介入
     """
 
+    needs_human_review: bool
+    """
+    是否需要人工审核
+    True: 审核循环超过最大次数仍未通过，已写入 pending_review/ 目录
+    False: 正常流程，无需人工介入
+    由 HumanFlag 节点设置为 True
+    """
+
     # 成本追踪
     cost_tracker: dict
     """
