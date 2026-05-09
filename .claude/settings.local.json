@@ -24,7 +24,8 @@
       "PowerShell(if \\(Test-Path test_output.txt\\) { \\(Get-Content test_output.txt | Measure-Object -Line\\).Lines } else { \"File not found\" })",
       "PowerShell($env:PLANNER_TARGET_COUNT=\"5\"; python -m workflows.graph 2>&1 | Select-String -Pattern \"Planner|collect_node|organize_node|review_node|CostGuard|工作流\" | Select-Object -First 30)",
       "PowerShell(python test_planner.py)",
-      "PowerShell(python -c \"from workflows.graph import build_graph; app = build_graph\\(\\); print\\('Graph built successfully'\\); print\\(f'Entry point: plan'\\); print\\(f'Nodes: {list\\(app.get_graph\\(\\).nodes.keys\\(\\)\\)}'\\)\")"
+      "PowerShell(python -c \"from workflows.graph import build_graph; app = build_graph\\(\\); print\\('Graph built successfully'\\); print\\(f'Entry point: plan'\\); print\\(f'Nodes: {list\\(app.get_graph\\(\\).nodes.keys\\(\\)\\)}'\\)\")",
+      "PowerShell($env:PLANNER_TARGET_COUNT=\"10\"; python -c \"from workflows.graph import build_graph; print\\('✅ Graph builds successfully'\\); from workflows.planner import plan_strategy; import json; plan = plan_strategy\\(10\\); print\\('✅ Planner strategy:', plan['strategy']\\); print\\('✅ Parameters:', json.dumps\\({k:v for k,v in plan.items\\(\\) if k != 'rationale'}, ensure_ascii=False\\)\\)\")"
     ]
   }
 }
