@@ -106,7 +106,7 @@ def review_node(state: KBState) -> dict:
 
     # 调用 LLM 进行审核
     try:
-        result, usage = chat_json(prompt, system=system_prompt, temperature=0.1)
+        result, usage = chat_json(prompt, system=system_prompt, temperature=0.1, node_name="review")
         tracker = accumulate_usage(tracker, usage, node_name="review_node")
 
         # 提取评分

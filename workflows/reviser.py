@@ -101,7 +101,7 @@ def revise_node(state: KBState) -> dict:
     try:
         print(f"[revise_node] 调用 LLM 修订 {len(analyses)} 条 analyses...")
 
-        result, usage = chat_json(prompt, system=system_prompt, temperature=0.4)
+        result, usage = chat_json(prompt, system=system_prompt, temperature=0.4, node_name="revise")
         tracker = accumulate_usage(tracker, usage, node_name="revise_node")
 
         # 提取改进后的 analyses

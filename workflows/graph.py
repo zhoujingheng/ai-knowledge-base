@@ -128,6 +128,8 @@ def build_graph():
 
 
 if __name__ == "__main__":
+    from workflows.model_client import get_cost_guard, BudgetExceededError
+
     print("=" * 60)
     print("启动知识库自动化工作流")
     print("=" * 60)
@@ -203,9 +205,21 @@ if __name__ == "__main__":
         print("工作流执行完成！")
         print("=" * 60)
 
+    except BudgetExceededError as e:
+        print(f"\n[FATAL] 预算熔断触发：{e}")
     except KeyboardInterrupt:
         print("\n\n工作流被用户中断")
     except Exception as e:
         print(f"\n\n工作流执行失败: {e}")
         import traceback
         traceback.print_exc()
+    finally:
+        # ★ 接入点 ③ · 收尾打报告 · 落盘到 knowledge/cost-report.json
+        guard = get_cost_guard()
+        report = guard.get_report()
+        print(f"\n[CostGuard] 总调用 {report['total_calls']} 次 · 总成本 ¥{report['total_cost_yuan']}")
+        print(f"[CostGuard] 按节点：{report['cost_by_node']}")
+
+        # 保存报告
+        report_path = guard.save_report("knowledge/cost-report.json")
+        print(f"[CostGuard] 成本报告已保存到 {report_path}")

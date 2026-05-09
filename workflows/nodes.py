@@ -13,6 +13,7 @@ from typing import Any
 
 from workflows.state import KBState
 from workflows.model_client import chat, chat_json, accumulate_usage
+from tests.security import sanitize_input, filter_output
 
 
 def collect_node(state: KBState) -> dict:
@@ -52,10 +53,26 @@ def collect_node(state: KBState) -> dict:
             "timestamp": datetime.now().isoformat()
         })
 
-    print(f"[collect_node] 采集完成，共 {len(sources)} 条数据")
+    # ★ 接入点 ④ · 出 collect 之前对每条 source 的文本字段做清洗
+    cleaned_sources = []
+    total_warnings = 0
+    for s in sources:
+        for field in ("title", "content"):
+            if field in s and isinstance(s[field], str):
+                cleaned, warnings = sanitize_input(s[field])
+                s[field] = cleaned
+                total_warnings += len(warnings)
+                if warnings:
+                    print(f"[Security] {s.get('url', '?')} {field} 检出注入模式：{warnings}")
+        cleaned_sources.append(s)
+
+    if total_warnings > 0:
+        print(f"[Security] collect 阶段共拦截 {total_warnings} 处可疑输入")
+
+    print(f"[collect_node] 采集完成，共 {len(cleaned_sources)} 条数据")
 
     return {
-        "sources": sources,
+        "sources": cleaned_sources,
         "cost_tracker": state.get("cost_tracker", {
             "total_tokens": 0,
             "prompt_tokens": 0,
@@ -101,7 +118,7 @@ def analyze_node(state: KBState) -> dict:
 请分析并输出 JSON。"""
 
         try:
-            result, usage = chat_json(prompt, system=system_prompt)
+            result, usage = chat_json(prompt, system=system_prompt, node_name="analyze")
             tracker = accumulate_usage(tracker, usage, node_name="analyze_node")
 
             analyses.append({
@@ -189,7 +206,7 @@ def organize_node(state: KBState) -> dict:
 请改进并输出 JSON。"""
 
             try:
-                result, usage = chat_json(prompt, system=system_prompt)
+                result, usage = chat_json(prompt, system=system_prompt, node_name="organize")
                 tracker = accumulate_usage(tracker, usage, node_name="organize_node")
 
                 articles.append({
@@ -237,8 +254,24 @@ def organize_node(state: KBState) -> dict:
 
     print(f"[organize_node] 格式化完成，共 {len(articles)} 条知识条目")
 
+    # ★ 接入点 ⑤ · 写盘前对每条 article 做 PII 掩码
+    masked_articles = []
+    total_pii = 0
+    for art in articles:
+        for field in ("title", "content"):
+            if field in art and isinstance(art[field], str):
+                filtered, detections = filter_output(art[field], mask=True)
+                art[field] = filtered
+                total_pii += len(detections)
+                if detections:
+                    print(f"[Security] {art.get('hash', '?')} {field} 掩码 PII：{detections}")
+        masked_articles.append(art)
+
+    if total_pii > 0:
+        print(f"[Security] organize 阶段共掩码 {total_pii} 处 PII")
+
     return {
-        "articles": articles,
+        "articles": masked_articles,
         "cost_tracker": tracker
     }
 
