@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260509-449",
+  "title": "Ask HN: We just had an actual UUID v4 collision...",
+  "source_url": "https://news.ycombinator.com/item?id=48060054",
+  "source": "rss",
+  "summary": "A developer reports a UUID v4 collision in a database of ~15,000 records, which is statistically improbable. They suspect a bug in the npm `uuid` package or a system-level issue, as the collision occurred between a year-old record and a new insertion. The post sparks discussion on UUID generation reliability and potential edge cases.",
+  "tags": [
+    "tool",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-09T09:10:16.498461Z",
+  "updated_at": "2026-05-09T09:10:53.713200Z"
+}

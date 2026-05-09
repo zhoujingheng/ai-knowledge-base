@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260509-8cd",
+  "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+  "source_url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+  "source": "rss",
+  "summary": "This content argues that defensive cybersecurity benefits from small, specialized, locally-run models like CyberSecQwen-4B, which offer privacy, low latency, and cost efficiency compared to large cloud-based LLMs. It highlights the practical advantages of domain-specific fine-tuning for threat detection and incident response.",
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-09T09:10:19.601501Z",
+  "updated_at": "2026-05-09T09:10:53.714907Z"
+}

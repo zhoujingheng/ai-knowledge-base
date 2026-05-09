@@ -1,0 +1,16 @@
+{
+  "id": "github-20260509-2d9",
+  "title": "fighting41love/funNLP",
+  "source_url": "https://github.com/fighting41love/funNLP",
+  "source": "github",
+  "summary": "funNLP is a comprehensive collection of Chinese and multilingual NLP resources, including datasets, tools, models, and code for tasks like text classification, named entity recognition, sentiment analysis, knowledge graphs, and speech processing. It aggregates hundreds of open-source projects, pre-trained models (BERT, GPT-2), and domain-specific lexicons, serving as a one-stop repository for NLP practitioners and researchers.",
+  "tags": [
+    "tool",
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-09T09:10:15.263942Z",
+  "updated_at": "2026-05-09T09:10:53.712805Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260509-669",
+  "title": "Google broke reCAPTCHA for de-googled Android users",
+  "source_url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+  "source": "rss",
+  "summary": "Google's reCAPTCHA now blocks de-googled Android users, likely due to stricter fraud detection updates. The discussion links to related Hacker News threads about Google Cloud Fraud Defense being a repackaged version of Web Environment Integrity (WEI), raising concerns about anti-competitive practices and user control.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-09T09:10:16.498070Z",
+  "updated_at": "2026-05-09T09:10:53.712935Z"
+}

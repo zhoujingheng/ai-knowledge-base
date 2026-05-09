@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260509-148",
+  "title": "EMO: Pretraining mixture of experts for emergent modularity",
+  "source_url": "https://huggingface.co/blog/allenai/emo",
+  "source": "rss",
+  "summary": "This research paper introduces EMO, a pretraining method for Mixture-of-Experts (MoE) models that encourages emergent modularity. It aims to improve expert specialization and model efficiency by designing a training objective that naturally separates knowledge across experts without explicit routing supervision.",
+  "tags": [
+    "research",
+    "llm",
+    "fine-tuning"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-05-09T09:10:19.601517Z",
+  "updated_at": "2026-05-09T09:10:53.714899Z"
+}

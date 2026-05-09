@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260509-345",
+  "title": "Reimplementing the Space Protocol Stack from Scratch",
+  "source_url": "https://gazagnaire.org/blog/2026-04-15-ccsds-protocol-stack.html",
+  "source": "rss",
+  "summary": "This content discusses reimplementing the space protocol stack from scratch, likely focusing on the technical challenges of building communication protocols for satellite or space-based systems. It may involve low-level networking, error correction, and latency considerations.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-09T09:10:16.801238Z",
+  "updated_at": "2026-05-09T09:10:53.714253Z"
+}

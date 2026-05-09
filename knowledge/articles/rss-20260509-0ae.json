@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260509-0ae",
+  "title": "Google Cloud Fraud Defence is just WEI repackaged",
+  "source_url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+  "source": "rss",
+  "summary": "The article argues that Google Cloud's Fraud Defence is merely a rebranded version of Web Environment Integrity (WEI), a controversial API that critics say undermines user privacy and control. It highlights concerns about vendor lock-in, reduced transparency, and the potential for anti-competitive behavior in fraud prevention.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-09T09:10:16.498215Z",
+  "updated_at": "2026-05-09T09:10:53.713007Z"
+}

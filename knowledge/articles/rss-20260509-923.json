@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260509-923",
+  "title": "ClojureScript Gets Async/Await",
+  "source_url": "https://clojurescript.org/news/2026-05-07-release",
+  "source": "rss",
+  "summary": "ClojureScript introduces native async/await syntax, simplifying asynchronous programming in the language. This release enhances developer experience by reducing callback complexity and aligning with modern JavaScript patterns, while maintaining ClojureScript's functional programming strengths.",
+  "tags": [
+    "language",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-09T09:10:16.498483Z",
+  "updated_at": "2026-05-09T09:10:53.713193Z"
+}

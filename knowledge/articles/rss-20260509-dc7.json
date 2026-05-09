@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260509-dc7",
+  "title": "A web page that shows you everything the browser told it without asking",
+  "source_url": "https://sinceyouarrived.world/taken",
+  "source": "rss",
+  "summary": "This appears to be a web page that reveals the extensive data browsers passively share with websites, such as device info, location, and browsing history. It highlights privacy concerns by demonstrating how much information is transmitted without explicit user consent, sparking discussion on data transparency and user awareness.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-09T09:10:16.498254Z",
+  "updated_at": "2026-05-09T09:10:53.713074Z"
+}

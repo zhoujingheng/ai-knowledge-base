@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260509-9ff",
+  "title": "Mojo 1.0 Beta",
+  "source_url": "https://mojolang.org/",
+  "source": "rss",
+  "summary": "Mojo 1.0 Beta marks the release of a new programming language designed to combine Python-like syntax with high-performance computing, targeting AI/ML workloads. It aims to bridge the gap between research and production by offering hardware-level optimization and seamless integration with Python ecosystems.",
+  "tags": [
+    "framework",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-09T09:10:16.498501Z",
+  "updated_at": "2026-05-09T09:10:53.713208Z"
+}

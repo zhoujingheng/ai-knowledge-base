@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260509-d4f",
+  "title": "An Introduction to Meshtastic",
+  "source_url": "https://meshtastic.org/docs/introduction/",
+  "source": "rss",
+  "summary": "Meshtastic is an open-source, decentralized mesh communication platform that uses low-power LoRa radios to enable text messaging and GPS location sharing without cellular or internet infrastructure. It is designed for off-grid, emergency, and outdoor use, leveraging a peer-to-peer network of devices.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-09T09:10:16.498418Z",
+  "updated_at": "2026-05-09T09:10:53.713184Z"
+}

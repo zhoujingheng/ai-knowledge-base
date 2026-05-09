@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260509-45f",
+  "title": "AI is breaking two vulnerability cultures",
+  "source_url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+  "source": "rss",
+  "summary": "The article argues that AI systems are creating a new vulnerability culture that bridges the gap between the 'find and fix' culture of software security and the 'accept and manage' culture of traditional risk management. It explores how AI's unpredictability and rapid evolution challenge existing approaches to handling vulnerabilities.",
+  "tags": [
+    "research",
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-09T09:10:16.498123Z",
+  "updated_at": "2026-05-09T09:10:53.712988Z"
+}
