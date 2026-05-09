@@ -3,6 +3,13 @@ LangGraph 工作流共享状态定义
 
 遵循"报告式通信"原则：状态字段存储结构化摘要，而非原始数据。
 每个节点读取上游结果，处理后更新状态，供下游节点使用。
+
+数据流向（V3 完整 · 7 节点）：
+    plan → sources → analyses → review ─[pass]→ organize → END
+                                  ↓
+                                revise → review（循环）
+                                  ↓[>max]
+                                human_flag → END
 """
 
 from typing import TypedDict
@@ -10,6 +17,20 @@ from typing import TypedDict
 
 class KBState(TypedDict):
     """知识库自动化工作流的共享状态"""
+
+    # 规划阶段
+    plan: dict
+    """
+    Planner 输出的策略配置
+    格式: {
+        "strategy": str,  # lite/standard/full
+        "per_source_limit": int,
+        "relevance_threshold": float,
+        "max_iterations": int,
+        "rationale": str
+    }
+    根据目标采集量动态调整下游节点行为
+    """
 
     # 数据采集阶段
     sources: list[dict]

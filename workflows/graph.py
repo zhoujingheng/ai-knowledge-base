@@ -1,19 +1,19 @@
 """
 LangGraph 工作流组装
 
-工作流结构：
-collect → analyze → organize → review
-                                  ↓
-                    ┌─────────────┼─────────────┐
-                    ↓             ↓             ↓
-              (通过)          (未通过        (未通过
-                              iter<3)       iter>=3)
-                    ↓             ↓             ↓
-                  save        revise      human_flag
-                    ↓             ↓             ↓
-                  END         review          END
-                                ↑
-                                └─ (循环)
+工作流结构（V3 完整 · 7 节点）：
+plan → collect → analyze → organize → review
+                                        ↓
+                      ┌─────────────────┼─────────────────┐
+                      ↓                 ↓                 ↓
+                  (通过)            (未通过            (未通过
+                                    iter<max)         iter>=max)
+                      ↓                 ↓                 ↓
+                    save            revise          human_flag
+                      ↓                 ↓                 ↓
+                    END             review              END
+                                      ↑
+                                      └─ (循环)
 """
 
 import sys
@@ -43,6 +43,7 @@ load_env()
 from langgraph.graph import StateGraph, END
 
 from workflows.state import KBState
+from workflows.planner import planner_node
 from workflows.nodes import (
     collect_node,
     analyze_node,
@@ -58,22 +59,22 @@ def route_after_review(state: KBState) -> str:
     """
     审核后的 3 路条件路由
 
+    读取 state["plan"]["max_iterations"] 动态决定最大迭代次数
+
     返回:
         - "organize": 审核通过，进入整理和保存流程
-        - "revise": 审核未通过且 iteration < 3，进入修订流程
-        - "human_flag": 审核未通过且 iteration >= 3，进入人工介入流程
+        - "revise": 审核未通过且 iteration < max_iterations，进入修订流程
+        - "human_flag": 审核未通过且 iteration >= max_iterations，进入人工介入流程
     """
-    passed = state["review_passed"]
-    iteration = state["iteration"]
+    plan = state.get("plan", {}) or {}
+    max_iter = int(plan.get("max_iterations", 3))
+    iteration = state.get("iteration", 0)
 
-    if passed:
-        # 审核通过，进入整理节点（然后保存）
+    if state.get("review_passed", False):
         return "organize"
-    elif iteration < 3:
-        # 审核未通过，但未达最大迭代次数，进入修订
+    elif iteration < max_iter:
         return "revise"
     else:
-        # 审核未通过，且已达最大迭代次数，进入人工介入
         return "human_flag"
 
 
@@ -87,6 +88,7 @@ def build_graph():
     graph = StateGraph(KBState)
 
     # 添加节点
+    graph.add_node("plan", planner_node)
     graph.add_node("collect", collect_node)
     graph.add_node("analyze", analyze_node)
     graph.add_node("organize", organize_node)
@@ -96,9 +98,10 @@ def build_graph():
     graph.add_node("save", save_node)
 
     # 设置入口点
-    graph.set_entry_point("collect")
+    graph.set_entry_point("plan")
 
     # 添加线性边
+    graph.add_edge("plan", "collect")
     graph.add_edge("collect", "analyze")
     graph.add_edge("analyze", "organize")
     graph.add_edge("organize", "review")
@@ -109,8 +112,8 @@ def build_graph():
         route_after_review,
         {
             "organize": "organize",    # 审核通过 → 整理（然后保存）
-            "revise": "revise",        # 审核未通过 + iter<3 → 修订
-            "human_flag": "human_flag" # 审核未通过 + iter>=3 → 人工介入
+            "revise": "revise",        # 审核未通过 + iter<max → 修订
+            "human_flag": "human_flag" # 审核未通过 + iter>=max → 人工介入
         }
     )
 
@@ -139,6 +142,7 @@ if __name__ == "__main__":
 
     # 初始化状态
     initial_state: KBState = {
+        "plan": {},
         "sources": [],
         "analyses": [],
         "articles": [],

@@ -27,16 +27,20 @@ def review_node(state: KBState) -> dict:
     tracker = state["cost_tracker"]
     analyses = state.get("analyses", [])
 
-    print(f"[review_node] 开始审核（第 {iteration} 次迭代）...")
+    # 读取 plan 中的 max_iterations（默认 3）
+    plan = state.get("plan", {}) or {}
+    max_iterations = int(plan.get("max_iterations", 3))
+
+    print(f"[review_node] 开始审核（第 {iteration} 次迭代，最大 {max_iterations} 次）...")
     print(f"[review_node] 当前 iteration = {iteration}")
     print(f"[review_node] 待审核 analyses 数量: {len(analyses)}")
 
     # 强制通过条件：已达最大迭代次数
-    if iteration >= 2:
-        print("[review_node] 已达最大迭代次数（3次），强制通过")
+    if iteration >= max_iterations - 1:
+        print(f"[review_node] 已达最大迭代次数（{max_iterations}次），强制通过")
         return {
             "review_passed": True,
-            "review_feedback": "已达最大迭代次数（3次），强制通过审核",
+            "review_feedback": f"已达最大迭代次数（{max_iterations}次），强制通过审核",
             "iteration": iteration + 1,
             "cost_tracker": tracker
         }

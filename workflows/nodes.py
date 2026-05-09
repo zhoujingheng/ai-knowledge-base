@@ -24,9 +24,13 @@ def collect_node(state: KBState) -> dict:
     """
     print("[collect_node] 开始采集 GitHub AI 仓库数据...")
 
+    # 读取 plan 中的 per_source_limit（默认 10）
+    plan = state.get("plan", {}) or {}
+    per_source_limit = int(plan.get("per_source_limit", 10))
+
     # GitHub Search API 查询参数
     query = "AI OR machine-learning OR deep-learning language:Python stars:>100"
-    url = f"https://api.github.com/search/repositories?q={urllib.parse.quote(query)}&sort=stars&order=desc&per_page=10"
+    url = f"https://api.github.com/search/repositories?q={urllib.parse.quote(query)}&sort=stars&order=desc&per_page={per_source_limit}"
 
     # 发起 HTTP 请求
     req = urllib.request.Request(url)
@@ -164,9 +168,13 @@ def organize_node(state: KBState) -> dict:
     iteration = state.get("iteration", 0)
     feedback = state.get("review_feedback", "")
 
+    # 读取 plan 中的 relevance_threshold（默认 0.5）
+    plan = state.get("plan", {}) or {}
+    relevance_threshold = float(plan.get("relevance_threshold", 0.5))
+
     # 1. 过滤低分条目
-    filtered = [a for a in analyses if a["quality_score"] >= 0.6]
-    print(f"[organize_node] 过滤后保留 {len(filtered)}/{len(analyses)} 条")
+    filtered = [a for a in analyses if a["quality_score"] >= relevance_threshold]
+    print(f"[organize_node] 过滤后保留 {len(filtered)}/{len(analyses)} 条（阈值={relevance_threshold}）")
 
     # 2. 按 URL 去重
     seen_urls = set()
