@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260510-181",
+  "title": "Aurora: A Leverage-Aware Optimizer for Rectangular Matrices",
+  "source_url": "https://blog.tilderesearch.com/blog/aurora",
+  "source": "rss",
+  "summary": "Aurora is a specialized optimizer designed for rectangular matrices, leveraging awareness of matrix structure to improve optimization efficiency. It targets scenarios where standard optimizers underperform due to shape asymmetry, likely in machine learning contexts like embeddings or weight matrices.",
+  "tags": [
+    "research",
+    "optimization"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-10T09:23:13.155094Z",
+  "updated_at": "2026-05-10T09:23:50.629263Z"
+}

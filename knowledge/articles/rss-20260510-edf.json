@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260510-edf",
+  "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+  "source_url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+  "source": "rss",
+  "summary": "Bun, a JavaScript runtime, has achieved 99.8% test compatibility with its experimental Rust rewrite on Linux x64 glibc, marking a significant milestone in its migration from Zig to Rust. This technical achievement highlights performance and compatibility gains, with community discussion on porting strategies.",
+  "tags": [
+    "tool",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-10T09:23:12.867199Z",
+  "updated_at": "2026-05-10T09:23:50.629102Z"
+}

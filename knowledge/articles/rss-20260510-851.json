@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260510-851",
+  "title": "The React2Shell Story",
+  "source_url": "https://lachlan.nz/blog/the-react2shell-story/",
+  "source": "rss",
+  "summary": "The article details the creation of React2Shell, a tool that converts React component trees into shell commands for automating UI interactions. It explores the technical challenges of mapping React's virtual DOM to shell operations, enabling developers to script complex UI workflows without manual intervention.",
+  "tags": [
+    "tool",
+    "agent",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-10T09:23:12.867446Z",
+  "updated_at": "2026-05-10T09:23:50.629227Z"
+}

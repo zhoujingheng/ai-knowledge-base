@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260510-42b",
+  "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
+  "source_url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
+  "source": "rss",
+  "summary": "GrapheneOS, a privacy-focused Android fork, patched a VPN leak vulnerability that Google declined to fix. The issue allowed traffic to bypass VPNs, compromising user anonymity. This highlights challenges in open-source security and Android's fragmented update model.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-10T09:23:12.867119Z",
+  "updated_at": "2026-05-10T09:23:50.629054Z"
+}

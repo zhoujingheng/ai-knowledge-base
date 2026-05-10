@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260510-dfc",
+  "title": "LLMs corrupt your documents when you delegate",
+  "source_url": "https://arxiv.org/abs/2604.15597",
+  "source": "rss",
+  "summary": "This paper investigates how delegating document processing tasks to large language models (LLMs) can introduce unintended errors or corruptions. It systematically analyzes the types of inaccuracies LLMs produce when handling structured documents, highlighting risks in automated workflows where fidelity to original content is critical.",
+  "tags": [
+    "llm",
+    "research",
+    "rag"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-10T09:23:12.867220Z",
+  "updated_at": "2026-05-10T09:23:50.629095Z"
+}

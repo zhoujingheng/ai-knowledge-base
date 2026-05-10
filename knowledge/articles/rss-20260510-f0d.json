@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260510-f0d",
+  "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+  "source_url": "https://ze3tar.github.io/post-zcrx.html",
+  "source": "rss",
+  "summary": "This article details a Linux kernel local privilege escalation (LPE) exploit targeting the io_uring subsystem's zero-copy RX (ZCRX) feature. The vulnerability involves a freelist corruption bug triggered by a crafted u32 value, allowing an attacker to gain root access. It provides a deep technical analysis of the exploit chain.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 9,
+  "created_at": "2026-05-10T09:23:12.867335Z",
+  "updated_at": "2026-05-10T09:23:50.629213Z"
+}
