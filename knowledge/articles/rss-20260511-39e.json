@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260511-39e",
+  "title": "Training an LLM in Swift, Part 1: Taking matrix multiplication from Gflop/s to Tflop/s",
+  "source_url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+  "source": "rss",
+  "summary": "This article details optimizing matrix multiplication in Swift for LLM training, progressing from Gflop/s to Tflop/s performance. It covers low-level techniques like memory layout, vectorization, and parallelism, targeting Apple Silicon hardware.",
+  "tags": [
+    "llm",
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-11T10:54:33.296825Z",
+  "updated_at": "2026-05-11T10:55:04.728653Z"
+}

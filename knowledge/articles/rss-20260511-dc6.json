@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260511-dc6",
+  "title": "Local AI needs to be the norm",
+  "source_url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+  "source": "rss",
+  "summary": "The article argues that local AI (running models on personal devices) should become the standard for privacy, reliability, and user control. It critiques reliance on cloud-based AI services, highlighting issues like data leakage, censorship, and dependency on internet connectivity. The author advocates for open-source models and hardware advancements to make local AI practical and widespread.",
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-11T10:54:32.919854Z",
+  "updated_at": "2026-05-11T10:55:04.728416Z"
+}

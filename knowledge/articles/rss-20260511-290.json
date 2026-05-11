@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260511-290",
+  "title": "Show HN: Rust but Lisp",
+  "source_url": "https://github.com/ThatXliner/rust-but-lisp",
+  "source": "rss",
+  "summary": "A project that implements a Lisp-like syntax for Rust, allowing developers to write Rust code using S-expressions. It likely transpiles Lisp-style code into Rust, combining Lisp's macro and metaprogramming strengths with Rust's performance and safety.",
+  "tags": [
+    "framework",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-11T10:54:32.920168Z",
+  "updated_at": "2026-05-11T10:55:04.728644Z"
+}

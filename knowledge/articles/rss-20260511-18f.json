@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260511-18f",
+  "title": "I'm going back to writing code by hand",
+  "source_url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+  "source": "rss",
+  "summary": "The author argues against over-reliance on AI code generation tools, advocating for a return to manual coding to maintain deep understanding, debugging skills, and code quality. They critique the tendency to treat AI as a crutch, which can erode fundamental programming abilities.",
+  "tags": [
+    "tool",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-11T10:54:32.919555Z",
+  "updated_at": "2026-05-11T10:55:04.728221Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260511-e94",
+  "title": "Running local models on an M4 with 24GB memory",
+  "source_url": "https://jola.dev/posts/running-local-models-on-m4",
+  "source": "rss",
+  "summary": "A practical guide on running local AI models on an Apple M4 Mac with 24GB RAM, covering model selection, quantization, inference speed, and memory management for efficient on-device deployment.",
+  "tags": [
+    "deployment",
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-11T10:54:32.919607Z",
+  "updated_at": "2026-05-11T10:55:04.728131Z"
+}

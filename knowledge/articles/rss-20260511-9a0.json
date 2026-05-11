@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260511-9a0",
+  "title": "Think Linear Algebra (2023)",
+  "source_url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
+  "source": "rss",
+  "summary": "A comprehensive online textbook introducing linear algebra concepts with a focus on computational thinking and Python. It emphasizes practical applications and intuitive understanding over abstract theory, making it accessible for learners aiming to apply linear algebra in data science and machine learning.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-11T10:54:32.919990Z",
+  "updated_at": "2026-05-11T10:55:04.728482Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260511-a78",
+  "title": "Incident Report: CVE-2024-YIKES",
+  "source_url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+  "source": "rss",
+  "summary": "This is a fictional incident report detailing a critical vulnerability (CVE-2024-YIKES) in an AI/ML system, likely involving prompt injection or data poisoning. The high engagement on Hacker News suggests the post explores the real-world security implications, response procedures, and lessons learned from a severe AI system compromise.",
+  "tags": [
+    "research",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-11T10:54:32.919807Z",
+  "updated_at": "2026-05-11T10:55:04.728399Z"
+}
