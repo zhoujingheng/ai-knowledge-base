@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260512-c27",
+  "title": "Ratty – A terminal emulator with inline 3D graphics",
+  "source_url": "https://ratty-term.org/",
+  "source": "rss",
+  "summary": "Ratty is a terminal emulator that supports inline 3D graphics, enabling real-time rendering of 3D scenes directly within the terminal. It combines traditional terminal functionality with GPU-accelerated graphics, offering a novel interface for developers and creative coders.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-12T10:25:26.457374Z",
+  "updated_at": "2026-05-12T10:26:03.827827Z"
+}

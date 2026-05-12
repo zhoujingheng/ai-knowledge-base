@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260512-750",
+  "title": "Interaction Models",
+  "source_url": "https://thinkingmachines.ai/blog/interaction-models/",
+  "source": "rss",
+  "summary": "The article explores how AI systems interact with users, focusing on different interaction models beyond simple chat. It categorizes approaches like turn-taking, streaming, and proactive agents, discussing design trade-offs for latency, user control, and context awareness. The piece bridges UX design and AI system architecture.",
+  "tags": [
+    "agent",
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-12T10:25:26.457204Z",
+  "updated_at": "2026-05-12T10:26:03.827758Z"
+}

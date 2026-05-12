@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260512-a27",
+  "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+  "source_url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+  "source": "rss",
+  "summary": "The article argues that AI coding agents should be evaluated by their ability to reduce long-term maintenance costs, not just initial code generation speed. It emphasizes that AI-generated code often introduces technical debt, and advocates for agents that prioritize readability, testability, and adherence to best practices to minimize future maintenance burden.",
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-12T10:25:26.457508Z",
+  "updated_at": "2026-05-12T10:26:03.827957Z"
+}

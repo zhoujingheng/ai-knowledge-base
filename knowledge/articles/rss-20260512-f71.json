@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260512-f71",
+  "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+  "source_url": "https://nvlabs.github.io/cuda-oxide/index.html",
+  "source": "rss",
+  "summary": "CUDA-oxide is Nvidia's official Rust-to-CUDA compiler, enabling Rust developers to write high-performance GPU kernels with Rust's safety guarantees. It compiles Rust code directly to PTX, offering an alternative to CUDA C/C++ for GPU programming.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-05-12T10:25:26.457327Z",
+  "updated_at": "2026-05-12T10:26:03.827813Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260512-4f4",
+  "title": "A.I. note takers are making lawyers nervous",
+  "source_url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
+  "source": "rss",
+  "summary": "The article discusses how AI-powered note-taking tools are raising concerns in the legal profession due to risks around confidentiality, data security, and ethical compliance. Lawyers worry that these tools may inadvertently record privileged information or violate client-attorney privilege, leading to potential legal liabilities.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-12T10:25:26.457396Z",
+  "updated_at": "2026-05-12T10:26:03.827841Z"
+}

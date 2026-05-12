@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260512-b68",
+  "title": "They Live (1988) inspired Adblocker",
+  "source_url": "https://github.com/davmlaw/they_live_adblocker",
+  "source": "rss",
+  "summary": "This project is an AI-powered adblocker inspired by the movie 'They Live' (1988). It uses computer vision to detect and overlay advertisements in real-time, likely employing object detection models to identify ad content on screen. The concept blends retro aesthetics with modern AI/ML techniques for ad blocking.",
+  "tags": [
+    "tool",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-12T10:25:26.457141Z",
+  "updated_at": "2026-05-12T10:26:03.827685Z"
+}

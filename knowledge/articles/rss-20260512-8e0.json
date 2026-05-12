@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260512-8e0",
+  "title": "Mythos Finds a Curl Vulnerability",
+  "source_url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+  "source": "rss",
+  "summary": "This article describes how an AI system named Mythos discovered a security vulnerability in the curl library. It details the process of automated fuzzing and analysis that led to finding the bug, highlighting AI's growing role in vulnerability research and software security testing.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-12T10:25:26.457443Z",
+  "updated_at": "2026-05-12T10:26:03.827848Z"
+}

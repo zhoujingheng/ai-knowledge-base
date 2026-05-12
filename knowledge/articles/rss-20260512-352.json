@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260512-352",
+  "title": "The Crystallization of Transformer Architectures (2017-2025)",
+  "source_url": "https://jytan.net/blog/2025/transformer-architectures/",
+  "source": "rss",
+  "summary": "This content traces the evolution of Transformer architectures from their 2017 introduction through 2025, analyzing how key design choices have become standardized or 'crystallized' over time. It likely discusses architectural innovations, trade-offs, and the convergence of practices in modern LLMs.",
+  "tags": [
+    "research",
+    "llm",
+    "architecture"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-12T10:25:26.623621Z",
+  "updated_at": "2026-05-12T10:26:03.828009Z"
+}

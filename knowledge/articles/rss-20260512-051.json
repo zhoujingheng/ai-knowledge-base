@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260512-051",
+  "title": "GitLab Act 2",
+  "source_url": "https://about.gitlab.com/blog/gitlab-act-2/",
+  "source": "rss",
+  "summary": "GitLab Act 2 appears to be a follow-up or second iteration of a project or discussion related to GitLab, likely involving AI/ML features or automation. The content is linked from Lobsters, suggesting community discussion on technical implementation or deployment.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-12T10:25:26.623602Z",
+  "updated_at": "2026-05-12T10:26:03.827977Z"
+}

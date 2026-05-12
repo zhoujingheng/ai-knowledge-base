@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260512-3be",
+  "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+  "source_url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+  "source": "rss",
+  "summary": "This content covers the core infrastructure and services AWS provides for training and deploying foundation models, including compute, storage, networking, and managed AI services like SageMaker and Bedrock. It likely discusses scaling, cost optimization, and best practices for both training and inference workloads.",
+  "tags": [
+    "deployment",
+    "framework",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-12T10:25:29.957251Z",
+  "updated_at": "2026-05-12T10:26:03.828894Z"
+}

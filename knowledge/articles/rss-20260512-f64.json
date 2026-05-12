@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260512-f64",
+  "title": "If AI writes your code, why use Python?",
+  "source_url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+  "source": "rss",
+  "summary": "The article and Hacker News discussion debate whether Python remains necessary for coding when AI can generate code in any language. It explores Python's strengths in readability, ecosystem, and AI tooling, while questioning if its dominance will persist as AI abstracts syntax. The community weighs productivity gains against Python's unique advantages.",
+  "tags": [
+    "llm",
+    "tool",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-05-12T10:25:26.457255Z",
+  "updated_at": "2026-05-12T10:26:03.827804Z"
+}
