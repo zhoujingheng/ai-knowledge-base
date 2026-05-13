@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260513-3dc",
+  "title": "Rendering the Sky, Sunsets, and Planets",
+  "source_url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+  "source": "rss",
+  "summary": "This article explores techniques for rendering realistic skies, sunsets, and planets in computer graphics, covering atmospheric scattering, color gradients, and procedural generation. It provides a technical deep dive into shader-based approaches for simulating natural phenomena.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-13T10:14:58.183572Z",
+  "updated_at": "2026-05-13T10:15:29.827589Z"
+}

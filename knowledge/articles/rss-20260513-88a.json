@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260513-88a",
+  "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+  "source_url": "https://github.com/cactus-compute/needle",
+  "source": "rss",
+  "summary": "Needle is a 26M parameter open-source model for single-shot tool calling, distilled from Gemini. It uses a simple attention-only architecture (no FFN layers) to achieve fast inference on consumer devices. Trained on 200B tokens and fine-tuned on synthetic function-calling data, it outperforms larger models in its niche while being deployable on phones, watches, and glasses.",
+  "tags": [
+    "agent",
+    "fine-tuning",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-13T10:14:58.183246Z",
+  "updated_at": "2026-05-13T10:15:29.827403Z"
+}

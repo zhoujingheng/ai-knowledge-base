@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260513-c63",
+  "title": "Restore full BambuNetwork support for Bambu Lab printers",
+  "source_url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+  "source": "rss",
+  "summary": "This GitHub project restores full BambuNetwork support for Bambu Lab printers in OrcaSlicer, addressing recent restrictions. It enables local network printing and control without cloud dependency, appealing to users seeking open-source alternatives.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-13T10:14:58.183098Z",
+  "updated_at": "2026-05-13T10:15:29.827335Z"
+}

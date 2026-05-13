@@ -1,0 +1,16 @@
+{
+  "id": "github-20260513-ab2",
+  "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+  "source_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+  "source": "github",
+  "summary": "This is an AI skill designed to provide design intelligence for creating professional UI/UX across multiple platforms. It likely leverages LLMs or specialized models to generate, critique, or optimize user interface designs, targeting developers and designers seeking automated design assistance.",
+  "tags": [
+    "llm",
+    "tool",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-13T10:14:58.035019Z",
+  "updated_at": "2026-05-13T10:15:29.827271Z"
+}

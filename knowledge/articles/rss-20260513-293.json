@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260513-293",
+  "title": "Reimagining the mouse pointer for the AI era",
+  "source_url": "https://deepmind.google/blog/ai-pointer/",
+  "source": "rss",
+  "summary": "Google DeepMind is reimagining the mouse pointer as a context-aware AI assistant, aiming to reduce friction in prompting by enabling intuitive, collaborative interactions within Chrome and other environments.",
+  "tags": [
+    "agent",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-05-13T10:15:01.677816Z",
+  "updated_at": "2026-05-13T10:15:29.829246Z"
+}

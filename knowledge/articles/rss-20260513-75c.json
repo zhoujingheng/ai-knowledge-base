@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260513-75c",
+  "title": "The Future of Obsidian Plugins",
+  "source_url": "https://obsidian.md/blog/future-of-plugins/",
+  "source": "rss",
+  "summary": "Obsidian announces a new plugin API and developer platform, enabling more powerful and secure integrations. The update focuses on improving performance, expanding functionality for developers, and maintaining the app's extensibility while ensuring user safety. It signals a shift toward a more robust plugin ecosystem.",
+  "tags": [
+    "framework"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-13T10:14:58.183347Z",
+  "updated_at": "2026-05-13T10:15:29.827500Z"
+}

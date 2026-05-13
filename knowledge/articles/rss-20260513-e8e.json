@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260513-e8e",
+  "title": "Quack: The DuckDB Client-Server Protocol",
+  "source_url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+  "source": "rss",
+  "summary": "DuckDB introduces Quack, a client-server protocol enabling remote query execution over the network. This extends DuckDB's embedded analytics capabilities to distributed and cloud environments, supporting efficient data transfer and concurrent access.",
+  "tags": [
+    "tool",
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-13T10:14:58.183270Z",
+  "updated_at": "2026-05-13T10:15:29.827390Z"
+}
