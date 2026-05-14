@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260514-183",
+  "title": "Scrcpy v4.0",
+  "source_url": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
+  "source": "rss",
+  "summary": "Scrcpy v4.0 is a major release of the open-source tool for displaying and controlling Android devices from a desktop. It adds support for Android 15, introduces a new audio relay feature for forwarding device audio to the computer, and includes various performance improvements and bug fixes.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-14T10:07:38.388210Z",
+  "updated_at": "2026-05-14T10:08:09.159553Z"
+}

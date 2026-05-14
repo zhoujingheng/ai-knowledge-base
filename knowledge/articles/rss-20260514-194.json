@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260514-194",
+  "title": "The Emacsification of Software",
+  "source_url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
+  "source": "rss",
+  "summary": "The article argues that AI/ML development is becoming overly complex and customizable, akin to the Emacs editor's extensibility. It warns that this 'Emacsification' leads to fragile, hard-to-maintain systems where developers spend more time configuring tools than solving core problems, ultimately hindering productivity and reliability.",
+  "tags": [
+    "tool",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-14T10:07:38.387953Z",
+  "updated_at": "2026-05-14T10:08:09.159451Z"
+}

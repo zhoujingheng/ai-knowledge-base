@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260514-6b1",
+  "title": "Scorched Earth 2000 – Web",
+  "source_url": "http://www.scorch2000.com/web/",
+  "source": "rss",
+  "summary": "Scorched Earth 2000 is a web-based remake of the classic artillery game, implemented in JavaScript/HTML5. It features multiplayer, terrain deformation, and various weapons, demonstrating retro game development techniques in a modern browser environment.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-14T10:07:38.387405Z",
+  "updated_at": "2026-05-14T10:08:09.159176Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260514-ad6",
+  "title": "Wireloom: A Markdown extension for UI wireframes",
+  "source_url": "https://github.com/StardockCorp/Wireloom",
+  "source": "rss",
+  "summary": "Wireloom is a Markdown extension that enables the creation of UI wireframes directly within Markdown documents. It bridges the gap between plain text and visual design, allowing developers and designers to quickly prototype interfaces without leaving their editor.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-14T10:07:38.693632Z",
+  "updated_at": "2026-05-14T10:08:09.159735Z"
+}

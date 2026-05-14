@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260514-091",
+  "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+  "source_url": "https://arxiv.org/abs/2605.08419",
+  "source": "rss",
+  "summary": "This paper presents a novel approach to whole-binary translation that is deterministic and fully static, eliminating the need for heuristics. It achieves reliable translation of binary code across architectures, with implications for legacy software migration and security analysis.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-05-14T10:07:38.387995Z",
+  "updated_at": "2026-05-14T10:08:09.159441Z"
+}
