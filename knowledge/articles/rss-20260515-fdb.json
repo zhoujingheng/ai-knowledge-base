@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260515-fdb",
+  "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
+  "source_url": "https://github.com/DrCatHicks/learning-opportunities",
+  "source": "rss",
+  "summary": "This project presents a skill for Claude Code and Codex that enables deliberate skill development by identifying learning opportunities within codebases. It uses AI to analyze code, suggest targeted exercises, and track progress, turning everyday coding into structured practice for improving specific technical abilities.",
+  "tags": [
+    "tool",
+    "llm",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-15T10:14:04.413112Z",
+  "updated_at": "2026-05-15T10:14:41.893713Z"
+}

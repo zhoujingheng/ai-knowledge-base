@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260515-c2f",
+  "title": "Unlocking asynchronicity in continuous batching",
+  "source_url": "https://huggingface.co/blog/continuous_async",
+  "source": "rss",
+  "summary": "This content explores techniques for implementing asynchronous processing within continuous batching systems for LLM inference. It likely covers how to overlap computation and I/O, manage dynamic request queues, and improve throughput by avoiding synchronous bottlenecks, targeting production deployment scenarios.",
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-15T10:14:12.272566Z",
+  "updated_at": "2026-05-15T10:14:41.894911Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260515-fdd",
+  "title": "A few words on DS4",
+  "source_url": "https://antirez.com/news/165",
+  "source": "rss",
+  "summary": "The author reflects on the DS4 (DeepSeek) model, discussing its strengths, limitations, and implications for AI development. They highlight its impressive performance in reasoning tasks while noting areas where it falls short, offering a balanced perspective on its place in the current AI landscape.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-15T10:14:04.412796Z",
+  "updated_at": "2026-05-15T10:14:41.893443Z"
+}

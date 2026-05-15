@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260515-cd2",
+  "title": "Autonomous AI research for nanogpt speedrun",
+  "source_url": "https://www.primeintellect.ai/auto-nanogpt",
+  "source": "rss",
+  "summary": "This is a link to a discussion on Lobsters about autonomous AI research applied to optimizing the training speed of nanoGPT, a minimal implementation of GPT. The post likely explores using AI agents to automate hyperparameter tuning or architecture improvements for faster training.",
+  "tags": [
+    "agent",
+    "research",
+    "fine-tuning"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-15T10:14:04.803149Z",
+  "updated_at": "2026-05-15T10:14:41.893816Z"
+}

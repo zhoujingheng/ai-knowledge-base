@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260515-fe3",
+  "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+  "source_url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+  "source": "rss",
+  "summary": "An audit of AI note-taking tools used by Ontario doctors found they frequently hallucinate basic facts, such as patient names, dates, and medications. The errors raise serious safety concerns about deploying unvalidated LLMs in clinical settings without rigorous oversight.",
+  "tags": [
+    "llm",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-15T10:14:04.412772Z",
+  "updated_at": "2026-05-15T10:14:41.893410Z"
+}

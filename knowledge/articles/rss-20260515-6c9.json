@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260515-6c9",
+  "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+  "source_url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+  "source": "rss",
+  "summary": "The article explores using an RTX 5090 eGPU with an M4 MacBook Air for gaming, testing performance, compatibility, and practical viability. It highlights driver limitations, thermal constraints, and real-world gaming benchmarks, concluding that while technically possible, the setup faces significant hurdles for mainstream gaming use.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-15T10:14:04.412968Z",
+  "updated_at": "2026-05-15T10:14:41.893616Z"
+}

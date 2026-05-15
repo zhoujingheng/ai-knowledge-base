@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260515-6a8",
+  "title": "Microsoft BitLocker – YellowKey zero-day exploit",
+  "source_url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
+  "source": "rss",
+  "summary": "A zero-day exploit called YellowKey demonstrates a bypass of Microsoft BitLocker encryption using files on a USB stick, raising concerns about a potential backdoor. The attack undermines full-disk encryption security, highlighting critical vulnerabilities in enterprise data protection.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-15T10:14:04.413144Z",
+  "updated_at": "2026-05-15T10:14:41.893771Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260515-267",
+  "title": "Mullvad exit IPs are surprisingly identifying",
+  "source_url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+  "source": "rss",
+  "summary": "This article reveals that Mullvad VPN exit IPs can be used as a surprisingly effective fingerprinting vector, potentially identifying users across sessions. It analyzes how the limited pool of exit IPs and their reuse patterns create unique signatures, undermining anonymity. The findings highlight a subtle privacy risk in VPN services.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-15T10:14:04.412729Z",
+  "updated_at": "2026-05-15T10:14:41.893428Z"
+}

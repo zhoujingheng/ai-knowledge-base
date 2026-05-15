@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260515-3d3",
+  "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+  "source_url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+  "source": "rss",
+  "summary": "IBM releases Granite Embedding Multilingual R2, an open-source (Apache 2.0) multilingual embedding model with 32K context length. It achieves state-of-the-art retrieval quality among sub-100M parameter models, supporting 12 languages. The model is optimized for RAG pipelines and enterprise search.",
+  "tags": [
+    "rag",
+    "fine-tuning",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-15T10:14:12.272550Z",
+  "updated_at": "2026-05-15T10:14:41.894898Z"
+}

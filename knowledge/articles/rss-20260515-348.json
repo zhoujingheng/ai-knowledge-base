@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260515-348",
+  "title": "Codex is now in the ChatGPT mobile app",
+  "source_url": "https://openai.com/index/work-with-codex-from-anywhere/",
+  "source": "rss",
+  "summary": "OpenAI has integrated Codex, its AI coding assistant, into the ChatGPT mobile app, enabling developers to write, debug, and explain code directly from their phones. This expands Codex's accessibility beyond desktop environments, making AI-assisted coding available anywhere.",
+  "tags": [
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-15T10:14:04.412849Z",
+  "updated_at": "2026-05-15T10:14:41.893466Z"
+}

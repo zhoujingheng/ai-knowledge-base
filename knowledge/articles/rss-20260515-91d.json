@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260515-91d",
+  "title": "O(x)Caml in Space",
+  "source_url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+  "source": "rss",
+  "summary": "A discussion thread about using OCaml in space applications, likely covering functional programming's reliability and performance benefits for aerospace systems. The content appears to be a link aggregation with community comments.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-05-15T10:14:04.909797Z",
+  "updated_at": "2026-05-15T10:14:41.894313Z"
+}

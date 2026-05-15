@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260515-354",
+  "title": "Rewrite Bun in Rust has been merged",
+  "source_url": "https://github.com/oven-sh/bun/pull/30412",
+  "source": "rss",
+  "summary": "Bun, a JavaScript runtime, has merged a pull request to rewrite its core in Rust, replacing Zig. This aims to improve performance, safety, and ecosystem compatibility, sparking debate on language trade-offs in systems programming.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-15T10:14:04.413070Z",
+  "updated_at": "2026-05-15T10:14:41.893702Z"
+}

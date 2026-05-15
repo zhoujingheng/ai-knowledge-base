@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260515-8fd",
+  "title": "First public macOS kernel memory corruption exploit on Apple M5",
+  "source_url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+  "source": "rss",
+  "summary": "This article details the first public macOS kernel memory corruption exploit targeting the Apple M5 chip. It explains the vulnerability, exploitation technique, and implications for system security, highlighting advanced kernel-level attack vectors.",
+  "tags": [
+    "research",
+    "exploit",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 9,
+  "created_at": "2026-05-15T10:14:04.412873Z",
+  "updated_at": "2026-05-15T10:14:41.893477Z"
+}

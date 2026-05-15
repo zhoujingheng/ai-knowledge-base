@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260515-b26",
+  "title": "New arXiv policy: 1-year ban for hallucinated references",
+  "source_url": "https://twitter.com/tdietterich/status/2055000956144935055",
+  "source": "rss",
+  "summary": "arXiv announces a new policy imposing a 1-year ban on authors who submit papers with hallucinated references, targeting AI-generated content that fabricates citations. This aims to maintain research integrity by penalizing misuse of LLMs in academic writing.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-15T10:14:04.412824Z",
+  "updated_at": "2026-05-15T10:14:41.893455Z"
+}

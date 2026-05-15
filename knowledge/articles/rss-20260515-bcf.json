@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260515-bcf",
+  "title": "New Nginx Exploit",
+  "source_url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+  "source": "rss",
+  "summary": "A new Nginx exploit, dubbed 'Nginx-Rift,' has been disclosed, targeting a vulnerability in the web server. The GitHub repository provides technical details and proof-of-concept code, sparking discussion on Hacker News about its impact and mitigation strategies.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-15T10:14:04.412920Z",
+  "updated_at": "2026-05-15T10:14:41.893488Z"
+}
