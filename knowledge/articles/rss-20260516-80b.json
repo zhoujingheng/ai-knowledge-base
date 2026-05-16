@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260516-80b",
+  "title": "We are retiring our bug bounty program",
+  "source_url": "https://turso.tech/blog/the-wonders-of-ai",
+  "source": "rss",
+  "summary": "The article discusses the surprising effectiveness of AI, particularly LLMs, in solving complex programming and database problems, highlighting how AI can generate efficient SQL queries and debug code. It reflects on the implications for software development and the potential retirement of traditional bug bounty programs due to AI's capabilities.",
+  "tags": [
+    "llm",
+    "rag",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-16T09:23:21.265994Z",
+  "updated_at": "2026-05-16T09:23:53.119717Z"
+}

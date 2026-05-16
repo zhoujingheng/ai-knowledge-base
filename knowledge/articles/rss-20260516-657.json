@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260516-657",
+  "title": "'No way to prevent this,' says only package manager where this regularly happens",
+  "source_url": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
+  "source": "rss",
+  "summary": "This article critiques the recurring security vulnerabilities in package managers, particularly npm, using satire to highlight the systemic failure to prevent supply chain attacks. It argues that the industry's acceptance of these incidents as inevitable reflects a deeper cultural and technical problem, not an unavoidable reality.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-16T09:23:21.265634Z",
+  "updated_at": "2026-05-16T09:23:53.119496Z"
+}

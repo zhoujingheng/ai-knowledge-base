@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260516-682",
+  "title": "A 0-click exploit chain for the Pixel 10",
+  "source_url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+  "source": "rss",
+  "summary": "This is a technical write-up from Google Project Zero detailing a 0-click exploit chain targeting the Pixel 10. It describes multiple vulnerabilities in the device's baseband and kernel, chained together to achieve remote code execution without user interaction. The analysis covers exploitation techniques, mitigations, and the patch timeline.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 9,
+  "created_at": "2026-05-16T09:23:21.265970Z",
+  "updated_at": "2026-05-16T09:23:53.119700Z"
+}

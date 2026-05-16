@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260516-01f",
+  "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+  "source_url": "https://github.com/oven-sh/bun/issues/30719",
+  "source": "rss",
+  "summary": "A GitHub issue reports that Bun's Rust rewrite fails basic Miri checks, allowing undefined behavior (UB) in safe Rust code. This raises concerns about memory safety in the runtime, sparking debate on the Hacker News thread about Rust's safety guarantees and the challenges of rewriting complex software.",
+  "tags": [
+    "tool",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-16T09:23:21.265920Z",
+  "updated_at": "2026-05-16T09:23:53.119638Z"
+}

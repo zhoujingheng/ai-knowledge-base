@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260516-00d",
+  "title": "why use F# for scripting and automation?",
+  "source_url": "https://iev.ee/blog/why-use-fsharp/",
+  "source": "rss",
+  "summary": "The content discusses the benefits of using F# for scripting and automation tasks, highlighting its functional programming features, strong typing, and .NET ecosystem integration. It compares F# to other scripting languages, emphasizing conciseness, reliability, and performance for automation workflows.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-16T09:23:21.682579Z",
+  "updated_at": "2026-05-16T09:23:53.120636Z"
+}

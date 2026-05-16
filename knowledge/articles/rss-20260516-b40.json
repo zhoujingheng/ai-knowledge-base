@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260516-b40",
+  "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+  "source_url": "https://github.com/Andyyyy64/whichllm",
+  "source": "rss",
+  "summary": "A GitHub tool that benchmarks and ranks local LLMs based on user hardware specs, helping users select the best-performing model for their specific system. It aggregates benchmark data to provide personalized recommendations.",
+  "tags": [
+    "llm",
+    "tool",
+    "benchmarking"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-16T09:23:21.266039Z",
+  "updated_at": "2026-05-16T09:23:53.119710Z"
+}

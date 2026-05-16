@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260516-810",
+  "title": "UK government replaces Palantir software with internally-built refugee system",
+  "source_url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
+  "source": "rss",
+  "summary": "The UK government is replacing Palantir's software with an internally-built system for managing refugee cases. This move reflects a shift away from proprietary AI/ML tools toward in-house development, likely for cost, control, or ethical reasons. The discussion on Hacker News explores implications for government tech, data sovereignty, and algorithmic decision-making.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-16T09:23:21.266128Z",
+  "updated_at": "2026-05-16T09:23:53.119937Z"
+}
