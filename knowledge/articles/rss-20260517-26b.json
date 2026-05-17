@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260517-26b",
+  "title": "Data race freedom in OxCaml",
+  "source_url": "https://kcsrk.info/ocaml/oxcaml/x-ocaml/blogging/2026/05/07/data-race-freedom-in-oxcaml/",
+  "source": "rss",
+  "summary": "This content discusses data race freedom in OxCaml, a programming language concept likely related to safe concurrent programming. It focuses on ensuring memory safety and preventing race conditions, which is relevant to AI/ML systems that require robust parallel execution.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-17T09:28:32.519594Z",
+  "updated_at": "2026-05-17T09:29:02.072766Z"
+}

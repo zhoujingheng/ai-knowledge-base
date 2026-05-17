@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260517-8c4",
+  "title": "Frontier AI has broken the open CTF format",
+  "source_url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+  "source": "rss",
+  "summary": "The article argues that advanced AI systems have rendered traditional open Capture The Flag (CTF) competitions obsolete by easily solving challenges designed for human participants. It explores how AI's ability to automate complex problem-solving undermines the core premise of CTFs, prompting a need for new formats that test human-AI collaboration or harder, AI-resistant problems.",
+  "tags": [
+    "research",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-17T09:28:31.721161Z",
+  "updated_at": "2026-05-17T09:29:02.071739Z"
+}

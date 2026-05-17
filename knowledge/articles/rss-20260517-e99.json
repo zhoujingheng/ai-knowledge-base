@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260517-e99",
+  "title": "Erlang/OTP 29.0",
+  "source_url": "https://www.erlang.org/news/188",
+  "source": "rss",
+  "summary": "Erlang/OTP 29.0 is a major release of the Erlang runtime and libraries. While not directly an AI/ML tool, it provides the foundational infrastructure (concurrency, fault-tolerance) used to build scalable AI/ML systems, particularly for real-time inference and distributed agent coordination.",
+  "tags": [
+    "framework",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-17T09:28:31.721231Z",
+  "updated_at": "2026-05-17T09:29:02.071759Z"
+}

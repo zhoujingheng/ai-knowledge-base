@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260517-d82",
+  "title": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
+  "source_url": "https://github.com/chiennv2000/orthrus",
+  "source": "rss",
+  "summary": "Orthrus-Qwen3 is a speculative decoding framework that accelerates Qwen3 inference by up to 7.8× tokens per forward pass while preserving identical output distribution. It uses a lightweight draft model to predict multiple tokens per step, enabling faster generation without quality loss.",
+  "tags": [
+    "framework",
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-05-17T09:28:31.721276Z",
+  "updated_at": "2026-05-17T09:29:02.071751Z"
+}

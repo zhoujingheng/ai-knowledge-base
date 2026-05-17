@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260517-2ee",
+  "title": "We've made the world too complicated",
+  "source_url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
+  "source": "rss",
+  "summary": "The article argues that modern software and AI systems have become overly complex, leading to fragility and cognitive overload. It advocates for simplicity in design, suggesting that many problems stem from unnecessary abstraction and tooling, and calls for a return to more straightforward, maintainable approaches.",
+  "tags": [
+    "tool",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-17T09:28:31.721129Z",
+  "updated_at": "2026-05-17T09:29:02.071687Z"
+}

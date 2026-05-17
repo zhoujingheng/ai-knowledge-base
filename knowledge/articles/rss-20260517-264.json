@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260517-264",
+  "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+  "source_url": "https://nvlabs.github.io/Sana/WM/",
+  "source": "rss",
+  "summary": "NVIDIA introduces SANA-WM, a 2.6 billion parameter open-source world model capable of generating 1-minute, 720p videos. It focuses on long-duration, high-resolution video generation, aiming to advance world modeling for AI systems by simulating realistic, temporally consistent scenes.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-05-17T09:28:31.720907Z",
+  "updated_at": "2026-05-17T09:29:02.071538Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260517-9cb",
+  "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+  "source_url": "https://crates.io/crates/zerostack/1.0.0",
+  "source": "rss",
+  "summary": "Zerostack is a Unix-inspired coding agent built entirely in Rust, emphasizing minimalism and composability. It leverages a stack-based architecture for code generation and manipulation, targeting developers who prefer lightweight, performant tools over heavy AI frameworks.",
+  "tags": [
+    "agent",
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-17T09:28:31.720743Z",
+  "updated_at": "2026-05-17T09:29:02.071447Z"
+}

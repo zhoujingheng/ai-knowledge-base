@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260517-2e5",
+  "title": "SQL patterns I use to catch transaction fraud",
+  "source_url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
+  "source": "rss",
+  "summary": "This article discusses practical SQL patterns for detecting transaction fraud, focusing on query techniques like velocity checks, anomaly detection, and rule-based filtering. It emphasizes real-world implementations using SQL rather than advanced ML models, making it accessible for analysts and engineers working with transactional data.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-17T09:28:31.721253Z",
+  "updated_at": "2026-05-17T09:29:02.071766Z"
+}
