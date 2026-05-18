@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260518-490",
+  "title": "Native all the way, until you need text",
+  "source_url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+  "source": "rss",
+  "summary": "The article argues that while native mobile or desktop apps offer performance benefits, they often struggle with text handling—rendering, editing, or accessibility—compared to web-based solutions. It explores trade-offs between native and web approaches, emphasizing that text complexity frequently forces developers to compromise on native purity.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-05-18T11:38:41.586970Z",
+  "updated_at": "2026-05-18T11:39:14.411459Z"
+}

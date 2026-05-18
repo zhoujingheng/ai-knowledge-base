@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260518-fdc",
+  "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
+  "source_url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
+  "source": "rss",
+  "summary": "After Fisker's bankruptcy, owners of the Ocean EV created an open-source project to maintain and improve their vehicles, developing software, parts, and community resources. This grassroots effort demonstrates how open-source collaboration can rescue proprietary technology, with implications for AI/ML in vehicle diagnostics, firmware updates, and decentralized maintenance systems.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-18T11:38:41.587104Z",
+  "updated_at": "2026-05-18T11:39:14.411569Z"
+}

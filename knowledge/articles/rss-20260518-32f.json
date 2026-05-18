@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260518-32f",
+  "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+  "source_url": "https://github.com/MinishLab/semble",
+  "source": "rss",
+  "summary": "Semble is an open-source code search tool for AI agents that combines static embeddings (Model2Vec) with BM25 and code-aware reranking. It achieves 98% fewer tokens than grep+read, 99% of transformer retrieval quality, and runs entirely on CPU. Designed as an MCP server, it integrates with Claude Code, Cursor, and other agent frameworks.",
+  "tags": [
+    "agent",
+    "tool",
+    "rag"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-18T11:38:41.586791Z",
+  "updated_at": "2026-05-18T11:39:14.411290Z"
+}

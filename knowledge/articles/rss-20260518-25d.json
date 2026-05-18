@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260518-25d",
+  "title": "AI subscriptions are a ticking time bomb for enterprise",
+  "source_url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+  "source": "rss",
+  "summary": "This article argues that enterprise reliance on AI subscriptions creates unsustainable vendor lock-in, cost volatility, and data dependency risks. It warns that as AI model costs rise and providers change terms, businesses face a 'ticking time bomb' of escalating expenses and strategic vulnerability, urging a shift toward open-source or self-hosted alternatives.",
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-18T11:38:41.586991Z",
+  "updated_at": "2026-05-18T11:39:14.411446Z"
+}

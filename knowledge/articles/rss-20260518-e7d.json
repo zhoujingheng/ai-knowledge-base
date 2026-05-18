@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260518-e7d",
+  "title": "Apple Silicon costs more than OpenRouter",
+  "source_url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+  "source": "rss",
+  "summary": "This article compares the cost and energy efficiency of running LLMs locally on Apple Silicon versus using cloud APIs like OpenRouter. It finds that for most users, cloud inference is cheaper and more energy-efficient, challenging the assumption that local models are more economical or environmentally friendly.",
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-18T11:38:41.586950Z",
+  "updated_at": "2026-05-18T11:39:14.411335Z"
+}

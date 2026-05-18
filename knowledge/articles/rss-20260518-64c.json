@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260518-64c",
+  "title": "GenCAD",
+  "source_url": "https://gencad.github.io/",
+  "source": "rss",
+  "summary": "GenCAD is a framework for generating CAD models using AI, enabling users to create parametric 3D designs from natural language or sketches. It leverages machine learning to automate design workflows, targeting engineers and designers.",
+  "tags": [
+    "framework",
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-18T11:38:41.586642Z",
+  "updated_at": "2026-05-18T11:39:14.411185Z"
+}

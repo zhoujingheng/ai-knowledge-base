@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260518-d78",
+  "title": "AI is a technology not a product",
+  "source_url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+  "source": "rss",
+  "summary": "The article argues that AI, like electricity or the internet, is a foundational technology rather than a standalone product. It critiques the current hype cycle where companies market AI features as products, suggesting true value comes from integrating AI into existing, useful applications rather than selling AI itself.",
+  "tags": [
+    "llm",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-18T11:38:41.586886Z",
+  "updated_at": "2026-05-18T11:39:14.411323Z"
+}

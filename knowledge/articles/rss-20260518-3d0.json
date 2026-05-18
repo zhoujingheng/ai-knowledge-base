@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260518-3d0",
+  "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+  "source_url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+  "source": "rss",
+  "summary": "A security researcher claims Microsoft built a backdoor into Bitlocker encryption and has released an exploit. The controversy, discussed on Hacker News, raises concerns about encryption integrity and trust in proprietary security systems.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-18T11:38:41.586816Z",
+  "updated_at": "2026-05-18T11:39:14.411267Z"
+}
