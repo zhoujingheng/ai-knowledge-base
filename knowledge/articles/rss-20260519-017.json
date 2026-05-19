@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260519-017",
+  "title": "Show HN: Auto-identity-remove – Automated data broker opt-out runner for macOS",
+  "source_url": "https://github.com/stephenlthorn/auto-identity-remove",
+  "source": "rss",
+  "summary": "A macOS automation tool that runs data broker opt-out requests in the background, using scheduled tasks and browser automation to remove personal information from people-search sites. It simplifies privacy maintenance by automating repetitive opt-out workflows.",
+  "tags": [
+    "tool",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-19T10:55:02.364865Z",
+  "updated_at": "2026-05-19T10:55:51.161857Z"
+}

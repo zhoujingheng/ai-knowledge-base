@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260519-210",
+  "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+  "source_url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+  "source": "rss",
+  "summary": "PaddleOCR 3.5 introduces a Transformers backend for OCR and document parsing tasks, enabling state-of-the-art performance in text detection, recognition, and layout analysis. It leverages transformer architectures for improved accuracy and efficiency in processing complex documents.",
+  "tags": [
+    "framework",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-19T10:55:24.141801Z",
+  "updated_at": "2026-05-19T10:55:51.163084Z"
+}

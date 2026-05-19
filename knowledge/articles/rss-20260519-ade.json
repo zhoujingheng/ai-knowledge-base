@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260519-ade",
+  "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+  "source_url": "https://github.com/zakirullin/files.md",
+  "source": "rss",
+  "summary": "Files.md is an open-source, markdown-based file manager that serves as an alternative to Obsidian. It focuses on local-first, plain-text file management with a clean interface, leveraging markdown for note-taking and organization without proprietary formats or cloud dependency.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-19T10:55:02.364840Z",
+  "updated_at": "2026-05-19T10:55:51.161798Z"
+}

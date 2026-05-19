@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260519-9cc",
+  "title": "Project Glasswing: what Mythos showed us",
+  "source_url": "https://blog.cloudflare.com/cyber-frontier-models/",
+  "source": "rss",
+  "summary": "Cloudflare's 'Project Glasswing' analyzes how frontier AI models (like Mythos) can be exploited for cyberattacks, including automated vulnerability discovery and social engineering. The article discusses defensive strategies, such as prompt injection and model-level guardrails, to mitigate these risks in real-world deployment.",
+  "tags": [
+    "llm",
+    "deployment",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-19T10:55:02.364812Z",
+  "updated_at": "2026-05-19T10:55:51.161785Z"
+}
