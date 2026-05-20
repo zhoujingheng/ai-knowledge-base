@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260520-8ed",
+  "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+  "source_url": "https://github.com/antoinezambelli/forge",
+  "source": "rss",
+  "summary": "Forge is an open-source reliability layer for self-hosted LLM tool-calling that boosts an 8B model from ~53% to ~99% on agentic tasks using domain-agnostic guardrails (retry nudges, error recovery, step enforcement, VRAM-aware context management). It runs on consumer hardware, includes an eval harness, and reveals that serving backend choice can cause 75-point accuracy swings. Peer-reviewed at ACM CAIS '26.",
+  "tags": [
+    "agent",
+    "framework",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-05-20T10:43:15.428532Z",
+  "updated_at": "2026-05-20T10:43:42.836030Z"
+}

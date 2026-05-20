@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260520-6fd",
+  "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+  "source_url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+  "source": "rss",
+  "summary": "A supply chain attack compromised 314 npm packages, likely via typosquatting or dependency confusion. The incident highlights ongoing security risks in open-source ecosystems, emphasizing the need for robust package verification and monitoring tools.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-20T10:43:15.428658Z",
+  "updated_at": "2026-05-20T10:43:42.836102Z"
+}

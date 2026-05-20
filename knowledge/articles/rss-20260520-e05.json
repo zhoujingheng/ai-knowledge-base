@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260520-e05",
+  "title": "Introducing the Ettin Reranker Family",
+  "source_url": "https://huggingface.co/blog/ettin-reranker",
+  "source": "rss",
+  "summary": "The Ettin Reranker Family introduces a new set of reranking models designed to improve search and retrieval quality by reordering initial results. These models likely focus on efficiency and accuracy, targeting applications in RAG pipelines and information retrieval systems.",
+  "tags": [
+    "rag",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-20T10:43:18.152420Z",
+  "updated_at": "2026-05-20T10:43:42.837461Z"
+}

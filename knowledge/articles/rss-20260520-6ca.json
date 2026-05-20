@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260520-6ca",
+  "title": "Google changes its search box",
+  "source_url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+  "source": "rss",
+  "summary": "Google has redesigned its search box, integrating AI-driven features that fundamentally alter the traditional search experience. The update, widely covered by major tech outlets, shifts from a simple query interface to a more conversational, context-aware system, likely leveraging large language models to generate direct answers and summaries rather than just links.",
+  "tags": [
+    "llm",
+    "rag",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-20T10:43:15.428280Z",
+  "updated_at": "2026-05-20T10:43:42.835993Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260520-8ec",
+  "title": "Gemini 3.5: frontier intelligence with action",
+  "source_url": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
+  "source": "rss",
+  "summary": "Gemini 3.5 is a frontier AI model designed for executing complex, agentic workflows, enabling autonomous task completion and multi-step reasoning with action capabilities.",
+  "tags": [
+    "agent",
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-20T10:43:18.710719Z",
+  "updated_at": "2026-05-20T10:43:42.838103Z"
+}

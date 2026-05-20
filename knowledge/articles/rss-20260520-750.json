@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260520-750",
+  "title": "Introducing Gemini Omni",
+  "source_url": "https://deepmind.google/blog/introducing-gemini-omni/",
+  "source": "rss",
+  "summary": "This content introduces Gemini Omni, a new AI model from Google that processes text, images, audio, and video natively, enabling multimodal understanding and generation. It emphasizes real-time interaction, improved reasoning, and seamless integration across modalities, positioning it as a step toward more human-like AI assistants.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-20T10:43:18.710554Z",
+  "updated_at": "2026-05-20T10:43:42.838007Z"
+}

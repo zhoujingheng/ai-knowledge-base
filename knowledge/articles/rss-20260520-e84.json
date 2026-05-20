@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260520-e84",
+  "title": "Uniting biological toolkits for a new approach to ALS",
+  "source_url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+  "source": "rss",
+  "summary": "This content describes a collaborative AI-driven research initiative between Boston Children’s Hospital and MIT, using a 'Co-Scientist' system to explore RNA-based treatments for ALS. It highlights the application of machine learning to integrate biological toolkits and accelerate drug discovery for neurodegenerative disease.",
+  "tags": [
+    "research",
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-20T10:43:18.710683Z",
+  "updated_at": "2026-05-20T10:43:42.838126Z"
+}

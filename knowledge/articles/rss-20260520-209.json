@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260520-209",
+  "title": "Categorizing without an LLM",
+  "source_url": "https://softwaremaniacs.org/blog/2026/05/18/shoppy/",
+  "source": "rss",
+  "summary": "The post discusses methods for categorizing data without relying on large language models (LLMs), likely exploring traditional machine learning or rule-based approaches as alternatives for classification tasks.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-05-20T10:43:15.912735Z",
+  "updated_at": "2026-05-20T10:43:42.836309Z"
+}

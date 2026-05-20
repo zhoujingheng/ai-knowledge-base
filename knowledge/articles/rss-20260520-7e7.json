@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260520-7e7",
+  "title": "GitHub is investigating unauthorized access to their internal repositories",
+  "source_url": "https://twitter.com/github/status/2056884788179726685",
+  "source": "rss",
+  "summary": "GitHub is investigating unauthorized access to its internal repositories, likely involving leaked credentials or a breach. This incident raises concerns about supply chain security and the protection of proprietary code, including potential exposure of AI/ML models or training data.",
+  "tags": [
+    "security",
+    "infrastructure"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-20T10:43:15.428165Z",
+  "updated_at": "2026-05-20T10:43:42.835890Z"
+}

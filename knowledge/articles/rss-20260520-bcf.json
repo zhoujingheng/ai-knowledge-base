@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260520-bcf",
+  "title": "Show HN: Gaussian Splat of a Strawberry",
+  "source_url": "https://superspl.at/scene/84df8849",
+  "source": "rss",
+  "summary": "A user demonstrates 3D Gaussian Splatting applied to a strawberry, showcasing a photorealistic scene reconstruction from multiple images. The post highlights a practical, visually impressive application of this novel view synthesis technique, generating significant community interest and discussion.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-20T10:43:15.428587Z",
+  "updated_at": "2026-05-20T10:43:42.836090Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260520-15d",
+  "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
+  "source_url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+  "source": "rss",
+  "summary": "Co-Scientist is a multi-agent AI system built on Gemini, designed to collaborate with researchers to accelerate scientific discovery. It leverages multiple specialized agents to assist with hypothesis generation, experiment design, and data analysis, aiming to speed up breakthroughs.",
+  "tags": [
+    "agent",
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-20T10:43:18.710730Z",
+  "updated_at": "2026-05-20T10:43:42.838115Z"
+}

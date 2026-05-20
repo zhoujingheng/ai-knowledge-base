@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260520-50e",
+  "title": "Simulate real-world places with Project Genie and Street View",
+  "source_url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+  "source": "rss",
+  "summary": "Google is expanding access to its AI Ultra subscribers globally and introducing Project Genie, a new capability that uses Street View to simulate real-world places. This likely involves AI-generated or enhanced immersive experiences based on geographic data.",
+  "tags": [
+    "tool",
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-20T10:43:18.710545Z",
+  "updated_at": "2026-05-20T10:43:42.837949Z"
+}
