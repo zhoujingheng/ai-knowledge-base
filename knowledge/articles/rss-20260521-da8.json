@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260521-da8",
+  "title": "FiveThirtyEight articles on the Internet Archive",
+  "source_url": "https://fivethirtyeightindex.com/",
+  "source": "rss",
+  "summary": "This is a Hacker News post sharing a link to FiveThirtyEightIndex.com, a site that archives FiveThirtyEight articles via the Internet Archive. It is not directly about AI/ML, but rather a data curation and archival resource that could be used for training or analysis. The high engagement (370 points, 81 comments) suggests community interest in preserving journalistic datasets.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-05-21T11:00:22.539517Z",
+  "updated_at": "2026-05-21T11:00:56.140088Z"
+}

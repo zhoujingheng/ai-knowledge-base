@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260521-82b",
+  "title": "I spent 31 hours on the math behind TurboQuant so you don't have to",
+  "source_url": "https://www.baseten.co/blog/i-spent-31-hours-on-the-math-behind-turboquant-so-you-dont-have-to/",
+  "source": "rss",
+  "summary": "The author dedicates 31 hours to explaining the mathematical foundations of TurboQuant, a quantization method for neural networks. The post likely covers algorithmic details, trade-offs, and implementation insights, targeting readers interested in model compression and efficient deployment.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-05-21T11:00:22.778994Z",
+  "updated_at": "2026-05-21T11:00:56.140225Z"
+}

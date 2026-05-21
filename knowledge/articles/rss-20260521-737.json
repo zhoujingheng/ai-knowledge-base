@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260521-737",
+  "title": "Flipper One Tech Specs",
+  "source_url": "https://docs.flipper.net/one/general/tech-specs",
+  "source": "rss",
+  "summary": "The Flipper One is a multi-tool device for pentesting and hardware hacking, not an AI/ML product. Its tech specs detail hardware components like an ESP32-S3, nRF52840, and CC1101 transceiver, focusing on RFID, NFC, infrared, and GPIO capabilities. The content is unrelated to AI/ML, scoring low on technical depth in that domain.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 1,
+  "created_at": "2026-05-21T11:00:22.539222Z",
+  "updated_at": "2026-05-21T11:00:56.139902Z"
+}

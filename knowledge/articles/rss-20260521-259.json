@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260521-259",
+  "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+  "source_url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+  "source": "rss",
+  "summary": "GitHub confirmed a breach of 3,800 internal repositories via a malicious VSCode extension. The attack exploited developer tooling, not AI/ML systems, but highlights supply-chain risks in AI-assisted coding environments. The incident underscores security vulnerabilities in widely used development platforms.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-21T11:00:22.539297Z",
+  "updated_at": "2026-05-21T11:00:56.139973Z"
+}

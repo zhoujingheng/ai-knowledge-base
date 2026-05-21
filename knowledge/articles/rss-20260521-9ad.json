@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260521-9ad",
+  "title": "Saying goodbye to asm.js",
+  "source_url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
+  "source": "rss",
+  "summary": "Mozilla's SpiderMonkey team announces the deprecation and removal of asm.js support from Firefox, citing the widespread adoption of WebAssembly as a superior and more performant standard. The post details the history, rationale, and migration path, marking the end of an era for this early performance optimization technique for the web.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-21T11:00:22.539404Z",
+  "updated_at": "2026-05-21T11:00:56.139996Z"
+}
