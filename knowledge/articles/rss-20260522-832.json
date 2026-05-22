@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260522-832",
+  "title": "Project Hail Mary – Stellar Navigation Chart",
+  "source_url": "https://valhovey.github.io/gaia-mary/",
+  "source": "rss",
+  "summary": "Project Hail Mary is an interactive stellar navigation chart that visualizes nearby star systems using real astronomical data. It allows users to explore 3D space, filter stars by type, and simulate travel routes, blending educational astronomy with a sci-fi aesthetic inspired by the novel.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-22T10:43:14.842427Z",
+  "updated_at": "2026-05-22T10:43:51.551893Z"
+}

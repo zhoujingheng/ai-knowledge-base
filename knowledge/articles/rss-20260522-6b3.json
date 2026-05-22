@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260522-6b3",
+  "title": "Python 3.15: features that didn't make the headlines",
+  "source_url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+  "source": "rss",
+  "summary": "This article highlights lesser-known features in Python 3.15, focusing on improvements to the language's internals, such as enhanced error messages, new syntax for pattern matching, and optimizations to the interpreter. It targets developers interested in Python's evolution beyond major headline features.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-22T10:43:14.842676Z",
+  "updated_at": "2026-05-22T10:43:51.551929Z"
+}

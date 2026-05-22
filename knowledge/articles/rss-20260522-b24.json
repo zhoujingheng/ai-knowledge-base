@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260522-b24",
+  "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
+  "source_url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
+  "source": "rss",
+  "summary": "Waymo has paused its autonomous taxi service in Atlanta after repeated incidents where its robotaxis drove into floodwaters. The issue highlights challenges in edge-case handling for autonomous driving systems, particularly in adverse weather and dynamic environmental conditions.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-22T10:43:14.842378Z",
+  "updated_at": "2026-05-22T10:43:51.551853Z"
+}

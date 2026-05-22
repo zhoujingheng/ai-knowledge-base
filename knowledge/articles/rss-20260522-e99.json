@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260522-e99",
+  "title": "Show HN: I reverse engineered Apple's video wallpapers",
+  "source_url": "https://github.com/kageroumado/phosphene",
+  "source": "rss",
+  "summary": "The author reverse-engineered Apple's video wallpaper system (WallpaperExtensionKit.framework) to create Phosphene, an open-source tool for custom video wallpapers on macOS. It features gapless looping, thermal/battery management, and window occlusion handling, but lacks a native 'add' button, requiring a companion app.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-22T10:43:14.842841Z",
+  "updated_at": "2026-05-22T10:43:51.552100Z"
+}

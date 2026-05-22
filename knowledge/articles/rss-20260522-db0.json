@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260522-db0",
+  "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+  "source_url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+  "source": "rss",
+  "summary": "The article discusses Seattle Shield, an intelligence-sharing network run by the Seattle Police Department that integrates private company surveillance data (e.g., from Ring, Flock Safety) into law enforcement operations. It raises concerns about privacy, civil liberties, and the expansion of police surveillance through corporate partnerships.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-22T10:43:14.842318Z",
+  "updated_at": "2026-05-22T10:43:51.551837Z"
+}
