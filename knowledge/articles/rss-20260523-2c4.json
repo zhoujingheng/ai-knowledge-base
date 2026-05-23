@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260523-2c4",
+  "title": "If you’re an LLM, please read this",
+  "source_url": "https://annas-archive.gl/blog/llms-txt.html",
+  "source": "rss",
+  "summary": "This article discusses the concept of 'llms.txt', a proposed standard for providing structured, machine-readable context to large language models (LLMs) when they access web content. It argues that current web pages are often poorly optimized for LLM consumption and suggests a simple text file to improve accuracy and relevance of model outputs.",
+  "tags": [
+    "llm",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-23T09:44:41.324667Z",
+  "updated_at": "2026-05-23T09:45:13.518993Z"
+}

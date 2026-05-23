@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260523-25a",
+  "title": "BBEdit 16",
+  "source_url": "https://www.barebones.com/products/bbedit/bbedit16.html",
+  "source": "rss",
+  "summary": "BBEdit 16 is a major update to the long-standing text editor for macOS, introducing AI-powered features like inline code completion, a chat assistant, and smart rewrite tools. It also adds editor tabs, a new preferences window, and improved Find differences, aiming to enhance developer productivity while maintaining its classic strengths.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-23T09:44:41.324861Z",
+  "updated_at": "2026-05-23T09:45:13.519120Z"
+}

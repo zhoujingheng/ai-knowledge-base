@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260523-d58",
+  "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+  "source": "rss",
+  "summary": "The article argues that in AI procurement, prioritizing specialized models tailored to specific tasks often yields better performance and cost-efficiency than relying on larger, general-purpose models. It highlights a strategic oversight where organizations focus on scale rather than specialization, advocating for a more nuanced evaluation of model capabilities for targeted use cases.",
+  "tags": [
+    "llm",
+    "deployment",
+    "rag"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-23T09:44:46.475293Z",
+  "updated_at": "2026-05-23T09:45:13.520029Z"
+}

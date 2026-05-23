@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260523-d6e",
+  "title": "News outlets are limiting the Internet Archive’s access to their journalism",
+  "source_url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
+  "source": "rss",
+  "summary": "Over 340 local news outlets are restricting the Internet Archive from crawling their journalism, citing concerns over copyright and revenue loss. This limits the Archive's ability to preserve news content and train AI models, raising issues about data access for research and machine learning.",
+  "tags": [
+    "research",
+    "rag"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-23T09:44:41.324910Z",
+  "updated_at": "2026-05-23T09:45:13.519131Z"
+}

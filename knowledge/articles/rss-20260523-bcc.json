@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260523-bcc",
+  "title": "DeepSeek makes the V4 Pro price discount permanent",
+  "source_url": "https://api-docs.deepseek.com/quick_start/pricing",
+  "source": "rss",
+  "summary": "DeepSeek announces permanent price reduction for its V4 Pro model API, setting it at 1/4 of the original price after a promotional period ends in May 2026. This move makes advanced AI inference more accessible for developers and businesses.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-23T09:44:41.324595Z",
+  "updated_at": "2026-05-23T09:45:13.518882Z"
+}

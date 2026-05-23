@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260523-1ed",
+  "title": "Deno 2.8",
+  "source_url": "https://deno.com/blog/v2.8",
+  "source": "rss",
+  "summary": "Deno 2.8 introduces significant improvements for AI/ML workflows, including built-in support for running LLMs via WebGPU, enhanced package management, and better compatibility with Node.js. It aims to simplify deployment of AI applications by providing a unified runtime for JavaScript/TypeScript, reducing the need for external tools.",
+  "tags": [
+    "deployment",
+    "llm",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-23T09:44:41.324691Z",
+  "updated_at": "2026-05-23T09:45:13.518983Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260523-a60",
+  "title": "Project Glasswing: An Initial Update",
+  "source_url": "https://www.anthropic.com/research/glasswing-initial-update",
+  "source": "rss",
+  "summary": "Anthropic introduces Project Glasswing, an initiative to study and improve interpretability in large language models by analyzing internal representations. The update outlines early progress in understanding how models process and represent concepts, aiming to enhance safety and transparency.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-23T09:44:41.324507Z",
+  "updated_at": "2026-05-23T09:45:13.518845Z"
+}

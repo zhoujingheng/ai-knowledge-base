@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260523-789",
+  "title": "Uv is fantastic, but its package management UX is a mess",
+  "source_url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+  "source": "rss",
+  "summary": "This article critiques the user experience of the Python package manager 'uv', arguing that while it is fast and technically impressive, its command-line interface and configuration defaults create confusion and frustration for users, particularly around dependency resolution and project setup.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-23T09:44:41.324819Z",
+  "updated_at": "2026-05-23T09:45:13.519061Z"
+}

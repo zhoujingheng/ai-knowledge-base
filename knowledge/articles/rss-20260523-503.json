@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260523-503",
+  "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+  "source_url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+  "source": "rss",
+  "summary": "This research explores diffusion-based language models as an alternative to autoregressive models for faster text generation. By iteratively denoising latent representations, Nemotron-Labs achieves near-instantaneous generation, rivaling the speed of light metaphorically, while maintaining high-quality outputs. The approach promises significant latency reductions for real-time applications.",
+  "tags": [
+    "research",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-05-23T09:44:46.475277Z",
+  "updated_at": "2026-05-23T09:45:13.520017Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260523-a27",
+  "title": "The memory shortage is causing a repricing of consumer electronics",
+  "source_url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+  "source": "rss",
+  "summary": "The article argues that AI features in consumer electronics, particularly on-device LLMs, are driving up memory requirements, making cheap smartphones unsustainable. This shift is repricing devices as RAM and storage costs rise to support AI workloads, potentially killing the low-end market.",
+  "tags": [
+    "llm",
+    "deployment",
+    "hardware"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-23T09:44:41.324798Z",
+  "updated_at": "2026-05-23T09:45:13.519051Z"
+}

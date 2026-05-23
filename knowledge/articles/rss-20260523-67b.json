@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260523-67b",
+  "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+  "source_url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+  "source": "rss",
+  "summary": "This article announces Antigravity 2.0 as the top performer on a new benchmark evaluating LLMs for generating OpenSCAD code for architectural 3D models. It discusses the benchmark's design, model comparisons, and implications for AI-assisted parametric design.",
+  "tags": [
+    "llm",
+    "benchmark",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-23T09:44:41.324713Z",
+  "updated_at": "2026-05-23T09:45:13.518960Z"
+}
