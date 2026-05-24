@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260524-05e",
+  "title": "80386 microcode disassembled",
+  "source_url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+  "source": "rss",
+  "summary": "This article details the reverse engineering and disassembly of the 80386 CPU's microcode, revealing the low-level instructions that control its internal operations. It provides insight into historical processor design and microarchitecture.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-24T09:48:41.653618Z",
+  "updated_at": "2026-05-24T09:49:10.283650Z"
+}

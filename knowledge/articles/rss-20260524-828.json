@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260524-828",
+  "title": "A Network Allow-List Won't Stop Exfiltration",
+  "source_url": "https://www.dergraf.org/notes/canister-egress-proxy-dlp/",
+  "source": "rss",
+  "summary": "The content argues that network allow-lists are insufficient for preventing data exfiltration, highlighting that attackers can bypass such controls through encrypted channels, application-layer exploits, or legitimate service abuse. It emphasizes the need for deeper security measures beyond simple network filtering.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-24T09:48:41.856058Z",
+  "updated_at": "2026-05-24T09:49:10.284058Z"
+}

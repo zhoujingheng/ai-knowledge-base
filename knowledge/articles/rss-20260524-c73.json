@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260524-c73",
+  "title": "Microsoft reports AI is more expensive than paying human employees",
+  "source_url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+  "source": "rss",
+  "summary": "Microsoft's internal analysis reportedly finds that AI systems, particularly agent-based workflows, are currently more expensive per task than paying human employees. The cost stems from high token usage and infrastructure demands, challenging assumptions about AI's cost-effectiveness for enterprise automation.",
+  "tags": [
+    "agent",
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-24T09:48:41.653690Z",
+  "updated_at": "2026-05-24T09:49:10.283782Z"
+}

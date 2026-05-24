@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260524-156",
+  "title": "Open source Kanban desktop app that runs parallel agents on every card",
+  "source_url": "https://www.kanbots.dev/",
+  "source": "rss",
+  "summary": "Kanbots is an open-source Kanban desktop app that assigns an autonomous AI agent to each card. Agents work in parallel, executing tasks like web searches and data processing. It integrates with local LLMs via Ollama, emphasizing privacy and offline capability.",
+  "tags": [
+    "agent",
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-24T09:48:41.653840Z",
+  "updated_at": "2026-05-24T09:49:10.283934Z"
+}

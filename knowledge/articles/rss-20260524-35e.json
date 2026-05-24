@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260524-35e",
+  "title": "On The  (2021)",
+  "source_url": "https://benmyers.dev/blog/on-the-dl/",
+  "source": "rss",
+  "summary": "The article discusses the evolution and implications of deep learning (DL) since 2021, reflecting on its rapid progress, societal impact, and technical challenges. It critiques hype cycles while emphasizing the need for responsible AI development, touching on model scaling, data efficiency, and ethical considerations.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-05-24T09:48:41.653540Z",
+  "updated_at": "2026-05-24T09:49:10.283663Z"
+}

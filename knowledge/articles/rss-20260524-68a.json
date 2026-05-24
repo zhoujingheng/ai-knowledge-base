@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260524-68a",
+  "title": "Time to talk about my writerdeck",
+  "source_url": "https://veronicaexplains.net/my-first-writerdeck/",
+  "source": "rss",
+  "summary": "The author describes building a custom 'writerdeck'—a distraction-free, low-power writing device using a Raspberry Pi and e-ink display. The project emphasizes minimalism, long battery life, and a focused writing experience, with technical details on hardware assembly, software configuration, and the philosophical motivation behind reducing digital noise.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-24T09:48:41.653360Z",
+  "updated_at": "2026-05-24T09:49:10.283528Z"
+}
