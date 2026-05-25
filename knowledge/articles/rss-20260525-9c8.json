@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260525-9c8",
+  "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+  "source_url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+  "source": "rss",
+  "summary": "Analysis of AI chip component costs reveals that memory now accounts for nearly two-thirds of total expenses, driven by high-bandwidth memory (HBM) demand for large-scale AI models. This shift highlights the growing importance of memory technology in AI hardware economics.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-25T11:45:17.581747Z",
+  "updated_at": "2026-05-25T11:45:50.748523Z"
+}

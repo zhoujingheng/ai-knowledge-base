@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260525-c09",
+  "title": "Jira Is Turing-Complete",
+  "source_url": "https://seriot.ch/computation/jira.html",
+  "source": "rss",
+  "summary": "This article demonstrates that Jira, the popular project management tool, is Turing-complete by showing how its issue tracking system can simulate a Minsky register machine. It provides a technical proof using Jira's workflow automation, custom fields, and transitions to perform arbitrary computation, highlighting unexpected computational power in business software.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-25T11:45:17.581589Z",
+  "updated_at": "2026-05-25T11:45:50.748478Z"
+}

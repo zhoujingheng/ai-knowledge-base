@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260525-6b2",
+  "title": "Claude is not your architect. Stop letting it pretend",
+  "source_url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+  "source": "rss",
+  "summary": "The article argues that Claude (and similar LLMs) should not be trusted to make high-level architectural decisions in software projects. It warns that LLMs lack genuine understanding of system trade-offs, long-term maintainability, and domain-specific constraints, leading to poor architectural choices. The author advocates for human-led design with LLMs used only for implementation tasks.",
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-25T11:45:17.581726Z",
+  "updated_at": "2026-05-25T11:45:50.748529Z"
+}

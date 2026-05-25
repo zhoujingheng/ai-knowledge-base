@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260525-06d",
+  "title": "The Eternal Sloptember",
+  "source_url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+  "source": "rss",
+  "summary": "George Hotz critiques the AI industry's stagnation, arguing that despite rapid model releases, progress has plateaued into 'Sloptember'—a cycle of incremental improvements and hype. He calls for a return to fundamental research and open-source collaboration, warning that current trends prioritize profit over genuine advancement.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-05-25T11:45:17.581623Z",
+  "updated_at": "2026-05-25T11:45:50.748494Z"
+}

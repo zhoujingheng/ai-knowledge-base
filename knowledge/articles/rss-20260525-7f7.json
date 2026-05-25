@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260525-7f7",
+  "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+  "source_url": "https://arxiv.org/abs/2605.06445",
+  "source": "rss",
+  "summary": "This paper investigates the phenomenon of 'constraint decay' in LLM agents tasked with back-end code generation, where agents progressively fail to adhere to initial constraints over multi-step reasoning. It highlights the fragility of current LLM agents in maintaining complex, long-horizon specifications, posing challenges for reliable code synthesis.",
+  "tags": [
+    "agent",
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-05-25T11:45:17.581865Z",
+  "updated_at": "2026-05-25T11:45:50.748630Z"
+}

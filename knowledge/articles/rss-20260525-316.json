@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260525-316",
+  "title": "Wake up! 16b",
+  "source_url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+  "source": "rss",
+  "summary": "This article details the creation of a 16-billion parameter language model called 'Wake up!' that achieves strong performance through a unique training approach combining aggressive pruning, knowledge distillation, and fine-tuning on high-quality synthetic data. It emphasizes efficiency and capability despite the relatively small size.",
+  "tags": [
+    "fine-tuning",
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-05-25T11:45:17.582029Z",
+  "updated_at": "2026-05-25T11:45:50.748737Z"
+}

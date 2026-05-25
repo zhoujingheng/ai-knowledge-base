@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260525-58d",
+  "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
+  "source_url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
+  "source": "rss",
+  "summary": "The discussion centers on AMD's decision to remove Linux support from the free tier of Vivado 2026.1, a hardware design tool for FPGAs. Users express frustration over reduced accessibility for hobbyists and open-source developers, citing vendor lock-in and shifting business strategies. The move is seen as a regression for the FPGA ecosystem.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-25T11:45:17.581960Z",
+  "updated_at": "2026-05-25T11:45:50.748719Z"
+}

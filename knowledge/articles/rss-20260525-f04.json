@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260525-f04",
+  "title": "Scammers are abusing an internal Microsoft account to send spam links",
+  "source_url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+  "source": "rss",
+  "summary": "This article reports that scammers are exploiting an internal Microsoft account to send spam links, bypassing typical email security filters. The abuse leverages a trusted internal system, making the spam appear legitimate to recipients. The incident highlights vulnerabilities in enterprise email authentication and internal account management.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-25T11:45:17.582010Z",
+  "updated_at": "2026-05-25T11:45:50.748731Z"
+}
