@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260527-809",
+  "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
+  "source_url": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
+  "source": "rss",
+  "summary": "Motorola phones are reportedly hijacking the Amazon app to inject affiliate tracking codes into users' purchases without consent. This behavior, discovered on certain Motorola devices, raises significant privacy and ethical concerns about device-level ad fraud and unauthorized modification of app behavior.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-27T11:31:04.452449Z",
+  "updated_at": "2026-05-27T11:31:41.302407Z"
+}

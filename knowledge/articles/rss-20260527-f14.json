@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260527-f14",
+  "title": "Nobody cracks open a programming book anymore",
+  "source_url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+  "source": "rss",
+  "summary": "The article argues that modern developers increasingly rely on AI tools like LLMs for coding rather than traditional programming books, shifting from deep understanding to pattern-matching and quick solutions. It critiques the loss of foundational knowledge and problem-solving skills, warning about over-reliance on AI-generated code.",
+  "tags": [
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-27T11:31:04.452470Z",
+  "updated_at": "2026-05-27T11:31:41.302420Z"
+}

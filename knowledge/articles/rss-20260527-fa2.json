@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260527-fa2",
+  "title": "Using AI to write better code more slowly",
+  "source_url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+  "source": "rss",
+  "summary": "The article argues that AI coding assistants can improve code quality when used deliberately and slowly, emphasizing careful prompt engineering, iterative refinement, and human oversight over speed. It critiques the rush to generate code quickly, advocating for a thoughtful, quality-first approach to AI-assisted development.",
+  "tags": [
+    "prompt-engineering",
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-27T11:31:04.452492Z",
+  "updated_at": "2026-05-27T11:31:41.302426Z"
+}

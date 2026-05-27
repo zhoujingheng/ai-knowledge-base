@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260527-37b",
+  "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+  "source_url": "https://huggingface.co/blog/agent-glossary",
+  "source": "rss",
+  "summary": "This content clarifies key AI agent terminology, distinguishing between 'harness' (execution environment) and 'scaffold' (structural code for agent logic). It emphasizes precise language to avoid confusion in agent development, focusing on architectural clarity rather than model capabilities.",
+  "tags": [
+    "agent",
+    "framework",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-27T11:31:10.843414Z",
+  "updated_at": "2026-05-27T11:31:41.304184Z"
+}

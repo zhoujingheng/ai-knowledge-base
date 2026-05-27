@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260527-bff",
+  "title": "The user is visibly frustrated",
+  "source_url": "https://pscanf.com/s/354/",
+  "source": "rss",
+  "summary": "The article discusses user frustration with AI/ML systems, likely focusing on the gap between user expectations and actual model performance, particularly in conversational AI or LLM-based applications. It highlights challenges in handling edge cases, latency, and lack of transparency, leading to poor user experience.",
+  "tags": [
+    "llm",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-27T11:31:04.452426Z",
+  "updated_at": "2026-05-27T11:31:41.302401Z"
+}

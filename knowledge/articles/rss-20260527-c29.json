@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260527-c29",
+  "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+  "source_url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+  "source": "rss",
+  "summary": "The article argues that combining outsourced AI services with local, smaller models will soon be more cost-effective than relying solely on frontier labs like OpenAI. It highlights the economic shift toward hybrid AI architectures, where specialized local models handle routine tasks and frontier models are used selectively, reducing overall costs while maintaining performance.",
+  "tags": [
+    "deployment",
+    "llm",
+    "rag"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-27T11:31:04.452306Z",
+  "updated_at": "2026-05-27T11:31:41.302380Z"
+}

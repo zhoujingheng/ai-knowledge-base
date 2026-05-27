@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260527-ccd",
+  "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+  "source_url": "https://dynip.dev/",
+  "source": "rss",
+  "summary": "DynIP is a dynamic DNS service that supports RFC 2136 updates, IPv6, DNSSEC, and bring-your-own-domain (BYOD). It offers a modern, secure alternative to traditional dynamic DNS providers, enabling users to maintain stable hostname resolution for devices with changing IP addresses.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-05-27T11:31:04.452406Z",
+  "updated_at": "2026-05-27T11:31:41.302394Z"
+}

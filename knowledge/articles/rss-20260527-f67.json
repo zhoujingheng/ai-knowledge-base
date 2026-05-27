@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260527-f67",
+  "title": "How Shamir's Secret Sharing Works",
+  "source_url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
+  "source": "rss",
+  "summary": "This article explains Shamir's Secret Sharing, a cryptographic algorithm that splits a secret into multiple shares, requiring a threshold number to reconstruct it. It covers the mathematical foundation using polynomial interpolation, practical applications like key backup, and security considerations.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-27T11:31:04.452511Z",
+  "updated_at": "2026-05-27T11:31:41.302414Z"
+}
