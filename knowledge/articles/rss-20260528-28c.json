@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260528-28c",
+  "title": "All of human cooking compressed into 2 megabytes",
+  "source_url": "https://arxiv.org/abs/2605.22391",
+  "source": "rss",
+  "summary": "This paper presents a 2MB model that compresses the entirety of human cooking knowledge, likely using a highly efficient neural network or embedding technique. It explores extreme compression of domain-specific expertise, balancing accuracy and size for practical deployment.",
+  "tags": [
+    "research",
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-05-28T11:30:57.982326Z",
+  "updated_at": "2026-05-28T11:33:24.188124Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260528-7cd",
+  "title": "Reachy Mini goes fully local",
+  "source_url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+  "source": "rss",
+  "summary": "Reachy Mini, a robotic platform, has been updated to operate entirely locally without cloud dependency. This likely involves on-device AI/ML inference for perception and control, enhancing privacy, latency, and offline capabilities for robotics applications.",
+  "tags": [
+    "deployment",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-28T11:30:58.789025Z",
+  "updated_at": "2026-05-28T11:33:24.189188Z"
+}

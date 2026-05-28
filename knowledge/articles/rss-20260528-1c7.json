@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260528-1c7",
+  "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+  "source_url": "https://arps18.github.io/posts/claude-code-mastery/",
+  "source": "rss",
+  "summary": "A comprehensive guide to using Claude Code as a daily development tool, covering configuration via Claude.md, custom skills, subagent orchestration, plugin integration, and Model Context Protocol (MCP) for extending capabilities. It emphasizes practical workflows for maximizing Claude's utility in real-world coding tasks.",
+  "tags": [
+    "agent",
+    "tool",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-28T11:30:57.982348Z",
+  "updated_at": "2026-05-28T11:33:24.188051Z"
+}

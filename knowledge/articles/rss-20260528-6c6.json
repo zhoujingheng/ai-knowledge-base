@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260528-6c6",
+  "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+  "source_url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+  "source": "rss",
+  "summary": "Artificial Analysis and IBM introduce ITBench-AA, the first benchmark for agentic enterprise IT tasks. Frontier AI models score below 50%, highlighting significant gaps in autonomous task completion for real-world IT operations, such as incident response and system management.",
+  "tags": [
+    "agent",
+    "benchmark",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-28T11:30:58.789009Z",
+  "updated_at": "2026-05-28T11:33:24.189176Z"
+}
