@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260529-442",
+  "title": "Profiling in PyTorch (Part 1): A Beginner&apos;s Guide to torch.profiler",
+  "source_url": "https://huggingface.co/blog/torch-profiler",
+  "source": "rss",
+  "summary": "This guide introduces torch.profiler, a PyTorch tool for measuring and optimizing model performance. It covers basic profiling workflows, including tracing GPU/CPU operations, identifying bottlenecks, and interpreting results to improve training and inference efficiency.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-05-29T11:21:50.848194Z",
+  "updated_at": "2026-05-29T11:22:10.690612Z"
+}
