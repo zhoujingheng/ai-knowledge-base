@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260530-742",
+  "title": "Is AI causing a repeat of frontend’s lost decade?",
+  "source_url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+  "source": "rss",
+  "summary": "This article argues that the rapid evolution of AI tools and frameworks is creating a fragmented, unstable ecosystem reminiscent of the frontend 'lost decade' of churn and burnout. It warns that without standardization, developers face constant rewrites and cognitive overload, potentially stifling innovation and productivity.",
+  "tags": [
+    "framework",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-05-30T09:51:55.271722Z",
+  "updated_at": "2026-05-30T10:02:25.331418Z"
+}

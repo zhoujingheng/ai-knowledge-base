@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260530-395",
+  "title": "SQLite is all you need for durable workflows",
+  "source_url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+  "source": "rss",
+  "summary": "This article argues that SQLite, combined with a lightweight application-level scheduler, is sufficient for building durable, fault-tolerant workflows without relying on external workflow engines like Temporal or AWS Step Functions. It demonstrates how SQLite's ACID transactions and WAL mode enable reliable state persistence and recovery for long-running tasks.",
+  "tags": [
+    "framework",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-30T09:51:55.271518Z",
+  "updated_at": "2026-05-30T10:02:25.331223Z"
+}

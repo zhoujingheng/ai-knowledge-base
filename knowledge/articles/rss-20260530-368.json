@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260530-368",
+  "title": "Building Machine Learning Systems for a Trillion Trillion Floating Point Operations (2024)",
+  "source_url": "https://www.youtube.com/watch?v=139UPjoq7Kw",
+  "source": "rss",
+  "summary": "This content discusses the engineering challenges and system design considerations for building machine learning systems capable of handling up to a trillion trillion floating point operations, likely focusing on large-scale distributed computing, hardware optimization, and scalability.",
+  "tags": [
+    "deployment",
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-05-30T09:51:55.633805Z",
+  "updated_at": "2026-05-30T10:02:25.331536Z"
+}

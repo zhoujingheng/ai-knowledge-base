@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260530-7e5",
+  "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+  "source_url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+  "source": "rss",
+  "summary": "This article analyzes the shell history scene in the movie 'Tron: Legacy', critiquing the technical inaccuracies of the depicted command-line interface. The author, a programmer, nitpicks the unrealistic commands, output, and system behavior, using it as a fun case study in how Hollywood portrays computing.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-05-30T09:51:55.271939Z",
+  "updated_at": "2026-05-30T10:02:25.331523Z"
+}

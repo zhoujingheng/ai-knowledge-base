@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260530-dd1",
+  "title": "Notes from the Mistral AI Now Summit",
+  "source_url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+  "source": "rss",
+  "summary": "A detailed report from the Mistral AI Now Summit, covering keynotes and discussions on open-weight models, edge deployment, and the future of AI. Highlights include Mistral's focus on efficient, on-device AI, new model releases, and insights on fine-tuning and RAG for practical applications.",
+  "tags": [
+    "llm",
+    "deployment",
+    "fine-tuning"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-30T09:51:55.271541Z",
+  "updated_at": "2026-05-30T10:02:25.331249Z"
+}

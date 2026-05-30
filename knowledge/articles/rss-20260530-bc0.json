@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260530-bc0",
+  "title": "You can just say it",
+  "source_url": "https://noperator.dev/posts/you-can-just-say-it/",
+  "source": "rss",
+  "summary": "The article argues that many AI/ML tasks, especially those involving LLMs, can be accomplished more simply by directly stating the desired outcome in natural language rather than over-engineering prompts or complex pipelines. It advocates for a 'just say it' approach to reduce unnecessary complexity.",
+  "tags": [
+    "prompt-engineering",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-05-30T09:51:55.271567Z",
+  "updated_at": "2026-05-30T10:02:25.331237Z"
+}

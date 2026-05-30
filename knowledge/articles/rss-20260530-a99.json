@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260530-a99",
+  "title": "Claude Code – Everything you can configure that the docs don't tell you",
+  "source_url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+  "source": "rss",
+  "summary": "This article reverse-engineers Claude Code's configuration options by analyzing its source code, revealing undocumented settings for customization beyond official documentation. It covers environment variables, prompt overrides, and internal parameters that power users can leverage for deeper control over the AI coding assistant.",
+  "tags": [
+    "agent",
+    "tool",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-30T09:51:55.271787Z",
+  "updated_at": "2026-05-30T10:02:25.331454Z"
+}
