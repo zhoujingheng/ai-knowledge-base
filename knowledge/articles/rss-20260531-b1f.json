@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260531-b1f",
+  "title": "Zig: Build System Reworked",
+  "source_url": "https://ziglang.org/devlog/2026/#2026-05-26",
+  "source": "rss",
+  "summary": "This is a devlog entry for the Zig programming language, detailing a major rework of its build system. The update focuses on improving performance, correctness, and user experience in the build process, which is critical for developers using Zig for system-level programming.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-31T10:08:24.611567Z",
+  "updated_at": "2026-05-31T10:08:48.741368Z"
+}

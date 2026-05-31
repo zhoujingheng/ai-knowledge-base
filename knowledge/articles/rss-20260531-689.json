@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260531-689",
+  "title": "EY Canada published a cybersecurity report and most citations were hallucinated",
+  "source_url": "https://gptzero.me/investigations/ey",
+  "source": "rss",
+  "summary": "An investigation by GPTZero found that a cybersecurity report from EY Canada contained numerous hallucinated citations, with over 50% of references being fabricated. This highlights risks of AI-generated content in professional contexts, particularly when LLMs produce plausible but false sources.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-31T10:08:24.611246Z",
+  "updated_at": "2026-05-31T10:08:48.741318Z"
+}

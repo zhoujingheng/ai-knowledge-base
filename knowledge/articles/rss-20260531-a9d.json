@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260531-a9d",
+  "title": "MCP is dead?",
+  "source_url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+  "source": "rss",
+  "summary": "This article argues that the Model Context Protocol (MCP) is being superseded by simpler, more flexible approaches like direct API calls and agentic frameworks. It critiques MCP's complexity and overhead, suggesting that the industry is moving toward lighter integration patterns for AI tools.",
+  "tags": [
+    "agent",
+    "framework",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-31T10:08:24.611688Z",
+  "updated_at": "2026-05-31T10:08:48.741451Z"
+}

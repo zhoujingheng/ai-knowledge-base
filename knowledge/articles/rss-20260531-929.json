@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260531-929",
+  "title": "Voxel Space (2017)",
+  "source_url": "https://s-macke.github.io/VoxelSpace/",
+  "source": "rss",
+  "summary": "This article explains the Voxel Space rendering technique, a 1990s-era algorithm used in games like Comanche to render 3D terrain from a heightmap without a GPU. It covers the math, optimization, and implementation details for real-time voxel-based landscape rendering.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-05-31T10:08:24.611372Z",
+  "updated_at": "2026-05-31T10:08:48.741358Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260531-bad",
+  "title": "OpenRouter raises $113M Series B",
+  "source_url": "https://openrouter.ai/announcements/series-b",
+  "source": "rss",
+  "summary": "OpenRouter, a platform providing unified API access to multiple LLMs, raised $113M in Series B funding. The investment will scale infrastructure, improve routing logic, and expand model availability for developers, reflecting growing demand for cost-effective, multi-model inference orchestration.",
+  "tags": [
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-05-31T10:08:24.611285Z",
+  "updated_at": "2026-05-31T10:08:48.741339Z"
+}

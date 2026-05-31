@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260531-700",
+  "title": "Pandoc Templates",
+  "source_url": "https://pandoc-templates.org/",
+  "source": "rss",
+  "summary": "Pandoc Templates is a curated gallery of community-contributed templates for Pandoc, a universal document converter. It enables users to easily customize the output of Pandoc conversions (e.g., Markdown to PDF, HTML, DOCX) by providing ready-made LaTeX, HTML, and other format templates, reducing the need for manual styling.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-05-31T10:08:24.611529Z",
+  "updated_at": "2026-05-31T10:08:48.741398Z"
+}
