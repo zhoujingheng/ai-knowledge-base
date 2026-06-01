@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260601-522",
+  "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+  "source_url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+  "source": "rss",
+  "summary": "This article reveals a security vulnerability in the 'ChatGPT for Google Sheets' extension, demonstrating how it can exfiltrate entire workbook data via prompt injection. It highlights risks of integrating LLMs with sensitive data sources and the need for robust access controls.",
+  "tags": [
+    "llm",
+    "security",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-01T13:29:08.001639Z",
+  "updated_at": "2026-06-01T13:29:34.208922Z"
+}
