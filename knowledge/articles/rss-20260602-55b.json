@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260602-55b",
+  "title": "strace-ui, Bonsai_term, and the TUI renaissance",
+  "source_url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
+  "source": "rss",
+  "summary": "The content discusses a resurgence of Terminal User Interfaces (TUIs), highlighting tools like strace-ui and Bonsai_term. It reflects a trend toward building rich, interactive command-line tools that offer modern UX within the terminal, moving beyond traditional text-based interfaces.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-02T11:58:14.399054Z",
+  "updated_at": "2026-06-02T11:58:48.324998Z"
+}

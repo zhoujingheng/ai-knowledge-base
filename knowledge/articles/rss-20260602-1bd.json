@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260602-1bd",
+  "title": "Should you normalize RGB values by 255 or 256?",
+  "source_url": "https://30fps.net/pages/255-vs-256-division/",
+  "source": "rss",
+  "summary": "This article and discussion explore the subtle but important distinction between normalizing RGB pixel values by 255 versus 256. It explains the mathematical and practical implications, including how division by 255 maps to [0,1] while 256 maps to [0,1), and why this matters for image processing, neural network inputs, and avoiding off-by-one errors in quantization or color space conversions.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-06-02T11:58:14.015844Z",
+  "updated_at": "2026-06-02T11:58:48.324229Z"
+}

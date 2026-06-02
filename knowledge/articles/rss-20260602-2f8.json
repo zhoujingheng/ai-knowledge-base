@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260602-2f8",
+  "title": "thunderbolt-ibverbs: We have InfiniBand at home",
+  "source_url": "https://blog.hellas.ai/blog/thunderbolt-ibverbs/",
+  "source": "rss",
+  "summary": "This project enables InfiniBand-like functionality over Thunderbolt connections, providing high-speed, low-latency networking without dedicated InfiniBand hardware. It leverages ibverbs for direct memory access, making it a cost-effective alternative for cluster or HPC setups.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-02T11:58:14.321431Z",
+  "updated_at": "2026-06-02T11:58:48.324496Z"
+}

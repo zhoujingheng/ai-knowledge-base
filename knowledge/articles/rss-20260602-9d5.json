@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260602-9d5",
+  "title": "CS336: Language Modeling from Scratch",
+  "source_url": "https://cs336.stanford.edu/",
+  "source": "rss",
+  "summary": "Stanford's CS336 course teaches the fundamentals of building language models from scratch, covering data processing, architecture, training, and evaluation. It provides a comprehensive, hands-on approach to understanding the inner workings of LLMs without relying on high-level frameworks.",
+  "tags": [
+    "llm",
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-02T11:58:14.016159Z",
+  "updated_at": "2026-06-02T11:58:48.324382Z"
+}

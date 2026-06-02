@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260602-b12",
+  "title": "Nvidia RTX Spark",
+  "source_url": "https://www.nvidia.com/en-us/products/rtx-spark/",
+  "source": "rss",
+  "summary": "Nvidia's RTX Spark is a new compact AI desktop computer designed for local AI inference and development. It challenges Apple's Mac Studio by offering high-performance GPU compute in a small form factor, targeting developers and researchers who need powerful on-device AI capabilities without relying on cloud services.",
+  "tags": [
+    "hardware",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-02T11:58:14.016231Z",
+  "updated_at": "2026-06-02T11:58:48.324435Z"
+}

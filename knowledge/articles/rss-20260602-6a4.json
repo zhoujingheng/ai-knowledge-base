@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260602-6a4",
+  "title": "Malicious npm packages detected across Red Hat Cloud Services",
+  "source_url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+  "source": "rss",
+  "summary": "A security incident involving malicious npm packages was detected within Red Hat Cloud Services. The issue, reported on GitHub, highlights supply chain risks in JavaScript ecosystems, with 753 points and 433 comments on Hacker News indicating significant community concern and discussion around the attack vector and mitigation.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-06-02T11:58:14.016181Z",
+  "updated_at": "2026-06-02T11:58:48.324394Z"
+}
