@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260603-43b",
+  "title": "Announcing Pyro Caml: The First Continuous Profiler for OCaml",
+  "source_url": "https://semgrep.dev/blog/2026/announcing-pyro-caml-continuous-profiler-ocaml",
+  "source": "rss",
+  "summary": "Pyro Caml is introduced as the first continuous profiler for OCaml, enabling real-time performance monitoring without manual instrumentation. This tool helps developers identify bottlenecks and optimize code in production environments, filling a gap in OCaml's profiling ecosystem.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-03T12:33:42.544100Z",
+  "updated_at": "2026-06-03T12:34:07.831073Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260603-c10",
+  "title": "Apple rejected my dictation app for using the accessibility API",
+  "source_url": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/",
+  "source": "rss",
+  "summary": "A developer describes how Apple rejected their dictation app for using the accessibility API, highlighting challenges in app store review processes and the tension between innovation and platform restrictions. The post details the technical workaround attempted and the broader implications for developers building AI-powered voice interfaces on iOS.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-03T12:33:42.313774Z",
+  "updated_at": "2026-06-03T12:34:07.830451Z"
+}

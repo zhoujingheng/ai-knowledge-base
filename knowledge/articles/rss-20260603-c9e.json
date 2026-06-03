@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260603-c9e",
+  "title": "Holo3.1: Fast & Local Computer Use Agents",
+  "source_url": "https://huggingface.co/blog/Hcompany/holo31",
+  "source": "rss",
+  "summary": "Holo3.1 introduces a fast, locally-run computer use agent, enabling autonomous GUI interaction without cloud dependency. It emphasizes low latency and privacy by processing entirely on-device, suitable for desktop automation tasks.",
+  "tags": [
+    "agent",
+    "deployment",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-03T12:33:42.869913Z",
+  "updated_at": "2026-06-03T12:34:07.831449Z"
+}

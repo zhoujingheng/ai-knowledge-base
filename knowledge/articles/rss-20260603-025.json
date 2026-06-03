@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260603-025",
+  "title": "Love systemd timers",
+  "source_url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+  "source": "rss",
+  "summary": "This article advocates for using systemd timers over cron for scheduling tasks on Linux, highlighting their integration with systemd's service management, logging, and dependency handling. It argues timers offer superior reliability, flexibility, and ease of debugging, making them a modern replacement for traditional cron jobs.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-03T12:33:42.313855Z",
+  "updated_at": "2026-06-03T12:34:07.830472Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260603-0b8",
+  "title": "Introducing RadixAttention to Trellis",
+  "source_url": "https://trellis.unfoldml.com/blog/radix-attention-intro",
+  "source": "rss",
+  "summary": "RadixAttention is introduced to Trellis, likely a system or framework for efficient attention mechanisms in AI/ML, potentially optimizing inference or memory usage in transformer models.",
+  "tags": [
+    "research",
+    "framework",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-03T12:33:42.492792Z",
+  "updated_at": "2026-06-03T12:34:07.830657Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260603-a75",
+  "title": "Please don't spam people looking for employment. It's just cruel",
+  "source_url": "https://news.ycombinator.com/item?id=48370330",
+  "source": "rss",
+  "summary": "A frustrated job seeker vents about receiving an automated, tone-deaf email from someone offering LLM integration services in response to a hiring post. The email, focused on RAG and agent orchestration, crushed the recipient's hope during a difficult job search. The post criticizes the lack of empathy in such AI/ML outreach and calls for more human consideration.",
+  "tags": [
+    "llm",
+    "rag",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-03T12:33:42.313722Z",
+  "updated_at": "2026-06-03T12:34:07.830437Z"
+}

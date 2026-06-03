@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260603-79c",
+  "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+  "source_url": "https://github.com/c0dejedi/nbd-vram",
+  "source": "rss",
+  "summary": "This project enables using Nvidia GPU VRAM as swap space on Linux via an NBD (Network Block Device) driver, allowing overflow memory to be stored on GPU memory. It's a creative system-level hack for machines with limited RAM but abundant VRAM, useful for AI/ML workloads that temporarily exceed memory limits.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-03T12:33:42.313495Z",
+  "updated_at": "2026-06-03T12:34:07.830395Z"
+}
