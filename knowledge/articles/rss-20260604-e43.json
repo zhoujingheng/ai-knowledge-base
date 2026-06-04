@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260604-e43",
+  "title": "Elixir v1.20: Now a gradually typed language",
+  "source_url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+  "source": "rss",
+  "summary": "Elixir v1.20 introduces gradual typing, a major evolution for the language. This allows developers to optionally add type specifications that are checked at compile time, improving code reliability and tooling without sacrificing Elixir's dynamic nature. The feature is designed to be incremental and non-intrusive.",
+  "tags": [
+    "framework"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-04T10:56:07.561449Z",
+  "updated_at": "2026-06-04T10:56:38.483037Z"
+}

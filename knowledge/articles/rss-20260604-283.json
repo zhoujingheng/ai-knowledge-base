@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260604-283",
+  "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+  "source_url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+  "source": "rss",
+  "summary": "This article explores a novel attack vector where a PC is compromised via sound waves from a speaker, using AI/ML to generate malicious audio payloads that exploit microphone and voice-command vulnerabilities. It demonstrates hacking without physical access, blending cybersecurity with adversarial machine learning.",
+  "tags": [
+    "research",
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-06-04T10:56:07.561887Z",
+  "updated_at": "2026-06-04T10:56:38.483206Z"
+}

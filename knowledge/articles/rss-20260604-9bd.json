@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260604-9bd",
+  "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+  "source_url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+  "source": "rss",
+  "summary": "Uber's decision to cap AI tool spending at $1,500 per month per employee signals a shift toward pragmatic enterprise AI pricing. The move highlights cost-control pressures as companies scale AI usage, suggesting that vendors may need to adjust pricing models to avoid adoption bottlenecks.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-04T10:56:07.561820Z",
+  "updated_at": "2026-06-04T10:56:38.483216Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260604-e1d",
+  "title": "What happened to tab autocomplete?",
+  "source_url": "https://lobste.rs/s/humg0y/what_happened_tab_autocomplete",
+  "source": "rss",
+  "summary": "The content questions the relevance of tab autocomplete in code editors, given the rise of agentic programming tools that offer more advanced, autonomous assistance. It suggests a shift in developer preferences from simple autocomplete to AI agents.",
+  "tags": [
+    "tool",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-06-04T10:56:07.879322Z",
+  "updated_at": "2026-06-04T10:56:38.483328Z"
+}

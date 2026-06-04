@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260604-4d9",
+  "title": "DaVinci Resolve 21",
+  "source_url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+  "source": "rss",
+  "summary": "DaVinci Resolve 21 is a major update to Blackmagic Design's professional video editing software, adding new AI-powered tools like IntelliTrack for automatic object tracking, AI audio classification, and enhanced color grading. It also introduces new editing, compositing, and Fairlight audio features, focusing on workflow improvements and performance.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-04T10:56:07.561657Z",
+  "updated_at": "2026-06-04T10:56:38.483160Z"
+}

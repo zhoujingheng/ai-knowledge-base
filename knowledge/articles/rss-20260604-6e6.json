@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260604-6e6",
+  "title": "Direct Preference Optimization Beyond Chatbots",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+  "source": "rss",
+  "summary": "This content discusses extending Direct Preference Optimization (DPO) beyond chatbot applications, exploring its use in broader AI alignment tasks such as reinforcement learning from human feedback for non-conversational models, including image generation or robotics, without requiring explicit reward modeling.",
+  "tags": [
+    "research",
+    "fine-tuning",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-04T10:56:11.679563Z",
+  "updated_at": "2026-06-04T10:56:38.484309Z"
+}

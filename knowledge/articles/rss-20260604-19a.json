@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260604-19a",
+  "title": "They’re made out of weights",
+  "source_url": "https://maxleiter.com/blog/weights",
+  "source": "rss",
+  "summary": "This article explores the philosophical and practical implications of neural network weights, arguing that they are not just parameters but the actual embodiment of learned knowledge. It discusses how weights encode patterns, biases, and capabilities, challenging the notion of AI as mere software.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-04T10:56:07.561404Z",
+  "updated_at": "2026-06-04T10:56:38.482958Z"
+}
