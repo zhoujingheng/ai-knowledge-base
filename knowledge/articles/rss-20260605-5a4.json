@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260605-5a4",
+  "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+  "source_url": "https://www.anthropic.com/institute/recursive-self-improvement",
+  "source": "rss",
+  "summary": "Anthropic discusses progress toward recursive self-improvement in AI, where models autonomously enhance their own capabilities. The article explores challenges, safety implications, and potential pathways for AI systems to iteratively improve without human intervention, highlighting both technical advances and risks.",
+  "tags": [
+    "research",
+    "agent",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-06-05T11:18:55.329837Z",
+  "updated_at": "2026-06-05T11:19:21.602046Z"
+}

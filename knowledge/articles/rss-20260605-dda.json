@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260605-dda",
+  "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+  "source_url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+  "source": "rss",
+  "summary": "The author built a deliberately vulnerable web application and spent $1,500 on LLM API calls to test if models like GPT-4 and Claude could autonomously hack it. Results showed LLMs can perform basic reconnaissance and exploit simple vulnerabilities but struggle with multi-step reasoning, chaining exploits, and adapting to dynamic environments. The experiment highlights current limitations in LLM-driven penetration testing.",
+  "tags": [
+    "llm",
+    "research",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-05T11:18:55.330152Z",
+  "updated_at": "2026-06-05T11:19:21.602257Z"
+}

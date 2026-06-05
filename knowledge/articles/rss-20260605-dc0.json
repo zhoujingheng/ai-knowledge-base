@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260605-dc0",
+  "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+  "source_url": "https://github.com/anthropics/defending-code-reference-harness",
+  "source": "rss",
+  "summary": "Anthropic released an open-source framework for using AI to discover software vulnerabilities. It provides a harness to evaluate LLM-based agents on code security tasks, enabling automated vulnerability detection and patching. The tool aims to advance AI-assisted security research.",
+  "tags": [
+    "agent",
+    "framework",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-05T11:18:55.329710Z",
+  "updated_at": "2026-06-05T11:19:21.602008Z"
+}

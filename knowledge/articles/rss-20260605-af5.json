@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260605-af5",
+  "title": "Meta's ships facial recognition on smart glasses",
+  "source_url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+  "source": "rss",
+  "summary": "Meta has integrated facial recognition into its smart glasses, enabling real-time identification of individuals. The feature raises significant privacy and ethical concerns, as it operates without explicit consent and could be used for surveillance. The article discusses technical implementation, potential misuse, and regulatory challenges.",
+  "tags": [
+    "deployment",
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-05T11:18:55.329754Z",
+  "updated_at": "2026-06-05T11:19:21.602029Z"
+}

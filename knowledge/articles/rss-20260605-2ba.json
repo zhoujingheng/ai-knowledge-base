@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260605-2ba",
+  "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+  "source_url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+  "source": "rss",
+  "summary": "EVA-Bench Data 2.0 is a benchmark dataset for evaluating AI agents across 3 domains, 121 tools, and 213 scenarios. It focuses on agent tool-use capabilities, providing structured test cases to assess planning, reasoning, and execution in complex environments.",
+  "tags": [
+    "agent",
+    "benchmark",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-05T11:18:56.193195Z",
+  "updated_at": "2026-06-05T11:19:21.604220Z"
+}
