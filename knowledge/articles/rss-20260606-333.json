@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260606-333",
+  "title": "ZML: Model to Metal",
+  "source_url": "https://zml.ai/",
+  "source": "rss",
+  "summary": "ZML is a framework that compiles machine learning models directly to GPU-optimized code, bypassing traditional deep learning frameworks for maximum performance. It targets metal-level hardware efficiency, enabling low-latency inference on edge devices.",
+  "tags": [
+    "framework",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-06-06T09:55:08.729047Z",
+  "updated_at": "2026-06-06T09:55:46.724775Z"
+}

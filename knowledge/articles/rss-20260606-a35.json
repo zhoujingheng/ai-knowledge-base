@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260606-a35",
+  "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+  "source_url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+  "source": "rss",
+  "summary": "The UK government's digital service (GDS) replaced Stripe with Adyen for Gov.uk payments, citing better alignment with long-term infrastructure goals. This is a procurement and platform decision, not directly AI/ML related, but may involve payment data pipelines that could feed into analytics or fraud detection models.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-06-06T09:55:08.181429Z",
+  "updated_at": "2026-06-06T09:55:46.724559Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260606-61f",
+  "title": "I tested every IP KVM in my Homelab",
+  "source_url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+  "source": "rss",
+  "summary": "Jeff Geerling tests various IP KVM (Keyboard, Video, Mouse) devices in his homelab, comparing their features, performance, and reliability for remote server management. The review covers hardware like PiKVM and commercial alternatives, focusing on practical deployment challenges and use cases for self-hosted infrastructure.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-06T09:55:08.181601Z",
+  "updated_at": "2026-06-06T09:55:46.724635Z"
+}
