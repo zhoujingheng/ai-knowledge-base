@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260607-aaa",
+  "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+  "source_url": "https://twitter.com/lemire/status/2062880075117113739",
+  "source": "rss",
+  "summary": "Nvidia is reportedly developing a high-performance CPU system for Windows PCs, potentially integrating its GPU expertise to create a powerful hybrid architecture. The proposal suggests a shift toward AI-optimized computing, leveraging Nvidia's strengths in parallel processing and machine learning to enhance desktop performance.",
+  "tags": [
+    "hardware",
+    "ai-optimization"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-07T10:22:30.346181Z",
+  "updated_at": "2026-06-07T10:23:02.764747Z"
+}

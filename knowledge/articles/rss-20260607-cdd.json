@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260607-cdd",
+  "title": "Harness engineering: Leveraging Codex in an agent-first world",
+  "source_url": "https://openai.com/index/harness-engineering/",
+  "source": "rss",
+  "summary": "This article discusses how OpenAI's Codex can be used as an agent-first engineering tool, enabling developers to build systems that harness AI for code generation, debugging, and automation. It emphasizes practical integration into workflows, treating Codex as a collaborative agent rather than a passive assistant.",
+  "tags": [
+    "agent",
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-07T10:22:30.346516Z",
+  "updated_at": "2026-06-07T10:23:02.765074Z"
+}

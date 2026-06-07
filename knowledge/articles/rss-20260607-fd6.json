@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260607-fd6",
+  "title": "Her · हेर — a detective for your Claude Code sessions",
+  "source_url": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+  "source": "rss",
+  "summary": "Her (हेर) is a detective tool designed to analyze and debug Claude Code sessions. It helps developers understand AI interactions, track issues, and optimize workflows by providing session insights and diagnostics.",
+  "tags": [
+    "tool",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-06-07T10:22:36.918782Z",
+  "updated_at": "2026-06-07T10:23:02.766680Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260607-bcf",
+  "title": "Moving beyond fork() + exec()",
+  "source_url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+  "source": "rss",
+  "summary": "This article explores alternatives to the traditional Unix fork() + exec() process creation model, focusing on modern systems programming challenges. It discusses performance, security, and scalability issues, proposing new APIs and approaches for efficient process spawning in Linux.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-07T10:22:30.346159Z",
+  "updated_at": "2026-06-07T10:23:02.764732Z"
+}

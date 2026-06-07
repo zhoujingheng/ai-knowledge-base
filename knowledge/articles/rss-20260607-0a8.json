@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260607-0a8",
+  "title": "Google will pay SpaceX $920M per month for compute",
+  "source_url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+  "source": "rss",
+  "summary": "Google is reportedly paying SpaceX $920 million per month for compute resources, likely to support its AI infrastructure needs. This massive investment highlights the escalating demand for cloud and edge computing power required for training and deploying large-scale AI models.",
+  "tags": [
+    "deployment",
+    "infrastructure"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-07T10:22:30.346209Z",
+  "updated_at": "2026-06-07T10:23:02.764740Z"
+}

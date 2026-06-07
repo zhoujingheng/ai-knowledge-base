@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260607-6be",
+  "title": "Ask HN: Why is the HN crowd so anti-AI?",
+  "source_url": "https://news.ycombinator.com/item?id=48420827",
+  "source": "rss",
+  "summary": "The post questions why Hacker News is critical of AI-generated code, arguing that code quality matters less than product speed and user satisfaction. The author, an experienced engineer, claims AI-assisted development enables faster iteration and real-world feedback, outweighing concerns about bugs or technical debt.",
+  "tags": [
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-07T10:22:30.346374Z",
+  "updated_at": "2026-06-07T10:23:02.764932Z"
+}
