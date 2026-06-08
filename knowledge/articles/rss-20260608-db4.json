@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260608-db4",
+  "title": "How LLMs Actually Work",
+  "source_url": "https://0xkato.xyz/how-llms-actually-work/",
+  "source": "rss",
+  "summary": "This content likely explains the fundamental mechanisms behind Large Language Models (LLMs), covering topics like tokenization, transformer architecture, attention mechanisms, and training processes. It aims to demystify how LLMs generate text, bridging the gap between high-level usage and technical implementation.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-08T12:25:00.349029Z",
+  "updated_at": "2026-06-08T12:25:29.860986Z"
+}

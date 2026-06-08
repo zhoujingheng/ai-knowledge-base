@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260608-90c",
+  "title": "I design with Claude more than Figma now",
+  "source_url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+  "source": "rss",
+  "summary": "A Jane Street engineer describes shifting from using Figma for UI design to using Claude (likely Claude Code) for generating and iterating on designs through code. The post highlights how AI-assisted coding can replace traditional design tools for certain workflows, emphasizing speed and precision.",
+  "tags": [
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-08T12:25:00.110025Z",
+  "updated_at": "2026-06-08T12:25:29.860828Z"
+}

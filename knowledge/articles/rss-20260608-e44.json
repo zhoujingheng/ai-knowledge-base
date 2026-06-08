@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260608-e44",
+  "title": "Dopamine Fracking",
+  "source_url": "https://igerman.cc/blog/dopamine-fracking/",
+  "source": "rss",
+  "summary": "The article introduces 'Dopamine Fracking,' a prompt engineering technique that systematically extracts deeper reasoning from LLMs by iteratively probing for overlooked details, contradictions, or assumptions. It frames this as a method to break through surface-level responses, akin to extracting hidden value, and discusses its implications for improving model output quality.",
+  "tags": [
+    "prompt-engineering",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-08T12:25:00.109508Z",
+  "updated_at": "2026-06-08T12:25:29.860637Z"
+}

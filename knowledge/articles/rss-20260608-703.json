@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260608-703",
+  "title": "How's Linear so fast? A technical breakdown",
+  "source_url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+  "source": "rss",
+  "summary": "This article provides a technical breakdown of Linear's performance optimizations, covering database indexing, caching strategies, GraphQL efficiency, and frontend rendering techniques. It explains how Linear achieves its speed through careful architectural decisions and engineering trade-offs.",
+  "tags": [
+    "framework",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-08T12:25:00.109747Z",
+  "updated_at": "2026-06-08T12:25:29.860653Z"
+}

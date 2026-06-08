@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260608-21f",
+  "title": "Building Pakistan Notice Helper: A Small AI Tool for a Very Local Safety Problem",
+  "source_url": "https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper",
+  "source": "rss",
+  "summary": "This article describes the development of a small AI tool called Pakistan Notice Helper, designed to address a local safety problem by helping users understand and respond to official notices. It likely uses LLM-based text processing to simplify legal or bureaucratic language, making safety information accessible to non-experts in a specific regional context.",
+  "tags": [
+    "llm",
+    "tool",
+    "rag"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-06-08T12:25:00.990426Z",
+  "updated_at": "2026-06-08T12:25:29.862717Z"
+}

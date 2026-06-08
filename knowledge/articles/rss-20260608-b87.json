@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260608-b87",
+  "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+  "source_url": "https://github.com/devenjarvis/lathe",
+  "source": "rss",
+  "summary": "Lathe is a Go CLI tool that uses LLMs to generate interactive, source-backed tutorials for learning technical domains. Instead of automating tasks, it guides users through hands-on coding exercises in a local web UI, with features like a table of contents, side-notes, and verification. It aims to fill gaps where human-written tutorials don't exist, promoting active learning over passive consumption.",
+  "tags": [
+    "agent",
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-08T12:25:00.109957Z",
+  "updated_at": "2026-06-08T12:25:29.860814Z"
+}

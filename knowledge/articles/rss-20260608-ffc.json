@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260608-ffc",
+  "title": "Anthropic, please ship an official Claude Desktop for Linux",
+  "source_url": "https://github.com/anthropics/claude-code/issues/65697",
+  "source": "rss",
+  "summary": "A community request on GitHub and Hacker News urges Anthropic to release an official Claude Desktop client for Linux, citing the lack of native Linux support as a barrier for developers and power users who rely on Claude for coding and AI tasks. The discussion highlights workarounds and frustrations.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-06-08T12:25:00.109852Z",
+  "updated_at": "2026-06-08T12:25:29.860782Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260608-1b4",
+  "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+  "source_url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+  "source": "rss",
+  "summary": "This article explains the perceptron, the simplest neural network unit, by implementing it from scratch in Python. It covers the mathematical foundations, including weights, bias, activation function, and the learning algorithm, with clear code examples and visualizations.",
+  "tags": [
+    "framework"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-08T12:25:00.109705Z",
+  "updated_at": "2026-06-08T12:25:29.860661Z"
+}

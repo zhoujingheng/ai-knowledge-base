@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260608-fe2",
+  "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+  "source_url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+  "source": "rss",
+  "summary": "DeepSeek V4 Pro reportedly outperforms GPT-5.5 Pro on precision tasks, sparking discussion on Hacker News. The article highlights a shift in AI model competition, with DeepSeek achieving higher accuracy in benchmark evaluations, though context and methodology details are limited.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-08T12:25:00.109616Z",
+  "updated_at": "2026-06-08T12:25:29.860617Z"
+}
