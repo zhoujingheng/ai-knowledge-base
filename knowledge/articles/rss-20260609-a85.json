@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260609-a85",
+  "title": "Stop the Apple Music app from launching",
+  "source_url": "https://lowtechguys.com/musicdecoy/",
+  "source": "rss",
+  "summary": "A guide on using a lightweight utility called MusicDecoy to prevent the Apple Music app from automatically launching on macOS. It offers a simple, low-tech solution for users who prefer other music players or want to avoid unwanted app behavior.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-06-09T10:53:05.981156Z",
+  "updated_at": "2026-06-09T10:53:39.420308Z"
+}

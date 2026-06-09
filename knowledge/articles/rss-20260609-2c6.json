@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260609-2c6",
+  "title": "Apple Core AI Framework",
+  "source_url": "https://developer.apple.com/documentation/coreai/",
+  "source": "rss",
+  "summary": "Apple's Core AI framework provides on-device AI capabilities for iOS/macOS apps, focusing on privacy-preserving inference. It offers APIs for integrating pre-trained models, likely leveraging Apple's Neural Engine. The framework abstracts model deployment and optimization, enabling developers to add AI features without deep ML expertise.",
+  "tags": [
+    "framework",
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-09T10:53:05.981069Z",
+  "updated_at": "2026-06-09T10:53:39.420329Z"
+}

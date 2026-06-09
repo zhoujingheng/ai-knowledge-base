@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260609-7de",
+  "title": "Expanding Private Cloud Compute",
+  "source_url": "https://security.apple.com/blog/expanding-pcc/",
+  "source": "rss",
+  "summary": "This content discusses expanding private cloud compute capabilities, likely focusing on secure, on-premises AI/ML infrastructure. It may involve deployment strategies for privacy-preserving computation, possibly related to Apple's Private Cloud Compute for handling sensitive data with AI models.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-09T10:53:06.232073Z",
+  "updated_at": "2026-06-09T10:53:39.420500Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260609-7e2",
+  "title": "Siri AI",
+  "source_url": "https://www.apple.com/apple-intelligence/",
+  "source": "rss",
+  "summary": "Apple Intelligence introduces a personal AI system deeply integrated into iOS, macOS, and iPadOS, combining on-device processing with Private Cloud Compute for tasks like writing assistance, image generation, and Siri enhancements. It emphasizes privacy, contextual awareness, and seamless user experience across apps.",
+  "tags": [
+    "llm",
+    "deployment",
+    "rag"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-09T10:53:05.981107Z",
+  "updated_at": "2026-06-09T10:53:39.420298Z"
+}

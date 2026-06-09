@@ -1,0 +1,15 @@
+{
+  "id": "github-20260609-7c0",
+  "title": "harry0703/MoneyPrinterTurbo",
+  "source_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+  "source": "github",
+  "summary": "MoneyPrinterTurbo is a tool that leverages large language models (LLMs) to automatically generate high-definition short videos from a single click. It simplifies video creation by integrating AI for content generation, likely handling scripting, voiceover, and visual assembly, making it accessible for non-technical users.",
+  "tags": [
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-06-09T10:53:04.272150Z",
+  "updated_at": "2026-06-09T10:53:39.420099Z"
+}

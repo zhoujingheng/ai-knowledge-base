@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260609-e13",
+  "title": "Massachusetts bans sale of precise location data in new privacy rights bill",
+  "source_url": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
+  "source": "rss",
+  "summary": "Massachusetts passed a privacy bill banning the sale of precise location data, impacting how AI/ML systems that rely on geolocation data for training or inference can operate. This regulatory move may affect location-based services, advertising, and data-driven models.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-09T10:53:05.981136Z",
+  "updated_at": "2026-06-09T10:53:39.420319Z"
+}

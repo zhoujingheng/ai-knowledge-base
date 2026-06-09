@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260609-8aa",
+  "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+  "source_url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+  "source": "rss",
+  "summary": "MiMo-v2.5-Pro-UltraSpeed is a 1-trillion-parameter model achieving 1000 tokens per second inference speed, likely through novel architecture or hardware optimization. The model pushes the frontier of large-scale deployment efficiency, sparking discussion on trade-offs between speed, quality, and scale.",
+  "tags": [
+    "llm",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 9,
+  "created_at": "2026-06-09T10:53:05.981218Z",
+  "updated_at": "2026-06-09T10:53:39.420349Z"
+}

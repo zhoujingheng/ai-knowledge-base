@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260609-1b7",
+  "title": "AI is slowing down",
+  "source_url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+  "source": "rss",
+  "summary": "The article argues that AI progress is decelerating due to diminishing returns from scaling laws, data scarcity, and rising costs. It critiques the hype around frontier models, suggesting that incremental improvements mask fundamental limits, and warns of an impending plateau in capabilities.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-09T10:53:05.981198Z",
+  "updated_at": "2026-06-09T10:53:39.420339Z"
+}

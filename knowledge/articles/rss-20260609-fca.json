@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260609-fca",
+  "title": "NeuroBait: I fine-tuned a model to spark dopamine for ADHD brain",
+  "source_url": "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd",
+  "source": "rss",
+  "summary": "The author fine-tuned an LLM to create NeuroBait, a model designed to generate engaging, dopamine-triggering content tailored for ADHD brains. The project explores personalized AI interaction by optimizing for attention and reward pathways, likely using reinforcement learning or preference tuning.",
+  "tags": [
+    "fine-tuning",
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-09T10:53:11.022596Z",
+  "updated_at": "2026-06-09T10:53:39.421329Z"
+}

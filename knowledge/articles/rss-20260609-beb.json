@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260609-beb",
+  "title": "The Cypherpunk Library",
+  "source_url": "https://www.cypherpunkbooks.com",
+  "source": "rss",
+  "summary": "The Cypherpunk Library is a curated collection of books and resources focused on cryptography, privacy, and decentralized technology. It serves as a reference for those interested in cypherpunk ideals, digital rights, and the history of secure communications. The site aggregates foundational texts and community recommendations.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-09T10:53:05.981329Z",
+  "updated_at": "2026-06-09T10:53:39.420457Z"
+}

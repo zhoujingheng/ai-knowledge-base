@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260609-832",
+  "title": "Apple reveals new AI architecture built around Google Gemini models",
+  "source_url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+  "source": "rss",
+  "summary": "Apple announces a new AI architecture integrating Google Gemini models, signaling a strategic shift toward leveraging external large language models for enhanced on-device and cloud-based AI capabilities. The move aims to improve Siri and other Apple services, raising discussions about privacy, competition, and technical integration.",
+  "tags": [
+    "llm",
+    "architecture",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-09T10:53:05.981017Z",
+  "updated_at": "2026-06-09T10:53:39.420241Z"
+}

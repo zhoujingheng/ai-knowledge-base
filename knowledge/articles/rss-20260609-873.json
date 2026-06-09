@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260609-873",
+  "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
+  "source_url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
+  "source": "rss",
+  "summary": "Troy Hunt analyzes the growing delay between data breaches and their public disclosure, noting that the lag has worsened over time despite increased awareness. He examines trends from 1,000 breaches, highlighting systemic issues in notification processes and the impact on affected users.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-06-09T10:53:05.981396Z",
+  "updated_at": "2026-06-09T10:53:39.420467Z"
+}
