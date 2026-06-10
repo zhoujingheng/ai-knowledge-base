@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260610-6d8",
+  "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+  "source_url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+  "source": "rss",
+  "summary": "This content demonstrates an AI agent autonomously constructing a 3D virtual Paris gallery by sequentially chaining two Hugging Face Spaces—likely one for 3D scene generation and another for asset rendering. It showcases agent orchestration and integration of pre-built AI tools.",
+  "tags": [
+    "agent",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-10T11:31:58.441456Z",
+  "updated_at": "2026-06-10T11:32:25.868169Z"
+}

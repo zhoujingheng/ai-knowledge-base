@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260610-b6b",
+  "title": "It doesn’t matter if it works",
+  "source_url": "https://henry.codes/writing/it-doesnt-matter-if-it-works/",
+  "source": "rss",
+  "summary": "The post argues that in AI/ML, a system's apparent functionality is insufficient; deeper understanding of its mechanisms, limitations, and failure modes is crucial for reliability and trustworthiness.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-10T11:31:54.430339Z",
+  "updated_at": "2026-06-10T11:32:25.867092Z"
+}

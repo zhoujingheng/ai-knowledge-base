@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260610-d6f",
+  "title": "A line-by-line translation of the OCaml runtime from C to Rust",
+  "source_url": "https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247",
+  "source": "rss",
+  "summary": "This project involves translating the OCaml runtime from C to Rust line by line, aiming to improve memory safety and maintainability while preserving runtime semantics. It highlights the challenges of rewriting low-level systems code in a safer language.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-06-10T11:31:54.444789Z",
+  "updated_at": "2026-06-10T11:32:25.867625Z"
+}

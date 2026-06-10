@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260610-11c",
+  "title": "Claude Fable 5 and Claude Mythos 5",
+  "source_url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+  "source": "rss",
+  "summary": "The content references two new Claude models, Fable 5 and Mythos 5, likely indicating a release or discussion of Anthropic's latest AI systems. The link points to a Lobste.rs discussion, suggesting community analysis of model capabilities, performance, or implications.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-06-10T11:31:54.430362Z",
+  "updated_at": "2026-06-10T11:32:25.867152Z"
+}

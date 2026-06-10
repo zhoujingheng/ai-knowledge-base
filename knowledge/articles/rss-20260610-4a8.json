@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260610-4a8",
+  "title": "chromiumfish: A stealth Chromium build with a drop-in Playwright harness for Python and Node",
+  "source_url": "https://github.com/arman-bd/chromiumfish",
+  "source": "rss",
+  "summary": "Chromiumfish is a modified Chromium build designed to evade bot detection, paired with a Playwright harness for Python and Node.js. It enables stealthier browser automation by reducing fingerprinting signals, useful for web scraping and testing where standard Playwright may be detected.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-10T11:31:54.430378Z",
+  "updated_at": "2026-06-10T11:32:25.867138Z"
+}

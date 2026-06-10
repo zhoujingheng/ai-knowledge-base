@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260610-eb3",
+  "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+  "source_url": "https://huggingface.co/blog/github-ci-hf-jobs",
+  "source": "rss",
+  "summary": "This content explains how to migrate GitHub CI workflows to Hugging Face Jobs for running ML training and inference tasks. It covers setup, configuration, and benefits like better GPU access and integration with Hugging Face Hub.",
+  "tags": [
+    "deployment",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-10T11:31:58.441464Z",
+  "updated_at": "2026-06-10T11:32:25.868151Z"
+}

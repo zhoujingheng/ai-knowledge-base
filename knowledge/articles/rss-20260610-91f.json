@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260610-91f",
+  "title": "What about OpenCL and CUDA C++ alternatives?",
+  "source_url": "https://www.modular.com/blog/democratizing-ai-compute-part-5-what-about-cuda-c-alternatives",
+  "source": "rss",
+  "summary": "The content discusses alternatives to OpenCL and CUDA C++ for GPU computing, likely comparing performance, portability, and ecosystem trade-offs. It references a Lobsters discussion, indicating community debate on tools like SYCL, Vulkan Compute, or HIP.",
+  "tags": [
+    "framework",
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-10T11:31:54.430395Z",
+  "updated_at": "2026-06-10T11:32:25.867160Z"
+}

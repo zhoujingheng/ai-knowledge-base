@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260610-92a",
+  "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+  "source_url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+  "source": "rss",
+  "summary": "This content benchmarks frontier Automatic Speech Recognition (ASR) systems on code-switched speech to evaluate whether voice agents can handle bilingual customers. It tests leading ASR models on mixed-language audio, highlighting accuracy gaps and implications for multilingual voice agent deployment.",
+  "tags": [
+    "agent",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-10T11:31:58.441426Z",
+  "updated_at": "2026-06-10T11:32:25.868116Z"
+}
