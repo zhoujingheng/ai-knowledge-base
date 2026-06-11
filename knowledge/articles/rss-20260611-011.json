@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260611-011",
+  "title": "DiffusionGemma: 4x Faster Text Generation",
+  "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+  "source": "rss",
+  "summary": "Google introduces DiffusionGemma, a new text generation model that uses diffusion processes instead of traditional autoregressive methods, achieving 4x faster generation speeds while maintaining quality. This represents a significant shift in LLM architecture for efficiency.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-06-11T12:03:50.562144Z",
+  "updated_at": "2026-06-11T12:04:30.489093Z"
+}

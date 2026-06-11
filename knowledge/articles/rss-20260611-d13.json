@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260611-d13",
+  "title": "Debootstrapping without Archeology: Stacked Implementations in Camlboot",
+  "source_url": "https://arxiv.org/abs/2202.09231",
+  "source": "rss",
+  "summary": "This article discusses a technique for debootstrapping the Camlboot compiler without relying on archaeological methods. It introduces 'stacked implementations' to simplify the process of verifying compiler correctness by layering self-compilation stages, reducing reliance on trusted code bases.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-06-11T12:03:50.650103Z",
+  "updated_at": "2026-06-11T12:04:30.490000Z"
+}

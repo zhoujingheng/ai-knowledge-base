@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260611-6b5",
+  "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+  "source_url": "https://news.ycombinator.com/item?id=48473166",
+  "source": "rss",
+  "summary": "Anthropic will require 30-day data retention for all traffic on its most capable models (Mythos-class and future models) deployed via AWS Bedrock. This policy aims to detect misuse patterns but means customer data leaves AWS's security boundary. Data is deleted after 30 days unless part of a safety investigation or legal requirement.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-11T12:03:50.562304Z",
+  "updated_at": "2026-06-11T12:04:30.489160Z"
+}

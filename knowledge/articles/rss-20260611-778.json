@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260611-778",
+  "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+  "source_url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+  "source": "rss",
+  "summary": "Cybersecurity researchers express dissatisfaction with the guardrails on Anthropic's new AI model, Fable, arguing that overly restrictive safety measures hinder legitimate security research and vulnerability testing. The debate highlights tensions between AI safety and practical cybersecurity needs.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-06-11T12:03:50.562114Z",
+  "updated_at": "2026-06-11T12:04:30.489105Z"
+}

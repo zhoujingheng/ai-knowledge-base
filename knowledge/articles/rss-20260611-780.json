@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260611-780",
+  "title": "German ruling declares Google liable for false answers in AI Overviews",
+  "source_url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+  "source": "rss",
+  "summary": "A German court ruled that Google's AI Overviews constitute its own speech, making it legally liable for false or misleading answers. This landmark decision challenges the platform defense for AI-generated content, potentially setting a precedent for stricter liability in the EU.",
+  "tags": [
+    "llm",
+    "rag",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-11T12:03:50.562390Z",
+  "updated_at": "2026-06-11T12:04:30.489249Z"
+}

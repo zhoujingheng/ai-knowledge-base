@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260611-1ef",
+  "title": "πFS",
+  "source_url": "https://github.com/philipl/pifs",
+  "source": "rss",
+  "summary": "πFS is a proof-of-concept filesystem that stores data in the digits of π, using a lookup table to map file content to positions in π's decimal expansion. It demonstrates a novel but impractical approach to data storage, leveraging infinite theoretical capacity but requiring massive computational resources for retrieval.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-11T12:03:50.562034Z",
+  "updated_at": "2026-06-11T12:04:30.489071Z"
+}

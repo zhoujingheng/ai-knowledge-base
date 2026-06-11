@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260611-21c",
+  "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+  "source_url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+  "source": "rss",
+  "summary": "This article reveals that Niantic's Pokémon Go player scans were used to train Vantor, a military drone navigation system. The geospatial data collected by players inadvertently helped develop AI for autonomous drone flight in GPS-denied environments, raising privacy and ethical concerns.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-11T12:03:50.561891Z",
+  "updated_at": "2026-06-11T12:04:30.489059Z"
+}

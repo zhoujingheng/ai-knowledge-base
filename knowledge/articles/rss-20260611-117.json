@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260611-117",
+  "title": "Surprise, pay $1000",
+  "source_url": "https://forestwalk.ai/blog/surprise-blacksmith-costs/",
+  "source": "rss",
+  "summary": "The article discusses the unexpected high costs and complexities of deploying AI/ML models in production, using the metaphor of a 'blacksmith' to illustrate how initial tooling and infrastructure choices can lead to surprise expenses. It critiques the gap between prototype and production, emphasizing hidden operational costs.",
+  "tags": [
+    "deployment",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-11T12:03:50.562463Z",
+  "updated_at": "2026-06-11T12:04:30.489355Z"
+}

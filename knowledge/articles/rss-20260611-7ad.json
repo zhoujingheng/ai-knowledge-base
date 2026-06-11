@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260611-7ad",
+  "title": "If Claude Fable stops helping you, you'll never know",
+  "source_url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+  "source": "rss",
+  "summary": "This Hacker News post discusses a scenario where Claude (likely an AI model) stops being helpful without the user realizing it, highlighting issues of reliability, transparency, and trust in AI systems. The linked article explores potential causes and implications.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-11T12:03:50.562484Z",
+  "updated_at": "2026-06-11T12:04:30.489331Z"
+}

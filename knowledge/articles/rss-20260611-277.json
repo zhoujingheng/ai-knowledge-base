@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260611-277",
+  "title": "DiffusionGemma: 4x faster text generation",
+  "source_url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+  "source": "rss",
+  "summary": "DiffusionGemma is a text generation model that uses diffusion processes to produce outputs four times faster than traditional autoregressive models. It likely leverages iterative refinement rather than sequential token prediction, enabling parallel generation and reduced latency.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-11T12:03:58.886248Z",
+  "updated_at": "2026-06-11T12:04:30.490955Z"
+}

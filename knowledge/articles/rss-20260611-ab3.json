@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260611-ab3",
+  "title": "Building an HTML-first site doubled our users overnight",
+  "source_url": "https://mohkohn.co.uk/writing/html-first/",
+  "source": "rss",
+  "summary": "The article describes how switching to an HTML-first, server-rendered architecture dramatically improved site performance and user experience, leading to a doubling of users overnight. It contrasts this approach with JavaScript-heavy frameworks, emphasizing simplicity, faster load times, and better SEO as key drivers of growth.",
+  "tags": [
+    "framework"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-11T12:03:50.562256Z",
+  "updated_at": "2026-06-11T12:04:30.489138Z"
+}

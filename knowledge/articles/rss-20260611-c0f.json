@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260611-c0f",
+  "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+  "source_url": "https://github.com/anthropics/claude-code/issues/29045",
+  "source": "rss",
+  "summary": "A GitHub issue reports that Claude Desktop launches a 1.8 GB Hyper-V VM on every startup, even for simple chat interactions. This raises concerns about resource overhead, startup latency, and whether the VM is necessary for non-agentic tasks. The discussion highlights potential inefficiencies in the desktop application's architecture.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-11T12:03:50.562086Z",
+  "updated_at": "2026-06-11T12:04:30.489115Z"
+}

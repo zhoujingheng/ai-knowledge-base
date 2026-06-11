@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260611-f17",
+  "title": "macOS Container Machines",
+  "source_url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+  "source": "rss",
+  "summary": "Apple's container machine feature enables lightweight, efficient macOS virtual machines for running containers, leveraging the native hypervisor and file system. It provides a streamlined alternative to Docker Desktop for macOS, focusing on performance and integration with Apple Silicon.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-11T12:03:50.562416Z",
+  "updated_at": "2026-06-11T12:04:30.489271Z"
+}

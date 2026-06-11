@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260611-2b5",
+  "title": "Chrome is looking to permanently drop MV2 extension",
+  "source_url": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
+  "source": "rss",
+  "summary": "Google Chrome is moving to permanently drop Manifest V2 (MV2) extension support, effectively killing ad-blockers like uBlock Origin. Microsoft Edge and Opera are expected to follow. This shift impacts browser extension architecture, pushing developers toward the more restrictive Manifest V3 framework.",
+  "tags": [
+    "framework"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-11T12:03:50.562358Z",
+  "updated_at": "2026-06-11T12:04:30.489236Z"
+}
