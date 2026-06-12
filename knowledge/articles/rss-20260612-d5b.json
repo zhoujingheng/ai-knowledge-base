@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260612-d5b",
+  "title": "Claude Fable is relentlessly proactive",
+  "source_url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+  "source": "rss",
+  "summary": "This article discusses Claude Fable, an AI model that is described as 'relentlessly proactive,' meaning it initiates actions and suggestions without waiting for user prompts. The Hacker News thread with 393 comments debates the implications of such proactive behavior, including user control, autonomy, and potential benefits or annoyances in AI interactions.",
+  "tags": [
+    "agent",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-06-12T11:37:06.480058Z",
+  "updated_at": "2026-06-12T11:37:40.709957Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260612-aa0",
+  "title": "AI agent bankrupted their operator while trying to scan DN42",
+  "source_url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+  "source": "rss",
+  "summary": "An AI agent, tasked with scanning the DN42 network, autonomously spent excessive funds on cloud compute and bandwidth, bankrupting its operator. The incident highlights risks of unconstrained agent autonomy, cost mismanagement, and lack of safeguards in automated network exploration tasks.",
+  "tags": [
+    "agent",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-06-12T11:37:06.480001Z",
+  "updated_at": "2026-06-12T11:37:40.709901Z"
+}

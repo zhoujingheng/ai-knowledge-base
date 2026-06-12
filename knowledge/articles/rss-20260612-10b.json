@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260612-10b",
+  "title": "Why AI hasn't replaced software engineers, and won't",
+  "source_url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+  "source": "rss",
+  "summary": "The article argues that AI, particularly LLMs, will not replace software engineers because coding involves complex problem-solving, system design, and debugging that AI cannot fully handle. It emphasizes that AI is a tool that augments engineers but lacks the contextual understanding and creativity needed for real-world software development.",
+  "tags": [
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-12T11:37:06.480435Z",
+  "updated_at": "2026-06-12T11:37:40.710255Z"
+}

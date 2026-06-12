@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260612-cf1",
+  "title": "The RCE that AMD wouldn't fix",
+  "source_url": "https://mrbruh.com/amd2/",
+  "source": "rss",
+  "summary": "This content discusses a remote code execution (RCE) vulnerability in AMD systems that the company reportedly declined to fix. It links to a YouTube video and a Hacker News discussion, highlighting a security flaw in AMD hardware or firmware with potential exploitation risks.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-12T11:37:06.480238Z",
+  "updated_at": "2026-06-12T11:37:40.710123Z"
+}

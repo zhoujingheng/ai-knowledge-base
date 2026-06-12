@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260612-98f",
+  "title": "MiMo Code is now released and open-source",
+  "source_url": "https://mimo.xiaomi.com/mimocode",
+  "source": "rss",
+  "summary": "MiMo Code, an open-source AI coding assistant from Xiaomi, has been released. It aims to provide code generation, explanation, and debugging capabilities, likely leveraging large language models. The project is hosted on a dedicated site and has generated significant discussion on Hacker News.",
+  "tags": [
+    "llm",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-12T11:37:06.480313Z",
+  "updated_at": "2026-06-12T11:37:40.710188Z"
+}

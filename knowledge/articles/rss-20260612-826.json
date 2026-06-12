@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260612-826",
+  "title": "Show HN: Homebrew 6.0.0",
+  "source_url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+  "source": "rss",
+  "summary": "Homebrew 6.0.0 is a major release of the macOS/Linux package manager, featuring a new tap trust security mechanism, a faster internal JSON API, Linux sandboxing, improved defaults from user surveys, and initial support for macOS 27. It focuses on performance, security, and user experience.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 1,
+  "created_at": "2026-06-12T11:37:06.480352Z",
+  "updated_at": "2026-06-12T11:37:40.710201Z"
+}

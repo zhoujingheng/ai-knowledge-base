@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260612-f59",
+  "title": "Claude Fable 5: mid-tier results on coding tasks",
+  "source_url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+  "source": "rss",
+  "summary": "The article critically evaluates Claude Fable 5, an AI model, finding it delivers only mid-tier performance on coding tasks despite significant hype. It argues that the model's capabilities are exaggerated, with benchmarks showing it lags behind competitors in practical coding scenarios, suggesting a gap between marketing claims and real-world utility.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-06-12T11:37:06.480265Z",
+  "updated_at": "2026-06-12T11:37:40.710135Z"
+}

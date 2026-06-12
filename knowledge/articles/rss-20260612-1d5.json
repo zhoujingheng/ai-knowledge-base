@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260612-1d5",
+  "title": "Lines of code got a better publicist",
+  "source_url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+  "source": "rss",
+  "summary": "The article argues that AI-generated code is overhyped and that the real value of software engineering lies in understanding, maintaining, and debugging complex systems—skills that AI cannot replace. It critiques the narrative that coding is merely about writing lines of code, emphasizing the importance of human judgment and experience.",
+  "tags": [
+    "llm",
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-12T11:37:06.480378Z",
+  "updated_at": "2026-06-12T11:37:40.710279Z"
+}
