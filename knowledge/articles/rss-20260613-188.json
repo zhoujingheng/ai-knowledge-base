@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260613-188",
+  "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+  "source_url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+  "source": "rss",
+  "summary": "Moonshot AI released Kimi K2.7-Code, an open-source coding model optimized for token efficiency, achieving strong performance with fewer tokens. It targets cost-effective code generation and understanding, leveraging a novel architecture to reduce computational overhead while maintaining quality.",
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-13T10:22:08.129733Z",
+  "updated_at": "2026-06-13T10:22:43.247926Z"
+}

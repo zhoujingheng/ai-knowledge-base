@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260613-c2c",
+  "title": "Malware developers added nuclear and biological weapons text to to their spyware",
+  "source_url": "https://twitter.com/jsrailton/status/2064661778978533571",
+  "source": "rss",
+  "summary": "Malware developers have been embedding text related to nuclear and biological weapons into their spyware, likely as a form of obfuscation or to evade detection. The content appears in code comments or strings, referencing fictional or real-world WMD concepts, possibly to confuse security tools or analysts.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-13T10:22:08.129912Z",
+  "updated_at": "2026-06-13T10:22:43.248062Z"
+}

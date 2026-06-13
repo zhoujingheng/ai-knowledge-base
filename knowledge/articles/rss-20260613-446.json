@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260613-446",
+  "title": "olmo-eval: An evaluation workbench for the model development loop",
+  "source_url": "https://huggingface.co/blog/allenai/olmo-eval",
+  "source": "rss",
+  "summary": "Olmo-eval is a workbench designed to streamline model evaluation within the iterative development loop, enabling efficient testing and comparison of AI models during training and fine-tuning phases.",
+  "tags": [
+    "framework",
+    "research",
+    "fine-tuning"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-13T10:22:10.911054Z",
+  "updated_at": "2026-06-13T10:22:43.248888Z"
+}
