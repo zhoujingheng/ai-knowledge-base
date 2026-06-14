@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260614-ace",
+  "title": "The future of Siri, or: why private inference isn’t private enough",
+  "source_url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
+  "source": "rss",
+  "summary": "The article argues that Apple's on-device Siri processing, while using private inference techniques, still leaks sensitive information through model outputs and side channels. It suggests that true privacy requires more robust cryptographic methods or federated approaches.",
+  "tags": [
+    "research",
+    "deployment",
+    "rag"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-14T10:44:44.436107Z",
+  "updated_at": "2026-06-14T10:45:13.440104Z"
+}

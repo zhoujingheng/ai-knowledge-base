@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260614-2d7",
+  "title": "A low-carbon computing platform from your retired phones",
+  "source_url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+  "source": "rss",
+  "summary": "Google Research proposes using retired Android phones as a low-carbon distributed computing platform, repurposing their hardware for AI/ML inference tasks. The approach reduces e-waste and energy consumption compared to traditional cloud computing, leveraging existing device capabilities for sustainable machine learning workloads.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-14T10:44:44.289452Z",
+  "updated_at": "2026-06-14T10:45:13.439896Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260614-445",
+  "title": "There is a shadow hanging over this Fable thing",
+  "source_url": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
+  "source": "rss",
+  "summary": "The article discusses a critical security vulnerability or systemic issue within the 'Fable' AI platform, suggesting a hidden flaw that undermines trust. The Hacker News discussion (466 comments) indicates significant community concern, likely involving data privacy, model manipulation, or deployment risks.",
+  "tags": [
+    "deployment",
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-14T10:44:44.289520Z",
+  "updated_at": "2026-06-14T10:45:13.439928Z"
+}

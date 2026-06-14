@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260614-a74",
+  "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+  "source_url": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
+  "source": "rss",
+  "summary": "Arch Linux reports that a malware incident affecting over 1,500 AUR packages is now under control. The breach involved malicious code injected into user-uploaded packages, but the distribution's core repositories remained unaffected. The incident highlights security risks in community-maintained package ecosystems.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-06-14T10:44:44.289405Z",
+  "updated_at": "2026-06-14T10:45:13.439822Z"
+}
