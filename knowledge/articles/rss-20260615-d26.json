@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260615-d26",
+  "title": "Formal methods and the future of programming",
+  "source_url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
+  "source": "rss",
+  "summary": "Jane Street discusses their use of formal methods (e.g., model checking, static analysis) to ensure correctness in financial systems. They highlight practical integration into development workflows, balancing rigor with productivity, and share lessons for broader adoption in programming.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-15T13:47:59.948742Z",
+  "updated_at": "2026-06-15T13:48:29.888769Z"
+}

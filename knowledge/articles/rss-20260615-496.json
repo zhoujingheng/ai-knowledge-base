@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260615-496",
+  "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+  "source_url": "https://sqltoerdiagram.com/",
+  "source": "rss",
+  "summary": "A browser-based tool that converts SQL schema definitions into Entity-Relationship (ER) diagrams entirely client-side, ensuring no data is uploaded to any server. It offers instant visual feedback for database design, appealing to developers who prioritize privacy and simplicity.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-15T13:47:59.948828Z",
+  "updated_at": "2026-06-15T13:48:29.888791Z"
+}

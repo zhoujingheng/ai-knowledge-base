@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260615-6c7",
+  "title": "Don't trust large context windows",
+  "source_url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+  "source": "rss",
+  "summary": "This article argues that large context windows in LLMs are unreliable for tasks requiring precise information retrieval, as models often fail to utilize the full context effectively. It suggests that relying on large contexts can degrade performance, and advocates for techniques like retrieval-augmented generation or chunking to improve accuracy.",
+  "tags": [
+    "llm",
+    "rag",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-15T13:47:59.948785Z",
+  "updated_at": "2026-06-15T13:48:29.888780Z"
+}

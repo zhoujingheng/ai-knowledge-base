@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260615-5f4",
+  "title": "Even more batteries included with Emacs",
+  "source_url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+  "source": "rss",
+  "summary": "This article discusses enhancing Emacs with AI/ML capabilities, focusing on integrating local LLMs for tasks like code completion, text generation, and summarization. It covers practical setup, configuration, and usage of tools like `llm.el` and `gptel` within the Emacs ecosystem, emphasizing privacy and offline functionality.",
+  "tags": [
+    "llm",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-15T13:47:59.948409Z",
+  "updated_at": "2026-06-15T13:48:29.888391Z"
+}

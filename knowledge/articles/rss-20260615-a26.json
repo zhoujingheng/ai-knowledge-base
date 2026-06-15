@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260615-a26",
+  "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+  "source_url": "https://github.com/nex-agi/Nex-N2/issues/4",
+  "source": "rss",
+  "summary": "A discussion on Hacker News reveals that Rio de Janeiro's claimed 'homegrown' LLM is actually a merge of existing models, sparking debate about transparency and originality in AI development. The community critiques the lack of proper attribution and technical novelty.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-06-15T13:47:59.948591Z",
+  "updated_at": "2026-06-15T13:48:29.888586Z"
+}

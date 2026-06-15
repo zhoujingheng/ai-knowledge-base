@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260615-7fa",
+  "title": "Pac-Man, but you're the ghost",
+  "source_url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+  "source": "rss",
+  "summary": "The article explores a novel twist on Pac-Man where the player controls a ghost instead of Pac-Man, using AI to simulate the ghost's behavior. It discusses game design, pathfinding algorithms, and the challenge of creating engaging AI opponents, blending retro gaming with modern AI concepts.",
+  "tags": [
+    "research",
+    "game-ai"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-15T13:47:59.948806Z",
+  "updated_at": "2026-06-15T13:48:29.888802Z"
+}

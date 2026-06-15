@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260615-776",
+  "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+  "source_url": "https://github.com/tamnd/kage",
+  "source": "rss",
+  "summary": "Kage is a tool that shadows any website into a single binary for offline viewing. It captures site content and dependencies, packaging them into a standalone executable. This enables offline access without a browser or server, useful for archiving, documentation, or air-gapped environments.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-15T13:47:59.948499Z",
+  "updated_at": "2026-06-15T13:48:29.888520Z"
+}

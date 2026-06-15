@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260615-c91",
+  "title": "Apple Foundation Models",
+  "source_url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+  "source": "rss",
+  "summary": "Apple's foundation models are large language models designed for on-device AI, emphasizing privacy and efficiency. The documentation covers their integration via Claude's platform, including SDKs and libraries for deployment. The Hacker News discussion highlights community interest in Apple's approach to balancing performance with local processing.",
+  "tags": [
+    "llm",
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-15T13:47:59.948380Z",
+  "updated_at": "2026-06-15T13:48:29.888402Z"
+}
