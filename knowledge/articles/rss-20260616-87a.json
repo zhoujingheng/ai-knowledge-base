@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260616-87a",
+  "title": "Hetzner increased dedicated server prices 3-4x",
+  "source_url": "https://news.ycombinator.com/item?id=48542064",
+  "source": "rss",
+  "summary": "Hetzner has dramatically increased dedicated server prices by 3-4x, following a previous ~30% hike. This impacts AI/ML practitioners who rely on cost-effective bare metal for training or inference, potentially shifting workloads to cloud or alternative providers.",
+  "tags": [
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-06-16T12:46:46.387020Z",
+  "updated_at": "2026-06-16T12:47:19.020932Z"
+}

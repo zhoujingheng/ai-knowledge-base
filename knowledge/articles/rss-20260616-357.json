@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260616-357",
+  "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+  "source_url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+  "source": "rss",
+  "summary": "This article recounts a historical anecdote where the x86 emulator team encountered such poorly written code during emulation that they dynamically patched it in real-time to improve performance and stability. It highlights the extreme measures taken to handle legacy software bugs without modifying the original binaries.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-06-16T12:46:46.386661Z",
+  "updated_at": "2026-06-16T12:47:19.020854Z"
+}

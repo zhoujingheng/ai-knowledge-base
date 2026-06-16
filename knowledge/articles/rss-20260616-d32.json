@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260616-d32",
+  "title": "Hetzner Price Adjustment",
+  "source_url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+  "source": "rss",
+  "summary": "Hetzner, a popular cloud provider for AI/ML workloads due to low cost, announced a price adjustment. The Hacker News discussion (486 points, 676 comments) analyzes the impact on AI infrastructure costs, comparing Hetzner to major cloud providers and exploring implications for self-hosted AI deployments.",
+  "tags": [
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-16T12:46:46.387067Z",
+  "updated_at": "2026-06-16T12:47:19.021079Z"
+}

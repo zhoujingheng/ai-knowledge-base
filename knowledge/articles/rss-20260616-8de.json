@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260616-8de",
+  "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+  "source_url": "https://tinywind.io",
+  "source": "rss",
+  "summary": "TinyWind is a sailing game that simulates real wind physics using actual weather data, with over 380,000 kilometers sailed by players. It combines gaming with AI/ML-driven environmental modeling, though the AI/ML focus is on physics simulation rather than traditional machine learning.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-16T12:46:46.386865Z",
+  "updated_at": "2026-06-16T12:47:19.020900Z"
+}

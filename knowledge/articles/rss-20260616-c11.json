@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260616-c11",
+  "title": "Typst 0.15.0",
+  "source_url": "https://typst.app/docs/changelog/0.15.0/",
+  "source": "rss",
+  "summary": "Typst 0.15.0 is a major update to the Typst typesetting system, introducing native support for HTML export, improved performance, and enhanced scripting capabilities. While not directly an AI/ML tool, its relevance lies in its potential as a deployment or rendering backend for AI-generated documents and reports.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-16T12:46:46.386827Z",
+  "updated_at": "2026-06-16T12:47:19.020889Z"
+}

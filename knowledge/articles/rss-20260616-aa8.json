@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260616-aa8",
+  "title": "Language integrated LLMs as an OCaml function",
+  "source_url": "https://anil.recoil.org/notes/language-integrated-llms",
+  "source": "rss",
+  "summary": "This content discusses integrating large language models (LLMs) directly into OCaml as a native function, enabling type-safe, language-integrated LLM calls within the OCaml ecosystem. It highlights a novel approach to combining LLMs with functional programming.",
+  "tags": [
+    "llm",
+    "framework",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-16T12:46:46.553928Z",
+  "updated_at": "2026-06-16T12:47:19.021773Z"
+}

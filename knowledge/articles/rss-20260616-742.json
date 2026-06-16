@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260616-742",
+  "title": "Building llm-driven “ai” still requires domain knowledge",
+  "source_url": "https://lobste.rs/s/q9sd1m/building_llm_driven_ai_still_requires",
+  "source": "rss",
+  "summary": "Building LLM-driven tools still requires significant domain knowledge capture, though it's easier than previous AI generations because knowledge doesn't need strict structured formatting. The author emphasizes that domain expertise remains critical for effective LLM-based applications.",
+  "tags": [
+    "llm",
+    "rag",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-16T12:46:46.525847Z",
+  "updated_at": "2026-06-16T12:47:19.021298Z"
+}

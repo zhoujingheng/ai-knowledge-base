@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260616-570",
+  "title": "Why adding ontologies to LLMs won't yield machine intelligence",
+  "source_url": "https://youtu.be/Ce-cN5Llaz4?t=93",
+  "source": "rss",
+  "summary": "The article argues that integrating ontologies into LLMs does not achieve true machine intelligence, as ontologies impose rigid human-defined structures that lack the flexibility and emergent understanding needed for general intelligence.",
+  "tags": [
+    "llm",
+    "research",
+    "rag"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-16T12:46:46.525798Z",
+  "updated_at": "2026-06-16T12:47:19.021209Z"
+}

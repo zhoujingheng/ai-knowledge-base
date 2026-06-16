@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260616-883",
+  "title": "A backdoor in a LinkedIn job offer",
+  "source_url": "https://roman.pt/posts/linkedin-backdoor/",
+  "source": "rss",
+  "summary": "This article details a sophisticated supply chain attack where a malicious actor embedded a backdoor in a fake LinkedIn job offer. The attack targeted AI/ML developers by distributing a compromised Python package disguised as a coding test, demonstrating real-world exploitation of trust in recruitment processes.",
+  "tags": [
+    "tool",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-16T12:46:46.386790Z",
+  "updated_at": "2026-06-16T12:47:19.020877Z"
+}

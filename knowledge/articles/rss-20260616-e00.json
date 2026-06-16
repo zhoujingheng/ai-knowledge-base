@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260616-e00",
+  "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+  "source_url": "https://www.richardosgood.com/posts/banned-book-library/",
+  "source": "rss",
+  "summary": "A project that stores banned books in the firmware of a Wi-Fi smart light bulb, using the bulb's limited storage to host a library accessible via a local web server. It demonstrates creative use of IoT hardware for data preservation and circumvention of censorship.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-16T12:46:46.386706Z",
+  "updated_at": "2026-06-16T12:47:19.020839Z"
+}

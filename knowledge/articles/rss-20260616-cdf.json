@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260616-cdf",
+  "title": "Iroh 1.0",
+  "source_url": "https://www.iroh.computer/blog/v1",
+  "source": "rss",
+  "summary": "Iroh 1.0 is a decentralized networking library and protocol for building peer-to-peer applications. It provides tools for secure, direct connections between devices, enabling distributed systems without centralized servers. The release marks a stable, production-ready version for developers.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-16T12:46:46.386904Z",
+  "updated_at": "2026-06-16T12:47:19.020911Z"
+}

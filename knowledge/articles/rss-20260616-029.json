@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260616-029",
+  "title": "My Homelab AI Dev Platform",
+  "source_url": "https://rsgm.dev/post/ai-dev-platform/",
+  "source": "rss",
+  "summary": "The author details building a personal AI development platform in a homelab, covering hardware setup, containerized deployment of models like Llama and Mistral, and integrating tools for local inference, experimentation, and API access. It emphasizes practical, self-hosted solutions for AI development.",
+  "tags": [
+    "deployment",
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-16T12:46:46.386942Z",
+  "updated_at": "2026-06-16T12:47:19.020921Z"
+}
