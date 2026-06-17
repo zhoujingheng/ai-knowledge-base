@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260617-bb2",
+  "title": "Running local models is good now",
+  "source_url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+  "source": "rss",
+  "summary": "The article argues that running local AI models has become practical and beneficial due to improvements in model efficiency, quantization, and tooling. It highlights the advantages of privacy, offline capability, and customization, contrasting with reliance on cloud APIs. The author provides practical advice for setting up and using local models effectively.",
+  "tags": [
+    "deployment",
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-17T12:10:36.247961Z",
+  "updated_at": "2026-06-17T12:11:12.426061Z"
+}

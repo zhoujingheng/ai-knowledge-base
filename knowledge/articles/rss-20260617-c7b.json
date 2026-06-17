@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260617-c7b",
+  "title": "Humiliating IIS servers for fun and jail time",
+  "source_url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+  "source": "rss",
+  "summary": "This article humorously details the author's experience exploiting a vulnerability in a misconfigured IIS server, leading to a legal confrontation. It serves as a cautionary tale about the consequences of unauthorized system access, blending technical exploitation with real-world legal repercussions.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-17T12:10:36.247645Z",
+  "updated_at": "2026-06-17T12:11:12.425972Z"
+}

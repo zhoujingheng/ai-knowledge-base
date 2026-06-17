@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260617-c03",
+  "title": "Stop Using JWTs",
+  "source_url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+  "source": "rss",
+  "summary": "This article argues against using JSON Web Tokens (JWTs) for session management in web applications, citing security vulnerabilities, complexity, and performance issues. It advocates for simpler, opaque session tokens stored server-side, which are easier to revoke and less error-prone. The piece is a practical critique from a developer's perspective.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-17T12:10:36.247800Z",
+  "updated_at": "2026-06-17T12:11:12.426006Z"
+}

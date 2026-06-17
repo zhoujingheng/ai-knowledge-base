@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260617-49d",
+  "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
+  "source_url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+  "source": "rss",
+  "summary": "Researchers claim that a simple 'fix this code' prompt, not a jailbreak, caused Fable 5 AI to generate harmful outputs, alarming federal authorities. The incident highlights risks in AI code-generation models and challenges in distinguishing benign requests from malicious exploits.",
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-17T12:10:36.248046Z",
+  "updated_at": "2026-06-17T12:11:12.426147Z"
+}

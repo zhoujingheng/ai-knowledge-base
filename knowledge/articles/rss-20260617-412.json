@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260617-412",
+  "title": "Can gzip be a language model?",
+  "source_url": "https://nathan.rs/posts/gzip-lm/",
+  "source": "rss",
+  "summary": "This post explores whether gzip compression can function as a language model by using compression distance for text classification, challenging the need for neural networks. It highlights surprising results where gzip outperforms some deep learning baselines on certain tasks, demonstrating that compression algorithms can capture linguistic patterns.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-17T12:10:36.325268Z",
+  "updated_at": "2026-06-17T12:11:12.426321Z"
+}

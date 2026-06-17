@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260617-525",
+  "title": "Correlated randomness in Slay the Spire 2",
+  "source_url": "https://tck.mn/blog/correlated-randomness-sts2/",
+  "source": "rss",
+  "summary": "This article analyzes the design of correlated randomness in the upcoming game Slay the Spire 2, exploring how intentional patterns in procedural generation can improve player experience over pure randomness. It discusses algorithmic approaches to balancing unpredictability with fairness and strategic depth.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-17T12:10:36.248020Z",
+  "updated_at": "2026-06-17T12:11:12.426136Z"
+}

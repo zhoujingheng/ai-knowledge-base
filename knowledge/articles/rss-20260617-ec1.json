@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260617-ec1",
+  "title": "Apple is about to make Hide My Email useless",
+  "source_url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+  "source": "rss",
+  "summary": "The article argues that Apple's upcoming AI-powered email features, likely leveraging on-device LLMs to automatically categorize, summarize, and draft replies, will render the 'Hide My Email' privacy feature ineffective. By analyzing email content to provide intelligent assistance, the system must break the email's privacy barrier, potentially exposing the user's real address or undermining the anonymization service.",
+  "tags": [
+    "llm",
+    "privacy",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-17T12:10:36.247749Z",
+  "updated_at": "2026-06-17T12:11:12.425984Z"
+}
