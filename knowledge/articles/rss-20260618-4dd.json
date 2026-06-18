@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260618-4dd",
+  "title": "Agentic Resource Discovery: Let agents search",
+  "source_url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+  "source": "rss",
+  "summary": "This content explores the concept of agentic resource discovery, where AI agents autonomously search for and identify relevant resources, tools, or data to accomplish tasks. It emphasizes moving beyond static retrieval to dynamic, goal-driven exploration by agents.",
+  "tags": [
+    "agent",
+    "research",
+    "rag"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-18T11:45:24.457547Z",
+  "updated_at": "2026-06-18T11:45:53.596682Z"
+}

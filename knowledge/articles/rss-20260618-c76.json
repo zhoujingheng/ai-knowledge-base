@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260618-c76",
+  "title": "Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct",
+  "source_url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+  "source": "rss",
+  "summary": "This article discusses Tesco migrating 40,000 server workloads away from VMware due to Broadcom's aggressive licensing and pricing changes. While not directly about AI/ML, the migration involves large-scale infrastructure decisions that impact AI/ML deployment environments, particularly regarding virtualization and cloud-native orchestration.",
+  "tags": [
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-18T11:45:19.525073Z",
+  "updated_at": "2026-06-18T11:45:53.595592Z"
+}

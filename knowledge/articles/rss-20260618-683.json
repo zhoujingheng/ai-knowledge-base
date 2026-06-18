@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260618-683",
+  "title": "RFC 10008: The new HTTP Query Method",
+  "source_url": "https://www.rfc-editor.org/info/rfc10008/",
+  "source": "rss",
+  "summary": "This RFC proposes a new HTTP query method, likely aimed at standardizing and optimizing how clients request complex or parameterized data from servers. It addresses limitations in current HTTP methods for query operations, potentially improving efficiency and semantics in web APIs and data retrieval.",
+  "tags": [
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-18T11:45:19.525243Z",
+  "updated_at": "2026-06-18T11:45:53.595728Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260618-c46",
+  "title": "Lore – Open source version control system designed for scalability",
+  "source_url": "https://lore.org/",
+  "source": "rss",
+  "summary": "Lore is an open-source version control system built for scalability, likely leveraging AI/ML for efficient data management and collaboration. It aims to handle large-scale projects and datasets, potentially integrating with ML pipelines.",
+  "tags": [
+    "tool",
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-18T11:45:19.525153Z",
+  "updated_at": "2026-06-18T11:45:53.595665Z"
+}
