@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260619-3a2",
+  "title": ".gitignore Isn't the only way to ignore files in Git",
+  "source_url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+  "source": "rss",
+  "summary": "This article discusses alternative methods in Git for ignoring files beyond the standard .gitignore, such as .git/info/exclude and global gitignore configurations. It provides practical examples for developers to manage file exclusions more flexibly in version control workflows.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-06-19T11:59:38.326774Z",
+  "updated_at": "2026-06-19T12:00:10.959740Z"
+}

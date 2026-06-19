@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260619-4a4",
+  "title": "Emacs 31 is around the corner: The changes I'm daily driving",
+  "source_url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+  "source": "rss",
+  "summary": "The article discusses upcoming features in Emacs 31, focusing on changes the author uses daily, including improvements to built-in AI/ML integrations like Eglot and tree-sitter, enhancing code completion and editing. It highlights practical upgrades for developers, not core AI/ML research.",
+  "tags": [
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-19T11:59:38.326643Z",
+  "updated_at": "2026-06-19T12:00:10.959716Z"
+}

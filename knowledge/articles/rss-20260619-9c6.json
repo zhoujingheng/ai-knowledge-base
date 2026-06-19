@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260619-9c6",
+  "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+  "source_url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+  "source": "rss",
+  "summary": "This is a self-guided version of Cornell's CS 6120 graduate-level course on advanced compilers, covering topics like IRs, dataflow analysis, loop optimizations, and parallelism. It includes lessons, readings, and practical assignments using LLVM, designed for independent study.",
+  "tags": [
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-06-19T11:59:38.326721Z",
+  "updated_at": "2026-06-19T12:00:10.959728Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260619-91c",
+  "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+  "source_url": "https://huggingface.co/blog/is-it-agentic-enough",
+  "source": "rss",
+  "summary": "This content discusses benchmarking open-source AI models for agentic capabilities, focusing on evaluating their performance with custom tooling. It likely covers methods to assess how well models handle tool use, planning, and task execution, emphasizing practical testing over theoretical metrics.",
+  "tags": [
+    "agent",
+    "benchmarking",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-19T11:59:41.114808Z",
+  "updated_at": "2026-06-19T12:00:10.960830Z"
+}

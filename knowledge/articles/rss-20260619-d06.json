@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260619-d06",
+  "title": "Agent memory on Elasticsearch: hybrid retrieval and DLS",
+  "source_url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+  "source": "rss",
+  "summary": "This content discusses implementing agent memory using Elasticsearch with hybrid retrieval (combining dense and sparse methods) and Document Level Security (DLS) for access control. It focuses on enabling AI agents to recall past interactions efficiently while maintaining data security.",
+  "tags": [
+    "agent",
+    "rag",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-19T11:59:38.572254Z",
+  "updated_at": "2026-06-19T12:00:10.959882Z"
+}

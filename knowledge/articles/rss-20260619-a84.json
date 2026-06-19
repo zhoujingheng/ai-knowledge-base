@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260619-a84",
+  "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+  "source_url": "https://huggingface.co/blog/peft-beyond-lora",
+  "source": "rss",
+  "summary": "This content explores alternatives to LoRA (Low-Rank Adaptation) for fine-tuning large language models, comparing performance, efficiency, and scalability. It likely evaluates methods like DoRA, AdaLoRA, or full fine-tuning to determine if any surpass LoRA's popularity and effectiveness.",
+  "tags": [
+    "fine-tuning",
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-19T11:59:41.114798Z",
+  "updated_at": "2026-06-19T12:00:10.960790Z"
+}

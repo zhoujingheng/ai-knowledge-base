@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260619-633",
+  "title": "MosaicLeaks: Can your research agent keep a secret?",
+  "source_url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+  "source": "rss",
+  "summary": "This content explores the privacy risks of research agents, specifically whether they can inadvertently leak sensitive information. It likely examines vulnerabilities in AI agents that handle confidential data, focusing on security and confidentiality challenges in agent-based systems.",
+  "tags": [
+    "agent",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-19T11:59:41.114780Z",
+  "updated_at": "2026-06-19T12:00:10.960777Z"
+}

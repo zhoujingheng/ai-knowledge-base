@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260619-71e",
+  "title": "I found 10k GitHub repositories distributing Trojan malware",
+  "source_url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+  "source": "rss",
+  "summary": "This article reports the discovery of approximately 10,000 GitHub repositories that are distributing trojan malware. The findings highlight a significant security threat within open-source ecosystems, where malicious code is disguised within seemingly legitimate projects, posing risks to developers who clone or use these repositories.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-19T11:59:38.326670Z",
+  "updated_at": "2026-06-19T12:00:10.959693Z"
+}
