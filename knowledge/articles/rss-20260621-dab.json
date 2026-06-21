@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260621-dab",
+  "title": "Developers don't understand CORS (2019)",
+  "source_url": "https://fosterelli.co/developers-dont-understand-cors",
+  "source": "rss",
+  "summary": "This article explains the common misconceptions developers have about CORS (Cross-Origin Resource Sharing), emphasizing that CORS is a browser-enforced security mechanism, not a server-side restriction. It clarifies how CORS headers work, why preflight requests occur, and how to properly configure servers to handle cross-origin requests.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-06-21T11:10:50.347047Z",
+  "updated_at": "2026-06-21T11:11:24.636532Z"
+}

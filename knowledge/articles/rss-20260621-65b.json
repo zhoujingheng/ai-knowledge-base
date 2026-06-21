@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260621-65b",
+  "title": "I Stored a Website in a Favicon",
+  "source_url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+  "source": "rss",
+  "summary": "The article explores a creative technique for embedding an entire website's content into a favicon file, leveraging extreme compression and encoding methods. It demonstrates how to store and retrieve data from a tiny image file, pushing the boundaries of data storage and retrieval in web development.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-21T11:10:50.347609Z",
+  "updated_at": "2026-06-21T11:11:24.636872Z"
+}

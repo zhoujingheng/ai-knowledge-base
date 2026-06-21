@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260621-5e7",
+  "title": "CSSQuake",
+  "source_url": "https://cssquake.com/",
+  "source": "rss",
+  "summary": "CSSQuake is a project that uses CSS to create a playable first-person shooter game, demonstrating the power and flexibility of CSS for complex interactive experiences. It showcases advanced CSS techniques like 3D transforms, animations, and custom properties to render a game engine-like environment.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-21T11:10:50.347568Z",
+  "updated_at": "2026-06-21T11:11:24.636887Z"
+}

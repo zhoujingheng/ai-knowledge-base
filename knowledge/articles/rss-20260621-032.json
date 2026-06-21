@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260621-032",
+  "title": "Where to Find the Colors Your Screen Can't Show You",
+  "source_url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+  "source": "rss",
+  "summary": "This article explores the concept of colors that cannot be displayed on standard screens, such as those from the CIE 1931 color space. It discusses the limitations of RGB displays and introduces alternative color spaces like LMS and spectral rendering, which are relevant to AI/ML for tasks like color constancy and realistic image generation.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-21T11:10:50.347654Z",
+  "updated_at": "2026-06-21T11:11:24.636932Z"
+}

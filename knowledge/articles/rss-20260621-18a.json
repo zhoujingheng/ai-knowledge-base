@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260621-18a",
+  "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+  "source_url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+  "source": "rss",
+  "summary": "A reverse engineering project for the classic DOS game F-15 Strike Eagle II seeks volunteer test pilots to help validate reconstructed AI/ML flight models and game logic. The project aims to preserve and understand the original game's behavior through modern analysis techniques.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-06-21T11:10:50.347344Z",
+  "updated_at": "2026-06-21T11:11:24.636672Z"
+}
