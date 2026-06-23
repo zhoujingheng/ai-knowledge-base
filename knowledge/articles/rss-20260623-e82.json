@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260623-e82",
+  "title": "Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel",
+  "source_url": "https://arxiv.org/abs/2604.13327",
+  "source": "rss",
+  "summary": "Event Tensor proposes a unified abstraction for compiling dynamic megakernels, aiming to improve efficiency in AI/ML computation by handling irregular dataflow patterns. It addresses challenges in dynamic execution, potentially enhancing performance for complex models.",
+  "tags": [
+    "research",
+    "framework",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-06-23T10:56:00.707348Z",
+  "updated_at": "2026-06-23T10:56:33.261781Z"
+}

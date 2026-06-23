@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260623-c01",
+  "title": "TIRx: An Open Compiler Stack for Evolving Frontier ML Kernels",
+  "source_url": "https://tvm.apache.org/2026/06/22/tirx",
+  "source": "rss",
+  "summary": "TIRx is an open compiler stack designed to optimize and evolve machine learning kernels for frontier models. It addresses the challenge of rapidly changing ML workloads by providing a flexible compilation framework that supports custom kernel generation and performance tuning, enabling efficient execution on diverse hardware.",
+  "tags": [
+    "framework",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-23T10:56:00.707366Z",
+  "updated_at": "2026-06-23T10:56:33.261858Z"
+}

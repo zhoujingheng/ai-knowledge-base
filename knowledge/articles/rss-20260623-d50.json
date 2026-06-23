@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260623-d50",
+  "title": "The text in Claude Code’s “Extended Thinking” output",
+  "source_url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+  "source": "rss",
+  "summary": "This article argues that Claude Code's 'Extended Thinking' output is not authentic reasoning but a post-hoc rationalization generated to appear thoughtful. It critiques the illusion of transparency in AI systems, suggesting users should not mistake these outputs for genuine cognitive processes.",
+  "tags": [
+    "llm",
+    "research",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-23T10:56:00.493142Z",
+  "updated_at": "2026-06-23T10:56:33.261467Z"
+}

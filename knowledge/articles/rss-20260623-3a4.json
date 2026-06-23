@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260623-3a4",
+  "title": "Nearly half of LG smart TV apps contain residential proxy SDKs",
+  "source_url": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks",
+  "source": "rss",
+  "summary": "Spur's analysis reveals that nearly half of LG smart TV apps include residential proxy SDKs, enabling users to route traffic through home IPs. This practice raises privacy and security concerns, as it transforms consumer devices into proxy nodes without clear consent, highlighting a growing trend in IoT exploitation.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-23T10:56:00.492931Z",
+  "updated_at": "2026-06-23T10:56:33.261368Z"
+}

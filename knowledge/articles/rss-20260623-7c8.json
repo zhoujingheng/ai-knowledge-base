@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260623-7c8",
+  "title": "GLM-5.2 – How to Run Locally",
+  "source_url": "https://unsloth.ai/docs/models/glm-5.2",
+  "source": "rss",
+  "summary": "This article provides a guide on running GLM-5.2 locally, likely covering setup, dependencies, and inference steps. It targets users interested in deploying a large language model on personal hardware, emphasizing practical implementation over theoretical details.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-23T10:56:00.492875Z",
+  "updated_at": "2026-06-23T10:56:33.261344Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260623-103",
+  "title": "Sakana Fugu",
+  "source_url": "https://sakana.ai/fugu/",
+  "source": "rss",
+  "summary": "Sakana AI introduces Fugu, a framework for automatically discovering and composing modular deep learning architectures inspired by biological evolution. It uses evolutionary algorithms to combine existing models and layers, creating novel, efficient neural networks without manual design.",
+  "tags": [
+    "research",
+    "framework",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-06-23T10:56:00.493352Z",
+  "updated_at": "2026-06-23T10:56:33.261757Z"
+}

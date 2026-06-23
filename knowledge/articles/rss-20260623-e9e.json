@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260623-e9e",
+  "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+  "source_url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+  "source": "rss",
+  "summary": "This content describes a weekly release process for the huggingface_hub library, leveraging AI and open tools while maintaining human oversight. It emphasizes a human-in-the-loop approach to ensure quality and reliability in shipping updates.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-23T10:56:04.475686Z",
+  "updated_at": "2026-06-23T10:56:33.263357Z"
+}

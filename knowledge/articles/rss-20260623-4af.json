@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260623-4af",
+  "title": "We got local models to triage the OpenClaw repo for FREE!*",
+  "source_url": "https://huggingface.co/blog/local-models-pr-triage",
+  "source": "rss",
+  "summary": "The content describes using local AI models to triage issues or contributions in the OpenClaw repository at no cost, likely leveraging open-source LLMs for automated categorization or prioritization without external API fees.",
+  "tags": [
+    "llm",
+    "agent",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-23T10:56:04.475711Z",
+  "updated_at": "2026-06-23T10:56:33.263371Z"
+}

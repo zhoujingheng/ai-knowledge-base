@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260623-9f4",
+  "title": "A fully local voice assistant setup",
+  "source_url": "https://blog.platypush.tech/article/Local-voice-assistant",
+  "source": "rss",
+  "summary": "This is a link to a discussion about setting up a fully local voice assistant, likely using open-source AI/ML models for speech recognition, natural language processing, and text-to-speech, all running on local hardware without cloud dependencies.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-23T10:56:00.707379Z",
+  "updated_at": "2026-06-23T10:56:33.261850Z"
+}

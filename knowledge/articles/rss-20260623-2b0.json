@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260623-2b0",
+  "title": "Codex logging bug may write TBs to local SSDs",
+  "source_url": "https://github.com/openai/codex/issues/28224",
+  "source": "rss",
+  "summary": "A bug in OpenAI's Codex causes excessive logging that can write terabytes of data to local SSDs, potentially filling disk space and degrading performance. The issue, reported on GitHub, has garnered significant attention on Hacker News, highlighting a critical infrastructure flaw in the AI coding assistant.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-06-23T10:56:00.493274Z",
+  "updated_at": "2026-06-23T10:56:33.261697Z"
+}

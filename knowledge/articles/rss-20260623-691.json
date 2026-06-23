@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260623-691",
+  "title": "Deno Desktop",
+  "source_url": "https://docs.deno.com/runtime/desktop/",
+  "source": "rss",
+  "summary": "Deno Desktop enables building cross-platform desktop applications using web technologies (HTML, CSS, JavaScript/TypeScript) with Deno's runtime. It leverages the OS's webview for rendering, providing a lightweight alternative to Electron by bundling Deno's secure runtime and file system access.",
+  "tags": [
+    "framework",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-23T10:56:00.493313Z",
+  "updated_at": "2026-06-23T10:56:33.261673Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260623-640",
+  "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+  "source_url": "https://hustvl.github.io/Moebius/",
+  "source": "rss",
+  "summary": "Moebius is a 0.2B parameter image inpainting model that achieves performance comparable to 10B-level models through efficient architecture and training. It demonstrates that small, specialized models can rival much larger ones, highlighting advances in model efficiency and deployment feasibility.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-23T10:56:00.493164Z",
+  "updated_at": "2026-06-23T10:56:33.261451Z"
+}
