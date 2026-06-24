@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260624-639",
+  "title": "Jerry's Map",
+  "source_url": "http://www.jerrysmap.com/the-map",
+  "source": "rss",
+  "summary": "Jerry's Map is a decades-long, hand-drawn map project by artist Jerry Gretzinger, evolving through chance operations and rules. While not AI/ML itself, it parallels generative and agentic systems, sparking discussion on emergent complexity, rule-based creativity, and human-machine collaboration in art.",
+  "tags": [
+    "agent",
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-24T10:41:51.691282Z",
+  "updated_at": "2026-06-24T10:42:29.062771Z"
+}

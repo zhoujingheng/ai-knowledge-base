@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260624-b8a",
+  "title": "In memory of the man who put red and green squiggles under words",
+  "source_url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+  "source": "rss",
+  "summary": "This article is a tribute to Charles Simonyi, the creator of the first spell checker (and later, grammar checker) for word processors. It highlights his pioneering work at Xerox PARC and Microsoft, focusing on the technical and conceptual challenges of implementing real-time text validation, which became a ubiquitous feature in modern software.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-24T10:41:51.691330Z",
+  "updated_at": "2026-06-24T10:42:29.062800Z"
+}

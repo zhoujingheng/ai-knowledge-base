@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260624-d92",
+  "title": "Will It Mythos?",
+  "source_url": "https://swelljoe.com/post/will-it-mythos/",
+  "source": "rss",
+  "summary": "The article explores the concept of 'Mythos' in AI, questioning whether AI systems can generate or embody meaningful narratives and cultural myths. It critiques the limitations of current LLMs in producing authentic mythic structures, arguing they lack the depth of human storytelling and cultural context.",
+  "tags": [
+    "llm",
+    "research",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-24T10:41:51.691660Z",
+  "updated_at": "2026-06-24T10:42:29.063004Z"
+}

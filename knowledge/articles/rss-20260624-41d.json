@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260624-41d",
+  "title": "AI's Affordability Crisis",
+  "source_url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+  "source": "rss",
+  "summary": "The article argues that AI development faces an affordability crisis due to the escalating costs of compute, energy, and data, making it unsustainable for all but the largest players. It suggests that current scaling approaches may hit economic limits, potentially leading to a consolidation or shift in AI research and deployment.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-24T10:41:51.691419Z",
+  "updated_at": "2026-06-24T10:42:29.062814Z"
+}

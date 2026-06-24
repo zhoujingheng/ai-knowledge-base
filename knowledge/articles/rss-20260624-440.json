@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260624-440",
+  "title": "FUTO Swipe – A new swipe typing model",
+  "source_url": "https://swipe.futo.tech/",
+  "source": "rss",
+  "summary": "FUTO Swipe introduces a new swipe typing model that aims to improve accuracy and speed over existing solutions like Gboard. It uses a custom neural network architecture optimized for on-device inference, focusing on low latency and privacy. The project is open-source and targets mobile keyboards.",
+  "tags": [
+    "research",
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-24T10:41:51.691353Z",
+  "updated_at": "2026-06-24T10:42:29.062787Z"
+}

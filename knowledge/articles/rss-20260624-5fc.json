@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260624-5fc",
+  "title": "The Coming Loop",
+  "source_url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+  "source": "rss",
+  "summary": "The article discusses the impending challenges and opportunities as AI systems become increasingly autonomous, forming feedback loops that amplify both capabilities and risks. It explores how these loops could lead to rapid, unpredictable changes in deployment and governance, urging proactive design to avoid catastrophic outcomes.",
+  "tags": [
+    "agent",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-24T10:41:51.691597Z",
+  "updated_at": "2026-06-24T10:42:29.062981Z"
+}

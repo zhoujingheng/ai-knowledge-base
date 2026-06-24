@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260624-ec0",
+  "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+  "source_url": "https://arxiv.org/abs/2606.16140",
+  "source": "rss",
+  "summary": "VibeThinker is a 3B parameter model that achieves superior reasoning performance compared to Opus 4.5 by combining supervised fine-tuning (SFT) with Group Relative Policy Optimization (GRPO). The paper introduces a novel training approach that enhances reasoning capabilities in small models, challenging the assumption that larger models are necessary for complex tasks.",
+  "tags": [
+    "research",
+    "fine-tuning",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-06-24T10:41:51.691680Z",
+  "updated_at": "2026-06-24T10:42:29.062996Z"
+}

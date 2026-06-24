@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260624-dc3",
+  "title": "F3",
+  "source_url": "https://github.com/future-file-format/f3",
+  "source": "rss",
+  "summary": "F3 (Future File Format) is a proposed open standard for AI-native file formats that embed metadata, provenance, and executable logic directly into documents. It aims to make files self-describing and interoperable across AI tools, addressing issues of data loss and context when moving between applications.",
+  "tags": [
+    "framework",
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-24T10:41:51.691377Z",
+  "updated_at": "2026-06-24T10:42:29.062794Z"
+}

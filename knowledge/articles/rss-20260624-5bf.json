@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260624-5bf",
+  "title": "Mistral OCR 4",
+  "source_url": "https://mistral.ai/news/ocr-4/",
+  "source": "rss",
+  "summary": "Mistral OCR 4 is a new optical character recognition model that achieves high accuracy on complex documents, including handwritten text and mixed layouts. It leverages a vision-language approach for end-to-end document understanding, outperforming previous OCR systems on benchmarks.",
+  "tags": [
+    "model",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-24T10:41:51.691533Z",
+  "updated_at": "2026-06-24T10:42:29.062894Z"
+}

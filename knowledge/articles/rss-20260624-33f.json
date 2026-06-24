@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260624-33f",
+  "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+  "source_url": "https://tikz.dev/editor/",
+  "source": "rss",
+  "summary": "A WYSIWYG editor for TikZ figures in LaTeX, allowing visual editing of source code via drag-and-drop while keeping source and rendered view in sync. Built almost entirely with AI coding agents (Codex), it required reimplementing much of TikZ's parsing and rendering logic.",
+  "tags": [
+    "tool",
+    "agent",
+    "research"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-06-24T10:41:51.691492Z",
+  "updated_at": "2026-06-24T10:42:29.062820Z"
+}

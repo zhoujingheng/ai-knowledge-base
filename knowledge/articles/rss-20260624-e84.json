@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260624-e84",
+  "title": "Vulnerability reports are not special anymore",
+  "source_url": "https://words.filippo.io/vuln-reports/",
+  "source": "rss",
+  "summary": "The article argues that vulnerability reports have become routine and less impactful due to the widespread use of automated scanning tools and AI-generated code. It suggests that the traditional model of reporting vulnerabilities is outdated, as many issues are now discovered and patched automatically, reducing the need for manual disclosure processes.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-06-24T10:41:51.691190Z",
+  "updated_at": "2026-06-24T10:42:29.062753Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260624-c14",
+  "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+  "source_url": "https://huggingface.co/blog/cross-origin-storage",
+  "source": "rss",
+  "summary": "This content explores the experimental Cross-Origin Storage API within Transformers.js, aiming to enable efficient client-side model caching and retrieval across different origins in browser environments. It addresses storage limitations and cross-origin constraints for running AI models directly in the browser.",
+  "tags": [
+    "framework",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-24T10:41:56.230032Z",
+  "updated_at": "2026-06-24T10:42:29.064712Z"
+}

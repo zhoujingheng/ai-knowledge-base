@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260624-896",
+  "title": "Unlimited OCR: One-shot long-horizon parsing",
+  "source_url": "https://github.com/baidu/Unlimited-OCR",
+  "source": "rss",
+  "summary": "Unlimited OCR is a novel approach for parsing long documents in a single pass, overcoming traditional OCR limitations like page breaks and context loss. It uses a one-shot, long-horizon method to handle entire documents, improving accuracy and efficiency for complex layouts.",
+  "tags": [
+    "research",
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-24T10:41:51.691577Z",
+  "updated_at": "2026-06-24T10:42:29.062921Z"
+}
