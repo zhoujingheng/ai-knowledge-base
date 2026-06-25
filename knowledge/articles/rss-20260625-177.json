@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260625-177",
+  "title": "Using the Gini Coefficient to Plan Edge Capacity",
+  "source_url": "https://www.fastly.com/blog/using-gini-coefficient-plan-edge-capacity",
+  "source": "rss",
+  "summary": "This article discusses using the Gini coefficient, a measure of inequality, to analyze traffic distribution across edge nodes. By quantifying how unevenly load is spread, it helps plan capacity more efficiently, reducing over-provisioning and costs in edge computing networks.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-25T10:35:58.741743Z",
+  "updated_at": "2026-06-25T10:36:25.815068Z"
+}

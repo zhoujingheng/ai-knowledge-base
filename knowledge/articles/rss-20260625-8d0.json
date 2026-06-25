@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260625-8d0",
+  "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+  "source_url": "https://huggingface.co/blog/ffasr-leaderboard",
+  "source": "rss",
+  "summary": "This content introduces the FFASR (Far-Field Automatic Speech Recognition) Leaderboard, a benchmark designed to evaluate ASR systems under real-world conditions, such as background noise, distant microphones, and varied accents. It aims to provide a more practical performance metric than traditional clean-speech benchmarks.",
+  "tags": [
+    "research",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-25T10:35:59.375188Z",
+  "updated_at": "2026-06-25T10:36:25.816195Z"
+}
