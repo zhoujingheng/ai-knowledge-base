@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260626-a5a",
+  "title": "An entire Herculaneum scroll has been read for the first time",
+  "source_url": "https://scrollprize.org/firstscroll",
+  "source": "rss",
+  "summary": "Researchers used AI and computer vision to virtually unwrap and read a carbonized Herculaneum scroll buried by Vesuvius in 79 AD. The project, part of the Vesuvius Challenge, combined 3D X-ray scanning with machine learning to detect ink and reconstruct text, revealing philosophical writings. This marks the first complete reading of such a scroll.",
+  "tags": [
+    "research",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-26T10:44:19.089368Z",
+  "updated_at": "2026-06-26T10:44:55.758368Z"
+}

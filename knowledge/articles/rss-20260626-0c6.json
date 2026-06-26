@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260626-0c6",
+  "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+  "source_url": "https://github.com/inkeep/open-knowledge",
+  "source": "rss",
+  "summary": "OpenKnowledge is an open-source, AI-first markdown editor (MacOS/Web/CLI) that combines a WYSIWYG experience with direct integrations for Claude, Codex, and other agents. It features built-in RAG, CRDT-based collaboration, and lossless ProseMirror-to-markdown conversion, aiming to replace Obsidian/Notion for team-based AI-assisted writing and knowledge management.",
+  "tags": [
+    "agent",
+    "rag",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-26T10:44:19.089341Z",
+  "updated_at": "2026-06-26T10:44:55.758291Z"
+}

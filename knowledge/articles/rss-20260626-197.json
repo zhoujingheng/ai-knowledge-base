@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260626-197",
+  "title": "OAuth for all",
+  "source_url": "https://blog.cloudflare.com/oauth-for-all/",
+  "source": "rss",
+  "summary": "Cloudflare announces OAuth support for all its APIs, enabling secure, token-based authentication across services. This simplifies access management for developers and reduces reliance on API keys, enhancing security and interoperability.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-26T10:44:19.089619Z",
+  "updated_at": "2026-06-26T10:44:55.758509Z"
+}

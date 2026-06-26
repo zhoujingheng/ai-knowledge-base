@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260626-8c2",
+  "title": "Which tokens does a hybrid model predict better?",
+  "source_url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+  "source": "rss",
+  "summary": "This content investigates the predictive performance of a hybrid AI model across different token types, likely comparing its accuracy on various linguistic or structural elements. It aims to identify which tokens the model handles better, providing insights into model strengths and weaknesses for optimization.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-26T10:44:23.802545Z",
+  "updated_at": "2026-06-26T10:44:55.759832Z"
+}

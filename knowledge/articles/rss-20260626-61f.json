@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260626-61f",
+  "title": "Run a vLLM Server on HF Jobs in One Command",
+  "source_url": "https://huggingface.co/blog/vllm-jobs",
+  "source": "rss",
+  "summary": "This content describes how to deploy a vLLM server on Hugging Face (HF) Jobs using a single command, simplifying the process of running large language models for inference. It focuses on efficient, scalable deployment with minimal configuration.",
+  "tags": [
+    "deployment",
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-26T10:44:23.802529Z",
+  "updated_at": "2026-06-26T10:44:55.759748Z"
+}

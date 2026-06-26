@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260626-3b3",
+  "title": "Hey Nico, you didn't vibe code your data room but stole it from Papermark",
+  "source_url": "https://twitter.com/mfts0/status/2070080422482977095",
+  "source": "rss",
+  "summary": "A public accusation on X (Twitter) claims that Nico, a developer, did not 'vibe code' (build via AI-assisted rapid prototyping) their data room product, but instead directly copied code from the open-source project Papermark. The Hacker News discussion (341 points, 142 comments) debates code theft, open-source licensing, and the ethics of AI-generated code.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-26T10:44:19.089550Z",
+  "updated_at": "2026-06-26T10:44:55.758522Z"
+}

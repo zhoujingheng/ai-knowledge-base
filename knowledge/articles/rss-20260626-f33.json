@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260626-f33",
+  "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+  "source_url": "https://hackernewstrends.com",
+  "source": "rss",
+  "summary": "A tool that indexes 18 years of Hacker News comments to provide trend analysis similar to Google Trends. It allows users to search and visualize keyword popularity over time, built by processing a large historical dataset of HN comments.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-26T10:44:19.089483Z",
+  "updated_at": "2026-06-26T10:44:55.758375Z"
+}

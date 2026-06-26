@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260626-eaf",
+  "title": "Computer use in Gemini 3.5 Flash",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+  "source": "rss",
+  "summary": "Google introduces computer use capabilities in Gemini 3.5 Flash, enabling the model to interact with graphical user interfaces by understanding screenshots and performing actions like clicking and typing. This expands AI's ability to automate tasks across software applications, moving beyond text-based interactions.",
+  "tags": [
+    "agent",
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-26T10:44:19.089724Z",
+  "updated_at": "2026-06-26T10:44:55.758577Z"
+}

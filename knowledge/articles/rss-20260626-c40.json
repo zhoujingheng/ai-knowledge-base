@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260626-c40",
+  "title": "Half-Life 2 in a Browser",
+  "source_url": "https://hl2.slqnt.dev/",
+  "source": "rss",
+  "summary": "A technical demonstration of running the game Half-Life 2 entirely within a web browser using WebGPU and advanced graphics pipeline optimizations. The project showcases real-time 3D rendering, asset streaming, and input handling without plugins or native code, highlighting modern browser capabilities for complex applications.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-26T10:44:19.089599Z",
+  "updated_at": "2026-06-26T10:44:55.758529Z"
+}
