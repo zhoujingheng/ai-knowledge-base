@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260627-c3b",
+  "title": "What happened after 2k people tried to hack my AI assistant",
+  "source_url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+  "source": "rss",
+  "summary": "The author shares their experience after 2,000 people attempted to hack their AI assistant, detailing vulnerabilities discovered, attack patterns, and lessons learned for securing AI systems. The post emphasizes practical defense strategies against prompt injection and misuse.",
+  "tags": [
+    "llm",
+    "security",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-27T09:57:12.803365Z",
+  "updated_at": "2026-06-27T09:57:53.616476Z"
+}

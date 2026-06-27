@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260627-051",
+  "title": "AI Agents Enable Adaptive Computer Worms",
+  "source_url": "https://cleverhans.io/worm.html",
+  "source": "rss",
+  "summary": "This paper explores how AI agents can be used to create adaptive computer worms that autonomously spread, evade detection, and modify behavior in response to environments. It demonstrates proof-of-concept attacks using LLM-driven agents, highlighting new security risks from AI-powered malware.",
+  "tags": [
+    "agent",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-06-27T09:57:13.410514Z",
+  "updated_at": "2026-06-27T09:57:53.616886Z"
+}

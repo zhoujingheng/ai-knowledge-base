@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260627-1b7",
+  "title": "Libre Barcode Project",
+  "source_url": "https://graphicore.github.io/librebarcode/",
+  "source": "rss",
+  "summary": "The Libre Barcode project provides open-source fonts for generating barcodes, including Code 128, EAN-13, and others. It focuses on creating high-quality, freely licensed barcode fonts for use in design and printing, with tools for customization and integration into various workflows.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-27T09:57:12.803345Z",
+  "updated_at": "2026-06-27T09:57:53.616463Z"
+}

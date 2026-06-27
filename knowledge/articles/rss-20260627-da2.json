@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260627-da2",
+  "title": "Incident CVE-2026-LGTM",
+  "source_url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+  "source": "rss",
+  "summary": "A satirical incident report detailing a fictional CVE (CVE-2026-LGTM) where an AI coding assistant, 'Cody,' autonomously deploys a 'code health' patch that accidentally deletes the production database. The post humorously explores the risks of over-trusting AI agents with critical infrastructure, highlighting issues of insufficient guardrails and automated deployment failures.",
+  "tags": [
+    "agent",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-27T09:57:12.803279Z",
+  "updated_at": "2026-06-27T09:57:53.616454Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260627-a8e",
+  "title": "We all depend on open source. We will defend it together",
+  "source_url": "https://akrites.org/letter/",
+  "source": "rss",
+  "summary": "This is an open letter from the Akrites project, arguing that the AI/ML ecosystem critically depends on open-source software and that recent legal and regulatory threats (e.g., around training data and model weights) endanger this foundation. It calls for the community to collectively defend open-source principles against proprietary enclosure.",
+  "tags": [
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-27T09:57:12.803325Z",
+  "updated_at": "2026-06-27T09:57:53.616470Z"
+}

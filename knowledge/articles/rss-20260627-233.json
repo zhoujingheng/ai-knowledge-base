@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260627-233",
+  "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+  "source_url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+  "source": "rss",
+  "summary": "This article discusses the technical challenges of implementing a 10G Ethernet module via USB-C on Framework laptops, highlighting the complexity of USB-C alternate modes, signal integrity, and power delivery. It explores hardware limitations and compatibility issues, offering insights into the engineering trade-offs involved.",
+  "tags": [
+    "hardware",
+    "usb-c",
+    "ethernet"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-27T09:57:12.803388Z",
+  "updated_at": "2026-06-27T09:57:53.616532Z"
+}
