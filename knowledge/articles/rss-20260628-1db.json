@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260628-1db",
+  "title": "The feature in OxCaml that more languages should steal",
+  "source_url": "https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html",
+  "source": "rss",
+  "summary": "The post discusses a specific feature from the OxCaml language (likely a variant or extension of OCaml) that the author believes should be adopted by other programming languages. The feature likely relates to type safety, pattern matching, or algebraic data types, though the exact detail requires reading the linked comments.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-28T10:21:40.469380Z",
+  "updated_at": "2026-06-28T10:22:09.776681Z"
+}
