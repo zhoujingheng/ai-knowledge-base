@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260629-029",
+  "title": "The curious case of the disappearing Polish S (2015)",
+  "source_url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+  "source": "rss",
+  "summary": "This 2015 article investigates a bug where the Polish letter 'Ś' (S with an acute accent) disappeared from certain web pages due to character encoding issues. It traces the problem through HTTP headers, HTML meta tags, and server configurations, highlighting how subtle encoding mismatches can break text rendering. The analysis is a case study in web standards and debugging.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-06-29T12:24:12.707490Z",
+  "updated_at": "2026-06-29T12:24:52.182795Z"
+}

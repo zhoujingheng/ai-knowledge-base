@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260629-569",
+  "title": "Choosing a Public DNS Resolver",
+  "source_url": "https://evilbit.de/dns-resolver-guide.html",
+  "source": "rss",
+  "summary": "This article provides a technical guide to selecting a public DNS resolver, comparing options like Quad9, Cloudflare, and NextDNS based on privacy, security, and performance. It covers DNS-over-HTTPS/TLS, filtering capabilities, and logging policies, helping users make informed choices for their network setup.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-06-29T12:24:12.707663Z",
+  "updated_at": "2026-06-29T12:24:52.182749Z"
+}

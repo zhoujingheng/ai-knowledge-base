@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260629-a3a",
+  "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+  "source_url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+  "source": "rss",
+  "summary": "The article discusses HackerRank open-sourcing its Applicant Tracking System (ATS) and the author's experience testing their resume against it, noting inconsistent scores (90, 74, 88). It explores how AI/ML-driven ATS systems parse and rank resumes, highlighting variability and potential biases in automated screening.",
+  "tags": [
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-06-29T12:24:12.707228Z",
+  "updated_at": "2026-06-29T12:24:52.182383Z"
+}

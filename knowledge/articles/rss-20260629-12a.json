@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260629-12a",
+  "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+  "source_url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+  "source": "rss",
+  "summary": "A technical guide for setting up an RDMA cluster on AMD Strix Halo hardware to run vLLM for distributed LLM inference. Covers hardware requirements, network configuration, and software setup for high-performance multi-node inference.",
+  "tags": [
+    "deployment",
+    "llm",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-06-29T12:24:12.707644Z",
+  "updated_at": "2026-06-29T12:24:52.182663Z"
+}

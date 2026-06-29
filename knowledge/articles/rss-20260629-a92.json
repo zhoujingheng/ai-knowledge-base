@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260629-a92",
+  "title": "GLM 5.2 beats Claude in our benchmarks",
+  "source_url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+  "source": "rss",
+  "summary": "Semgrep benchmarks GLM 5.2 against Claude on cybersecurity tasks, finding GLM 5.2 outperforms Claude in their custom cyber benchmarks. The post discusses practical implications for AI-assisted security analysis and the surprising competitiveness of open-weight models in specialized domains.",
+  "tags": [
+    "llm",
+    "benchmark",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-29T12:24:12.707300Z",
+  "updated_at": "2026-06-29T12:24:52.182450Z"
+}

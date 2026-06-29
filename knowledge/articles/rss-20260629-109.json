@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260629-109",
+  "title": "Convolutional Neural Networks in APL (2019)",
+  "source_url": "https://dl.acm.org/doi/epdf/10.1145/3315454.3329960",
+  "source": "rss",
+  "summary": "This content discusses implementing convolutional neural networks (CNNs) using the APL programming language, likely focusing on array-oriented programming techniques for deep learning. It appears to be a technical article or code demonstration from 2019.",
+  "tags": [
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-29T12:24:13.382701Z",
+  "updated_at": "2026-06-29T12:24:52.182806Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260629-ed2",
+  "title": "Historical memory prices 1960-2026",
+  "source_url": "https://dam.stanford.edu/memory-prices.html",
+  "source": "rss",
+  "summary": "This article presents a detailed historical analysis of memory (RAM) prices from 1960 to 2026, showing exponential cost declines and the impact of technological transitions. It provides data-driven insights into the economics of memory, relevant for understanding hardware trends that underpin AI/ML scaling.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-29T12:24:12.707276Z",
+  "updated_at": "2026-06-29T12:24:52.182439Z"
+}

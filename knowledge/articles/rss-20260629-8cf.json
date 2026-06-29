@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260629-8cf",
+  "title": "Librepods: AirPods liberated",
+  "source_url": "https://github.com/librepods-org/librepods",
+  "source": "rss",
+  "summary": "Librepods is an open-source project that reverse-engineers Apple AirPods to enable custom firmware and features, such as replacing the default chime, adjusting noise cancellation behavior, or adding new gestures. It provides a toolchain for flashing and modifying the earbuds' firmware, effectively 'liberating' them from Apple's closed ecosystem.",
+  "tags": [
+    "tool",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-29T12:24:12.707253Z",
+  "updated_at": "2026-06-29T12:24:52.182427Z"
+}
