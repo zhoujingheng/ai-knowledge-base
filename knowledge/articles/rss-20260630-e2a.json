@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260630-e2a",
+  "title": "US Supreme Court rules geofence warrants require constitutional protections",
+  "source_url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+  "source": "rss",
+  "summary": "The US Supreme Court ruled that geofence warrants, which compel tech companies to provide location data for all devices in a specific area, require constitutional protections under the Fourth Amendment. This decision impacts law enforcement's use of AI-driven data analysis and location tracking, raising privacy and legal standards for digital surveillance.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-30T10:49:25.214716Z",
+  "updated_at": "2026-06-30T10:49:56.046052Z"
+}

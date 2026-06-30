@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260630-8b9",
+  "title": "Qwen 3.6 27B is the sweet spot for local development",
+  "source_url": "https://quesma.com/blog/qwen-36-is-awesome/",
+  "source": "rss",
+  "summary": "The article discusses Qwen 3.6 27B as an ideal model for local development due to its balance of performance and resource efficiency. It highlights the model's capabilities for coding, reasoning, and general tasks, making it a practical choice for developers running AI models on consumer-grade hardware.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-30T10:49:25.214628Z",
+  "updated_at": "2026-06-30T10:49:56.046030Z"
+}

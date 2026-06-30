@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260630-7ec",
+  "title": "DiScoFormer: One transformer for density and score, across distributions",
+  "source_url": "https://huggingface.co/blog/allenai/discoformer",
+  "source": "rss",
+  "summary": "DiScoFormer proposes a single transformer model that simultaneously estimates both density and score functions across multiple distributions. This unified approach enables efficient generative modeling and density estimation without separate networks, advancing flexibility in distribution learning.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-06-30T10:49:27.870524Z",
+  "updated_at": "2026-06-30T10:49:56.047184Z"
+}

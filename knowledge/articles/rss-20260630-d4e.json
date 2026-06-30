@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260630-d4e",
+  "title": "Robust AI Security and Alignment: A Sisyphean Endeavor?",
+  "source_url": "https://ieeexplore.ieee.org/document/11475847/",
+  "source": "rss",
+  "summary": "This content discusses the challenges of AI security and alignment, referencing a NIST article that provides a mathematical proof supporting the need for continuous monitoring and updating of AI systems. It suggests that achieving robust alignment may be an ongoing, Sisyphean task.",
+  "tags": [
+    "research",
+    "alignment",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-30T10:49:25.438819Z",
+  "updated_at": "2026-06-30T10:49:56.046423Z"
+}

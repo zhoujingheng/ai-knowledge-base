@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260630-c67",
+  "title": "A native graphical shell for SSH",
+  "source_url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+  "source": "rss",
+  "summary": "This article presents a novel approach to SSH by building a native graphical shell that integrates remote file systems and terminal sessions into the local desktop environment. It moves beyond traditional terminal emulators, offering a more seamless and visually integrated experience for managing remote servers, akin to a local file manager and shell combined.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-06-30T10:49:25.214743Z",
+  "updated_at": "2026-06-30T10:49:56.046147Z"
+}

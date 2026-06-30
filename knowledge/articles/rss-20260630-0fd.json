@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260630-0fd",
+  "title": "jj_tui: terminal user interface to jujutsu focused on speed and clarity",
+  "source_url": "https://tangled.org/elidowling.com/jj_tui",
+  "source": "rss",
+  "summary": "jj_tui is a terminal user interface for the Jujutsu version control system, optimized for speed and clarity. It provides a fast, keyboard-driven interface for managing commits and branches, targeting developers who prefer terminal-based workflows.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-06-30T10:49:26.675271Z",
+  "updated_at": "2026-06-30T10:49:56.046803Z"
+}

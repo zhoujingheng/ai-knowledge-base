@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260630-aec",
+  "title": "What happens when you run a CUDA kernel?",
+  "source_url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+  "source": "rss",
+  "summary": "This article explains the step-by-step process of launching a CUDA kernel on a GPU, from CPU-side setup to GPU execution. It covers driver interactions, memory allocation, kernel scheduling, and hardware-level execution, providing a deep dive into the mechanics behind GPU computing.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-06-30T10:49:25.214815Z",
+  "updated_at": "2026-06-30T10:49:56.046197Z"
+}
