@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260701-903",
+  "title": "We Are the Last People Who Know How It Works",
+  "source_url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
+  "source": "rss",
+  "summary": "This article argues that as AI systems become more complex and opaque, the current generation of engineers and researchers may be the last to truly understand how they work. It reflects on the loss of interpretability and the risks of relying on black-box models, urging a cultural shift toward transparency and understanding in AI development.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-01T11:19:43.016484Z",
+  "updated_at": "2026-07-01T11:20:16.208540Z"
+}

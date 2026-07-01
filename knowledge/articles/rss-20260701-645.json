@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260701-645",
+  "title": "US Supreme Court Just Blew Up EU-US Data Transfers",
+  "source_url": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers",
+  "source": "rss",
+  "summary": "The article discusses a US Supreme Court ruling that disrupts EU-US data transfer mechanisms, impacting how companies like Meta can legally transfer personal data across borders. This decision challenges existing frameworks like Privacy Shield, with significant implications for AI/ML systems that rely on cross-border data flows for training and deployment.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-01T11:19:43.016662Z",
+  "updated_at": "2026-07-01T11:20:16.208754Z"
+}

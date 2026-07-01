@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260701-be6",
+  "title": "Teaching digiKam to Understand You: Natural Language Search with Local LLMs",
+  "source_url": "http://srirupa19.github.io/gsoc/2026/06/28/gsoc1.html",
+  "source": "rss",
+  "summary": "This article discusses integrating local LLMs into digiKam, an open-source photo management tool, to enable natural language search. It covers using models like CLIP and LLaMA for semantic image understanding and query processing, emphasizing privacy and offline capabilities.",
+  "tags": [
+    "llm",
+    "rag",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-01T11:19:43.366054Z",
+  "updated_at": "2026-07-01T11:20:16.208875Z"
+}

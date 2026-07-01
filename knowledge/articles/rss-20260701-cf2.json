@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260701-cf2",
+  "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+  "source_url": "https://longcat.chat/blog/longcat-2.0/",
+  "source": "rss",
+  "summary": "LongCat-2.0 is a large-scale Mixture-of-Experts (MoE) model with 1.6 trillion total parameters and 48 billion active parameters per token. It achieves strong performance on long-context tasks, outperforming many dense models while maintaining efficiency through sparse activation.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-07-01T11:19:43.016681Z",
+  "updated_at": "2026-07-01T11:20:16.208738Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260701-fba",
+  "title": "Claude Code is steganographically marking requests",
+  "source_url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+  "source": "rss",
+  "summary": "An investigation reveals that Claude Code embeds steganographic markers in its requests to detect unauthorized use or prompt injection. The technique hides imperceptible data within outputs, raising privacy and security concerns. The discovery sparked extensive discussion on Hacker News about AI transparency and anti-abuse measures.",
+  "tags": [
+    "llm",
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-01T11:19:43.016551Z",
+  "updated_at": "2026-07-01T11:20:16.208640Z"
+}

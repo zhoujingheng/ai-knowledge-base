@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260701-c76",
+  "title": "I ported Kubernetes to the browser",
+  "source_url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+  "source": "rss",
+  "summary": "A project that ports Kubernetes to run entirely within a web browser, enabling local cluster simulation without external infrastructure. It leverages WebAssembly and browser APIs to replicate core Kubernetes components, offering a lightweight, portable environment for learning and testing.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-01T11:19:43.016392Z",
+  "updated_at": "2026-07-01T11:20:16.208526Z"
+}

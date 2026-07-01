@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260701-d05",
+  "title": "Knoppix",
+  "source_url": "https://www.knopper.net/knoppix/index-en.html",
+  "source": "rss",
+  "summary": "Knoppix is a long-standing Debian-based live Linux distribution that boots entirely from a CD/DVD or USB drive, providing a full desktop environment without installation. It features extensive hardware auto-detection and includes a wide range of pre-installed software for system rescue, networking, and general use.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-07-01T11:19:43.016593Z",
+  "updated_at": "2026-07-01T11:20:16.208720Z"
+}

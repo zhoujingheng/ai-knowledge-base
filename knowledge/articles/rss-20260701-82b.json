@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260701-82b",
+  "title": "European digital ID wallets rely on safety services of Google and Apple",
+  "source_url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+  "source": "rss",
+  "summary": "This article critiques European digital ID wallet initiatives, arguing that reliance on Google and Apple's safety services undermines EU digital sovereignty. It highlights how technical dependencies on US tech giants for secure elements and operating systems create privacy risks and vendor lock-in, contradicting the EU's goal of self-sovereign identity.",
+  "tags": [
+    "framework",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-01T11:19:43.016620Z",
+  "updated_at": "2026-07-01T11:20:16.208731Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260701-20a",
+  "title": "Claude Science",
+  "source_url": "https://claude.com/product/claude-science",
+  "source": "rss",
+  "summary": "Claude Science is a specialized product from Anthropic that enhances Claude's capabilities for scientific research, offering advanced reasoning, data analysis, and literature review features tailored to researchers and scientists.",
+  "tags": [
+    "llm",
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-01T11:19:43.016462Z",
+  "updated_at": "2026-07-01T11:20:16.208533Z"
+}
