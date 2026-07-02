@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260702-76a",
+  "title": "Oomwoo, an open-source robot vacuum you build yourself",
+  "source_url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+  "source": "rss",
+  "summary": "Oomwoo is an open-source, DIY robot vacuum built using a Raspberry Pi, ROS 2, and a LiDAR sensor. It emphasizes modularity and community-driven development, enabling users to customize hardware and software for autonomous navigation and cleaning tasks.",
+  "tags": [
+    "framework",
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-07-02T10:29:43.254137Z",
+  "updated_at": "2026-07-02T10:30:06.560079Z"
+}

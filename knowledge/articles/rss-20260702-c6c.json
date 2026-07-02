@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260702-c6c",
+  "title": "ZCode – Harness for GLM-5.2",
+  "source_url": "https://zcode.z.ai/en",
+  "source": "rss",
+  "summary": "ZCode is a harness for GLM-5.2, a large language model, providing tools for deployment, fine-tuning, and inference optimization. It aims to simplify integration and performance tuning for developers working with the GLM-5.2 model.",
+  "tags": [
+    "deployment",
+    "fine-tuning",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-02T10:29:43.254165Z",
+  "updated_at": "2026-07-02T10:30:06.560064Z"
+}

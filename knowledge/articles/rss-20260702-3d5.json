@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260702-3d5",
+  "title": "A new Android malware from Google",
+  "source_url": "https://f-droid.org/2026/07/01/adv-malware.html",
+  "source": "rss",
+  "summary": "This article discusses a new Android malware discovered by Google, highlighting its advanced evasion techniques and potential impact on user privacy and device security. The analysis covers infection vectors, behavior, and mitigation strategies, emphasizing the evolving threat landscape in mobile security.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-02T10:29:43.254100Z",
+  "updated_at": "2026-07-02T10:30:06.559997Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260702-787",
+  "title": "Godot will no longer accept AI-authored code contributions",
+  "source_url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+  "source": "rss",
+  "summary": "The Godot game engine project has banned AI-authored code contributions, citing concerns that heavy AI users lack sufficient understanding of the code to debug or maintain it. This policy shift highlights growing distrust in AI-generated code quality and maintainability within open-source communities.",
+  "tags": [
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-02T10:29:43.254530Z",
+  "updated_at": "2026-07-02T10:30:06.560417Z"
+}

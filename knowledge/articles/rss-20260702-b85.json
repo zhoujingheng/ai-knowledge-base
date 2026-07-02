@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260702-b85",
+  "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+  "source_url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+  "source": "rss",
+  "summary": "This content discusses a technique to improve memory in recurrent neural network models by applying matrix orthogonalization. The approach likely stabilizes training and enhances long-term dependency capture, relevant for sequence modeling tasks.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-02T10:29:43.462468Z",
+  "updated_at": "2026-07-02T10:30:06.560488Z"
+}

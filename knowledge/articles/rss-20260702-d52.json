@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260702-d52",
+  "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+  "source_url": "https://www.workerowned.info/",
+  "source": "rss",
+  "summary": "A searchable directory of over 22,000 products from worker-owned cooperatives. The project appears to be a curated database or search tool, likely using AI/ML for categorization, search optimization, or data enrichment, though the core value is the aggregation of co-op products.",
+  "tags": [
+    "tool",
+    "rag"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-02T10:29:43.254193Z",
+  "updated_at": "2026-07-02T10:30:06.560090Z"
+}

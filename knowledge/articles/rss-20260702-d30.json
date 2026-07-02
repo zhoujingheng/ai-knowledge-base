@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260702-d30",
+  "title": "FFmpeg 9.1's new AAC encoder",
+  "source_url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+  "source": "rss",
+  "summary": "FFmpeg 9.1 introduces a new native AAC encoder, offering improved audio quality and efficiency compared to its predecessor. The update focuses on better psychoacoustic modeling and encoding performance, making it a significant advancement for open-source audio compression.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-02T10:29:43.254330Z",
+  "updated_at": "2026-07-02T10:30:06.560221Z"
+}

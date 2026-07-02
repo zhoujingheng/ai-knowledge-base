@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260702-c8e",
+  "title": "The Control Plane Was the Point: Revisiting autofz in the LLM Era",
+  "source_url": "https://yfu.tw/blog/en/autofz-revisited/",
+  "source": "rss",
+  "summary": "This post revisits the autofz fuzzing tool in the context of LLMs, arguing that the control plane (orchestration logic) was always the key insight, not just the fuzzing engine. It suggests LLMs can now enhance or replace parts of this control plane, shifting focus from brute-force generation to intelligent, guided exploration.",
+  "tags": [
+    "research",
+    "agent",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-02T10:29:43.462449Z",
+  "updated_at": "2026-07-02T10:30:06.560499Z"
+}
