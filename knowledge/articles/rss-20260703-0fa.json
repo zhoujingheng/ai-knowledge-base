@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260703-0fa",
+  "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+  "source_url": "https://mathstodon.xyz/@iblech/116769502749142438",
+  "source": "rss",
+  "summary": "A Linux kernel change (6.9) altered LUKS suspend behavior, no longer wiping disk-encryption keys from memory during suspend. This reduces security by leaving keys vulnerable to cold boot attacks, though it improves resume reliability. The post highlights a trade-off between security and usability in kernel development.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-03T10:27:14.723466Z",
+  "updated_at": "2026-07-03T10:27:44.517577Z"
+}

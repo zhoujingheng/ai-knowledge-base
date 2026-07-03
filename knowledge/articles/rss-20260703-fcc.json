@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260703-fcc",
+  "title": "This blog is written in en-GB",
+  "source_url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
+  "source": "rss",
+  "summary": "The blog post humorously explores the quirks and challenges of maintaining a blog written in en-GB (British English) while navigating the predominantly en-US web. It discusses spelling differences, localization issues, and the subtle cultural biases baked into AI/ML tools, highlighting how language models often default to American English, affecting content generation and user experience.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-03T10:27:14.723597Z",
+  "updated_at": "2026-07-03T10:27:44.517713Z"
+}

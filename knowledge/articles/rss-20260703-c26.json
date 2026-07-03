@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260703-c26",
+  "title": "Podman v6.0.0",
+  "source_url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+  "source": "rss",
+  "summary": "Podman v6.0.0 introduces significant updates to the container management tool, including improved networking, enhanced security features, and better integration with Kubernetes. This release focuses on performance optimizations and developer experience, making it a notable advancement for containerized AI/ML workflows.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-03T10:27:14.723508Z",
+  "updated_at": "2026-07-03T10:27:44.517587Z"
+}

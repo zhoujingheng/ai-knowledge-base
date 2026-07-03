@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260703-df4",
+  "title": "Immich 3.0",
+  "source_url": "https://github.com/immich-app/immich/discussions/29439",
+  "source": "rss",
+  "summary": "Immich 3.0 is a major update to the open-source, self-hosted photo and video management platform. This release focuses on performance improvements, a redesigned UI, and enhanced AI-powered features like smarter search, facial recognition, and object detection, all while maintaining a focus on user privacy and local-first storage.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-03T10:27:14.723524Z",
+  "updated_at": "2026-07-03T10:27:44.517598Z"
+}
