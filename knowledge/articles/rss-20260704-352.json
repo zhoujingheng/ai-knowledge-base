@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260704-352",
+  "title": "An American Privacy Emergency",
+  "source_url": "https://scottaaronson.blog/?p=9902",
+  "source": "rss",
+  "summary": "The content discusses the U.S. Census Bureau's ban on noise infusion (differential privacy) in statistical products, sparking debate on privacy vs. data accuracy. This policy shift impacts AI/ML models reliant on public census data, raising concerns about re-identification risks and data utility for research and deployment.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-04T10:00:58.050399Z",
+  "updated_at": "2026-07-04T10:01:31.830138Z"
+}

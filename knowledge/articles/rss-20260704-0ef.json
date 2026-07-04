@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260704-0ef",
+  "title": "60% Fable cost cut by converting code to images and having the model OCR it",
+  "source_url": "https://github.com/teamchong/pxpipe",
+  "source": "rss",
+  "summary": "A novel cost-saving technique reduces Fable's AI inference costs by 60%: converting code into images and using OCR to extract text, bypassing expensive token-based LLM processing. This exploits pricing disparities between vision and text models.",
+  "tags": [
+    "llm",
+    "tool",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-04T10:00:58.049897Z",
+  "updated_at": "2026-07-04T10:01:31.829814Z"
+}

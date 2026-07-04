@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260704-486",
+  "title": "Virginia bans sale of precise geolocation data",
+  "source_url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+  "source": "rss",
+  "summary": "Virginia has passed SB 338, banning the sale of precise geolocation data without consumer consent. This law targets data brokers and tech companies, impacting AI/ML systems that rely on location data for training or inference. It highlights growing privacy regulation affecting data sourcing for machine learning models.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-07-04T10:00:58.050462Z",
+  "updated_at": "2026-07-04T10:01:31.830151Z"
+}

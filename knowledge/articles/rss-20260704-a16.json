@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260704-a16",
+  "title": "Exapunks (2018)",
+  "source_url": "https://www.zachtronics.com/exapunks/",
+  "source": "rss",
+  "summary": "Exapunks is a 2018 programming puzzle game by Zachtronics where players write assembly-like code to control viruses (EXAs) in a cyberpunk world. It teaches low-level programming concepts, debugging, and optimization through creative problem-solving, blending technical challenge with narrative.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-04T10:00:58.050481Z",
+  "updated_at": "2026-07-04T10:01:31.830174Z"
+}

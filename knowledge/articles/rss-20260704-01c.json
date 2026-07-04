@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260704-01c",
+  "title": "The Safari MCP server for web developers",
+  "source_url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+  "source": "rss",
+  "summary": "Apple introduces a Safari MCP (Model Context Protocol) server, enabling web developers to connect AI agents directly to the browser's debugging and inspection capabilities. This allows LLMs to interact with live web pages, access DOM, console logs, and network activity, streamlining automated testing and development workflows.",
+  "tags": [
+    "agent",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-04T10:00:58.050353Z",
+  "updated_at": "2026-07-04T10:01:31.830066Z"
+}

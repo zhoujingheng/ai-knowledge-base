@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260704-8a2",
+  "title": "Jamesob's guide to running SOTA LLMs locally",
+  "source_url": "https://github.com/jamesob/local-llm",
+  "source": "rss",
+  "summary": "A practical guide for running state-of-the-art LLMs on local hardware, covering model selection, quantization, inference engines, and system requirements. Aimed at enthusiasts and developers seeking privacy, offline access, and cost savings over cloud APIs.",
+  "tags": [
+    "llm",
+    "deployment",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-04T10:00:58.050075Z",
+  "updated_at": "2026-07-04T10:01:31.829878Z"
+}
