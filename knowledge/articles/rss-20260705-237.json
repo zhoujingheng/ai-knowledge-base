@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260705-237",
+  "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+  "source_url": "https://github.com/anthropics/claude-code/issues/74066",
+  "source": "rss",
+  "summary": "A GitHub issue reports potential session or cache leakage between workspace instances or consumer accounts in Claude Code, raising security concerns. The discussion on Hacker News highlights risks of cross-account data exposure, with 296 points and 130 comments debating implications and mitigations.",
+  "tags": [
+    "llm",
+    "deployment",
+    "security"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-05T10:03:54.126926Z",
+  "updated_at": "2026-07-05T10:04:29.224106Z"
+}

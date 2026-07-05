@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260705-48f",
+  "title": "Performance per dollar is getting faster and cheaper",
+  "source_url": "https://www.wafer.ai/blog/glm52-amd",
+  "source": "rss",
+  "summary": "The article discusses the release of GLM-52, a new AI model optimized for AMD hardware, highlighting significant improvements in performance per dollar. It emphasizes how this advancement makes AI inference more cost-effective and accessible, particularly for enterprise deployment, by leveraging AMD's competitive pricing and efficiency gains.",
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-05T10:03:54.127142Z",
+  "updated_at": "2026-07-05T10:04:29.224307Z"
+}

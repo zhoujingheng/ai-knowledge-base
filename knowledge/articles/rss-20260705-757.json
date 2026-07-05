@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260705-757",
+  "title": "Maybe you should learn something",
+  "source_url": "https://www.marginalia.nu/log/a_135_learn/",
+  "source": "rss",
+  "summary": "The article argues that modern AI/ML development over-relies on complex frameworks and pre-built models, advocating instead for a deeper understanding of fundamental algorithms and low-level implementation. It suggests that true innovation and debugging capability come from building things from scratch, rather than assembling black-box components.",
+  "tags": [
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-05T10:03:54.127020Z",
+  "updated_at": "2026-07-05T10:04:29.224163Z"
+}

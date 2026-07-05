@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260705-ace",
+  "title": "Odin, Wikipedia and engagement farming",
+  "source_url": "https://katamari64.se/posts/2026/odin-wikipedia/",
+  "source": "rss",
+  "summary": "The article critiques the use of AI-generated content on Wikipedia, specifically focusing on the 'Odin' project, which uses large language models to automatically create and edit articles. It argues this leads to engagement farming—prioritizing quantity and user interaction over factual accuracy—and raises concerns about the degradation of Wikipedia's editorial standards and trustworthiness.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-05T10:03:54.127072Z",
+  "updated_at": "2026-07-05T10:04:29.224246Z"
+}

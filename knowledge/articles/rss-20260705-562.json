@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260705-562",
+  "title": "Explanation of everything you can see in htop/top on Linux (2019)",
+  "source_url": "https://peteris.rocks/blog/htop/",
+  "source": "rss",
+  "summary": "This article provides a comprehensive, detailed explanation of every element visible in the Linux `htop` and `top` process monitoring tools, including memory, CPU, load, processes, and kernel threads. It serves as a practical reference for understanding system performance metrics.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-05T10:03:54.126949Z",
+  "updated_at": "2026-07-05T10:04:29.224118Z"
+}

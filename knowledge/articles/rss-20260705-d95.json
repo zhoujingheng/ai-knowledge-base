@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260705-d95",
+  "title": "SearXNG: A free internet metasearch engine",
+  "source_url": "https://github.com/searxng/searxng",
+  "source": "rss",
+  "summary": "SearXNG is a free, open-source metasearch engine that aggregates results from multiple search services without tracking users. It emphasizes privacy and self-hosting, allowing users to bypass centralized search engine data collection.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-05T10:03:54.127210Z",
+  "updated_at": "2026-07-05T10:04:29.224295Z"
+}

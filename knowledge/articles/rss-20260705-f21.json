@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260705-f21",
+  "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+  "source_url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+  "source": "rss",
+  "summary": "Anna's Archive offers a $200k bounty for a complete dataset of all book scans from Google Books, aiming to preserve and make accessible a vast cultural corpus. The project involves scraping, deduplication, and storage challenges, highlighting tensions between copyright law and digital archiving in AI/ML contexts.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-05T10:03:54.126782Z",
+  "updated_at": "2026-07-05T10:04:29.224094Z"
+}

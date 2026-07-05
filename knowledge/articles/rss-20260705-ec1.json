@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260705-ec1",
+  "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+  "source_url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+  "source": "rss",
+  "summary": "This project ports the classic game Command & Conquer: Generals to macOS, iPhone, and iPad using Fable, a tool that compiles F# to JavaScript. It demonstrates cross-platform game deployment without AI/ML, but the title's AI/ML context is misleading.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 1,
+  "created_at": "2026-07-05T10:03:54.126730Z",
+  "updated_at": "2026-07-05T10:04:29.224082Z"
+}

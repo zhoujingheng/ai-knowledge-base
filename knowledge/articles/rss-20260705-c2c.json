@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260705-c2c",
+  "title": "Leaking YouTube creators' private videos",
+  "source_url": "https://javoriuski.com/post/youtube",
+  "source": "rss",
+  "summary": "This article details a security vulnerability where a researcher discovered a method to access private YouTube videos by exploiting the platform's API and authentication mechanisms. The attack involves manipulating video metadata and using OAuth tokens to bypass access controls, revealing a flaw in YouTube's permission model that could expose creators' unlisted or private content.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-07-05T10:03:54.126881Z",
+  "updated_at": "2026-07-05T10:04:29.224141Z"
+}

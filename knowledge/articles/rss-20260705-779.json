@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260705-779",
+  "title": "Meta data center water discharges suspended for contaminating water supply",
+  "source_url": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system",
+  "source": "rss",
+  "summary": "Meta's data center operations in Cheyenne were suspended after a contractor contaminated the city's reuse water system, highlighting environmental risks in AI infrastructure. The incident underscores challenges in managing water usage for cooling large-scale AI/ML compute clusters.",
+  "tags": [
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-05T10:03:54.126842Z",
+  "updated_at": "2026-07-05T10:04:29.224017Z"
+}

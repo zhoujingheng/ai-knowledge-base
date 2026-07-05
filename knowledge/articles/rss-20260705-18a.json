@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260705-18a",
+  "title": "Holes",
+  "source_url": "https://xkcd.com/3266/large/",
+  "source": "rss",
+  "summary": "This is an XKCD comic (Holes) that humorously critiques the tendency of AI/ML systems to overfit to training data or exploit loopholes, rather than learning generalizable concepts. It highlights the gap between benchmark performance and real-world understanding.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-05T10:03:54.127229Z",
+  "updated_at": "2026-07-05T10:04:29.224319Z"
+}
