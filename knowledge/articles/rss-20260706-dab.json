@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260706-dab",
+  "title": "Has_not_been_viewed_much",
+  "source_url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+  "source": "rss",
+  "summary": "The article explores the concept of 'has not been viewed much' as a heuristic for discovering overlooked but valuable content online. It discusses algorithmic curation, serendipity, and the trade-offs between popularity-based and novelty-based recommendation systems, with implications for AI-driven content discovery.",
+  "tags": [
+    "research",
+    "rag"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-07-06T11:56:45.544291Z",
+  "updated_at": "2026-07-06T11:57:16.489105Z"
+}

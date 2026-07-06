@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260706-2c0",
+  "title": "Introduction to Compilers and Language Design (2021)",
+  "source_url": "https://dthain.github.io/books/compiler/",
+  "source": "rss",
+  "summary": "This resource is a comprehensive online textbook covering compiler design and implementation, from lexical analysis to code generation. It provides a practical, hands-on approach to building a compiler, making it suitable for students and developers interested in language creation.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-06T11:56:45.544533Z",
+  "updated_at": "2026-07-06T11:57:16.489440Z"
+}

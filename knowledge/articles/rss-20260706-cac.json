@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260706-cac",
+  "title": "EU Council forces Chat Control via fast-track",
+  "source_url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+  "source": "rss",
+  "summary": "The EU Council is fast-tracking 'Chat Control' legislation to mandate automated scanning of private messages for illegal content, raising significant privacy and security concerns. This policy shift impacts AI/ML systems used for content moderation, particularly in encrypted messaging platforms, and has sparked debate on surveillance versus child protection.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-06T11:56:45.544558Z",
+  "updated_at": "2026-07-06T11:57:16.489478Z"
+}

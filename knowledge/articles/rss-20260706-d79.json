@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260706-d79",
+  "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+  "source_url": "https://huggingface.co/blog/lerobot-release-v060",
+  "source": "rss",
+  "summary": "LeRobot v0.6.0 introduces new capabilities for robotics AI: 'Imagine' for simulation-based policy training, 'Evaluate' for standardized benchmarking, and 'Improve' for iterative refinement. It focuses on making imitation and reinforcement learning more accessible for real-world robot control.",
+  "tags": [
+    "framework",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-06T11:56:47.307121Z",
+  "updated_at": "2026-07-06T11:57:16.490682Z"
+}

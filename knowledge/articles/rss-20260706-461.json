@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260706-461",
+  "title": "Shadcn/UI now defaults to Base UI instead of Radix",
+  "source_url": "https://ui.shadcn.com/docs/changelog",
+  "source": "rss",
+  "summary": "Shadcn/UI has changed its default component library from Radix to Base UI, a significant shift in its underlying architecture. This update affects how developers build and customize UI components, potentially altering workflows and dependencies for projects using this popular React component collection.",
+  "tags": [
+    "framework",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-06T11:56:45.544578Z",
+  "updated_at": "2026-07-06T11:57:16.489453Z"
+}

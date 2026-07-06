@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260706-76d",
+  "title": "🤗 Kernels: Major Updates",
+  "source_url": "https://huggingface.co/blog/revamped-kernels",
+  "source": "rss",
+  "summary": "This content announces major updates to Hugging Face Kernels, likely focusing on performance improvements, new features, or expanded model support for AI/ML development. The updates aim to enhance user experience and efficiency in running models.",
+  "tags": [
+    "tool",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-07-06T11:56:47.307150Z",
+  "updated_at": "2026-07-06T11:57:16.490696Z"
+}

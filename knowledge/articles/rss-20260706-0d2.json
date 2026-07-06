@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260706-0d2",
+  "title": "The future of Flipper Zero development",
+  "source_url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+  "source": "rss",
+  "summary": "Flipper Zero announces a major firmware overhaul, transitioning to a more modular, community-driven development model. The update introduces a new SDK, improved documentation, and a plugin system to simplify third-party app creation, aiming to expand the device's capabilities while maintaining security and stability.",
+  "tags": [
+    "tool",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-06T11:56:45.544423Z",
+  "updated_at": "2026-07-06T11:57:16.489233Z"
+}

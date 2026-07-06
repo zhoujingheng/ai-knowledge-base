@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260706-f9b",
+  "title": "OpenPrinter",
+  "source_url": "https://www.opentools.studio/",
+  "source": "rss",
+  "summary": "OpenPrinter is an open-source tool that turns any standard printer into a smart, AI-powered device. It enables local, private document processing with features like smart duplexing, ink-saving, and voice commands, all without cloud dependency. The project emphasizes user control and privacy.",
+  "tags": [
+    "tool",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-06T11:56:45.544372Z",
+  "updated_at": "2026-07-06T11:57:16.489314Z"
+}
