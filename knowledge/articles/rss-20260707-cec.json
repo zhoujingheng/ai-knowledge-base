@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260707-cec",
+  "title": "GLM 5.2 and the coming AI margin collapse",
+  "source_url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+  "source": "rss",
+  "summary": "The article argues that the release of GLM 5.2, a highly capable open-weight model, will trigger a collapse in margins for proprietary AI companies. It suggests that commoditization of foundation models will shift value to applications and infrastructure, making it harder for closed-source providers to sustain high pricing.",
+  "tags": [
+    "llm",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-07T10:47:35.359560Z",
+  "updated_at": "2026-07-07T10:48:04.558536Z"
+}

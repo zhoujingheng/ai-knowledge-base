@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260707-2c3",
+  "title": "Road to Elm 1.0",
+  "source_url": "https://elm-lang.org/news/faster-builds",
+  "source": "rss",
+  "summary": "This article announces significant improvements to the Elm compiler's build performance, including parallel compilation and incremental builds, aiming to reduce compile times for large projects. It details technical optimizations and the roadmap toward Elm 1.0, focusing on developer experience and tooling reliability.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-07T10:47:35.359812Z",
+  "updated_at": "2026-07-07T10:48:04.558842Z"
+}

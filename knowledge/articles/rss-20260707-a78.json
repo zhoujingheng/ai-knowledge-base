@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260707-a78",
+  "title": "Aluminum foil (2021)",
+  "source_url": "https://dernocua.github.io/notes/aluminum-foil.html",
+  "source": "rss",
+  "summary": "This article explores the concept of 'aluminum foil' as a metaphor for a lightweight, flexible, and disposable approach to AI/ML system design. It argues for building simple, replaceable components over complex, monolithic architectures, emphasizing rapid iteration and practical utility over theoretical purity.",
+  "tags": [
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-07T10:47:35.359720Z",
+  "updated_at": "2026-07-07T10:48:04.558744Z"
+}

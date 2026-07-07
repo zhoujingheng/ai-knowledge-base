@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260707-3dc",
+  "title": "Real-time map of Great Britain's rail network",
+  "source_url": "https://www.map.signalbox.io",
+  "source": "rss",
+  "summary": "This is a real-time visualization of Great Britain's rail network, likely using AI/ML for data processing and prediction. The interactive map shows train positions and network status, with technical discussion on HN about data sources, latency, and implementation challenges.",
+  "tags": [
+    "tool",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-07T10:47:35.359832Z",
+  "updated_at": "2026-07-07T10:48:04.558830Z"
+}

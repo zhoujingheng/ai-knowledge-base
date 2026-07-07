@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260707-3dd",
+  "title": "PRX Part 4: Our Data Strategy",
+  "source_url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+  "source": "rss",
+  "summary": "This content outlines a data strategy for an AI/ML system, likely focusing on data collection, preprocessing, and governance to support model training or deployment. It emphasizes structured data pipelines and quality control.",
+  "tags": [
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-07-07T10:47:36.464848Z",
+  "updated_at": "2026-07-07T10:48:04.560033Z"
+}

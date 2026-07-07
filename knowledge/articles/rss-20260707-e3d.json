@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260707-e3d",
+  "title": "A global workspace in language models",
+  "source_url": "https://www.anthropic.com/research/global-workspace",
+  "source": "rss",
+  "summary": "Anthropic's research proposes a 'global workspace' architecture for language models, enabling explicit, shared memory across layers to improve reasoning and coherence. This approach addresses limitations in current transformer models by allowing information to be dynamically integrated and accessed, potentially enhancing complex task performance.",
+  "tags": [
+    "research",
+    "llm",
+    "architecture"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-07-07T10:47:35.359632Z",
+  "updated_at": "2026-07-07T10:48:04.558666Z"
+}

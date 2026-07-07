@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260707-9f6",
+  "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+  "source_url": "https://ternlight-demo.vercel.app/",
+  "source": "rss",
+  "summary": "Ternlight is a 7 MB embedding model optimized for in-browser execution via WebAssembly (WASM). It enables local, privacy-preserving text embeddings without server calls, making it suitable for lightweight AI applications like semantic search or clustering directly in the browser.",
+  "tags": [
+    "tool",
+    "deployment",
+    "rag"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-07T10:47:35.359479Z",
+  "updated_at": "2026-07-07T10:48:04.558458Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260707-599",
+  "title": "CoMaps – FOSS Offline Maps",
+  "source_url": "https://www.comaps.app/",
+  "source": "rss",
+  "summary": "CoMaps is a free, open-source offline maps application that emphasizes privacy and independence from proprietary mapping services. It allows users to download and navigate maps without an internet connection, focusing on user control and data sovereignty.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-07-07T10:47:35.359584Z",
+  "updated_at": "2026-07-07T10:48:04.558522Z"
+}
