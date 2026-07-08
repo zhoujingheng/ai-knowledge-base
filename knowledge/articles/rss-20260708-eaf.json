@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260708-eaf",
+  "title": "Chat Control passed first round in EU Parliament",
+  "source_url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+  "source": "rss",
+  "summary": "The EU Parliament's first-round passage of 'Chat Control' legislation, which mandates automated scanning of private messages for illegal content, raises significant concerns about AI/ML deployment for mass surveillance. Critics highlight risks to encryption, privacy, and the potential for false positives from AI-based detection systems.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-08T10:08:59.096968Z",
+  "updated_at": "2026-07-08T10:09:35.148281Z"
+}

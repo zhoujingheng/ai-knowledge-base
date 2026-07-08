@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260708-e88",
+  "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+  "source_url": "https://streetcomplete.app/",
+  "source": "rss",
+  "summary": "StreetComplete is a mobile app that gamifies contributing to OpenStreetMap by presenting users with small, localized 'quests' to answer simple questions about their surroundings. It lowers the barrier to mapping, enabling non-experts to improve geospatial data incrementally. The project emphasizes usability and community-driven data collection.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-08T10:08:59.097139Z",
+  "updated_at": "2026-07-08T10:09:35.148428Z"
+}

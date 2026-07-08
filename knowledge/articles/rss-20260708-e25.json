@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260708-e25",
+  "title": "Microsoft Can Track Users via a Windows Device ID",
+  "source_url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
+  "source": "rss",
+  "summary": "This article discusses how Microsoft can track users through a unique Windows device ID, revealed during a hacker's arrest. It highlights privacy concerns regarding device identifiers used for law enforcement tracking, emphasizing the trade-off between security features and user privacy in operating systems.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-08T10:08:59.097190Z",
+  "updated_at": "2026-07-08T10:09:35.148534Z"
+}

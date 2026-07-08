@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260708-14f",
+  "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+  "source_url": "https://30papers.com/",
+  "source": "rss",
+  "summary": "A curated list of 30 foundational ML papers selected by Ilya Sutskever, presented in a beginner-friendly format with explanations and context. The site aims to make seminal research accessible to newcomers, bridging the gap between advanced theory and practical understanding.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-08T10:08:59.096912Z",
+  "updated_at": "2026-07-08T10:09:35.148152Z"
+}

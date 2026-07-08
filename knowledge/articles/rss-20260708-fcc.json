@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260708-fcc",
+  "title": "We charge $10k a week to delete AI-generated code",
+  "source_url": "https://odra.dev/slopfix/",
+  "source": "rss",
+  "summary": "A service called SlopFix charges $10k/week to remove AI-generated code from codebases. It targets companies overwhelmed by low-quality AI output, offering manual cleanup and refactoring. The model highlights a growing niche in AI code maintenance and quality control.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-08T10:08:59.096801Z",
+  "updated_at": "2026-07-08T10:09:35.148138Z"
+}

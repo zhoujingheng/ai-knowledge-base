@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260708-994",
+  "title": "98% isn't much",
+  "source_url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+  "source": "rss",
+  "summary": "The article argues that 98% accuracy in AI systems is insufficient for practical deployment, as even small error rates compound over large volumes, leading to significant real-world failures. It emphasizes the need for higher reliability and robustness in production AI.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-07-08T10:08:59.097086Z",
+  "updated_at": "2026-07-08T10:09:35.148354Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260708-37a",
+  "title": "Hugging Face Models on Foundry Managed Compute",
+  "source_url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+  "source": "rss",
+  "summary": "This content covers deploying Hugging Face models on Foundry's managed compute infrastructure, focusing on scalable inference and model serving. It likely discusses integration steps, performance optimization, and cost management for production AI workloads.",
+  "tags": [
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-08T10:09:06.193363Z",
+  "updated_at": "2026-07-08T10:09:35.150095Z"
+}
