@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260709-ee8",
+  "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+  "source_url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+  "source": "rss",
+  "summary": "This article analyzes an obfuscated bash script found on a Uniqlo t-shirt, which was actually a self-evaluating script served by Akamai's CDN to consumers in retail stores. It decodes the script's purpose, revealing it as a creative, real-world example of obfuscated code used for promotional or tracking purposes.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-09T10:51:42.311492Z",
+  "updated_at": "2026-07-09T10:52:14.224673Z"
+}

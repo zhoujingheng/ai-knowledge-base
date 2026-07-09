@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260709-a7d",
+  "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+  "source_url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+  "source": "rss",
+  "summary": "This is a link to MIT's classic 1986 video lectures for 'Structure and Interpretation of Computer Programs' (SICP), a foundational computer science course. The content covers core programming concepts like abstraction, recursion, and interpreters, using Scheme. It is highly influential but predates modern AI/ML, focusing on general programming principles rather than machine learning.",
+  "tags": [
+    "framework"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-09T10:51:42.311590Z",
+  "updated_at": "2026-07-09T10:52:14.224882Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260709-f0a",
+  "title": "FAANG Simulator",
+  "source_url": "https://www.abeyk.com/escape-the-rat-race/",
+  "source": "rss",
+  "summary": "A satirical AI-powered simulator that generates realistic FAANG-style interview loops, complete with leetcode questions, behavioral prompts, and rejection outcomes. It critiques tech industry hiring culture through interactive, LLM-driven roleplay.",
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-07-09T10:51:42.311305Z",
+  "updated_at": "2026-07-09T10:52:14.224591Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260709-da7",
+  "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+  "source_url": "https://mistral.ai/news/robostral-navigate/",
+  "source": "rss",
+  "summary": "Mistral AI introduces Robostral Navigate, a state-of-the-art robotics navigation model that leverages vision-language capabilities to enable robots to understand and navigate complex environments using natural language commands. The model integrates advanced AI with real-world robotic control, aiming to improve autonomous navigation in dynamic settings.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-07-09T10:51:42.311466Z",
+  "updated_at": "2026-07-09T10:52:14.224663Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260709-8d4",
+  "title": "Chatto is now open source",
+  "source_url": "https://www.hmans.dev/blog/chatto-is-open-source",
+  "source": "rss",
+  "summary": "Chatto, an open-source AI chat interface, is now publicly available. It offers a customizable, self-hosted alternative to proprietary chatbots, emphasizing user control and privacy. The project aims to simplify deployment for developers while providing a modern, feature-rich chat experience.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-07-09T10:51:42.311445Z",
+  "updated_at": "2026-07-09T10:52:14.224653Z"
+}
