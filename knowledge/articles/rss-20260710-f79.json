@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260710-f79",
+  "title": "No leap second will be introduced at the end of December 2026",
+  "source_url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+  "source": "rss",
+  "summary": "This is a Hacker News post about the International Earth Rotation and Reference Systems Service (IERS) announcing no leap second will be added at the end of December 2026. The discussion has 218 comments, likely covering timekeeping, UTC, and technical implications for distributed systems and software.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-10T10:45:08.232038Z",
+  "updated_at": "2026-07-10T10:45:43.376508Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260710-158",
+  "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+  "source_url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+  "source": "rss",
+  "summary": "This article discusses the growing trend of developers moving away from GitHub to platforms like Codeberg or self-hosted alternatives due to concerns over vendor lock-in, privacy, and centralized control. It highlights the appeal of open-source, community-driven repositories and the technical trade-offs involved in self-hosting.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-10T10:45:08.232213Z",
+  "updated_at": "2026-07-10T10:45:43.376617Z"
+}

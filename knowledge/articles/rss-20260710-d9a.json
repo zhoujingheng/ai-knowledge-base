@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260710-d9a",
+  "title": "Muse Spark 1.1",
+  "source_url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+  "source": "rss",
+  "summary": "Meta released Muse Spark 1.1, a new AI model and developer toolkit for generating and editing 3D assets from text or images. The update includes improved evaluation benchmarks and integration tools for creators, signaling a push toward accessible 3D content generation for AR/VR and gaming applications.",
+  "tags": [
+    "research",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-10T10:45:08.232077Z",
+  "updated_at": "2026-07-10T10:45:43.376515Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260710-11d",
+  "title": "My thoughts on the Bun Rust rewrite",
+  "source_url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+  "source": "rss",
+  "summary": "Andrew Kelley, creator of Zig, critiques Bun's decision to rewrite its JavaScript runtime from Zig to Rust. He argues the rewrite is premature, discards Zig's unique strengths like compile-time execution and seamless C interop, and may not solve Bun's core performance issues. The post sparks debate on language choice for systems programming.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-07-10T10:45:08.232190Z",
+  "updated_at": "2026-07-10T10:45:43.376624Z"
+}

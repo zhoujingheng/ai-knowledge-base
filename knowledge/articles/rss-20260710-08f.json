@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260710-08f",
+  "title": "Hy3",
+  "source_url": "https://hy.tencent.com/research/hy3",
+  "source": "rss",
+  "summary": "Hy3 is a research project from Tencent that introduces a hybrid 3D generation framework combining text-to-3D and image-to-3D approaches. It leverages diffusion models and multi-view consistency to produce high-quality 3D assets efficiently, targeting applications in gaming, VR, and digital content creation.",
+  "tags": [
+    "research",
+    "framework",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-07-10T10:45:08.231989Z",
+  "updated_at": "2026-07-10T10:45:43.376484Z"
+}

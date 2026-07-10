@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260710-30c",
+  "title": "ChatGPT Work",
+  "source_url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+  "source": "rss",
+  "summary": "OpenAI announces ChatGPT Work, a new offering designed for complex, ambitious tasks. It likely integrates advanced reasoning, extended context, and tool use to support professional workflows, moving beyond simple chat to assist with coding, analysis, and project management.",
+  "tags": [
+    "llm",
+    "tool",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-10T10:45:08.231965Z",
+  "updated_at": "2026-07-10T10:45:43.376501Z"
+}

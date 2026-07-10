@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260710-f4e",
+  "title": "GPT-5.6",
+  "source_url": "https://openai.com/index/gpt-5-6/",
+  "source": "rss",
+  "summary": "This is a Hacker News post about a new OpenAI model, GPT-5.6, linking to deployment safety documentation, API guides, and a tweet from a notable figure. The high number of points and comments indicates significant community interest and discussion, likely focused on the model's capabilities, safety implications, and deployment details.",
+  "tags": [
+    "llm",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-10T10:45:08.231916Z",
+  "updated_at": "2026-07-10T10:45:43.376470Z"
+}
