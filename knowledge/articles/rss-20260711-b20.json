@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260711-b20",
+  "title": "QuadRF can spot drones and see WiFi through my wall",
+  "source_url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+  "source": "rss",
+  "summary": "QuadRF is a software-defined radio (SDR) tool that uses AI/ML to detect drones and analyze WiFi signals through walls. It leverages radio frequency fingerprinting and signal processing to identify devices, demonstrating practical applications in security and spectrum monitoring.",
+  "tags": [
+    "tool",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-11T09:18:49.463653Z",
+  "updated_at": "2026-07-11T09:19:18.188211Z"
+}

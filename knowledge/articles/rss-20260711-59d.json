@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260711-59d",
+  "title": "Write code like a human will maintain it",
+  "source_url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+  "source": "rss",
+  "summary": "This article argues that AI-generated code should prioritize readability and maintainability for human developers, rather than optimizing for brevity or performance. It emphasizes writing clear, well-structured code that follows human conventions, as AI outputs will be read and modified by people.",
+  "tags": [
+    "llm",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-11T09:18:49.463695Z",
+  "updated_at": "2026-07-11T09:19:18.188223Z"
+}

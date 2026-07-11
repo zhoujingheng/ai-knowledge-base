@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260711-7cb",
+  "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+  "source_url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+  "source": "rss",
+  "summary": "A tweet claims that GPT-5.6 Sol Ultra has produced a proof of the Cycle Double Cover Conjecture, a significant open problem in graph theory. The post includes a link to a PDF prompt and has generated substantial discussion on Hacker News, with 443 points and 361 comments.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-07-11T09:18:49.463554Z",
+  "updated_at": "2026-07-11T09:19:18.188145Z"
+}

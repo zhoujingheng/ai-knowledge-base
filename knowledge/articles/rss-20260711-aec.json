@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260711-aec",
+  "title": "In Emacs, everything looks like a service",
+  "source_url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+  "source": "rss",
+  "summary": "The article discusses the Emacs philosophy of treating all functionality as services, drawing parallels to microservices and Unix pipes. It explores how Emacs' architecture enables composable, asynchronous workflows, and critiques modern AI/ML tooling for lacking similar modularity and integration.",
+  "tags": [
+    "tool",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-07-11T09:18:49.463887Z",
+  "updated_at": "2026-07-11T09:19:18.188310Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260711-590",
+  "title": "Tau: An Educational Coding Agent",
+  "source_url": "https://twotimespi.dev/",
+  "source": "rss",
+  "summary": "Tau is an educational coding agent designed to help learners practice programming. It provides interactive coding exercises and feedback, likely leveraging AI to guide users through problem-solving. The project emphasizes learning through hands-on coding with automated assistance.",
+  "tags": [
+    "agent",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-07-11T09:18:49.795589Z",
+  "updated_at": "2026-07-11T09:19:18.188530Z"
+}
