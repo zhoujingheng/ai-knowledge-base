@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260712-251",
+  "title": "How the terrorist group Boko Haram uses frontier AI",
+  "source_url": "https://casp.ac/reports/ai-enabled-terrorism",
+  "source": "rss",
+  "summary": "This report analyzes how the terrorist group Boko Haram has adopted frontier AI tools, including large language models, for propaganda, operational planning, and recruitment. It details specific use cases and highlights the challenges of content moderation and counterterrorism in an AI-enabled landscape.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-12T09:43:58.094082Z",
+  "updated_at": "2026-07-12T09:44:34.259972Z"
+}

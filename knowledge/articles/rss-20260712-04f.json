@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260712-04f",
+  "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+  "source_url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+  "source": "rss",
+  "summary": "This content discusses optimizing the full inference pipeline for the MiMo-V2.5 series, likely a multimodal model. It focuses on improving efficiency across preprocessing, model execution, and postprocessing stages, targeting reduced latency and resource usage for production deployment.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-12T09:43:58.488419Z",
+  "updated_at": "2026-07-12T09:44:34.260038Z"
+}

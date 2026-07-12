@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260712-685",
+  "title": "Prefer strict tables in SQLite",
+  "source_url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+  "source": "rss",
+  "summary": "This article advocates for using SQLite's strict table mode to enforce data types and prevent silent type coercion, improving data integrity and reducing bugs. It explains how strict tables reject invalid inserts and align with expectations from other databases, offering a practical recommendation for developers.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-12T09:43:58.093838Z",
+  "updated_at": "2026-07-12T09:44:34.259809Z"
+}

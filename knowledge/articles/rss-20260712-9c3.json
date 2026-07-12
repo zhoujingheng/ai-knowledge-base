@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260712-9c3",
+  "title": "An Agent in 100 Lines of Lisp",
+  "source_url": "https://thebeach.dev/posts/lisp-agent/",
+  "source": "rss",
+  "summary": "This content presents a minimal implementation of an AI agent using Lisp, demonstrating core agent concepts in just 100 lines of code. It highlights the elegance and expressiveness of Lisp for building autonomous systems, likely focusing on decision-making loops and environment interaction.",
+  "tags": [
+    "agent",
+    "framework",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-12T09:43:58.488391Z",
+  "updated_at": "2026-07-12T09:44:34.260031Z"
+}

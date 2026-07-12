@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260712-3c4",
+  "title": "Ghost Font: A font that humans can read but AI cannot",
+  "source_url": "https://www.mixfont.com/ghost-font",
+  "source": "rss",
+  "summary": "Ghost Font is a typeface designed to be readable by humans but unreadable by AI/OCR systems. It exploits differences in how humans and machines process visual text, potentially for privacy or anti-scraping purposes. The Hacker News discussion explores its technical implementation, effectiveness, and ethical implications.",
+  "tags": [
+    "research",
+    "tool",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-12T09:43:58.093975Z",
+  "updated_at": "2026-07-12T09:44:34.259891Z"
+}

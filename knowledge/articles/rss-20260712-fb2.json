@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260712-fb2",
+  "title": "An update on residential proxies and the scraper situation",
+  "source_url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+  "source": "rss",
+  "summary": "This article discusses the ongoing arms race between web scrapers and anti-bot measures, focusing on the use of residential proxies to bypass IP-based blocking. It covers technical challenges like CAPTCHAs, browser fingerprinting, and the ethical/legal implications of using residential IPs for large-scale data extraction, particularly for AI training.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-12T09:43:58.094062Z",
+  "updated_at": "2026-07-12T09:44:34.259938Z"
+}

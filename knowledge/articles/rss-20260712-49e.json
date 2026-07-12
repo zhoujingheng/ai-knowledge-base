@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260712-49e",
+  "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+  "source_url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+  "source": "rss",
+  "summary": "This analysis reverse-engineers xAI's Grok Build CLI, revealing the exact HTTP requests and data structures sent to xAI's servers. It details authentication, payload formatting, and API endpoints, providing a technical deep-dive into how the CLI interacts with the backend for model building and deployment.",
+  "tags": [
+    "tool",
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-12T09:43:58.093705Z",
+  "updated_at": "2026-07-12T09:44:34.259682Z"
+}

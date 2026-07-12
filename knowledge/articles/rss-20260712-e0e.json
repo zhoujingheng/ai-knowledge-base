@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260712-e0e",
+  "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+  "source_url": "https://antjs.org",
+  "source": "rss",
+  "summary": "Ant is a JavaScript runtime with its own engine, expanding into a full ecosystem including a package manager, registry, deployment platform, and desktop app builder. It aims to be a coherent, end-to-end alternative to existing JS stacks while maintaining compatibility.",
+  "tags": [
+    "framework",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-07-12T09:43:58.093786Z",
+  "updated_at": "2026-07-12T09:44:34.259702Z"
+}

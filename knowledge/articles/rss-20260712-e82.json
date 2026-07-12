@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260712-e82",
+  "title": "Mesh LLM: distributed AI computing on iroh",
+  "source_url": "https://www.iroh.computer/blog/mesh-llm",
+  "source": "rss",
+  "summary": "Mesh LLM proposes a decentralized architecture for running large language models across distributed nodes using the iroh networking layer. It enables peer-to-peer inference without centralized servers, leveraging content-addressed data and direct connections for privacy, resilience, and reduced costs. The approach targets collaborative AI workloads where model shards or computation are shared among participants.",
+  "tags": [
+    "deployment",
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-12T09:43:58.093737Z",
+  "updated_at": "2026-07-12T09:44:34.259717Z"
+}
