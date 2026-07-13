@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260713-daa",
+  "title": "Old and new apps, via modern coding agents",
+  "source_url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+  "source": "rss",
+  "summary": "Terry Tao explores using modern AI coding agents to build both legacy and new applications, demonstrating how these tools can accelerate development and bridge old programming paradigms with contemporary workflows. The post reflects on practical experiences and implications for software engineering.",
+  "tags": [
+    "agent",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-13T10:51:15.728976Z",
+  "updated_at": "2026-07-13T10:51:50.041408Z"
+}

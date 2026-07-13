@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260713-0d2",
+  "title": "Ghostel.el: Terminal emulator powered by libghostty",
+  "source_url": "https://dakra.github.io/ghostel/",
+  "source": "rss",
+  "summary": "Ghostel.el is an Emacs terminal emulator package that leverages libghostty, a GPU-accelerated terminal rendering library. It brings modern terminal features like GPU rendering and performance improvements to Emacs, enhancing the terminal experience within the editor environment.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-13T10:51:15.729027Z",
+  "updated_at": "2026-07-13T10:51:50.041444Z"
+}

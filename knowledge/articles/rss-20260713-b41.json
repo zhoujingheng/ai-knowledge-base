@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260713-b41",
+  "title": "Tiny Emulators",
+  "source_url": "https://floooh.github.io/tiny8bit-preview/index.html",
+  "source": "rss",
+  "summary": "A technical exploration of building tiny, cycle-accurate emulators for 8-bit computers (like the Commodore 64 and ZX Spectrum) in C, optimized for performance and minimal code size. It demonstrates how to achieve high accuracy with modern coding techniques, targeting web assembly for browser-based execution.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-07-13T10:51:15.728753Z",
+  "updated_at": "2026-07-13T10:51:50.041288Z"
+}

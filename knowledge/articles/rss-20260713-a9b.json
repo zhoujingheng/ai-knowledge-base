@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260713-a9b",
+  "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+  "source_url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+  "source": "rss",
+  "summary": "A recent change in Chromium 148 makes the Math.tanh function fingerprintable, allowing websites to infer the underlying operating system. This highlights a new browser fingerprinting vector, raising privacy concerns as OS detection can be used for tracking without traditional cookies.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-13T10:51:15.728730Z",
+  "updated_at": "2026-07-13T10:51:50.041215Z"
+}

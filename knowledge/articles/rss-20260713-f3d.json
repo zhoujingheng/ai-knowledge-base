@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260713-f3d",
+  "title": "Irish datacenters now guzzle 23% of the country's electricity",
+  "source_url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
+  "source": "rss",
+  "summary": "This article reports that Irish datacenters now consume 23% of the country's electricity, highlighting the growing energy demands of AI/ML infrastructure. The surge is driven by increased compute for training and inference, raising concerns about sustainability and grid capacity.",
+  "tags": [
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-13T10:51:15.728780Z",
+  "updated_at": "2026-07-13T10:51:50.041268Z"
+}
