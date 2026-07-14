@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260714-050",
+  "title": "The git history command",
+  "source_url": "https://lalitm.com/post/git-history/",
+  "source": "rss",
+  "summary": "The article explores the `git history` command, a user-defined alias that enhances the default `git log` output with a more readable, compact, and informative format. It details the command's construction, including options for graph visualization, relative dates, and commit references, and discusses its practical benefits for daily development workflows.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-14T09:48:20.044960Z",
+  "updated_at": "2026-07-14T09:48:58.658632Z"
+}

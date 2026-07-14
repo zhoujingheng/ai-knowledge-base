@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260714-f25",
+  "title": "Backtrack-Free Cursive",
+  "source_url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+  "source": "rss",
+  "summary": "This article explores a novel approach to cursive handwriting recognition using a backtrack-free, single-pass neural network architecture. It details the technical challenges of segmenting and recognizing connected cursive text without the computational overhead of traditional backtracking methods, achieving efficient and accurate real-time transcription.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-07-14T09:48:20.045363Z",
+  "updated_at": "2026-07-14T09:48:58.659008Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260714-027",
+  "title": "Syntax with Purpose in a Programming Language",
+  "source_url": "https://www.youtube.com/watch?v=_HLZoeFREFo",
+  "source": "rss",
+  "summary": "This content discusses the design philosophy behind programming language syntax, emphasizing intentionality and clarity over arbitrary conventions. It explores how purposeful syntax can improve readability, reduce errors, and align with human cognition, drawing on examples from existing languages.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-14T09:48:20.579981Z",
+  "updated_at": "2026-07-14T09:48:58.659597Z"
+}

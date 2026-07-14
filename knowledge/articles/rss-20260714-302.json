@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260714-302",
+  "title": "Show HN: Super Dario",
+  "source_url": "https://superdario.pawb.de",
+  "source": "rss",
+  "summary": "Super Dario is a tool that allows users to play the classic Super Mario game using only their webcam, with AI-powered pose estimation translating body movements into game controls. It demonstrates real-time computer vision and interactive AI applications.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-07-14T09:48:20.045167Z",
+  "updated_at": "2026-07-14T09:48:58.658703Z"
+}

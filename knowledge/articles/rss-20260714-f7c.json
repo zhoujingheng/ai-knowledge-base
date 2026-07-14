@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260714-f7c",
+  "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+  "source_url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+  "source": "rss",
+  "summary": "Apple's new SpeechAnalyzer API is benchmarked against OpenAI's Whisper and Apple's previous speech recognition system. The analysis compares accuracy, latency, and robustness across various audio conditions, highlighting SpeechAnalyzer's improvements in noisy environments and domain-specific terminology.",
+  "tags": [
+    "tool",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-14T09:48:20.045207Z",
+  "updated_at": "2026-07-14T09:48:58.658725Z"
+}
