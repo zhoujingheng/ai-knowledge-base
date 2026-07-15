@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260715-503",
+  "title": "The Memory Heist",
+  "source_url": "https://ayush.digital/blog/the-memory-heist",
+  "source": "rss",
+  "summary": "The Memory Heist appears to be a discussion or article link shared on Lobsters, likely exploring a technique or vulnerability related to extracting or manipulating memory in AI/ML systems, such as model inversion or data leakage. The title suggests a focus on security or adversarial access to model internals.",
+  "tags": [
+    "research",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-15T09:52:24.995488Z",
+  "updated_at": "2026-07-15T09:52:58.157561Z"
+}

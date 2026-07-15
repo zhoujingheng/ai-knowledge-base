@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260715-510",
+  "title": "Codex starts encrypting sub-agent prompts",
+  "source_url": "https://github.com/openai/codex/issues/28058",
+  "source": "rss",
+  "summary": "A GitHub issue on OpenAI's Codex discusses the implementation of encryption for sub-agent prompts, raising concerns about security, transparency, and potential misuse in multi-agent AI systems. The high engagement (418 points, 248 comments) reflects community interest in agent communication safeguards.",
+  "tags": [
+    "agent",
+    "security",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-15T09:52:24.634922Z",
+  "updated_at": "2026-07-15T09:52:58.157290Z"
+}

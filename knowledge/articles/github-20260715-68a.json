@@ -1,0 +1,16 @@
+{
+  "id": "github-20260715-68a",
+  "title": "Graphify-Labs/graphify",
+  "source_url": "https://github.com/Graphify-Labs/graphify",
+  "source": "github",
+  "summary": "Graphify-Labs/graphify is an AI coding assistant skill that transforms code, SQL schemas, scripts, docs, and media into a queryable knowledge graph. It integrates with multiple AI coding tools (Claude Code, Codex, Cursor, etc.) to unify app code, database schema, and infrastructure in a single graph for enhanced context-aware assistance.",
+  "tags": [
+    "agent",
+    "tool",
+    "rag"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-15T09:52:21.223131Z",
+  "updated_at": "2026-07-15T09:52:58.156945Z"
+}

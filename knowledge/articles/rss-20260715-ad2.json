@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260715-ad2",
+  "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+  "source_url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+  "source": "rss",
+  "summary": "This article discusses a 0-day vulnerability in Cursor, an AI code editor, where full disclosure was the only remaining protection after the vendor failed to respond. It highlights security risks in AI-assisted development tools and the ethical dilemma of disclosing vulnerabilities without a patch.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-15T09:52:24.634678Z",
+  "updated_at": "2026-07-15T09:52:58.157104Z"
+}

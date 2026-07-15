@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260715-653",
+  "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+  "source_url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+  "source": "rss",
+  "summary": "This article presents a detailed, empirical comparison of input latency across Linux display servers (X11 vs. Wayland), variable refresh rate (VRR), and the DXVK translation layer. Using custom measurement hardware, the author quantifies latency differences under various gaming and desktop scenarios, revealing significant performance trade-offs.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-15T09:52:24.634815Z",
+  "updated_at": "2026-07-15T09:52:58.157202Z"
+}
