@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260716-364",
+  "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+  "source_url": "https://tailscale.com/security-bulletins",
+  "source": "rss",
+  "summary": "This is a security bulletin about a vulnerability (TS-2026-009) in Tailscale SSH that allowed insecure argument handling, potentially enabling root access. The HN discussion highlights concerns about privilege escalation and secure defaults in networking tools.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-16T09:58:53.959526Z",
+  "updated_at": "2026-07-16T09:59:24.469617Z"
+}

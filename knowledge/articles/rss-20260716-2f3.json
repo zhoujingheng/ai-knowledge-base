@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260716-2f3",
+  "title": "Mysteries of Telegram Data Centers (2022)",
+  "source_url": "https://dev.moe/en/3025",
+  "source": "rss",
+  "summary": "This article explores the internal infrastructure and data center operations of Telegram, detailing their custom hardware, network architecture, and redundancy strategies. It provides a technical deep dive into how Telegram handles massive scale and reliability, with insights from leaked internal documents and public disclosures.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-16T09:58:53.959125Z",
+  "updated_at": "2026-07-16T09:59:24.469423Z"
+}

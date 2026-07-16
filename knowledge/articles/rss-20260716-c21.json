@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260716-c21",
+  "title": "SQLite should have (Rust-style) editions",
+  "source_url": "https://mort.coffee/home/sqlite-editions/",
+  "source": "rss",
+  "summary": "The article proposes that SQLite adopt Rust-style editions to manage feature evolution and backward compatibility, allowing users to opt into newer versions with breaking changes while maintaining stability for existing applications. It discusses trade-offs in database design and versioning strategies.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-16T09:58:53.958753Z",
+  "updated_at": "2026-07-16T09:59:24.469218Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260716-94a",
+  "title": "Codex Micro",
+  "source_url": "https://openai.com/supply/co-lab/work-louder/",
+  "source": "rss",
+  "summary": "Codex Micro is a compact, specialized AI coding assistant from OpenAI, designed for efficient code generation and editing within resource-constrained environments. It balances performance and speed, targeting developers who need lightweight tooling for rapid prototyping and iteration.",
+  "tags": [
+    "llm",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-16T09:58:53.958977Z",
+  "updated_at": "2026-07-16T09:59:24.469437Z"
+}

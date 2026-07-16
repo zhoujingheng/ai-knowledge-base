@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260716-6bf",
+  "title": "Model Routing Is Simple. Until It Isn’t.",
+  "source_url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+  "source": "rss",
+  "summary": "This content explores the complexities of model routing in AI systems, highlighting how seemingly straightforward decisions about which model to use for a given task become challenging due to trade-offs in cost, latency, accuracy, and model specialization. It likely discusses dynamic routing strategies and pitfalls.",
+  "tags": [
+    "llm",
+    "deployment",
+    "rag"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-16T09:58:59.742710Z",
+  "updated_at": "2026-07-16T09:59:24.470835Z"
+}

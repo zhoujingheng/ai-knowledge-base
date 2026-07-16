@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260716-534",
+  "title": "What building Shippy taught us about building agents",
+  "source_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+  "source": "rss",
+  "summary": "The article shares lessons from building Shippy, an AI agent, highlighting challenges in agent design, reliability, and real-world deployment. It emphasizes practical insights on orchestrating LLMs, handling errors, and creating robust agent workflows.",
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-16T09:58:59.742691Z",
+  "updated_at": "2026-07-16T09:59:24.470797Z"
+}

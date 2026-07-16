@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260716-9c2",
+  "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+  "source_url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+  "source": "rss",
+  "summary": "Demonstrates running a 26B parameter LLM (Gemma 4) on a 13-year-old CPU-only Xeon server at 5 tokens/sec, likely via aggressive quantization, kernel optimization, and memory management. Highlights extreme edge-case deployment for resource-constrained environments.",
+  "tags": [
+    "deployment",
+    "llm",
+    "optimization"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-07-16T09:58:53.959033Z",
+  "updated_at": "2026-07-16T09:59:24.469362Z"
+}

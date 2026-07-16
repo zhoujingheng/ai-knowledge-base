@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260716-2bd",
+  "title": "Grok Build is open source",
+  "source_url": "https://github.com/xai-org/grok-build",
+  "source": "rss",
+  "summary": "xAI has open-sourced Grok Build, a tool for building and deploying AI models. The GitHub release includes code and documentation, sparking community discussion on Hacker News about its implications for open-source AI development.",
+  "tags": [
+    "tool",
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-16T09:58:53.958799Z",
+  "updated_at": "2026-07-16T09:59:24.469200Z"
+}
