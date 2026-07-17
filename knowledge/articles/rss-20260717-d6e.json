@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260717-d6e",
+  "title": "How Our Rust-to-Zig Rewrite Is Going",
+  "source_url": "https://rtfeldman.com/rust-to-zig",
+  "source": "rss",
+  "summary": "The author details their experience rewriting a Rust project in Zig, highlighting Zig's simplicity, compile-time execution, and memory control. They compare performance, safety, and developer ergonomics, noting trade-offs like Zig's less mature ecosystem but faster compile times and easier C interop.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-17T09:48:50.433415Z",
+  "updated_at": "2026-07-17T09:49:25.362232Z"
+}

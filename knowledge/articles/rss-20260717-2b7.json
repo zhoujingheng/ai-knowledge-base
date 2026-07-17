@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260717-2b7",
+  "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+  "source_url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+  "source": "rss",
+  "summary": "NVIDIA's Nemotron 3 Embed model achieves top ranking on the RTEB benchmark, demonstrating significant advancements in agentic retrieval—a key capability for AI agents that need to fetch and reason over relevant information autonomously.",
+  "tags": [
+    "agent",
+    "research",
+    "rag"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-17T09:48:56.738470Z",
+  "updated_at": "2026-07-17T09:49:25.363521Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260717-39a",
+  "title": "Decoy Font",
+  "source_url": "https://www.mixfont.com/experiments/decoy-font",
+  "source": "rss",
+  "summary": "Decoy Font is a creative AI/ML experiment that generates deceptive typography, where letters appear as one character but are recognized as another by OCR systems. It explores adversarial examples in visual AI, highlighting vulnerabilities in text recognition models through font design.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-17T09:48:50.433236Z",
+  "updated_at": "2026-07-17T09:49:25.361987Z"
+}

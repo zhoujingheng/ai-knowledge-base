@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260717-6fb",
+  "title": "Show HN: Firefox in WebAssembly",
+  "source_url": "https://developer.puter.com/labs/firefox-wasm/",
+  "source": "rss",
+  "summary": "A full port of Firefox (Gecko, UI, Spidermonkey) running in WebAssembly inside a browser, featuring end-to-end encryption via WISP TCP-over-websockets and a novel WASM-to-JS JIT for speed. A high-cost experimental project pushing WASM boundaries.",
+  "tags": [
+    "research",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-07-17T09:48:50.433629Z",
+  "updated_at": "2026-07-17T09:49:25.362341Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260717-391",
+  "title": "Our approach to bioresilience",
+  "source_url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+  "source": "rss",
+  "summary": "Google DeepMind and Isomorphic Labs outline their collaborative strategy for using AI models to enhance bioresilience—the ability to anticipate, withstand, and recover from biological threats. The approach likely leverages advanced AI for molecular modeling, drug discovery, and pandemic preparedness, emphasizing safety and ethical deployment.",
+  "tags": [
+    "research",
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-17T09:48:57.336812Z",
+  "updated_at": "2026-07-17T09:49:25.364115Z"
+}

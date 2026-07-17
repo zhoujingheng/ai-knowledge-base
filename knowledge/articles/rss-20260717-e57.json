@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260717-e57",
+  "title": "A novel computer Scrabble engine based on probability that performs at championship level (2021)",
+  "source_url": "https://upcommons.upc.edu/server/api/core/bitstreams/1339ae43-3d65-4015-8e11-3689e5572b23/content",
+  "source": "rss",
+  "summary": "This 2021 paper presents a Scrabble engine using probabilistic methods to achieve championship-level play, likely leveraging Monte Carlo tree search or similar techniques for move selection under uncertainty.",
+  "tags": [
+    "research",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-17T09:48:51.181402Z",
+  "updated_at": "2026-07-17T09:49:25.362430Z"
+}
