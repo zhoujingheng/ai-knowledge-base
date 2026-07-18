@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260718-0cb",
+  "title": "The state of open source AI",
+  "source_url": "https://stateofopensource.ai/",
+  "source": "rss",
+  "summary": "A comprehensive analysis of the current landscape of open-source AI, covering model availability, community contributions, licensing challenges, and the gap between open-source and proprietary AI capabilities. Based on community discussion and survey data.",
+  "tags": [
+    "research",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-18T09:16:15.452056Z",
+  "updated_at": "2026-07-18T09:16:43.049849Z"
+}

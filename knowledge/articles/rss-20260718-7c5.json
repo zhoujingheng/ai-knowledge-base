@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260718-7c5",
+  "title": "The human-in-the-loop is tired",
+  "source_url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+  "source": "rss",
+  "summary": "The article argues that excessive human-in-the-loop (HITL) oversight in AI workflows creates bottlenecks and fatigue, advocating for more autonomous, reliable AI agents that can self-correct and reduce manual intervention. It explores trade-offs between safety and efficiency.",
+  "tags": [
+    "agent",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-18T09:16:15.452303Z",
+  "updated_at": "2026-07-18T09:16:43.049936Z"
+}

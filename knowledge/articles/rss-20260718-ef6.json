@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260718-ef6",
+  "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+  "source_url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+  "source": "rss",
+  "summary": "This article explores using classical machine learning models (e.g., logistic regression, SVMs) to detect LLM-generated text, comparing their performance against modern detectors. It covers feature engineering, training on synthetic datasets, and practical trade-offs in accuracy and computational cost.",
+  "tags": [
+    "research",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-18T09:16:15.452372Z",
+  "updated_at": "2026-07-18T09:16:43.050008Z"
+}

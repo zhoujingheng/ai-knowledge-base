@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260718-86a",
+  "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+  "source_url": "https://news.ycombinator.com/item?id=48945241",
+  "source": "rss",
+  "summary": "An AWS user reports an estimated billing error showing $1.7 billion for the month, far exceeding normal usage. They created an urgent support ticket and shared the issue on Reddit, with widespread discussion on Hacker News. The incident highlights potential data inaccuracies in AWS billing estimation systems.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-18T09:16:15.452207Z",
+  "updated_at": "2026-07-18T09:16:43.049915Z"
+}

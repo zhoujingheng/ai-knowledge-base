@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260718-e97",
+  "title": "Regressive JPEGs",
+  "source_url": "https://maurycyz.com/projects/bad_jpeg/",
+  "source": "rss",
+  "summary": "A creative project that generates intentionally degraded JPEG images by applying regressive compression artifacts, exploring the aesthetic and perceptual boundaries of lossy image compression. It demonstrates how extreme JPEG settings can produce surreal, glitch-like visuals.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-18T09:16:15.451874Z",
+  "updated_at": "2026-07-18T09:16:43.049772Z"
+}

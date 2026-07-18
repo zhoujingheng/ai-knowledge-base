@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260718-2c1",
+  "title": "EEG shows brain can simultaneous encode two speech streams",
+  "source_url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+  "source": "rss",
+  "summary": "This research demonstrates that the human brain can simultaneously encode two distinct speech streams, as evidenced by EEG recordings. The findings challenge prior assumptions about auditory processing limits and have implications for AI models of speech separation and attention, particularly in cocktail-party scenarios.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-18T09:16:15.452230Z",
+  "updated_at": "2026-07-18T09:16:43.049923Z"
+}
