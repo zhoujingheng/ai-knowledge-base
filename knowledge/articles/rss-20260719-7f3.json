@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260719-7f3",
+  "title": "Goodbye, and Thanks for All the Bikesheds",
+  "source_url": "https://queue.acm.org/detail.cfm?id=3818307",
+  "source": "rss",
+  "summary": "This article reflects on the phenomenon of 'bikeshedding' in AI/ML development, where trivial issues consume disproportionate attention. It critiques the overemphasis on minor model improvements and tooling debates, urging the community to focus on substantive challenges like deployment, reliability, and real-world impact.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-19T09:44:58.787144Z",
+  "updated_at": "2026-07-19T09:45:34.634033Z"
+}

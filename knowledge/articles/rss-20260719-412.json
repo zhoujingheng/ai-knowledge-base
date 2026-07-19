@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260719-412",
+  "title": "What AI did to stackoverflow in a graph",
+  "source_url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+  "source": "rss",
+  "summary": "This Hacker News discussion analyzes how AI-generated answers and LLM tools have impacted Stack Overflow's traffic and user engagement, using a Stack Exchange data query to visualize declining question volume and answer quality. The graph shows a significant drop in new questions and accepted answers since ChatGPT's release, reflecting community concerns about AI's disruption of traditional Q&A platforms.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-19T09:44:58.787394Z",
+  "updated_at": "2026-07-19T09:45:34.634276Z"
+}

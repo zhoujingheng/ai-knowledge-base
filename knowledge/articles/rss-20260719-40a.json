@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260719-40a",
+  "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+  "source_url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+  "source": "rss",
+  "summary": "The article compares Fable 5 and GPT-5.6 Sol on an NP-hard problem, testing whether a /goal directive improves performance. It finds that explicit goal-setting enhances reasoning for both models, with Fable 5 showing notable gains in structured problem-solving.",
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-19T09:44:58.787435Z",
+  "updated_at": "2026-07-19T09:45:34.634290Z"
+}

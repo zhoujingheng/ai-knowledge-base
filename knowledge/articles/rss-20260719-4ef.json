@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260719-4ef",
+  "title": "Human-like Neural Nets by Catapulting",
+  "source_url": "https://gwern.net/llm-catapult",
+  "source": "rss",
+  "summary": "The content discusses a technique called 'catapulting' for training neural networks to exhibit more human-like learning behaviors. It likely involves novel initialization or optimization methods to improve generalization and efficiency, drawing inspiration from cognitive science.",
+  "tags": [
+    "research",
+    "training"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-19T09:44:58.994671Z",
+  "updated_at": "2026-07-19T09:45:34.634592Z"
+}

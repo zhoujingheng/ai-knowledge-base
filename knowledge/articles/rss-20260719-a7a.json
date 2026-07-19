@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260719-a7a",
+  "title": "The Kimi K3 Moment",
+  "source_url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+  "source": "rss",
+  "summary": "The article discusses the release of Kimi K3, a Chinese AI model that achieves GPT-4-level performance at a fraction of the cost, highlighting a pivotal moment in AI commoditization. It explores implications for open-source vs. proprietary models, market disruption, and the accelerating pace of AI advancement.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-19T09:44:58.787101Z",
+  "updated_at": "2026-07-19T09:45:34.634019Z"
+}

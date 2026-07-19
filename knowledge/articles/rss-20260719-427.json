@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260719-427",
+  "title": "Transcribe.cpp",
+  "source_url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+  "source": "rss",
+  "summary": "Transcribe.cpp is a high-performance, C++ implementation of OpenAI's Whisper model for local, offline speech-to-text transcription. It prioritizes speed and efficiency over Python-based alternatives, enabling real-time or near-real-time transcription on consumer hardware without cloud dependencies.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-19T09:44:58.786998Z",
+  "updated_at": "2026-07-19T09:45:34.633939Z"
+}

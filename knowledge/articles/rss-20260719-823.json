@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260719-823",
+  "title": "Gleam Is Now on Tangled",
+  "source_url": "https://tangled.org/gleam.run/gleam",
+  "source": "rss",
+  "summary": "Gleam, a functional programming language, is now available on Tangled, a platform for collaborative coding and sharing. This integration allows developers to write, run, and share Gleam code interactively, expanding its ecosystem and accessibility for learning and prototyping.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-19T09:44:58.787220Z",
+  "updated_at": "2026-07-19T09:45:34.634127Z"
+}

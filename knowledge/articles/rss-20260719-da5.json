@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260719-da5",
+  "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+  "source_url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+  "source": "rss",
+  "summary": "A Reddit post claims GPT-5.6 used a prompt to solve a 30-year-old open problem in convex optimization, sparking debate on AI's role in mathematical research. The community discusses verification, implications for theorem proving, and whether the result is genuine or exaggerated.",
+  "tags": [
+    "llm",
+    "research",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-19T09:44:58.787374Z",
+  "updated_at": "2026-07-19T09:45:34.634208Z"
+}
