@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260720-a69",
+  "title": "Claude Code uses Bun written in Rust now",
+  "source_url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+  "source": "rss",
+  "summary": "Claude Code, an AI coding assistant, has been rewritten to use Bun, a JavaScript runtime built in Rust, replacing Node.js. This change improves performance and startup speed, leveraging Bun's Rust-based architecture for faster execution and lower resource usage.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-20T10:42:34.620349Z",
+  "updated_at": "2026-07-20T10:43:02.156783Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260720-0b4",
+  "title": "Minecraft: Java Edition now uses SDL3",
+  "source_url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+  "source": "rss",
+  "summary": "Minecraft: Java Edition has updated to use SDL3 (Simple Directmedia Layer 3), a cross-platform development library for graphics and input. This change improves controller support, window management, and overall system compatibility, particularly on Linux and macOS, while laying groundwork for future features.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-20T10:42:34.620310Z",
+  "updated_at": "2026-07-20T10:43:02.156778Z"
+}

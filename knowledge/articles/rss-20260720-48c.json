@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260720-48c",
+  "title": "Triton language for Alibaba SAIL",
+  "source_url": "https://github.com/t-head/triton-for-sail",
+  "source": "rss",
+  "summary": "This is a link to a discussion on Lobsters about using the Triton language for Alibaba's SAIL (Serving AI Inference Language). Triton is a domain-specific language for writing efficient GPU kernels, and its application in Alibaba's inference serving infrastructure suggests a focus on optimizing AI model deployment.",
+  "tags": [
+    "deployment",
+    "framework",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-20T10:42:35.193125Z",
+  "updated_at": "2026-07-20T10:43:02.156974Z"
+}

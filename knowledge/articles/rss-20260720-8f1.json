@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260720-8f1",
+  "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+  "source_url": "https://news.ycombinator.com/item?id=48968606",
+  "source": "rss",
+  "summary": "A bowling center owner replaced a $120k proprietary scoring system with a custom open-source solution using ESP32 microcontrollers, sensors, and a Raspberry Pi. The system uses ESPNow mesh networking with RS485 fallback, event streaming via Redis, and a React-based UI. Total cost: ~$200-400 per lane pair, with easy repairs and full data ownership.",
+  "tags": [
+    "framework",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-20T10:42:34.620292Z",
+  "updated_at": "2026-07-20T10:43:02.156794Z"
+}

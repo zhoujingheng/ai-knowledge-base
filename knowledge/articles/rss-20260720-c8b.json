@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260720-c8b",
+  "title": "Qwen 3.8",
+  "source_url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+  "source": "rss",
+  "summary": "Qwen 3.8 appears to be a new AI model or service offering from Alibaba's Qwen team, with a token-based pricing plan. The high engagement on Hacker News (881 points, 609 comments) suggests significant community interest, likely discussing model capabilities, pricing, or comparisons to other LLMs.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-20T10:42:34.620383Z",
+  "updated_at": "2026-07-20T10:43:02.156804Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260720-8c5",
+  "title": "Xiaomi-Robotics-1",
+  "source_url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+  "source": "rss",
+  "summary": "Xiaomi Robotics-1 is a general-purpose humanoid robot platform designed for AI research and development. It features advanced bipedal locomotion, dexterous manipulation, and open interfaces for developers, aiming to accelerate embodied AI and robotics research.",
+  "tags": [
+    "research",
+    "agent",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-20T10:42:34.620101Z",
+  "updated_at": "2026-07-20T10:43:02.156690Z"
+}

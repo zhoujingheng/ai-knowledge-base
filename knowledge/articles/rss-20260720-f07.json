@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260720-f07",
+  "title": "Codex Resets",
+  "source_url": "https://codex-resets.com/",
+  "source": "rss",
+  "summary": "Codex Resets is a platform or tool that allows users to reset or regenerate AI-generated code outputs, likely from models like OpenAI's Codex. It addresses issues of code quality, iteration, or debugging by providing a mechanism to start fresh with new completions, enhancing developer workflow and experimentation.",
+  "tags": [
+    "tool",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-07-20T10:42:34.620489Z",
+  "updated_at": "2026-07-20T10:43:02.156924Z"
+}

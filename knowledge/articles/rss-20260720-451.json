@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260720-451",
+  "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+  "source_url": "https://github.com/openai/codex/pull/33972/files",
+  "source": "rss",
+  "summary": "OpenAI reduced Codex's context window from 372k to 272k tokens, likely to improve inference speed and reduce costs. The change may impact long-context tasks, sparking discussion on trade-offs between context size and performance.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-20T10:42:34.620421Z",
+  "updated_at": "2026-07-20T10:43:02.156799Z"
+}
