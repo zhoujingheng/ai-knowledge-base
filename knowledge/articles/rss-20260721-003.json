@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260721-003",
+  "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+  "source_url": "https://soteria-tools.com/blog/meta-garbage-collection",
+  "source": "rss",
+  "summary": "This post discusses a technique for using OCaml's garbage collector to manage memory in Rust, enabling safe, automatic memory reclamation for Rust objects via a meta-level GC approach. It explores cross-language memory management and FFI integration.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-21T10:16:56.855440Z",
+  "updated_at": "2026-07-21T10:17:27.787876Z"
+}

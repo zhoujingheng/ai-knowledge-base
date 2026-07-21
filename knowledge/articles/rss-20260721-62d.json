@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260721-62d",
+  "title": "Jelly UI: Soft-body physics for native HTML form controls",
+  "source_url": "https://jelly-ui.com/",
+  "source": "rss",
+  "summary": "Jelly UI applies soft-body physics to standard HTML form controls, creating interactive, deformable UI elements. It explores a novel approach to user interface design by simulating physical properties like elasticity and bounce in native form components, blending frontend development with physics simulation.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-21T10:16:56.704283Z",
+  "updated_at": "2026-07-21T10:17:27.787200Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260721-86f",
+  "title": "Introducing Cosmos 3 Edge",
+  "source_url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+  "source": "rss",
+  "summary": "Cosmos 3 Edge is a new AI/ML platform or model designed for edge computing, enabling efficient inference and deployment on resource-constrained devices. It likely optimizes performance for real-time applications while maintaining accuracy.",
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-21T10:17:01.576839Z",
+  "updated_at": "2026-07-21T10:17:27.788147Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260721-b7f",
+  "title": "Kimi Work",
+  "source_url": "https://www.kimi.com/products/kimi-work",
+  "source": "rss",
+  "summary": "Kimi Work is a productivity platform that integrates AI agents to automate complex workflows, combining LLMs with task-specific tools for enterprise use. It emphasizes multi-step reasoning and integration with external data sources.",
+  "tags": [
+    "agent",
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-21T10:16:56.704262Z",
+  "updated_at": "2026-07-21T10:17:27.787189Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260721-cf3",
+  "title": "Annoying and alarming things about OpenCode",
+  "source_url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+  "source": "rss",
+  "summary": "The article criticizes OpenCode, a tool for coding with LLMs, highlighting issues like poor user experience, lack of transparency, and potential security risks. It argues the tool prioritizes hype over reliability, causing frustration among developers.",
+  "tags": [
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-21T10:16:56.704476Z",
+  "updated_at": "2026-07-21T10:17:27.787369Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260721-58b",
+  "title": "I found a WordPress RCEs with GPT5.6 and $25",
+  "source_url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+  "source": "rss",
+  "summary": "The article describes using a custom GPT-based tool (referred to as GPT5.6) to discover a WordPress Remote Code Execution (RCE) vulnerability, which exploit brokers would pay up to $500,000 for. The author spent $25 on API costs, demonstrating how AI can assist in vulnerability research and bug bounty hunting.",
+  "tags": [
+    "tool",
+    "research",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-21T10:16:56.704613Z",
+  "updated_at": "2026-07-21T10:17:27.787418Z"
+}

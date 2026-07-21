@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260721-b3f",
+  "title": "Human mathematicians are being outcounterexampled",
+  "source_url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+  "source": "rss",
+  "summary": "The article discusses how AI systems, particularly large language models, are now generating counterexamples to mathematical conjectures that human mathematicians had not discovered, signaling a shift in mathematical practice where AI can outpace human intuition in certain formal reasoning tasks.",
+  "tags": [
+    "research",
+    "llm",
+    "rag"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-21T10:16:56.704217Z",
+  "updated_at": "2026-07-21T10:17:27.787164Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260721-970",
+  "title": "Perfection is not over-engineering",
+  "source_url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+  "source": "rss",
+  "summary": "The article argues that striving for perfection in AI/ML systems is not inherently over-engineering, but rather a disciplined approach to building robust, maintainable solutions. It critiques the tendency to prematurely optimize or cut corners, advocating for thoughtful design and rigorous testing to achieve long-term reliability and performance.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-21T10:16:56.704360Z",
+  "updated_at": "2026-07-21T10:17:27.787283Z"
+}

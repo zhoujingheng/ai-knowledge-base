@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260721-bea",
+  "title": "China’s open-weights AI strategy is winning",
+  "source_url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+  "source": "rss",
+  "summary": "The article argues that China's open-weights AI strategy is outperforming the US's proprietary, locked-down approach. By releasing models like DeepSeek openly, China fosters faster innovation, broader adoption, and community-driven improvements, while US companies risk losing global influence by restricting access to their AI systems.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-21T10:16:56.704338Z",
+  "updated_at": "2026-07-21T10:17:27.787298Z"
+}

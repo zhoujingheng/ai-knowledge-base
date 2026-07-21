@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260721-e50",
+  "title": "Shinjuku Station in 3D",
+  "source_url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
+  "source": "rss",
+  "summary": "A 3D interactive visualization of Tokyo's Shinjuku Station built with Three.js, demonstrating large-scale indoor mapping and rendering. The project showcases detailed spatial reconstruction of a complex transit hub, likely using AI/ML for data processing or optimization.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-21T10:16:56.704403Z",
+  "updated_at": "2026-07-21T10:17:27.787255Z"
+}

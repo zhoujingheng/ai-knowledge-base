@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260721-fbb",
+  "title": "Airport Simulator",
+  "source_url": "https://airport.apunen.com/",
+  "source": "rss",
+  "summary": "A web-based airport simulator that models aircraft traffic, runways, and ground operations. It provides a realistic, interactive visualization of airport logistics, likely for educational or entertainment purposes.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-21T10:16:56.704589Z",
+  "updated_at": "2026-07-21T10:17:27.787377Z"
+}

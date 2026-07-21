@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260721-4e3",
+  "title": "Grabette: an open system to record robot-manipulation data",
+  "source_url": "https://huggingface.co/blog/grabette",
+  "source": "rss",
+  "summary": "Grabette is an open-source system designed for recording robot manipulation data. It provides a standardized framework for capturing high-quality, reproducible datasets, enabling better training and evaluation of AI models in robotics.",
+  "tags": [
+    "framework",
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-21T10:17:01.576823Z",
+  "updated_at": "2026-07-21T10:17:27.788155Z"
+}
