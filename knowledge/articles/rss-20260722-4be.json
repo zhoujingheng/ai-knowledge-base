@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260722-4be",
+  "title": "The State of Simulation for Physical AI: An Overview",
+  "source_url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+  "source": "rss",
+  "summary": "This content explores the role of simulation in advancing Physical AI—systems that interact with the real world. It covers key simulation platforms, techniques for bridging the sim-to-real gap, and challenges like data fidelity and computational cost, emphasizing simulation's critical role in training and validating embodied AI models.",
+  "tags": [
+    "research",
+    "framework",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-22T10:16:31.921508Z",
+  "updated_at": "2026-07-22T10:17:00.228999Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260722-a6d",
+  "title": "Apple defeats liability for not scanning iCloud for CSAM",
+  "source_url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+  "source": "rss",
+  "summary": "A court ruled Apple is not legally liable for failing to scan iCloud for Child Sexual Abuse Material (CSAM), though the judge expressed displeasure with Apple's stance. The case highlights tensions between privacy, legal obligations, and AI/ML-based content moderation, with implications for automated detection systems and platform liability.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-22T10:16:25.851391Z",
+  "updated_at": "2026-07-22T10:17:00.227640Z"
+}

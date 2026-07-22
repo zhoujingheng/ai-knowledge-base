@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260722-c27",
+  "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+  "source_url": "https://qwen.ai/blog?id=qwen-image-3.0",
+  "source": "rss",
+  "summary": "Qwen-Image-3.0 is a new multimodal AI model from Alibaba's Qwen team, emphasizing rich content generation, authentic visual details, and deep knowledge integration. The Hacker News discussion highlights its competitive performance against GPT-4V and DALL-E 3, with community debate on benchmarks, licensing, and practical applications.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-22T10:16:25.851412Z",
+  "updated_at": "2026-07-22T10:17:00.227799Z"
+}
