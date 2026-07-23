@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260723-a8b",
+  "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+  "source_url": "https://huggingface.co/blog/nunchaku-diffusers",
+  "source": "rss",
+  "summary": "This content details the integration of Nunchaku, a 4-bit quantization method, into the Diffusers library for efficient diffusion model inference. It focuses on reducing memory and computational costs while maintaining output quality, enabling faster deployment of generative AI models on consumer hardware.",
+  "tags": [
+    "deployment",
+    "fine-tuning",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-23T10:12:36.667934Z",
+  "updated_at": "2026-07-23T10:13:03.287038Z"
+}

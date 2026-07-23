@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260723-a0e",
+  "title": "So Reddit has decided that plain HTML is unsafe",
+  "source_url": "https://www.cole-k.com/2026/07/21/reddit/",
+  "source": "rss",
+  "summary": "A satirical article about Reddit blocking plain HTML as 'unsafe,' forcing users to use JavaScript-rendered pages. It critiques modern web bloat, security theater, and the erosion of simple, accessible web design, highlighting tensions between user control and platform decisions.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-07-23T10:12:34.253290Z",
+  "updated_at": "2026-07-23T10:13:03.285710Z"
+}

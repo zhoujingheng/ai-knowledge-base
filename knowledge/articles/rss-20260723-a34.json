@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260723-a34",
+  "title": "Making",
+  "source_url": "https://beej.us/blog/data/ai-making/",
+  "source": "rss",
+  "summary": "A reflective blog post exploring the creative and practical process of building AI systems, emphasizing the iterative, hands-on nature of development beyond just using models. It discusses the challenges and insights from making AI work in real-world applications, blending engineering and artistry.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-07-23T10:12:34.253135Z",
+  "updated_at": "2026-07-23T10:13:03.285650Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260723-0f1",
+  "title": "Taking OCaml and Eio for a spin",
+  "source_url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+  "source": "rss",
+  "summary": "The post discusses experimenting with OCaml and the Eio library for building concurrent applications. It explores Eio's effects-based approach to I/O and parallelism, highlighting its performance and safety advantages over traditional threading models.",
+  "tags": [
+    "framework",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-23T10:12:34.708570Z",
+  "updated_at": "2026-07-23T10:13:03.286427Z"
+}

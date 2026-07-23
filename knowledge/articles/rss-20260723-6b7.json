@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260723-6b7",
+  "title": "What Rose Petals Teach Us about Induction",
+  "source_url": "https://www.oranlooney.com/post/rose-petals/",
+  "source": "rss",
+  "summary": "The article uses rose petals as a metaphor to explore the concept of induction in machine learning, discussing how patterns emerge from data and the philosophical implications of generalization. It likely touches on overfitting, bias-variance tradeoff, and the limits of inductive reasoning in AI.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-23T10:12:34.632594Z",
+  "updated_at": "2026-07-23T10:13:03.285869Z"
+}

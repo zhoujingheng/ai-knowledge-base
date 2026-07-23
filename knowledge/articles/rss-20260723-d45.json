@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260723-d45",
+  "title": "LG to ban residential proxies from smart TV apps",
+  "source_url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+  "source": "rss",
+  "summary": "LG plans to block residential proxies from accessing its smart TV apps, citing security and abuse concerns. This move impacts users who rely on proxies for privacy or geo-unblocking, and highlights tensions between user control and platform security in IoT ecosystems.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-23T10:12:34.253360Z",
+  "updated_at": "2026-07-23T10:13:03.285722Z"
+}

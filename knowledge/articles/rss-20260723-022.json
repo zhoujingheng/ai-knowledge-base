@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260723-022",
+  "title": "Everyone should know SIMD",
+  "source_url": "https://mitchellh.com/writing/everyone-should-know-simd",
+  "source": "rss",
+  "summary": "This article explains Single Instruction, Multiple Data (SIMD), a parallel processing technique that allows CPUs to perform the same operation on multiple data points simultaneously. It argues that understanding SIMD is valuable for developers, especially in performance-critical applications like data processing, graphics, and machine learning, and provides practical examples of its use.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-23T10:12:34.253016Z",
+  "updated_at": "2026-07-23T10:13:03.285526Z"
+}

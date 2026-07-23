@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260723-4d4",
+  "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+  "source_url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+  "source": "rss",
+  "summary": "A developer discovers that a take-home interview project from a suspicious job posting contains a hidden Git hook that exfiltrates SSH keys and other sensitive data. The article details how the malware operates, the red flags in the recruitment process, and the broader implications for job seekers in tech.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-23T10:12:34.252947Z",
+  "updated_at": "2026-07-23T10:13:03.285557Z"
+}

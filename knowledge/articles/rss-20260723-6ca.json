@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260723-6ca",
+  "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+  "source_url": "https://bento.page/slides/",
+  "source": "rss",
+  "summary": "Bento is a single HTML file that functions as a complete slide deck tool with editing, viewing, animations, and live collaboration. It works offline, requires no installation or cloud login, and can be shared via email or Airdrop. Users can edit code manually or via AI harnesses like Claude Code, and existing PPTX files can be transformed into Bento slides using ChatGPT.",
+  "tags": [
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-23T10:12:34.253190Z",
+  "updated_at": "2026-07-23T10:13:03.285638Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260723-37d",
+  "title": "Late.sh – a command-line Clubhouse for computer people",
+  "source_url": "https://late.sh/",
+  "source": "rss",
+  "summary": "Late.sh is a command-line tool that creates a real-time audio chat platform for developers, similar to Clubhouse but terminal-based. It leverages AI/ML for voice processing and transcription, enabling hands-free, voice-driven collaboration among technical users.",
+  "tags": [
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-23T10:12:34.253336Z",
+  "updated_at": "2026-07-23T10:13:03.285698Z"
+}
