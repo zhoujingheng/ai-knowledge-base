@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260724-522",
+  "title": "Software rendering in 500 lines of bare C++",
+  "source_url": "https://haqr.eu/tinyrenderer/",
+  "source": "rss",
+  "summary": "This article presents a minimal software renderer implemented in 500 lines of C++, demonstrating core computer graphics concepts like rasterization, shading, and texture mapping without GPU hardware. It serves as an educational deep-dive into rendering pipelines.",
+  "tags": [
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-24T10:08:32.707093Z",
+  "updated_at": "2026-07-24T10:09:15.455676Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260724-6f8",
+  "title": "A tour of MLIR: The Dialect Stack Everyone Depends On",
+  "source_url": "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/",
+  "source": "rss",
+  "summary": "MLIR (Multi-Level Intermediate Representation) is a compiler infrastructure that uses a dialect stack to enable modular and reusable optimizations across hardware targets. This article explores how MLIR's layered dialects underpin modern AI/ML frameworks like TensorFlow and PyTorch, enabling efficient code generation for CPUs, GPUs, and accelerators.",
+  "tags": [
+    "framework",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-24T10:08:33.105636Z",
+  "updated_at": "2026-07-24T10:09:15.456039Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260724-1ff",
+  "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+  "source_url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+  "source": "rss",
+  "summary": "This article argues that software factories fail because they focus solely on 'harness engineering' (prompting, tooling, and context) while neglecting the deeper challenges of aligning AI coding agents with human intent, managing complex codebases, and ensuring reliable, maintainable outputs. It advocates for advanced context engineering and systemic design to overcome these limitations.",
+  "tags": [
+    "agent",
+    "prompt-engineering",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-07-24T10:08:32.707021Z",
+  "updated_at": "2026-07-24T10:09:15.455688Z"
+}

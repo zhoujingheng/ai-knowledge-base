@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260724-630",
+  "title": "I regret migrating to Codeberg",
+  "source_url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
+  "source": "rss",
+  "summary": "The author regrets migrating their projects from GitHub to Codeberg, citing issues with platform reliability, community engagement, and tooling limitations. The post details technical frustrations and a decline in project visibility, serving as a cautionary tale about choosing open-source hosting platforms.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-07-24T10:08:32.707114Z",
+  "updated_at": "2026-07-24T10:09:15.455749Z"
+}

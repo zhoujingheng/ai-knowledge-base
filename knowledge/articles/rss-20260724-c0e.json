@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260724-c0e",
+  "title": "Not just development, distribution of software may change as well",
+  "source_url": "https://antirez.com/news/170",
+  "source": "rss",
+  "summary": "The content discusses how AI/ML advancements may alter not only software development but also its distribution, referencing a discussion on Lobsters. It implies shifts in deployment models or packaging due to AI integration.",
+  "tags": [
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-24T10:08:33.105664Z",
+  "updated_at": "2026-07-24T10:09:15.456024Z"
+}
