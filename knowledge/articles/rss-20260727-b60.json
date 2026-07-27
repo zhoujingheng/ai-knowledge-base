@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260727-b60",
+  "title": "Kimi-K3 Releases on HuggingFace 7/27",
+  "source_url": "https://huggingface.co/moonshotai/Kimi-K3",
+  "source": "rss",
+  "summary": "Moonshot AI released Kimi-K3 on HuggingFace, a new open-source language model. The release garnered significant attention on Hacker News, with discussions likely focusing on model capabilities, performance benchmarks, and implications for the AI community.",
+  "tags": [
+    "llm",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-27T11:11:10.389599Z",
+  "updated_at": "2026-07-27T11:11:36.687999Z"
+}

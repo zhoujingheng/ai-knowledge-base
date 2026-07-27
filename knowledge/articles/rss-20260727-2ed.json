@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260727-2ed",
+  "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+  "source_url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+  "source": "rss",
+  "summary": "Google introduces new Gemini models: 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber. These updates likely offer improved performance, efficiency, or specialized capabilities (e.g., cybersecurity) for AI applications.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-27T11:11:12.187374Z",
+  "updated_at": "2026-07-27T11:11:36.690088Z"
+}

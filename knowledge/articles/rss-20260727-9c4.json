@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260727-9c4",
+  "title": "Kill The Cookie Banner",
+  "source_url": "https://killthecookiebanner.eu/",
+  "source": "rss",
+  "summary": "A browser extension that uses AI to automatically handle cookie consent banners, blocking tracking and accepting necessary cookies. It leverages local machine learning models to detect and interact with banner elements, improving privacy without manual intervention.",
+  "tags": [
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-07-27T11:11:10.389908Z",
+  "updated_at": "2026-07-27T11:11:36.688404Z"
+}

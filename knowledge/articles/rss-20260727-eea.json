@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260727-eea",
+  "title": "PGSimCity - How PostgreSQL Works",
+  "source_url": "https://nikolays.github.io/PGSimCity/",
+  "source": "rss",
+  "summary": "PGSimCity is an interactive simulation that visualizes PostgreSQL's internal architecture, including query execution, buffer management, and concurrency control. It uses a city-building analogy to explain database operations, making complex concepts accessible while maintaining technical accuracy.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-27T11:11:10.389635Z",
+  "updated_at": "2026-07-27T11:11:36.688086Z"
+}

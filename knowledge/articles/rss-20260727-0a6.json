@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260727-0a6",
+  "title": "Xavier Leroy on programming, languages and formal verification",
+  "source_url": "https://www.youtube.com/watch?v=9Cswiqrq6So",
+  "source": "rss",
+  "summary": "Xavier Leroy discusses programming languages and formal verification, covering his work on the Coq proof assistant and the CompCert verified C compiler. The content explores the intersection of programming language theory, formal methods, and practical software reliability.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-07-27T11:11:11.165831Z",
+  "updated_at": "2026-07-27T11:11:36.689071Z"
+}

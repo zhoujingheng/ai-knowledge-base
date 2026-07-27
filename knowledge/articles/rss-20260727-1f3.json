@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260727-1f3",
+  "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+  "source_url": "https://astral.sh/blog/ruff-v0.16.0",
+  "source": "rss",
+  "summary": "Ruff v0.16.0 is a major update to the fast Python linter, expanding default rules from 59 to 413. It introduces new preview rules, improved performance, and enhanced configurability. This release significantly boosts code quality enforcement for Python developers.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-27T11:11:10.389931Z",
+  "updated_at": "2026-07-27T11:11:36.688416Z"
+}

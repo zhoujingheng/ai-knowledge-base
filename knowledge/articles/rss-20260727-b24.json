@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260727-b24",
+  "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+  "source_url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+  "source": "rss",
+  "summary": "NVIDIA Cosmos-H-Dreams introduces real-time generative simulation for surgical robotics, leveraging AI to create dynamic, physics-aware environments. This enables robots to train and adapt in realistic scenarios, enhancing precision and safety in medical procedures.",
+  "tags": [
+    "research",
+    "deployment",
+    "simulation"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-07-27T11:11:11.484513Z",
+  "updated_at": "2026-07-27T11:11:36.689590Z"
+}

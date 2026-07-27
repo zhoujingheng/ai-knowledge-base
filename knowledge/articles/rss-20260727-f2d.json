@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260727-f2d",
+  "title": "London Gatwick has launched a robotic airport parking service",
+  "source_url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+  "source": "rss",
+  "summary": "London Gatwick Airport has introduced a robotic parking service using autonomous robots from Stanley Robotics. The system allows passengers to drop off their cars, which are then parked by robots in a secure lot, optimizing space and reducing emissions. This deployment showcases AI/ML in real-world logistics.",
+  "tags": [
+    "deployment",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-27T11:11:10.389787Z",
+  "updated_at": "2026-07-27T11:11:36.688305Z"
+}

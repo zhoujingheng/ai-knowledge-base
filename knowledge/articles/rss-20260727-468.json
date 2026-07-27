@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260727-468",
+  "title": "Languages as designed latent spaces",
+  "source_url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
+  "source": "rss",
+  "summary": "This content explores the idea that programming languages function as intentionally designed latent spaces, analogous to the embedding spaces in AI models. It discusses how language syntax and semantics shape the representation of concepts, influencing both human cognition and machine learning systems.",
+  "tags": [
+    "research",
+    "llm",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-27T11:11:11.084933Z",
+  "updated_at": "2026-07-27T11:11:36.688549Z"
+}

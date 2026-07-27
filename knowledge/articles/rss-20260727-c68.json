@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260727-c68",
+  "title": "Go Analysis Framework: modular static analysis by go team",
+  "source_url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+  "source": "rss",
+  "summary": "The Go Analysis Framework is a modular static analysis toolkit developed by the Go team, enabling developers to write and compose custom analyzers for Go code. It supports multi-phase analysis, diagnostics, and integration with tools like `go vet`, focusing on code quality and bug detection.",
+  "tags": [
+    "framework",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-27T11:11:10.389850Z",
+  "updated_at": "2026-07-27T11:11:36.688367Z"
+}

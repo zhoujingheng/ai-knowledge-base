@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260727-f98",
+  "title": "GrapheneOS protections against data extraction from locked devices",
+  "source_url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+  "source": "rss",
+  "summary": "This content discusses GrapheneOS's security features that prevent data extraction from locked devices, focusing on mitigations against forensic tools and physical attacks. It covers technical implementations like hardened memory allocators, PIN/pattern scrambling, and USB-C port restrictions to protect user data.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-27T11:11:10.389955Z",
+  "updated_at": "2026-07-27T11:11:36.688427Z"
+}
