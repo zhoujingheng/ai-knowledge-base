@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260728-f61",
+  "title": "Canceling \"Hey\"",
+  "source_url": "https://chadnauseam.com/random/cancelling-my-hey",
+  "source": "rss",
+  "summary": "The author describes building a custom wake-word detection system to replace the 'Hey' trigger for a voice assistant, using a lightweight ML model trained on personal voice samples. The project involves data collection, model training, and deployment on a Raspberry Pi, highlighting trade-offs between accuracy, latency, and privacy.",
+  "tags": [
+    "deployment",
+    "fine-tuning",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-28T10:26:14.891959Z",
+  "updated_at": "2026-07-28T10:26:41.924862Z"
+}

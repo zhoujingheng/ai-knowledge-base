@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260728-584",
+  "title": "Benchmarking Opus 5 on SlopCodeBench",
+  "source_url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+  "source": "rss",
+  "summary": "This article benchmarks a hypothetical 'Opus 5' model against a custom benchmark called SlopCodeBench, likely evaluating code generation quality and robustness. It explores advanced context engineering techniques for coding agents, focusing on prompt structure and agent behavior to improve output reliability.",
+  "tags": [
+    "agent",
+    "benchmark",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-28T10:26:14.891774Z",
+  "updated_at": "2026-07-28T10:26:41.924757Z"
+}

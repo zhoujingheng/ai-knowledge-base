@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260728-2df",
+  "title": "Our position on open-weights models",
+  "source_url": "https://www.anthropic.com/news/position-open-weights-models",
+  "source": "rss",
+  "summary": "Anthropic argues against releasing open-weights AI models, citing safety risks like misuse, proliferation of dangerous capabilities, and difficulty in enforcing responsible use. They advocate for controlled access and regulatory oversight to mitigate potential harms while still enabling research and innovation.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-28T10:26:14.891874Z",
+  "updated_at": "2026-07-28T10:26:41.924789Z"
+}

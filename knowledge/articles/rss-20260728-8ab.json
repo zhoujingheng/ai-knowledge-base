@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260728-8ab",
+  "title": "Kimi-K3 Technical Report [pdf]",
+  "source_url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
+  "source": "rss",
+  "summary": "This is a technical report for Kimi-K3, a new AI model released on HuggingFace. The Hacker News discussion (383 points, 169 comments) suggests significant community interest, likely covering model architecture, performance benchmarks, and comparisons to other state-of-the-art systems.",
+  "tags": [
+    "research",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-28T10:26:14.892050Z",
+  "updated_at": "2026-07-28T10:26:41.924846Z"
+}

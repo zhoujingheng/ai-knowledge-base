@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260728-4dd",
+  "title": "How is the Bun rewrite in Rust going?",
+  "source_url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+  "source": "rss",
+  "summary": "The article discusses the ongoing rewrite of Bun, a JavaScript runtime, from Zig to Rust, exploring performance improvements, ecosystem compatibility, and community reactions. It highlights technical challenges and trade-offs in migrating core components, with insights from developers involved in the project.",
+  "tags": [
+    "framework",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-28T10:26:14.892261Z",
+  "updated_at": "2026-07-28T10:26:41.924964Z"
+}

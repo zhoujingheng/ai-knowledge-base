@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260728-3d2",
+  "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
+  "source_url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+  "source": "rss",
+  "summary": "This article discusses replacing React.js with Htmx in a project to simplify UI interactivity. It highlights trade-offs in complexity, performance, and developer experience, favoring Htmx's server-driven approach for reduced JavaScript overhead.",
+  "tags": [
+    "framework"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-28T10:26:14.892286Z",
+  "updated_at": "2026-07-28T10:26:41.924940Z"
+}
