@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260729-956",
+  "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
+  "source_url": "https://arxiv.org/abs/2510.26692",
+  "source": "rss",
+  "summary": "Kimi Linear introduces a novel attention mechanism that balances expressiveness and computational efficiency, achieving linear complexity while preserving the ability to model complex dependencies. The architecture is validated on benchmarks, showing competitive performance against standard attention and state-space models.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-07-29T10:31:17.783022Z",
+  "updated_at": "2026-07-29T10:31:44.571241Z"
+}

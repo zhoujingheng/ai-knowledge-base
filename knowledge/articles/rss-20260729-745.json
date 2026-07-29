@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260729-745",
+  "title": "A walk through of the DeltaNet family of linear attention variants",
+  "source_url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+  "source": "rss",
+  "summary": "This article explores the DeltaNet family of linear attention mechanisms, which aim to improve transformer efficiency by reducing quadratic complexity. It explains how DeltaNet variants achieve faster inference and lower memory usage while maintaining competitive performance, making them suitable for long-context tasks.",
+  "tags": [
+    "research",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-29T10:31:17.782796Z",
+  "updated_at": "2026-07-29T10:31:44.571126Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260729-8cf",
+  "title": "Kimi K3 Architecture Overview and Notes",
+  "source_url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+  "source": "rss",
+  "summary": "An in-depth technical analysis of the Kimi K3 model architecture, covering its design choices, training methodology, and performance characteristics. The notes provide insights into scaling laws, attention mechanisms, and efficiency optimizations used in this large language model.",
+  "tags": [
+    "research",
+    "llm",
+    "architecture"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-07-29T10:31:17.782883Z",
+  "updated_at": "2026-07-29T10:31:44.571138Z"
+}

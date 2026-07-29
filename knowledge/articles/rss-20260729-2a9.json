@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260729-2a9",
+  "title": "Codex Security",
+  "source_url": "https://github.com/openai/codex-security",
+  "source": "rss",
+  "summary": "OpenAI's Codex Security repository provides guidelines and tools for securing AI code generation systems, focusing on prompt injection, sandboxing, and safe execution of generated code. It offers practical advice for developers deploying LLM-based coding assistants.",
+  "tags": [
+    "llm",
+    "security",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-29T10:31:17.782673Z",
+  "updated_at": "2026-07-29T10:31:44.571045Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260729-ca1",
+  "title": "Zig's Incremental Compilation Internals",
+  "source_url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+  "source": "rss",
+  "summary": "This article explores the internal design of Zig's incremental compilation system, detailing how it tracks dependencies, reuses analysis results, and minimizes recompilation. It covers key concepts like semantic analysis, code generation, and the trade-offs involved in achieving fast, reliable incremental builds for a systems programming language.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-29T10:31:17.782923Z",
+  "updated_at": "2026-07-29T10:31:44.571295Z"
+}

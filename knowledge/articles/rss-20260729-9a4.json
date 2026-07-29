@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260729-9a4",
+  "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+  "source": "rss",
+  "summary": "This content introduces LFM2.5-Encoders, a model optimized for efficient long-context inference on CPU hardware. It likely focuses on reducing computational overhead and memory usage for processing extended sequences, making it suitable for deployment in resource-constrained environments.",
+  "tags": [
+    "deployment",
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-29T10:31:18.634487Z",
+  "updated_at": "2026-07-29T10:31:44.572592Z"
+}

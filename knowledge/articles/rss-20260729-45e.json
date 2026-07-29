@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260729-45e",
+  "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+  "source_url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+  "source": "rss",
+  "summary": "This content presents a detailed technical timeline of a July 2026 incident involving a frontier lab agent intrusion, likely analyzing how an AI agent was compromised or exploited. It focuses on the technical sequence of events, security vulnerabilities, and implications for agent deployment.",
+  "tags": [
+    "agent",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-07-29T10:31:18.634504Z",
+  "updated_at": "2026-07-29T10:31:44.572619Z"
+}

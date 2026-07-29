@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260729-e46",
+  "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+  "source_url": "https://github.com/twalichiewicz/HNewhere",
+  "source": "rss",
+  "summary": "A user created a userscript that merges Hacker News article links with their discussion comments in a single view, eliminating the need to open separate tabs. The script adds a resizable side panel for comments and detects previously shared articles to add a discussion button.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-07-29T10:31:17.782580Z",
+  "updated_at": "2026-07-29T10:31:44.570963Z"
+}

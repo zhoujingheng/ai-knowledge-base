@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260729-6a6",
+  "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+  "source_url": "https://fermisense.com/when-machines-take-the-wheel/",
+  "source": "rss",
+  "summary": "A 9B open-source model was fine-tuned with reinforcement learning (RL) for just $500, outperforming frontier models (like GPT-4) on a catalog review task. The post details the RL training approach, cost breakdown, and surprising results, highlighting that small, targeted fine-tuning can beat massive general-purpose models on specific, well-defined tasks.",
+  "tags": [
+    "fine-tuning",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-29T10:31:17.783088Z",
+  "updated_at": "2026-07-29T10:31:44.571481Z"
+}
