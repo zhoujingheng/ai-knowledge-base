@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260731-0e9",
+  "title": "Google will expand age checks on Android worldwide till the end of the year",
+  "source_url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+  "source": "rss",
+  "summary": "Google is expanding age checks on Android globally by end of year via a new Age Signals API, aiming to create safer experiences for minors. The API helps developers verify user age and adjust content or features accordingly, addressing regulatory and safety concerns across Play Store apps.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-31T10:29:33.911333Z",
+  "updated_at": "2026-07-31T10:30:02.078706Z"
+}

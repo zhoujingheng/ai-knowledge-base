@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260731-3f8",
+  "title": "Large Language Models and the Future of Programming by Peter Norvig (2023)",
+  "source_url": "https://www.youtube.com/watch?v=ia6aJIplmtc",
+  "source": "rss",
+  "summary": "Peter Norvig discusses how large language models (LLMs) will transform programming, shifting from code writing to specification, verification, and human-AI collaboration. He explores implications for software engineering, education, and the role of programmers, emphasizing new skills and potential risks.",
+  "tags": [
+    "llm",
+    "research",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-31T10:29:34.184095Z",
+  "updated_at": "2026-07-31T10:30:02.078778Z"
+}

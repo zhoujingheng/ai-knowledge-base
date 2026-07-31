@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260731-bdb",
+  "title": "Kimi K3-256k",
+  "source_url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+  "source": "rss",
+  "summary": "Kimi K3-256k is a new AI model with a 256k token context window, likely optimized for coding tasks. The documentation and Hacker News discussion highlight its capabilities, but details on architecture or benchmarks are not provided in the snippet.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-07-31T10:29:33.911625Z",
+  "updated_at": "2026-07-31T10:30:02.078752Z"
+}

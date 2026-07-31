@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260731-695",
+  "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+  "source_url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+  "source": "rss",
+  "summary": "Gemini Robotics ER 2 is an AI model that enhances robotic capabilities through advanced video understanding, task orchestration, and multi-robot collaboration. It enables robots to reason about complex real-world tasks, coordinate actions across multiple agents, and leverage tools effectively, marking a significant advancement in embodied AI and autonomous systems.",
+  "tags": [
+    "agent",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-07-31T10:29:35.311301Z",
+  "updated_at": "2026-07-31T10:30:02.080185Z"
+}

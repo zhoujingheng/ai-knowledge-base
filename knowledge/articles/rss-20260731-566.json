@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260731-566",
+  "title": "Stacked PRs are now live on GitHub",
+  "source_url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+  "source": "rss",
+  "summary": "GitHub announces public preview of stacked pull requests, a feature that simplifies managing dependent PRs by allowing developers to stack changes sequentially. This improves code review workflows for large feature branches, reducing merge conflicts and enabling incremental reviews. The announcement highlights integration with GitHub's existing PR tooling.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-07-31T10:29:33.911242Z",
+  "updated_at": "2026-07-31T10:30:02.078673Z"
+}

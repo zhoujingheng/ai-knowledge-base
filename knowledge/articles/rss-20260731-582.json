@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260731-582",
+  "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+  "source_url": "https://github.com/AminBlg/SimpleEnglish",
+  "source": "rss",
+  "summary": "This project introduces an agent skill that enforces ASD-STE100 Simplified Technical English (STE) in documentation. It likely uses LLM-based agents to automatically check and rewrite technical content to comply with STE rules, improving clarity and consistency. The GitHub repo and Hacker News discussion suggest a practical tool for technical writers and engineers.",
+  "tags": [
+    "agent",
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-07-31T10:29:33.911109Z",
+  "updated_at": "2026-07-31T10:30:02.078600Z"
+}

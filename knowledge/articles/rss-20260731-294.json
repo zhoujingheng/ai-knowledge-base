@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260731-294",
+  "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+  "source_url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+  "source": "rss",
+  "summary": "DeepMind's Gemini Robotics 2 introduces whole-body intelligence, enabling robots to coordinate vision, language, and action across their entire body. It focuses on real-world generalization, dexterous manipulation, and safety, marking a step toward more versatile embodied AI systems.",
+  "tags": [
+    "research",
+    "agent",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-07-31T10:29:33.911266Z",
+  "updated_at": "2026-07-31T10:30:02.078693Z"
+}

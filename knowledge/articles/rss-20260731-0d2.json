@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260731-0d2",
+  "title": "LLM Honeypot",
+  "source_url": "https://llm2human.pages.dev/",
+  "source": "rss",
+  "summary": "LLM Honeypot is a web-based tool that tests whether text was written by a human or an LLM, acting as a reverse Turing test. It likely uses statistical or stylistic analysis to distinguish AI-generated content, with a simple interface for users to submit text and get a classification. The project is shared on Hacker News for community feedback.",
+  "tags": [
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-07-31T10:29:33.911447Z",
+  "updated_at": "2026-07-31T10:30:02.078726Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260731-447",
+  "title": "GCC steering committee announces AI policy",
+  "source_url": "https://lwn.net/Articles/1086041/",
+  "source": "rss",
+  "summary": "The GCC steering committee has announced an AI policy for the compiler project, likely addressing how AI-generated code and contributions are handled. The policy aims to clarify rules around copyright, licensing, and review processes for AI-assisted patches, reflecting broader industry concerns. The discussion on Hacker News highlights community reactions and implications for open-source development.",
+  "tags": [
+    "tool",
+    "policy"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-07-31T10:29:33.911307Z",
+  "updated_at": "2026-07-31T10:30:02.078700Z"
+}

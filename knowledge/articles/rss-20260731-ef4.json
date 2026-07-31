@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260731-ef4",
+  "title": "Advancing the price-performance frontier with GPT‑5.6",
+  "source_url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+  "source": "rss",
+  "summary": "OpenAI announces GPT-5.6, focusing on improved price-performance trade-offs. The model likely offers enhanced efficiency, lower inference costs, or better quality per dollar, targeting broader deployment and accessibility. The HN discussion highlights community reactions, benchmarks, and practical implications.",
+  "tags": [
+    "llm",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-07-31T10:29:33.911190Z",
+  "updated_at": "2026-07-31T10:30:02.078680Z"
+}

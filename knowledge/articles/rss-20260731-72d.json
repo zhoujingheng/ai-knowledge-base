@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260731-72d",
+  "title": "Writing the PHP Virtual Machine in Rust (with a lot of help from AI)",
+  "source_url": "https://jolicode.com/blog/writing-the-php-virtual-machine-in-rust-with-a-lot-of-help-from-ai",
+  "source": "rss",
+  "summary": "The author describes building a PHP virtual machine in Rust, leveraging AI tools extensively to assist with implementation. The project likely involves translating PHP's runtime semantics into Rust, using AI for code generation, debugging, and optimization. It highlights the synergy between low-level systems programming and AI-assisted development.",
+  "tags": [
+    "tool",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-07-31T10:29:34.184069Z",
+  "updated_at": "2026-07-31T10:30:02.078765Z"
+}
