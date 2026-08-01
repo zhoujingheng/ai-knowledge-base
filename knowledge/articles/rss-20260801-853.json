@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260801-853",
+  "title": "qm – Multiplayer agent harness for work",
+  "source_url": "https://github.com/yc-software/qm",
+  "source": "rss",
+  "summary": "qm is an open-source multiplayer agent harness designed for collaborative work, enabling multiple AI agents to coordinate tasks in a shared environment. It focuses on practical deployment of agent teams, likely with orchestration and communication features, targeting real-world workflows.",
+  "tags": [
+    "agent",
+    "framework",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-01T09:50:48.967421Z",
+  "updated_at": "2026-08-01T09:51:17.361489Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260801-ea9",
+  "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+  "source_url": "https://github.com/openjdk/jdk/pull/31120",
+  "source": "rss",
+  "summary": "JEP 401 introduces Value Objects as a preview feature in OpenJDK, enabling immutable, identity-free objects for better performance and memory efficiency. This is a core language enhancement, not directly AI/ML-specific, but relevant for high-performance computing in ML workloads.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-01T09:50:48.967634Z",
+  "updated_at": "2026-08-01T09:51:17.361603Z"
+}

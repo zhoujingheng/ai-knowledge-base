@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260801-3e8",
+  "title": "Elevators",
+  "source_url": "https://john.fun/elevators",
+  "source": "rss",
+  "summary": "A philosophical and technical exploration of elevators as a metaphor for AI/ML systems, discussing how vertical transport algorithms, scheduling, and human-AI interaction mirror model optimization and deployment challenges. The article blends humor with deep insights into system design, latency, and user experience.",
+  "tags": [
+    "research",
+    "deployment",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-01T09:50:48.967497Z",
+  "updated_at": "2026-08-01T09:51:17.361581Z"
+}

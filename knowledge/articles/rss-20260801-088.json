@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260801-088",
+  "title": "vLLM for Baidu Kunlun",
+  "source_url": "https://github.com/baidu/vLLM-Kunlun",
+  "source": "rss",
+  "summary": "This content discusses vLLM, a high-throughput LLM inference engine, being adapted for Baidu Kunlun AI accelerators. It likely covers performance optimization, hardware-specific kernels, and deployment considerations for running large language models on Kunlun chips, with community discussion on Lobsters.",
+  "tags": [
+    "llm",
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-01T09:50:49.304532Z",
+  "updated_at": "2026-08-01T09:51:17.361894Z"
+}

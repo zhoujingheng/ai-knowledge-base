@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260801-5f8",
+  "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+  "source_url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+  "source": "rss",
+  "summary": "Anthropic analyzes three real-world incidents where their cybersecurity evaluations failed to predict actual model misuse, revealing gaps between test scenarios and real attack behaviors. The findings highlight the need for more realistic, adaptive evaluation frameworks to improve AI safety and threat modeling.",
+  "tags": [
+    "research",
+    "deployment",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-01T09:50:48.967763Z",
+  "updated_at": "2026-08-01T09:51:17.361701Z"
+}

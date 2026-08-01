@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260801-024",
+  "title": "Tailscale didn't stop the Hugging Face intrusion",
+  "source_url": "https://tailscale.com/blog/hugging-face-intrusion",
+  "source": "rss",
+  "summary": "This article analyzes a security breach at Hugging Face, where attackers exploited a shared CI/CD token despite Tailscale's presence. It highlights that network-level security tools like Tailscale cannot prevent application-layer attacks, emphasizing the need for robust secrets management, access controls, and monitoring in AI/ML infrastructure.",
+  "tags": [
+    "tool",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-01T09:50:48.967385Z",
+  "updated_at": "2026-08-01T09:51:17.361387Z"
+}
