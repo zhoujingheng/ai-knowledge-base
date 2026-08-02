@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260802-5d7",
+  "title": "Cursor removed cost information from the usage page and CSV export",
+  "source_url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+  "source": "rss",
+  "summary": "Users report that Cursor, an AI code editor, has removed cost and token usage details from its usage page and CSV export, making it harder to track expenses. The community discusses implications for budgeting and transparency, with some speculating it's intentional to obscure pricing.",
+  "tags": [
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-02T09:49:05.109944Z",
+  "updated_at": "2026-08-02T09:49:31.905892Z"
+}

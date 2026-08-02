@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260802-9cd",
+  "title": "Go 1.27 Interactive Tour",
+  "source_url": "https://victoriametrics.com/blog/go-1-27/index.html",
+  "source": "rss",
+  "summary": "This is an interactive tour of Go 1.27's new features, likely covering language enhancements, tooling improvements, and performance updates. It's a technical walkthrough for developers, not directly AI/ML-focused, but may include relevant concurrency or runtime changes.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-02T09:49:05.109778Z",
+  "updated_at": "2026-08-02T09:49:31.905705Z"
+}

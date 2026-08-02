@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260802-2f0",
+  "title": "Why Rocq is better than Lean for program verification",
+  "source_url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+  "source": "rss",
+  "summary": "This content argues for Rocq (formerly Coq) over Lean for formal program verification, countering Lean's popularity. It likely highlights Rocq's mature ecosystem, extraction capabilities, or foundational logic advantages, while addressing trade-offs like tooling or learning curve. The piece targets practitioners choosing between proof assistants for verified software development.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-02T09:49:05.524042Z",
+  "updated_at": "2026-08-02T09:49:31.906426Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260802-865",
+  "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+  "source_url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+  "source": "rss",
+  "summary": "This is a bug report about ripgrep, a code search tool, where musl-compiled binaries occasionally segfault on very large searches. The issue is technical, involving memory management and platform-specific behavior, but not directly related to AI/ML. It may interest developers using ripgrep in AI pipelines for code retrieval.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-02T09:49:05.109998Z",
+  "updated_at": "2026-08-02T09:49:31.905909Z"
+}

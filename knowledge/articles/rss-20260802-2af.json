@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260802-2af",
+  "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+  "source_url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+  "source": "rss",
+  "summary": "MIT Sloan research finds AI financial advice is often as good as human experts, but quality depends heavily on prompt phrasing. Users who ask detailed, context-rich questions get better recommendations. The study highlights AI's potential in democratizing financial guidance, while cautioning that vague queries yield generic or flawed advice.",
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-02T09:49:05.109809Z",
+  "updated_at": "2026-08-02T09:49:31.905802Z"
+}

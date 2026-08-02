@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260802-6db",
+  "title": "Diátaxis",
+  "source_url": "https://diataxis.fr/",
+  "source": "rss",
+  "summary": "Diátaxis is a documentation framework that organizes technical content into four distinct modes: tutorials, how-to guides, reference, and explanation. It emphasizes structuring documentation around user needs and tasks, improving clarity and usability. The article discusses its principles and practical applications for technical writing.",
+  "tags": [
+    "framework"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-02T09:49:05.109851Z",
+  "updated_at": "2026-08-02T09:49:31.905786Z"
+}

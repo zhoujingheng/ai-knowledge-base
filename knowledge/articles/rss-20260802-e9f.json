@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260802-e9f",
+  "title": "Why we write our own C and C++ inference engines",
+  "source_url": "https://localai.io/blog/why-we-write-our-own-engines/",
+  "source": "rss",
+  "summary": "The article explains the rationale behind building custom C and C++ inference engines instead of relying on existing frameworks, focusing on performance, control, and optimization for specific hardware and model architectures.",
+  "tags": [
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-02T09:49:05.456723Z",
+  "updated_at": "2026-08-02T09:49:31.905998Z"
+}

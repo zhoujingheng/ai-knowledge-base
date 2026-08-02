@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260802-174",
+  "title": "Seedance 2.5",
+  "source_url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+  "source": "rss",
+  "summary": "Seedance 2.5 is ByteDance's latest video generation model, emphasizing 'one-take' creation and flexible referencing. It likely improves multi-shot consistency, character/object control, and editing workflows, targeting creators who need precise visual alignment across scenes. The HN discussion highlights practical use cases and comparisons with other video models.",
+  "tags": [
+    "research",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-02T09:49:05.109831Z",
+  "updated_at": "2026-08-02T09:49:31.905796Z"
+}

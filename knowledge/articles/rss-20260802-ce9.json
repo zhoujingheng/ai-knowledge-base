@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260802-ce9",
+  "title": "AI doesn't generate working products, that's still your job",
+  "source_url": "https://weeraman.com/the-prototype-isnt-the-product/",
+  "source": "rss",
+  "summary": "The article argues that AI-generated prototypes are not finished products, emphasizing that developers still own the responsibility of productionizing code, handling edge cases, security, and maintenance. It critiques over-reliance on AI outputs and stresses the need for human expertise in engineering robust solutions.",
+  "tags": [
+    "llm",
+    "deployment",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-08-02T09:49:05.110033Z",
+  "updated_at": "2026-08-02T09:49:31.905924Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260802-3b7",
+  "title": "Flint: A Visualization Language for the AI Era",
+  "source_url": "https://microsoft.github.io/flint-chart/",
+  "source": "rss",
+  "summary": "Flint is a new visualization language designed for AI-era data exploration, enabling natural language-driven chart creation and interactive analysis. It bridges LLM outputs with structured visualizations, offering a declarative syntax for dynamic, multi-view dashboards. The project targets developers and data scientists seeking tighter AI-to-visualization integration.",
+  "tags": [
+    "llm",
+    "framework",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-02T09:49:05.110100Z",
+  "updated_at": "2026-08-02T09:49:31.905962Z"
+}

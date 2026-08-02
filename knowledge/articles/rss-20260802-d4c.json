@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260802-d4c",
+  "title": "How Google helped destroy adoption of RSS feeds (2023)",
+  "source_url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+  "source": "rss",
+  "summary": "This article argues that Google's actions, particularly the shutdown of Google Reader and its broader neglect of open standards, significantly contributed to the decline of RSS adoption. It explores how Google's shift toward centralized platforms and algorithmic feeds undermined the open web ecosystem, leading to reduced user awareness and developer investment in RSS.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-08-02T09:49:05.109906Z",
+  "updated_at": "2026-08-02T09:49:31.905878Z"
+}

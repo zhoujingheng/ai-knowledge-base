@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260802-7e8",
+  "title": "RamenHaus",
+  "source_url": "https://ramen.haus/",
+  "source": "rss",
+  "summary": "RamenHaus is a community-driven platform for sharing AI/ML projects, models, and tools, with a focus on practical applications and collaborative learning. It features a curated list of resources, discussions, and user-submitted content, aiming to make AI accessible to a broader audience.",
+  "tags": [
+    "tool",
+    "community"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-02T09:49:05.110012Z",
+  "updated_at": "2026-08-02T09:49:31.905919Z"
+}
