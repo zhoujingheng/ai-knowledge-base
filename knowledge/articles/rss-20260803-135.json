@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260803-135",
+  "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+  "source_url": "https://meshdiff.com/",
+  "source": "rss",
+  "summary": "Meshdiff is a browser-based tool for visually comparing two STL file versions entirely client-side, ensuring privacy and speed. It highlights geometric differences between meshes, useful for 3D printing and CAD workflows. The tool is lightweight and requires no server uploads, making it a practical utility for version control of 3D models.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-03T11:13:35.081955Z",
+  "updated_at": "2026-08-03T11:14:03.723121Z"
+}

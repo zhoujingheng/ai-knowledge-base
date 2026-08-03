@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260803-e09",
+  "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+  "source_url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+  "source": "rss",
+  "summary": "The article discusses running Kimi K3, a large language model, on AMD's MI355X hardware, claiming better performance per dollar compared to NVIDIA's B300. It likely covers deployment optimizations, cost efficiency, and benchmark results, targeting AI infrastructure decision-makers.",
+  "tags": [
+    "deployment",
+    "llm",
+    "benchmark"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-03T11:13:35.082020Z",
+  "updated_at": "2026-08-03T11:14:03.723237Z"
+}

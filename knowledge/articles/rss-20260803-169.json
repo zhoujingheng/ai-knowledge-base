@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260803-169",
+  "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+  "source_url": "https://github.com/wie-project/kakehashi",
+  "source": "rss",
+  "summary": "Kakehashi is an experimental userspace emulator that runs macOS binaries on Linux ARM, similar to Darling but focused on ARM. It aims to translate macOS system calls and frameworks, enabling ARM Mac apps to run on ARM Linux without full virtualization. The project is early-stage, with limited compatibility.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-03T11:13:35.081894Z",
+  "updated_at": "2026-08-03T11:14:03.723079Z"
+}

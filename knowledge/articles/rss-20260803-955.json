@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260803-955",
+  "title": "More German than many Germans",
+  "source_url": "https://mertbulan.com/more-german-than-many-germans/",
+  "source": "rss",
+  "summary": "The article discusses the development of an AI system that generates German text with high cultural and linguistic authenticity, surpassing native-like quality. It explores techniques for capturing regional nuances, idiomatic expressions, and contextual appropriateness, likely involving fine-tuning on curated datasets and evaluation against human judgments.",
+  "tags": [
+    "fine-tuning",
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-03T11:13:35.081714Z",
+  "updated_at": "2026-08-03T11:14:03.722946Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260803-caf",
+  "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
+  "source_url": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
+  "source": "rss",
+  "summary": "The EU's age verification initiative requires hardware-bound attestation, likely using device-level security to verify age without centralizing personal data. This technical approach impacts privacy, compliance, and deployment of age-gating systems, sparking debate on HN about feasibility, user trust, and regulatory implications.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-08-03T11:13:35.081823Z",
+  "updated_at": "2026-08-03T11:14:03.723091Z"
+}
