@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260804-693",
+  "title": "Twenty Years of Pandoc",
+  "source_url": "https://pandoc.org/twenty-years-of-pandoc.html",
+  "source": "rss",
+  "summary": "This article reflects on the 20-year history of Pandoc, a universal document converter. It discusses its evolution, design philosophy, and impact on academic and technical writing. While not directly AI/ML, it highlights the importance of robust tooling for data interchange, which underpins many AI pipelines.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-04T10:28:01.857757Z",
+  "updated_at": "2026-08-04T10:31:54.839754Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260804-dcd",
+  "title": "Categorization with NLP",
+  "source_url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/",
+  "source": "rss",
+  "summary": "The content discusses using NLP for categorization tasks, likely covering techniques like text classification and topic labeling. It appears to be a discussion or article link shared on Lobsters, focusing on practical applications of NLP for organizing or tagging data.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-08-04T10:28:02.067469Z",
+  "updated_at": "2026-08-04T10:31:54.839936Z"
+}

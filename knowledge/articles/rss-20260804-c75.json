@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260804-c75",
+  "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+  "source_url": "https://github.com/leonickson1/Swiftlet",
+  "source": "rss",
+  "summary": "Swiftlet enables running large language models like 80B Qwen on a Mac with only 4.3 GB RAM and 35B on an iPhone, likely via aggressive quantization and efficient inference. It targets edge deployment, making high-parameter models accessible on consumer hardware.",
+  "tags": [
+    "deployment",
+    "llm",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-08-04T10:28:01.857626Z",
+  "updated_at": "2026-08-04T10:31:54.839646Z"
+}

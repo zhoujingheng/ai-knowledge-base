@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260804-59e",
+  "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+  "source_url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+  "source": "rss",
+  "summary": "ComfyUI announces day-0 support for MiniMax H3, featuring open weights, native audio generation, and 2K video output. This integration enables users to run advanced multimodal models locally, with a focus on accessibility and performance. The release highlights ComfyUI's role as a flexible framework for AI content creation.",
+  "tags": [
+    "framework",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-04T10:28:01.857869Z",
+  "updated_at": "2026-08-04T10:31:54.839765Z"
+}

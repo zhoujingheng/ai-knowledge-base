@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260804-d97",
+  "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+  "source_url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+  "source": "rss",
+  "summary": "The article argues that manually retyping LLM-generated code, rather than copy-pasting, helps developers internalize logic and reduce cognitive debt. It suggests this practice improves code comprehension and maintainability, despite being slower, by forcing active engagement with the code.",
+  "tags": [
+    "llm",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-04T10:28:01.858062Z",
+  "updated_at": "2026-08-04T10:31:54.839881Z"
+}

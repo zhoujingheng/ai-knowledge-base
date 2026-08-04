@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260804-7f9",
+  "title": "Apple is getting this wrong",
+  "source_url": "https://openai.com/index/apple-is-getting-this-wrong/",
+  "source": "rss",
+  "summary": "OpenAI criticizes Apple's approach to AI, arguing that their incremental, privacy-focused strategy misses the mark on delivering truly advanced, integrated AI experiences. The article likely contrasts Apple's cautious on-device models with OpenAI's more ambitious, cloud-based capabilities, sparking debate on the future of consumer AI.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-04T10:28:01.857324Z",
+  "updated_at": "2026-08-04T10:31:54.839628Z"
+}

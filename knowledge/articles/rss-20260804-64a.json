@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260804-64a",
+  "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+  "source_url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+  "source": "rss",
+  "summary": "Cloudflare discusses running smaller open-source models (Kimi and GLM) at scale, highlighting their efficiency, speed, and safety benefits over larger models. The article covers deployment strategies, performance optimizations, and how these models can be used in production environments, emphasizing reduced latency and cost while maintaining quality.",
+  "tags": [
+    "deployment",
+    "llm",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-04T10:28:01.857579Z",
+  "updated_at": "2026-08-04T10:31:54.839670Z"
+}

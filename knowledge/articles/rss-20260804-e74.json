@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260804-e74",
+  "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+  "source_url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+  "source": "rss",
+  "summary": "Andy Pavlo, a renowned database researcher, joins ClickHouse to lead ClickHouse Labs, focusing on advancing analytical database technology. The move signals ClickHouse's investment in research-driven innovation, potentially impacting AI/ML workloads through improved data infrastructure and real-time analytics capabilities.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-04T10:28:01.857831Z",
+  "updated_at": "2026-08-04T10:31:54.839785Z"
+}

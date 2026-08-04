@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260804-3eb",
+  "title": "Bonsai: Janestreet's UI Library",
+  "source_url": "https://github.com/janestreet/bonsai",
+  "source": "rss",
+  "summary": "Bonsai is Jane Street's OCaml UI library for building reactive web applications. It emphasizes incremental computation and a functional approach, enabling efficient updates and composable components. The library is designed for production use, offering a robust alternative to traditional JavaScript frameworks.",
+  "tags": [
+    "framework",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-04T10:28:01.858094Z",
+  "updated_at": "2026-08-04T10:31:54.839836Z"
+}

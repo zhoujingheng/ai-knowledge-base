@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260804-321",
+  "title": "Devtools must be open source",
+  "source_url": "https://blog.exe.dev/devtools-must-be-open-source",
+  "source": "rss",
+  "summary": "The article argues that developer tools (devtools) should be open source, emphasizing transparency, community trust, and long-term viability. It critiques closed-source tools for vendor lock-in and hidden flaws, advocating for open standards in AI/ML development environments. The discussion highlights trade-offs between commercial sustainability and open development.",
+  "tags": [
+    "tool",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-04T10:28:01.857795Z",
+  "updated_at": "2026-08-04T10:31:54.839776Z"
+}
