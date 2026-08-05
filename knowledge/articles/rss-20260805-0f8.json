@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260805-0f8",
+  "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+  "source_url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+  "source": "rss",
+  "summary": "This GitHub project demonstrates running DeepSeek V4 Flash, a large language model, on a single AMD MI300X GPU. It likely includes optimization techniques for memory and compute to fit the model on one accelerator, addressing deployment challenges for high-end AI hardware.",
+  "tags": [
+    "deployment",
+    "llm",
+    "fine-tuning"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-08-05T10:26:53.342676Z",
+  "updated_at": "2026-08-05T10:27:22.457776Z"
+}

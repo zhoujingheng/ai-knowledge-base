@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260805-482",
+  "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+  "source_url": "https://mistral.ai/news/shieldstral/",
+  "source": "rss",
+  "summary": "Mistral released Shieldstral, a 3B open-weights multimodal moderation model designed to classify harmful content across text and images. It aims to provide a lightweight, customizable alternative to larger moderation APIs, with strong performance on safety benchmarks and support for fine-tuning to specific policy needs.",
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-05T10:26:53.342505Z",
+  "updated_at": "2026-08-05T10:27:22.457718Z"
+}

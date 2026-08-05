@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260805-f34",
+  "title": "Harness engineering for self-improvement",
+  "source_url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+  "source": "rss",
+  "summary": "This article explores 'harness engineering' as a framework for AI self-improvement, focusing on designing external scaffolds and feedback loops that enable models to iteratively refine their own outputs without direct weight updates. It covers techniques like self-critique, tool use, and environment design, positioning harnesses as a complementary approach to fine-tuning for capability growth.",
+  "tags": [
+    "agent",
+    "framework",
+    "research"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-08-05T10:26:53.342723Z",
+  "updated_at": "2026-08-05T10:27:22.457862Z"
+}

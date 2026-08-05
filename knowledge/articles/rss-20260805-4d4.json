@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260805-4d4",
+  "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+  "source": "rss",
+  "summary": "This content introduces LFM2.5-2.6B, a compact language model designed for local agent deployment. It emphasizes running AI agents on edge devices, enabling privacy, low latency, and offline capabilities. The model likely balances performance with efficiency, making it suitable for resource-constrained environments.",
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-05T10:26:53.717588Z",
+  "updated_at": "2026-08-05T10:27:22.458741Z"
+}

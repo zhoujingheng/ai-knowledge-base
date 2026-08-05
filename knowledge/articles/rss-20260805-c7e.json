@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260805-c7e",
+  "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+  "source_url": "https://toneyalexander.github.io/inclusive-color-space/",
+  "source": "rss",
+  "summary": "The author presents a custom color space and algorithm for generating diverse, plausible skin tones for digital art and game development. It includes a color picker, procedural generation, and interactive demos, with detailed explanations and future work. The approach is practical and creative, though methodologically informal.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-08-05T10:26:53.342565Z",
+  "updated_at": "2026-08-05T10:27:22.457729Z"
+}

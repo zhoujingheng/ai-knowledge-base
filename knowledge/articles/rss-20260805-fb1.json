@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260805-fb1",
+  "title": "FFmpeg 9.0",
+  "source_url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+  "source": "rss",
+  "summary": "FFmpeg 9.0 release notes highlight major updates to the multimedia framework, including new codecs, filters, and performance improvements. It focuses on enhanced decoding/encoding capabilities, API changes, and platform support, catering to developers and media processing pipelines.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-05T10:26:53.342702Z",
+  "updated_at": "2026-08-05T10:27:22.457801Z"
+}

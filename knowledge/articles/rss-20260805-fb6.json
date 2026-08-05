@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260805-fb6",
+  "title": "libexpat now funded by the City of Munich for up to 6 months",
+  "source_url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+  "source": "rss",
+  "summary": "The City of Munich is funding the maintainer of libexpat, a widely used XML parsing library, for up to six months of open-source work. This supports critical infrastructure maintenance, highlighting public-sector investment in foundational software dependencies that underpin many AI/ML systems.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-08-05T10:26:53.342284Z",
+  "updated_at": "2026-08-05T10:27:22.457503Z"
+}
