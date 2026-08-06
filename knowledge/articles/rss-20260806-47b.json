@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260806-47b",
+  "title": "Zed DeltaDB",
+  "source_url": "https://zed.dev/deltadb",
+  "source": "rss",
+  "summary": "Zed DeltaDB is a new database designed for AI-powered code editors, enabling fast, incremental indexing and querying of codebases. It supports real-time collaboration and semantic code navigation, leveraging delta-based updates to minimize latency. The project targets developers building intelligent coding tools, with a focus on performance and scalability.",
+  "tags": [
+    "tool",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-08-06T10:29:58.583750Z",
+  "updated_at": "2026-08-06T10:30:25.504495Z"
+}

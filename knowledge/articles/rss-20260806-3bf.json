@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260806-3bf",
+  "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+  "source_url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+  "source": "rss",
+  "summary": "Neon's Castform demonstrates that open-source models, when combined with efficient retrieval techniques, can outperform frontier models like GPT-5.6 Sol on retrieval tasks at a fraction of the cost. The article details a 100x cost reduction while maintaining or exceeding performance, highlighting practical strategies for building cost-effective AI systems.",
+  "tags": [
+    "retrieval",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-06T10:29:58.583775Z",
+  "updated_at": "2026-08-06T10:30:25.504531Z"
+}

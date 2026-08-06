@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260806-5b6",
+  "title": "Cloudflare OS: an open platform for agents, apps, and work",
+  "source_url": "https://blog.cloudflare.com/cloudflare-os/",
+  "source": "rss",
+  "summary": "Cloudflare introduces an open platform for building and deploying agents, apps, and work automation, emphasizing developer flexibility and edge-native infrastructure. The post outlines a unified ecosystem for AI agents and traditional apps, with a focus on interoperability and open standards.",
+  "tags": [
+    "agent",
+    "framework",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-06T10:29:58.583928Z",
+  "updated_at": "2026-08-06T10:30:25.504577Z"
+}

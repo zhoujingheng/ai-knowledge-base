@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260806-8d7",
+  "title": "Discovery Loop",
+  "source_url": "https://www.discoveryloop.com/",
+  "source": "rss",
+  "summary": "Discovery Loop is a platform or tool discussed on Hacker News, likely focusing on iterative AI-driven exploration or search loops. The high comment count suggests active community engagement, but the sparse description limits technical detail. It may involve agent-based or retrieval-augmented workflows for discovery tasks.",
+  "tags": [
+    "tool",
+    "agent",
+    "rag"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-08-06T10:29:58.583794Z",
+  "updated_at": "2026-08-06T10:30:25.504519Z"
+}
