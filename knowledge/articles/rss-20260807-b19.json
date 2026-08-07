@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260807-b19",
+  "title": "Mario Meets Pareto",
+  "source_url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+  "source": "rss",
+  "summary": "The article applies Pareto efficiency to Mario game design, exploring how AI can generate levels that balance multiple objectives like difficulty and fun. It uses multi-objective optimization and evolutionary algorithms to find trade-offs, offering insights into AI-driven content generation and game balancing.",
+  "tags": [
+    "research",
+    "tool",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-07T08:47:05.841425Z",
+  "updated_at": "2026-08-07T08:47:37.526244Z"
+}

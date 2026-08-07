@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260807-9ea",
+  "title": "Muse Code and Muse Spark 1.2",
+  "source_url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+  "source": "rss",
+  "summary": "Meta introduces Muse Code and Muse Spark 1.2, a new family of LLMs optimized for code generation and general reasoning. The models feature improved efficiency, longer context handling, and are designed for deployment in production environments. The release includes benchmarks and technical details on training and architecture.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-07T08:47:05.841593Z",
+  "updated_at": "2026-08-07T08:47:37.526448Z"
+}

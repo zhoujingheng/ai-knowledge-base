@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260807-42b",
+  "title": "Prime Agent: A self-improving RLM agent",
+  "source_url": "https://www.primeintellect.ai/blog/prime-agent",
+  "source": "rss",
+  "summary": "Prime Agent introduces a self-improving Reinforcement Learning from Machine (RLM) agent that iteratively refines its own policies using feedback from task execution. It combines LLM-based reasoning with a meta-learning loop to enhance performance on complex, multi-step tasks without human intervention, showcasing a novel approach to autonomous agent development.",
+  "tags": [
+    "agent",
+    "research",
+    "fine-tuning"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-08-07T08:47:05.841532Z",
+  "updated_at": "2026-08-07T08:47:37.526353Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260807-dac",
+  "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+  "source_url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+  "source": "rss",
+  "summary": "AMD acquires Taalas to enhance AI inference by embedding models directly into silicon, potentially improving performance and efficiency. This move signals a shift toward hardware-software co-design for LLMs, though details on implementation and impact remain sparse.",
+  "tags": [
+    "deployment",
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-07T08:47:05.841174Z",
+  "updated_at": "2026-08-07T08:47:37.526133Z"
+}

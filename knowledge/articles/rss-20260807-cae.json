@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260807-cae",
+  "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+  "source_url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+  "source": "rss",
+  "summary": "This article details a security vulnerability in Atlassian Rovo, an AI assistant, that allows data exfiltration by bypassing existing access controls. It highlights risks in enterprise AI tools, where indirect prompt injection or crafted inputs can leak sensitive information. The piece underscores the need for robust security measures in AI deployments.",
+  "tags": [
+    "llm",
+    "security",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-07T08:47:05.841672Z",
+  "updated_at": "2026-08-07T08:47:37.526495Z"
+}

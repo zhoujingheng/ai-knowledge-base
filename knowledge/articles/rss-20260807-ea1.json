@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260807-ea1",
+  "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+  "source_url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+  "source": "rss",
+  "summary": "WeatherNext is an AI model that significantly improves cyclone forecasting accuracy, leveraging advanced machine learning to predict storm paths and intensity. It represents a breakthrough in meteorological AI, offering faster and more reliable predictions than traditional methods, with potential for real-world disaster preparedness.",
+  "tags": [
+    "research",
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-07T08:47:06.723702Z",
+  "updated_at": "2026-08-07T08:47:37.527745Z"
+}

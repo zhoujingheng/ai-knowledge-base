@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260807-924",
+  "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+  "source_url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+  "source": "rss",
+  "summary": "The article reports that Qwen3.8 Max has achieved the top ranking on Artificial Analysis' agentic index, which evaluates models on real-world agentic tasks like tool use and multi-step reasoning. This signals a shift in the competitive landscape, with open-weight models challenging proprietary leaders. The discussion on Hacker News highlights community reactions, benchmarks, and implications for AI development.",
+  "tags": [
+    "agent",
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-07T08:47:05.841240Z",
+  "updated_at": "2026-08-07T08:47:37.526175Z"
+}

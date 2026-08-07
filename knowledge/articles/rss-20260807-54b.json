@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260807-54b",
+  "title": "Software development with AI is starting to feel like cooking steak",
+  "source_url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+  "source": "rss",
+  "summary": "The article compares AI-assisted software development to cooking steak, arguing that while tools lower the barrier to entry, true mastery still requires understanding fundamentals. It explores how AI shifts developer roles from writing code to orchestrating and validating outputs, emphasizing that skill remains essential for quality and debugging.",
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-07T08:47:05.841314Z",
+  "updated_at": "2026-08-07T08:47:37.526300Z"
+}
