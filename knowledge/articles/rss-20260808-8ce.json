@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260808-8ce",
+  "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+  "source_url": "https://genesisopenmodels.anl.gov/",
+  "source": "rss",
+  "summary": "The U.S. Department of Energy introduces the Genesis Open Models Initiative, aiming to develop open-source AI models for scientific and energy research. The initiative emphasizes transparency, collaboration, and public access to advanced models, potentially accelerating breakthroughs in clean energy and climate science.",
+  "tags": [
+    "research",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-08T08:29:28.930797Z",
+  "updated_at": "2026-08-08T08:29:55.504139Z"
+}

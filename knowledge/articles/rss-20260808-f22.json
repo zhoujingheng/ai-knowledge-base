@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260808-f22",
+  "title": "Assembly Hall of Shame",
+  "source_url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+  "source": "rss",
+  "summary": "A curated collection of egregious and humorous assembly code examples, highlighting poor practices, anti-patterns, and historical oddities in low-level programming. It serves as both a cautionary tale and a learning resource for developers interested in assembly and compiler behavior.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-08T08:29:28.930869Z",
+  "updated_at": "2026-08-08T08:29:55.504195Z"
+}

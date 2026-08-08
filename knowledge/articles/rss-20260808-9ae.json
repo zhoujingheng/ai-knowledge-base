@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260808-9ae",
+  "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+  "source_url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+  "source": "rss",
+  "summary": "The article details techniques to dramatically accelerate PostgreSQL analytics queries by batching row processing, fusing operators to reduce overhead, and leveraging SIMD instructions. It explains how these optimizations, inspired by columnar engines, can be applied to a row-based system, achieving up to 300x speedups for certain workloads.",
+  "tags": [
+    "research",
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-08-08T08:29:28.931033Z",
+  "updated_at": "2026-08-08T08:29:55.504405Z"
+}

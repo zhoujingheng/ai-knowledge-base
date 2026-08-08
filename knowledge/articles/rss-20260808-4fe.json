@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260808-4fe",
+  "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+  "source_url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+  "source": "rss",
+  "summary": "This article discusses the Nepalese government's data breach being added to Have I Been Pwned (HIBP), a service that alerts users to compromised credentials. It highlights the scale of the breach, the importance of breach notification, and the process of integrating new data sources into HIBP, emphasizing security and user privacy.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-08T08:29:28.931153Z",
+  "updated_at": "2026-08-08T08:29:55.504458Z"
+}
