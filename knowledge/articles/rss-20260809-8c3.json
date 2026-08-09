@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260809-8c3",
+  "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+  "source_url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+  "source": "rss",
+  "summary": "A user lost their phone at the office and used Claude to suggest tracking Bluetooth signal strength as a practical solution. The post highlights a creative, low-tech application of AI reasoning in a real-world scenario, sparking discussion on the limitations and potential of LLMs for everyday problem-solving.",
+  "tags": [
+    "llm",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-09T08:31:40.369528Z",
+  "updated_at": "2026-08-09T08:32:06.294227Z"
+}

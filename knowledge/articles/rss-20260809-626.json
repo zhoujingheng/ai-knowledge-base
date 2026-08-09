@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260809-626",
+  "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+  "source_url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+  "source": "rss",
+  "summary": "An ex-NSA chief argues that water system controllers should not be connected to the internet, following suspected Iranian cyberattacks. The discussion highlights critical infrastructure security, emphasizing air-gapping and network segmentation over AI/ML solutions. The content focuses on cybersecurity policy rather than technical AI implementation.",
+  "tags": [
+    "deployment",
+    "security"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-09T08:31:40.369495Z",
+  "updated_at": "2026-08-09T08:32:06.294258Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260809-a88",
+  "title": "_for-sale DNS records",
+  "source_url": "https://specification.website/spec/foundations/for-sale-dns/",
+  "source": "rss",
+  "summary": "This article discusses the concept of using DNS records to signal that a domain is for sale, proposing a standardized specification for such records. It covers technical foundations, implementation details, and potential use cases, aiming to streamline domain acquisition processes.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-09T08:31:40.369269Z",
+  "updated_at": "2026-08-09T08:32:06.294057Z"
+}

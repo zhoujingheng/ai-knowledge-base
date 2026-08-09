@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260809-d8c",
+  "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+  "source_url": "https://ancientlibrary.net/",
+  "source": "rss",
+  "summary": "Ancient Library is a web tool offering 1,060 Greek and Latin texts with interactive word-level parsing, enabling users to click any word for grammatical and lexical details. It serves as a digital humanities resource for classical language study, combining text access with linguistic analysis.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-09T08:31:40.369573Z",
+  "updated_at": "2026-08-09T08:32:06.294290Z"
+}

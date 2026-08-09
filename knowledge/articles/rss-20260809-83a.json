@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260809-83a",
+  "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+  "source_url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+  "source": "rss",
+  "summary": "This article details a timeline of an accidental attack by OpenAI against Hugging Face, likely involving a security incident or unintended disruption. It covers the sequence of events, responses, and implications for the AI community, based on a Hacker News discussion with high engagement.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-08-09T08:31:40.369292Z",
+  "updated_at": "2026-08-09T08:32:06.294078Z"
+}

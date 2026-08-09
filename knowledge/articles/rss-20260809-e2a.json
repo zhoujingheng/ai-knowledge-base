@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260809-e2a",
+  "title": "The Nixpkgs core team has disbanded",
+  "source_url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+  "source": "rss",
+  "summary": "The Nixpkgs core team has disbanded, raising questions about governance and maintenance of the Nix ecosystem. This is a community and project management event, not directly about AI/ML, but it may impact AI/ML tooling built on Nix.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 1,
+  "created_at": "2026-08-09T08:31:40.369445Z",
+  "updated_at": "2026-08-09T08:32:06.294194Z"
+}

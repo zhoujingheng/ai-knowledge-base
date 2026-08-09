@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260809-bd5",
+  "title": "My server is a phone now",
+  "source_url": "https://seg6.space/posts/phone-server/",
+  "source": "rss",
+  "summary": "The article discusses repurposing a smartphone as a home server, exploring hardware constraints, power efficiency, and software setup for hosting services. It covers practical trade-offs like performance, storage, and networking, offering a hands-on guide for DIY enthusiasts.",
+  "tags": [
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-09T08:31:40.369118Z",
+  "updated_at": "2026-08-09T08:32:06.293940Z"
+}
