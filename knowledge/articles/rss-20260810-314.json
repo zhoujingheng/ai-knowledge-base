@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260810-314",
+  "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+  "source_url": "https://os8088.com/",
+  "source": "rss",
+  "summary": "Os8088 is a retro-computing project that brings a Mac-like operating system to vintage IBM PCs (XT, 286, 386). It focuses on recreating a classic GUI experience on limited hardware, emphasizing efficiency and nostalgia. The project is discussed on Hacker News, highlighting technical challenges and community interest.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-10T09:08:22.323120Z",
+  "updated_at": "2026-08-10T09:08:46.432997Z"
+}

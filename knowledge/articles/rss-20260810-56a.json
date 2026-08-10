@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260810-56a",
+  "title": "We replaced Redis with MySQL for inventory reservations and it scaled",
+  "source_url": "https://shopify.engineering/scaling-inventory-reservations",
+  "source": "rss",
+  "summary": "Shopify engineers detail replacing Redis with MySQL for inventory reservations, achieving better scalability and consistency. The article covers schema design, transaction handling, and performance tuning, highlighting trade-offs between caching and relational databases for high-throughput reservation systems.",
+  "tags": [
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-10T09:08:22.323215Z",
+  "updated_at": "2026-08-10T09:08:46.432939Z"
+}
