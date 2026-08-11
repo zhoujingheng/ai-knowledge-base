@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260811-915",
+  "title": "Tl;dv: Over 180k meetings left wide open",
+  "source_url": "https://bobdahacker.com/blog/tldv-hack",
+  "source": "rss",
+  "summary": "A security researcher reveals that Tl;dv, a meeting transcription tool, exposed over 180k recorded meetings due to misconfigured cloud storage. The article details the vulnerability, its impact, and remediation steps, highlighting risks of unsecured AI-processed data.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-08-11T08:44:21.391920Z",
+  "updated_at": "2026-08-11T08:44:45.605411Z"
+}

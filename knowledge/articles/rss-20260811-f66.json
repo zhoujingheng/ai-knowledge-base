@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260811-f66",
+  "title": "Mistral Patent for “Code implemented tool calls”",
+  "source_url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+  "source": "rss",
+  "summary": "Mistral has filed a patent for a method of implementing tool calls in code, likely enhancing LLM-driven agents' ability to invoke external functions. The patent covers technical details of integrating tool use into model outputs, potentially improving reliability and efficiency. The HN discussion highlights community interest in patent implications for open-source AI and tool-calling standards.",
+  "tags": [
+    "llm",
+    "tool",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-11T08:44:21.391896Z",
+  "updated_at": "2026-08-11T08:44:45.605431Z"
+}

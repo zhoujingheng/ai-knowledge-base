@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260811-3f4",
+  "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+  "source_url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+  "source": "rss",
+  "summary": "Meta introduces Muse Glimmer, a 30B-parameter open model designed for always-on local agent workflows, emphasizing efficiency and low-latency inference on consumer hardware. The model targets autonomous task execution, tool use, and memory management, aiming to enable persistent, on-device AI agents without cloud dependency.",
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-11T08:44:21.391994Z",
+  "updated_at": "2026-08-11T08:44:45.605444Z"
+}

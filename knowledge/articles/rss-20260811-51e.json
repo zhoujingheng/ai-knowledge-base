@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260811-51e",
+  "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+  "source_url": "https://www.docker.com/products/docker-sandboxes/",
+  "source": "rss",
+  "summary": "Docker Sandboxes provides disposable, isolated environments for AI agents, enabling safe execution of untrusted code and tool interactions. It emphasizes rapid provisioning, ephemeral workflows, and integration with agent frameworks, reducing security risks and operational overhead for AI-driven automation.",
+  "tags": [
+    "agent",
+    "deployment",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-11T08:44:21.392025Z",
+  "updated_at": "2026-08-11T08:44:45.605457Z"
+}

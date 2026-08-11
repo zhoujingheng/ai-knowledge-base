@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260811-275",
+  "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+  "source_url": "https://github.com/antirez/h3.c",
+  "source": "rss",
+  "summary": "A native C implementation of MiniMax-H3 inference optimized for Apple Silicon, enabling efficient local execution of the H3 model. It focuses on performance and portability, likely appealing to developers interested in running advanced LLMs on Mac hardware without heavy dependencies.",
+  "tags": [
+    "llm",
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-11T08:44:21.391530Z",
+  "updated_at": "2026-08-11T08:44:45.605266Z"
+}

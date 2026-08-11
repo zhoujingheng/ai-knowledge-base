@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260811-796",
+  "title": "Auto mode is now the default in Claude Code",
+  "source_url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+  "source": "rss",
+  "summary": "Claude Code now defaults to auto mode, which autonomously executes tasks with minimal user intervention, improving efficiency for developers. The change reflects a shift toward agentic workflows, with user feedback highlighting both productivity gains and concerns about control and debugging.",
+  "tags": [
+    "agent",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-11T08:44:21.392050Z",
+  "updated_at": "2026-08-11T08:44:45.605450Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260811-2a6",
+  "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+  "source_url": "https://www.whodunnitai.com/",
+  "source": "rss",
+  "summary": "A voice-driven murder mystery game where users interview AI suspects via OpenAI's gpt-realtime-2.1 over WebRTC. Accusations trigger a tool that captures evidence, which a gpt-5-mini judge evaluates against required facts. Built with Next.js, MongoDB, and Clerk, with usage restrictions to manage costs.",
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-11T08:44:21.392103Z",
+  "updated_at": "2026-08-11T08:44:45.605463Z"
+}

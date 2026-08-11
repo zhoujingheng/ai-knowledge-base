@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260811-dc2",
+  "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+  "source_url": "https://cactuscompute.com/needle",
+  "source": "rss",
+  "summary": "Needle2 is a 14MB agentic LLM optimized for edge devices like phones, wearables, and robots, achieving 500 tokens/sec on Raspberry Pi 5. It uses 2-bit compression and Simple Attention Networks, outperforming larger models on tool-call benchmarks. It supports structured extraction, fine-tuning, and hybrid cloud escalation, targeting the vast low-cost IoT market.",
+  "tags": [
+    "agent",
+    "llm",
+    "fine-tuning"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-08-11T08:44:21.391775Z",
+  "updated_at": "2026-08-11T08:44:45.605398Z"
+}

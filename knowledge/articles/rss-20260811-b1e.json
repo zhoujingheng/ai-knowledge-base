@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260811-b1e",
+  "title": "Squeak 6.1",
+  "source_url": "https://squeak.org/release_notes/6.1/",
+  "source": "rss",
+  "summary": "Squeak 6.1 is a release of the Smalltalk programming environment, focusing on performance improvements, new features, and bug fixes. It includes updates to the virtual machine, graphics, and development tools, catering to educators and developers using Squeak for interactive and multimedia applications.",
+  "tags": [
+    "framework"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-11T08:44:21.391942Z",
+  "updated_at": "2026-08-11T08:44:45.605418Z"
+}

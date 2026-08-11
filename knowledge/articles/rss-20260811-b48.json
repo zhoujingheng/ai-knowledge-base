@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260811-b48",
+  "title": "Illinois just passed a law that puts Linux on the hook for age verification",
+  "source_url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
+  "source": "rss",
+  "summary": "Illinois passed a law requiring operating systems to implement age verification, potentially affecting Linux distributions. The article discusses the implications for open-source projects, privacy concerns, and technical feasibility. It highlights the tension between regulatory compliance and the decentralized nature of Linux, sparking debate in the Hacker News community.",
+  "tags": [
+    "policy",
+    "privacy",
+    "open-source"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-11T08:44:21.391662Z",
+  "updated_at": "2026-08-11T08:44:45.605387Z"
+}

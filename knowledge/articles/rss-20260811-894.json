@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260811-894",
+  "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+  "source_url": "https://huggingface.co/blog/muse-glimmer",
+  "source": "rss",
+  "summary": "Meta's Muse Glimmer is an open-source, local-first AI model that combines agentic behavior with multimodal capabilities, enabling on-device reasoning across text, images, and audio. It emphasizes privacy, offline functionality, and customization, positioning itself as a lightweight alternative to cloud-based assistants.",
+  "tags": [
+    "agent",
+    "multimodal",
+    "open-source"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-11T08:44:22.386893Z",
+  "updated_at": "2026-08-11T08:44:45.606774Z"
+}
