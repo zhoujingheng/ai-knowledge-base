@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260812-b9b",
+  "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+  "source_url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+  "source": "rss",
+  "summary": "This article discusses using GPU passthrough on Apple Silicon macOS virtual machines to accelerate LLM inference with llama.cpp. It covers setup, performance gains, and practical considerations for running models in VMs, highlighting the benefits of direct hardware access for AI workloads.",
+  "tags": [
+    "deployment",
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-12T09:02:51.187615Z",
+  "updated_at": "2026-08-12T09:03:17.681071Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260812-394",
+  "title": "More than 10 firms pay up to $100k a month for access to Truth Social posts",
+  "source_url": "https://www.bbc.com/news/articles/ce3q5nxpgk1o",
+  "source": "rss",
+  "summary": "The article reports that over 10 companies pay up to $100k monthly for access to Truth Social's data, likely for AI training or sentiment analysis. This highlights the commercial value of niche social media datasets, raising questions about data licensing, bias, and the monetization of user-generated content in AI development.",
+  "tags": [
+    "research",
+    "data"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-12T09:02:51.187739Z",
+  "updated_at": "2026-08-12T09:03:17.681174Z"
+}

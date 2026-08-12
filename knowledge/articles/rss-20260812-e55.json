@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260812-e55",
+  "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+  "source": "rss",
+  "summary": "The content discusses reducing token usage in AI systems, likely by optimizing reasoning or context compression, while maintaining performance comparable to ACE (Agentic Cognitive Engines). It focuses on efficiency improvements for LLM-based agents.",
+  "tags": [
+    "agent",
+    "llm",
+    "optimization"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-12T09:02:51.854918Z",
+  "updated_at": "2026-08-12T09:03:17.683136Z"
+}

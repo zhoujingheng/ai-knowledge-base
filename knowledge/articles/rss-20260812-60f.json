@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260812-60f",
+  "title": "How Claude marks AI-generated content",
+  "source_url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+  "source": "rss",
+  "summary": "Claude explains how it marks AI-generated content, detailing watermarking and metadata practices to identify AI outputs. It covers detection methods, limitations, and user transparency, addressing concerns about authenticity and misuse. The article is practical for users but not deeply technical.",
+  "tags": [
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-12T09:02:51.187923Z",
+  "updated_at": "2026-08-12T09:03:17.681470Z"
+}

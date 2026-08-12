@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260812-afd",
+  "title": "Grok Bot",
+  "source_url": "https://x.ai/bot",
+  "source": "rss",
+  "summary": "Grok Bot is a new AI-powered bot from xAI, likely integrating Grok's conversational capabilities into an interactive agent. The Hacker News discussion highlights user experiences, technical implementation details, and comparisons with other bots, focusing on its real-world utility and limitations.",
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-12T09:02:51.187506Z",
+  "updated_at": "2026-08-12T09:03:17.681050Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260812-ec3",
+  "title": "Cloudflare OS, is it worth?",
+  "source_url": "https://blog.emre.xyz/posts/2be69f5e/",
+  "source": "rss",
+  "summary": "The content is a link to a discussion on Lobsters about whether Cloudflare's platform (referred to as 'Cloudflare OS') is worth using. It likely covers trade-offs of building on Cloudflare's edge services, but the description lacks technical details.",
+  "tags": [
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-12T09:02:51.445237Z",
+  "updated_at": "2026-08-12T09:03:17.681577Z"
+}

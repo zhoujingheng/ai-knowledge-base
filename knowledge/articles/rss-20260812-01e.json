@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260812-01e",
+  "title": "Mojo 1.0",
+  "source_url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+  "source": "rss",
+  "summary": "Mojo 1.0, a Python-based language for AI/ML performance, is released by Modular. It promises faster execution, better GPU support, and a unified toolchain for AI development, aiming to replace Python's limitations in production while maintaining syntax familiarity.",
+  "tags": [
+    "framework",
+    "deployment",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-12T09:02:51.187591Z",
+  "updated_at": "2026-08-12T09:03:17.681058Z"
+}
