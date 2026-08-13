@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260813-4d1",
+  "title": "Controversial creators are benefiting from monetization programs run by Meta",
+  "source_url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+  "source": "rss",
+  "summary": "This article discusses how Meta's monetization programs inadvertently reward controversial creators who generate engagement through rage-bait content. It highlights systemic issues in algorithmic content moderation and incentive design, where divisive posts drive ad revenue despite violating community standards. The piece raises questions about platform accountability and the ethical implications of AI-driven recommendation systems.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-13T09:03:39.603806Z",
+  "updated_at": "2026-08-13T09:04:05.213305Z"
+}

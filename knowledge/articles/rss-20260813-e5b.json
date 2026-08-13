@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260813-e5b",
+  "title": "Delta",
+  "source_url": "https://zed.dev/blog/introducing-delta",
+  "source": "rss",
+  "summary": "Zed introduces Delta, a new AI-powered code editing model designed for low-latency, high-quality edits directly in the editor. It focuses on efficient token generation and context handling, aiming to outperform existing models in interactive coding workflows.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-08-13T09:03:39.603479Z",
+  "updated_at": "2026-08-13T09:04:05.213162Z"
+}

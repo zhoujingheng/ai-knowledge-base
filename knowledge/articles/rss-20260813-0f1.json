@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260813-0f1",
+  "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+  "source_url": "https://knownagents.com/insights",
+  "source": "rss",
+  "summary": "The article discusses how attackers are spoofing AI crawler bots (like ClaudeBot) to conduct mass vulnerability scans, potentially evading detection by disguising malicious traffic as legitimate AI agents. It highlights security risks in the AI ecosystem and the need for better bot verification.",
+  "tags": [
+    "security",
+    "agent",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-13T09:03:39.603671Z",
+  "updated_at": "2026-08-13T09:04:05.213274Z"
+}

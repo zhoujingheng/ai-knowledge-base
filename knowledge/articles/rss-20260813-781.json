@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260813-781",
+  "title": "llama.cpp",
+  "source_url": "https://llama.app",
+  "source": "rss",
+  "summary": "llama.cpp is a popular open-source C/C++ implementation for running large language models locally, optimized for CPU and GPU inference. It enables efficient deployment of LLMs on consumer hardware, supporting quantization and various model formats. The HN discussion highlights its practical use, performance, and community-driven development.",
+  "tags": [
+    "deployment",
+    "llm",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-13T09:03:39.603837Z",
+  "updated_at": "2026-08-13T09:04:05.213310Z"
+}

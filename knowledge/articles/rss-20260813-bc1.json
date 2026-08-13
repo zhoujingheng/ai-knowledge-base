@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260813-bc1",
+  "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
+  "source_url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+  "source": "rss",
+  "summary": "This article details the discovery and root-cause analysis of a 16-year-old SQLite bug involving WAL (Write-Ahead Logging) reset, which caused data corruption under specific crash conditions. The author explains the intricate interplay between file locking, checkpointing, and WAL reset, and provides a workaround. It's a deep dive into database internals, not directly AI/ML, but relevant for building reliable AI data pipelines.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-08-13T09:03:39.603613Z",
+  "updated_at": "2026-08-13T09:04:05.213266Z"
+}

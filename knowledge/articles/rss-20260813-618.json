@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260813-618",
+  "title": "Putting sign language AI into users’ hands",
+  "source_url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+  "source": "rss",
+  "summary": "The content introduces SL2T, a sign-language-to-text AI model designed to empower Deaf and hard of hearing users. It emphasizes user-centric deployment of the model, likely involving real-world accessibility features. The description is high-level, focusing on the model's purpose and impact rather than technical details.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-13T09:03:40.715409Z",
+  "updated_at": "2026-08-13T09:04:05.214279Z"
+}

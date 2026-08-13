@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260813-9fe",
+  "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+  "source": "rss",
+  "summary": "LFM2.5-VL-3B is a compact vision-language model optimized for edge deployment, offering improved speed and accuracy over larger models. It balances performance with resource constraints, making it suitable for real-time on-device applications.",
+  "tags": [
+    "llm",
+    "deployment",
+    "fine-tuning"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-13T09:03:40.103040Z",
+  "updated_at": "2026-08-13T09:04:05.213855Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260813-111",
+  "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+  "source_url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+  "source": "rss",
+  "summary": "OlmoEarth Studio now enables users to export custom embeddings for downstream analysis, allowing tailored vector representations from geospatial or earth observation data. This feature supports flexible integration with external ML pipelines, enhancing model development and research workflows.",
+  "tags": [
+    "tool",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-13T09:03:40.103026Z",
+  "updated_at": "2026-08-13T09:04:05.213863Z"
+}

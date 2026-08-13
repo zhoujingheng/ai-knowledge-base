@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260813-4b3",
+  "title": "Qwen3.8-2.4T",
+  "source_url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+  "source": "rss",
+  "summary": "Qwen3.8-2.4T is a massive 2.4-trillion-parameter Mixture-of-Experts model with 95B active parameters, released in FP8 precision. It represents a frontier-scale open-weight LLM, likely pushing the limits of efficiency and performance for large-scale deployment.",
+  "tags": [
+    "llm",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 9,
+  "created_at": "2026-08-13T09:03:39.603577Z",
+  "updated_at": "2026-08-13T09:04:05.213204Z"
+}

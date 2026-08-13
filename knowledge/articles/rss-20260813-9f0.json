@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260813-9f0",
+  "title": "WorldClaw Agentic 3D open-world generation at scale",
+  "source_url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+  "source": "rss",
+  "summary": "Tencent Hunyuan's WorldClaw introduces an agentic framework for generating large-scale, open-world 3D environments. It combines LLM-driven planning with procedural generation and neural rendering to create coherent, explorable worlds. The system emphasizes scalability and real-time performance, targeting game development and simulation use cases.",
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-08-13T09:03:39.603853Z",
+  "updated_at": "2026-08-13T09:04:05.213320Z"
+}
