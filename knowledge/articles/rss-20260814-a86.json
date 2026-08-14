@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260814-a86",
+  "title": "Mistral OCR 4.1",
+  "source_url": "https://docs.mistral.ai/models/ocr-4-1",
+  "source": "rss",
+  "summary": "Mistral OCR 4.1 is a document understanding model that extracts text and structured data from images and PDFs. It likely improves accuracy, speed, and handling of complex layouts, with API access for developers. The HN discussion highlights practical use cases, benchmarks, and comparisons with other OCR tools.",
+  "tags": [
+    "llm",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-14T08:59:28.381083Z",
+  "updated_at": "2026-08-14T08:59:55.240697Z"
+}

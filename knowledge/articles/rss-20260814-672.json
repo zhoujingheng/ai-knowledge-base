@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260814-672",
+  "title": "Choose Boring Technology (2015)",
+  "source_url": "https://mcfunley.com/choose-boring-technology",
+  "source": "rss",
+  "summary": "This 2015 essay argues for selecting well-established, 'boring' technologies over trendy ones to minimize risk and operational complexity. It emphasizes that innovation should occur in application-specific areas, not infrastructure, and that predictable tools enable long-term maintainability. The piece remains relevant to AI/ML deployment choices, advocating for proven stacks over cutting-edge frameworks.",
+  "tags": [
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-14T08:59:28.381026Z",
+  "updated_at": "2026-08-14T08:59:55.240673Z"
+}

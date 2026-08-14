@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260814-1b0",
+  "title": "Understanding is the new bottleneck",
+  "source_url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+  "source": "rss",
+  "summary": "The article argues that as AI systems become more capable, the primary bottleneck shifts from technical limitations to human understanding—of model behavior, outputs, and implications. It explores how interpretability, debugging, and mental models of AI are now critical for effective deployment, urging a focus on tools and practices that enhance comprehension.",
+  "tags": [
+    "research",
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-14T08:59:28.380962Z",
+  "updated_at": "2026-08-14T08:59:55.240660Z"
+}

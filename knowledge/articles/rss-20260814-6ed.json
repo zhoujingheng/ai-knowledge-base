@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260814-6ed",
+  "title": "Gloomberb",
+  "source_url": "https://gloom.sh/",
+  "source": "rss",
+  "summary": "Gloomberb is a lightweight, fast, and privacy-focused alternative to Google Docs, built with a focus on simplicity and offline-first usage. It offers real-time collaboration, markdown support, and end-to-end encryption, appealing to users seeking a self-hosted or minimal document editing tool.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-14T08:59:28.381138Z",
+  "updated_at": "2026-08-14T08:59:55.240732Z"
+}

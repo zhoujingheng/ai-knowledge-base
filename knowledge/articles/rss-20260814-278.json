@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260814-278",
+  "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+  "source_url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
+  "source": "rss",
+  "summary": "OpenAI announces Codex, an AI coding agent, is now available in preview within the ChatGPT desktop app for Linux. This expands Codex's accessibility to Linux users, enabling them to execute coding tasks directly in the app. The announcement highlights the tool's integration and preview status, with community discussion focusing on functionality and platform support.",
+  "tags": [
+    "agent",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-14T08:59:28.381285Z",
+  "updated_at": "2026-08-14T08:59:55.240824Z"
+}

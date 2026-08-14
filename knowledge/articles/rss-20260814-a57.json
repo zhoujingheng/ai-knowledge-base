@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260814-a57",
+  "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+  "source_url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+  "source": "rss",
+  "summary": "Nine PBS is suing Iron Mountain for allegedly blocking access to its archival data, raising concerns about data ownership, vendor lock-in, and the preservation of digital assets. The case highlights risks in relying on third-party storage for critical datasets, relevant to AI/ML workflows that depend on accessible historical data.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-14T08:59:28.381195Z",
+  "updated_at": "2026-08-14T08:59:55.240756Z"
+}

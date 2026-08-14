@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260814-4cd",
+  "title": "Introducing Gemini 3.7 Flash",
+  "source_url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+  "source": "rss",
+  "summary": "Gemini 3.7 Flash is a new lightweight AI model from Google, likely optimized for speed and efficiency in real-time applications. It may offer improved reasoning and multimodal capabilities, targeting developers who need fast, cost-effective inference without sacrificing quality.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-08-14T08:59:29.825249Z",
+  "updated_at": "2026-08-14T08:59:55.242348Z"
+}

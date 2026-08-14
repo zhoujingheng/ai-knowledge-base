@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260814-12a",
+  "title": "Spaghettifying DRAM",
+  "source_url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+  "source": "rss",
+  "summary": "This GitHub project explores a novel DRAM attack technique, 'spaghettifying' DRAM, which manipulates memory to execute malicious code. It demonstrates a low-level hardware exploitation method, bypassing typical software defenses. The project includes proof-of-concept code and documentation, highlighting advanced memory corruption and fault injection techniques.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 9,
+  "created_at": "2026-08-14T08:59:28.381110Z",
+  "updated_at": "2026-08-14T08:59:55.240744Z"
+}

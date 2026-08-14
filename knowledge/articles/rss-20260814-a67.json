@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260814-a67",
+  "title": "What We Learned by Reproducing 2,200 papers from ICML",
+  "source_url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+  "source": "rss",
+  "summary": "The content discusses lessons from attempting to reproduce 2,200 ICML papers, highlighting common pitfalls in experimental setups, evaluation metrics, and code availability. It emphasizes the gap between reported results and actual reproducibility, offering insights into improving research practices and benchmarking standards.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-14T08:59:29.188293Z",
+  "updated_at": "2026-08-14T08:59:55.241946Z"
+}

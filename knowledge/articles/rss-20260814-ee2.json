@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260814-ee2",
+  "title": "Principia Mathematica is modern and insightful",
+  "source_url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+  "source": "rss",
+  "summary": "The article reflects on the enduring relevance of Whitehead and Russell's Principia Mathematica, arguing that its logical formalism and type theory offer modern insights for computation and AI, particularly in handling paradoxes and foundational reasoning.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-14T08:59:28.381312Z",
+  "updated_at": "2026-08-14T08:59:55.240836Z"
+}

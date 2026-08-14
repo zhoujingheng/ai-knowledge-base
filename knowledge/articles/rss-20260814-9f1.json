@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260814-9f1",
+  "title": "DeepSeek Harness developer preview",
+  "source_url": "https://deepseek.com/harness/en/",
+  "source": "rss",
+  "summary": "DeepSeek Harness is a developer preview of a tool/framework for building and managing AI agent workflows, likely integrating LLM orchestration, evaluation, and deployment. It provides a GitHub repository and documentation site, indicating a focus on practical development support for AI systems.",
+  "tags": [
+    "framework",
+    "agent",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-14T08:59:28.381227Z",
+  "updated_at": "2026-08-14T08:59:55.240720Z"
+}
