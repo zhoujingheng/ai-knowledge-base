@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260815-455",
+  "title": "Qwen3.8-27B",
+  "source_url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
+  "source": "rss",
+  "summary": "Alibaba Qwen announces Qwen3.8-27B, a new 27B parameter model. The tweet likely highlights its capabilities, possibly including improved reasoning or efficiency. With only 3 comments, details are sparse, but the model appears to be a significant release in the open-weight LLM space, targeting developers and researchers.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-15T08:16:45.997391Z",
+  "updated_at": "2026-08-15T08:17:13.265054Z"
+}

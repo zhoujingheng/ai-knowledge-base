@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260815-872",
+  "title": "Google is making private AI practical with homomorphic encryption",
+  "source_url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+  "source": "rss",
+  "summary": "Google discusses making homomorphic encryption (HE) practical for private AI, enabling computation on encrypted data without decryption. The article highlights recent breakthroughs in performance and usability, aiming to integrate HE into real-world AI applications while preserving privacy.",
+  "tags": [
+    "research",
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-08-15T08:16:45.997370Z",
+  "updated_at": "2026-08-15T08:17:13.264969Z"
+}

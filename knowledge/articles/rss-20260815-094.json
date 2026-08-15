@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260815-094",
+  "title": "DeepSeek peak/off-peak pricing update",
+  "source_url": "https://api-docs.deepseek.com/news/news260813/",
+  "source": "rss",
+  "summary": "DeepSeek announces a pricing update introducing peak and off-peak rates for API usage, likely to manage demand and optimize infrastructure costs. The change affects developers and businesses relying on DeepSeek's LLM APIs, with off-peak discounts encouraging non-urgent workloads.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-15T08:16:45.997518Z",
+  "updated_at": "2026-08-15T08:17:13.265189Z"
+}

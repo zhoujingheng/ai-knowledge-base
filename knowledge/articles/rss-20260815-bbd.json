@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260815-bbd",
+  "title": "NP-overrated",
+  "source_url": "https://gruhn.me/blog/2026-08-13/",
+  "source": "rss",
+  "summary": "The article argues that NP-completeness is often overemphasized in practical computing, suggesting that worst-case complexity is less relevant for real-world problems. It advocates for focusing on average-case performance and heuristic solutions, challenging the conventional wisdom in algorithm design and AI contexts.",
+  "tags": [
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-15T08:16:45.997582Z",
+  "updated_at": "2026-08-15T08:17:13.265264Z"
+}

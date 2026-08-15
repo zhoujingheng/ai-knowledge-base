@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260815-ef1",
+  "title": "State of Open Models: Summer 2026 Observations",
+  "source_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+  "source": "rss",
+  "summary": "An overview of open-source AI model advancements by summer 2026, highlighting improvements in efficiency, multimodal capabilities, and community-driven development. The piece likely discusses key releases, benchmarks, and trends shaping the open model ecosystem, with implications for developers and researchers.",
+  "tags": [
+    "research",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-15T08:16:46.798989Z",
+  "updated_at": "2026-08-15T08:17:13.266486Z"
+}

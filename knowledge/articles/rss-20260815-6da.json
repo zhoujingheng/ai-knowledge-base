@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260815-6da",
+  "title": "Why does Opus 5 feel worse to work with?",
+  "source_url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+  "source": "rss",
+  "summary": "The article analyzes user dissatisfaction with Opus 5, likely an AI model, attributing it to changes in behavior, reasoning transparency, or alignment with user expectations. It explores how perceived quality drops despite technical improvements, possibly due to over-optimization or altered interaction patterns, sparking community debate.",
+  "tags": [
+    "llm",
+    "research",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-15T08:16:45.997498Z",
+  "updated_at": "2026-08-15T08:17:13.265177Z"
+}

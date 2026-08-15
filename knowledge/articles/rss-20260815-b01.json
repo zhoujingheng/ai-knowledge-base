@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260815-b01",
+  "title": "Going Dark, and the era of law enforcement hacking",
+  "source_url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+  "source": "rss",
+  "summary": "The article discusses the shift toward end-to-end encryption and its implications for law enforcement, focusing on the rise of hacking as a primary investigative tool. It explores the technical, legal, and societal challenges of 'going dark,' where authorities lose access to communications, prompting debates on surveillance, privacy, and the future of digital crime fighting.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-15T08:16:45.997237Z",
+  "updated_at": "2026-08-15T08:17:13.264954Z"
+}

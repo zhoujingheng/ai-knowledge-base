@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260815-7e9",
+  "title": "AI by Hand",
+  "source_url": "https://www.byhand.ai/",
+  "source": "rss",
+  "summary": "AI by Hand is a resource that teaches AI/ML concepts through manual, step-by-step computation, emphasizing understanding over abstraction. It likely covers neural networks, backpropagation, and related topics, targeting learners who want to grasp underlying mechanics without relying solely on frameworks.",
+  "tags": [
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-15T08:16:45.997346Z",
+  "updated_at": "2026-08-15T08:17:13.264982Z"
+}

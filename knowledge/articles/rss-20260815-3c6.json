@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260815-3c6",
+  "title": "Qwen 3.8 27B",
+  "source_url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+  "source": "rss",
+  "summary": "Qwen 3.8 27B is a large language model release on Hugging Face, featuring an FP8 quantized version for efficient deployment. The high comment count and points indicate strong community interest, likely discussing performance, benchmarks, and practical usage. The model represents a significant open-weight LLM offering, with implications for local and cloud inference.",
+  "tags": [
+    "llm",
+    "deployment",
+    "fine-tuning"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-15T08:16:45.997436Z",
+  "updated_at": "2026-08-15T08:17:13.265163Z"
+}

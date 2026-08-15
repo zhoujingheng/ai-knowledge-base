@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260815-4bf",
+  "title": "RustDesk now supports true unattended remote access on Wayland",
+  "source_url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+  "source": "rss",
+  "summary": "RustDesk adds true unattended remote access support for Wayland, overcoming previous limitations. This enables headless or locked-screen remote control on Wayland sessions, a significant improvement for Linux users needing reliable remote administration.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-15T08:16:45.997325Z",
+  "updated_at": "2026-08-15T08:17:13.264852Z"
+}

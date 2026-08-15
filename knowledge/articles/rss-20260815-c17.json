@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260815-c17",
+  "title": "Firefox is now the last major browser that still supports uBlock Origin",
+  "source_url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+  "source": "rss",
+  "summary": "This article discusses how Firefox is now the only major browser supporting uBlock Origin, following Chrome and Edge's transition to Manifest V3, which limits ad-blocking extensions. It highlights implications for user privacy and ad-blocking effectiveness, sparking community debate about browser choices and extension alternatives.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-08-15T08:16:45.997273Z",
+  "updated_at": "2026-08-15T08:17:13.264873Z"
+}
