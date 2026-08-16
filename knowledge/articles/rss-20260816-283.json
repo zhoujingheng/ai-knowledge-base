@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260816-283",
+  "title": "Working with AI feels more like leadership than coding",
+  "source_url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+  "source": "rss",
+  "summary": "The article argues that interacting with AI shifts the developer's role from hands-on coding to leadership, emphasizing delegation, clear communication, and oversight. It explores how AI requires articulating intent, reviewing outputs, and managing context, making the process more akin to managing a team than writing code.",
+  "tags": [
+    "llm",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-16T08:18:24.610600Z",
+  "updated_at": "2026-08-16T08:18:49.705836Z"
+}

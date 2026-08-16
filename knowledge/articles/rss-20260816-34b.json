@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260816-34b",
+  "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+  "source_url": "https://sankalp.bearblog.dev/autoresearch/",
+  "source": "rss",
+  "summary": "The article describes using OpenAI's Codex to automate kernel optimization research, achieving a 232x speedup. It details an iterative workflow where Codex analyzes, profiles, and rewrites CUDA kernels, demonstrating AI-driven performance engineering. The approach combines automated experimentation with human oversight, highlighting practical benefits and limitations of LLM-assisted code optimization.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-16T08:18:24.610580Z",
+  "updated_at": "2026-08-16T08:18:49.705863Z"
+}

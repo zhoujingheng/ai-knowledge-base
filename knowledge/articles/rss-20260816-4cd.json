@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260816-4cd",
+  "title": "Introducing Toast 1",
+  "source_url": "https://www.mixedbread.com/blog/toast-1",
+  "source": "rss",
+  "summary": "Mixedbread introduces Toast 1, a new AI model or framework (likely for embeddings or multimodal tasks), with technical details and benchmarks. The HN discussion highlights its performance, use cases, and comparisons to existing solutions, indicating strong community interest.",
+  "tags": [
+    "research",
+    "model",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-16T08:18:24.610826Z",
+  "updated_at": "2026-08-16T08:18:49.706015Z"
+}

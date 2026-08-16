@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260816-61f",
+  "title": "AI has access to a vastly larger working memory than the human brain",
+  "source_url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+  "source": "rss",
+  "summary": "The article argues that AI's advantage over humans lies not in reasoning but in its massive working memory, enabling it to process vast contexts. It contrasts AI's brute-force memory with human cognitive limits, suggesting AI isn't truly 'outthinking' mathematicians but leveraging scale. The discussion explores implications for problem-solving and intelligence.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-16T08:18:24.610504Z",
+  "updated_at": "2026-08-16T08:18:49.705788Z"
+}

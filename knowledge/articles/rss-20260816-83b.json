@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260816-83b",
+  "title": "A spectre is haunting Unicode",
+  "source_url": "https://www.dampfkraft.com/ghost-characters.html",
+  "source": "rss",
+  "summary": "This article explores how Unicode's design and implementation can be exploited via 'ghost characters'—invisible or ambiguous code points that can manipulate text processing, security, and AI/ML systems. It highlights risks in tokenization, normalization, and model inputs, urging developers to harden pipelines against such adversarial Unicode attacks.",
+  "tags": [
+    "research",
+    "llm",
+    "security"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-16T08:18:24.610543Z",
+  "updated_at": "2026-08-16T08:18:49.705827Z"
+}
