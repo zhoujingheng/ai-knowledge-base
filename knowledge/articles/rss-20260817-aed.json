@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260817-aed",
+  "title": "Patterns and problems in emerging multi-agent systems",
+  "source_url": "https://www.anthropic.com/research/multiagent-systems",
+  "source": "rss",
+  "summary": "Anthropic's research article examines emerging patterns and challenges in multi-agent systems, where multiple AI agents collaborate or compete. It identifies common architectural patterns, failure modes, and design trade-offs, offering insights into scalability, coordination, and reliability. The piece serves as a practical guide for developers building complex agentic workflows.",
+  "tags": [
+    "agent",
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-17T08:32:46.051501Z",
+  "updated_at": "2026-08-17T08:33:11.598705Z"
+}

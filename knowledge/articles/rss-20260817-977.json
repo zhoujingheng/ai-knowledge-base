@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260817-977",
+  "title": "Software Engineering fundamentals matter more",
+  "source_url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+  "source": "rss",
+  "summary": "The article argues that as AI/ML tools become more prevalent, foundational software engineering skills—like debugging, testing, and system design—are increasingly critical. It emphasizes that AI-generated code requires rigorous human oversight and that engineers who master fundamentals will outperform those who rely solely on AI assistance.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-17T08:32:46.051530Z",
+  "updated_at": "2026-08-17T08:33:11.598718Z"
+}

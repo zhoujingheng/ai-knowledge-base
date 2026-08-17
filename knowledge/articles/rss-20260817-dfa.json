@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260817-dfa",
+  "title": "Firefox for iOS now has a native adblocker",
+  "source_url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+  "source": "rss",
+  "summary": "Firefox for iOS introduces a native adblocker, enhancing privacy and performance by blocking ads and trackers directly in the browser. This feature is built into the app, reducing reliance on third-party extensions and improving user experience on Apple mobile devices.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-17T08:32:46.051397Z",
+  "updated_at": "2026-08-17T08:33:11.598625Z"
+}

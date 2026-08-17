@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260817-753",
+  "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+  "source_url": "https://news.ycombinator.com/item?id=49322107",
+  "source": "rss",
+  "summary": "The post warns that Cloudflare silently injects a JavaScript analytics snippet into websites when users switch nameservers, even for HTML-only sites. The author had to manually disable it via the analytics dashboard, criticizing the opt-out approach as invasive. This highlights a privacy and transparency concern in Cloudflare's default settings.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-08-17T08:32:46.051232Z",
+  "updated_at": "2026-08-17T08:33:11.598466Z"
+}

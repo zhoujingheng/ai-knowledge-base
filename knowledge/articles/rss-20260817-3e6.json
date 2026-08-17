@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260817-3e6",
+  "title": "A third world engineer responds to “RISC-V: They should have known better”",
+  "source_url": "https://rvembedded.com/blog_post/12/",
+  "source": "rss",
+  "summary": "An engineer from a developing country critiques the RISC-V article, arguing that its assumptions about engineering resources and infrastructure ignore real-world constraints. They highlight how practical, cost-driven decisions in such contexts lead to different but valid technical choices, challenging the original piece's elitist perspective.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-17T08:32:46.051264Z",
+  "updated_at": "2026-08-17T08:33:11.598504Z"
+}

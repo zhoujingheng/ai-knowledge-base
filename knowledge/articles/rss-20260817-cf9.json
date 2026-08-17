@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260817-cf9",
+  "title": "Claude: System Prompts",
+  "source_url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+  "source": "rss",
+  "summary": "Claude's system prompts are now publicly documented, revealing how Anthropic structures its AI's behavior, safety, and tool-use instructions. The release notes detail changes to these prompts, offering transparency into model alignment and prompting strategies, sparking community discussion on AI governance and prompt design.",
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-17T08:32:46.051421Z",
+  "updated_at": "2026-08-17T08:33:11.598649Z"
+}

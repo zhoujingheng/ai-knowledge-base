@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260817-70e",
+  "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+  "source_url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+  "source": "rss",
+  "summary": "This article criticizes Anthropic's implementation of a watermarking feature in Claude, arguing it adulterates text and undermines the integrity of writing. The author views it as a perversion of the writing process, likely sparking debate about AI output authenticity and user control.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-17T08:32:46.051093Z",
+  "updated_at": "2026-08-17T08:33:11.598420Z"
+}

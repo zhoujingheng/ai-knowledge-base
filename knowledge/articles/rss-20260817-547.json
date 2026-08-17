@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260817-547",
+  "title": "Models Are Getting Dumber on Purpose",
+  "source_url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+  "source": "rss",
+  "summary": "The article argues that AI models are intentionally being made 'dumber' or more constrained to improve safety, reliability, and alignment, often at the cost of raw capability. It explores how deliberate limitations, such as reduced creativity or stricter guardrails, are becoming a design choice rather than a flaw, sparking debate on the trade-offs between performance and control.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-17T08:32:46.051182Z",
+  "updated_at": "2026-08-17T08:33:11.598480Z"
+}
