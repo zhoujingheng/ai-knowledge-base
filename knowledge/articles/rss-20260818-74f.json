@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260818-74f",
+  "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+  "source": "rss",
+  "summary": "The content discusses how reordering tasks or data within a cluster can significantly improve resource utilization (33 points more), likely through better scheduling or batching strategies. It emphasizes the impact of sequence on system efficiency, possibly in ML training or inference pipelines.",
+  "tags": [
+    "deployment",
+    "fine-tuning"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-18T08:25:09.643580Z",
+  "updated_at": "2026-08-18T08:25:38.663497Z"
+}

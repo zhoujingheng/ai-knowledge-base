@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260818-e88",
+  "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+  "source_url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+  "source": "rss",
+  "summary": "The article discusses Qwen 3.8 27B, a powerful open-weight LLM, but highlights a key issue: it defaults to 'overthinking'—generating excessive reasoning tokens even for simple queries. This leads to slower responses and higher compute costs. The author suggests prompt engineering or configuration tweaks to mitigate this behavior, balancing quality with efficiency.",
+  "tags": [
+    "llm",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-18T08:25:08.859793Z",
+  "updated_at": "2026-08-18T08:25:38.663151Z"
+}

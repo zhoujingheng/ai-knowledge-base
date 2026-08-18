@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260818-f6b",
+  "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+  "source_url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+  "source": "rss",
+  "summary": "Qwen3.8 27B, a new model, achieves a score of 52 on Artificial Analysis, indicating competitive performance for its size. The HN discussion (343 points, 152 comments) likely covers benchmarks, comparisons, and practical implications, but the core content is a model evaluation result.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-18T08:25:08.859556Z",
+  "updated_at": "2026-08-18T08:25:38.663009Z"
+}

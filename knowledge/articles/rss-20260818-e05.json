@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260818-e05",
+  "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+  "source_url": "https://blog.roboflow.com/openai-gpt-5-6/",
+  "source": "rss",
+  "summary": "Roboflow's analysis of OpenAI's GPT-5.6 Sol highlights its superior vision capabilities, including object detection, OCR, and spatial reasoning. The model outperforms previous OpenAI vision models and rivals specialized systems, with practical implications for computer vision workflows. The article provides benchmarks and use cases, emphasizing its integration into real-world applications.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-18T08:25:08.859714Z",
+  "updated_at": "2026-08-18T08:25:38.663140Z"
+}

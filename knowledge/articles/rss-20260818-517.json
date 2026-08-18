@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260818-517",
+  "title": "Retrofitting a build system into a compiler",
+  "source_url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+  "source": "rss",
+  "summary": "This content discusses the concept of integrating build system functionality directly into a compiler, likely to improve efficiency and simplify the build process. It appears to be a technical discussion or article, with comments linked, focusing on compiler design and build automation.",
+  "tags": [
+    "tool",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-18T08:25:09.271287Z",
+  "updated_at": "2026-08-18T08:25:38.663322Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260818-09e",
+  "title": "Linear algebra done right",
+  "source_url": "https://linear.axler.net/",
+  "source": "rss",
+  "summary": "This is a link to the companion site for Axler's 'Linear Algebra Done Right' textbook, which presents linear algebra conceptually without determinants. The HN discussion highlights its pedagogical value, clarity, and relevance to machine learning foundations, with users debating proofs, applications, and alternative texts.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-18T08:25:08.859727Z",
+  "updated_at": "2026-08-18T08:25:38.663146Z"
+}

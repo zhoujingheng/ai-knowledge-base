@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260818-f9c",
+  "title": "GPT-5.6 Sol Pricing Cut by 50%",
+  "source_url": "https://openrouter.ai/openai/gpt-5.6-sol",
+  "source": "rss",
+  "summary": "OpenAI has reduced the price of GPT-5.6 Sol by 50%, likely to increase adoption and competitiveness. The change affects API costs for developers and enterprises, potentially lowering barriers for AI integration. The HN discussion highlights market dynamics and implications for AI pricing strategies.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-18T08:25:08.859498Z",
+  "updated_at": "2026-08-18T08:25:38.663000Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260818-d31",
+  "title": "A Preview of DuckDB v2.0",
+  "source_url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+  "source": "rss",
+  "summary": "DuckDB v2.0 preview highlights major performance improvements, new SQL features, and enhanced data ingestion capabilities. The release focuses on faster analytical queries, better support for complex data types, and improved integration with external systems, positioning DuckDB as a more powerful tool for embedded analytics and data engineering workflows.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-18T08:25:08.859654Z",
+  "updated_at": "2026-08-18T08:25:38.663039Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260818-64d",
+  "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+  "source_url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+  "source": "rss",
+  "summary": "This article details how an AI-generated GitHub Copilot autofix introduced a vulnerability in Snowflake's CI/CD pipeline, allowing attackers to compromise their Jira instance. It highlights risks of blindly trusting AI code suggestions and emphasizes the need for human review and security validation in automated workflows.",
+  "tags": [
+    "agent",
+    "deployment",
+    "security"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-18T08:25:08.859594Z",
+  "updated_at": "2026-08-18T08:25:38.663014Z"
+}

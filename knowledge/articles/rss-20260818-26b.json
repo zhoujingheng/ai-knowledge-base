@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260818-26b",
+  "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+  "source_url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+  "source": "rss",
+  "summary": "This article reports on Israel's creation of a fake think tank, likely aimed at influencing AI chatbots' outputs. It highlights concerns about coordinated disinformation targeting LLMs to shape public opinion, raising ethical and security questions about AI's vulnerability to such manipulation.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-18T08:25:08.859522Z",
+  "updated_at": "2026-08-18T08:25:38.662994Z"
+}

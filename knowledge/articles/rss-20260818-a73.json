@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260818-a73",
+  "title": "How Bluesky draws its logo on screenshots",
+  "source_url": "https://timmarinin.net/2026/bluesky-screenshots/",
+  "source": "rss",
+  "summary": "The article explains how Bluesky programmatically draws its logo on screenshots, likely using vector graphics or canvas rendering. It details the technical process, including coordinate mapping, scaling, and anti-aliasing, to ensure the logo appears crisp across different screenshot sizes. The piece is a deep dive into a specific front-end rendering technique.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-18T08:25:08.859446Z",
+  "updated_at": "2026-08-18T08:25:38.662987Z"
+}

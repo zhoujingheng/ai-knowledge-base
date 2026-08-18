@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260818-1b9",
+  "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+  "source_url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+  "source": "rss",
+  "summary": "A shipment of rare books was tracked and found to have ended up at an Amazon AI training facility, highlighting the physical supply chain behind AI training data acquisition. The story underscores the growing demand for high-quality, copyrighted textual data for model training, raising questions about provenance and ethics.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-18T08:25:09.232385Z",
+  "updated_at": "2026-08-18T08:25:38.663168Z"
+}

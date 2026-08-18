@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260818-3ec",
+  "title": "Quake Shareware, a CD-ROM just a little too full",
+  "source_url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+  "source": "rss",
+  "summary": "This article details the technical challenge of fitting Quake Shareware onto a CD-ROM with limited space, exploring compression, data layout, and optimization tricks. It highlights the engineering ingenuity behind early game distribution, focusing on file systems and storage constraints.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-18T08:25:08.859477Z",
+  "updated_at": "2026-08-18T08:25:38.662971Z"
+}
