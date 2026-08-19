@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260819-755",
+  "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+  "source_url": "https://huggingface.co/blog/multi-vector-encoder",
+  "source": "rss",
+  "summary": "This content explains multi-vector (late interaction) embedding models, such as ColBERT, using Sentence Transformers. It covers how these models compute token-level embeddings and use late interaction for more nuanced retrieval, balancing efficiency and effectiveness. The guide likely includes implementation details and trade-offs compared to single-vector models.",
+  "tags": [
+    "llm",
+    "rag",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-19T08:25:30.329368Z",
+  "updated_at": "2026-08-19T08:25:54.388679Z"
+}

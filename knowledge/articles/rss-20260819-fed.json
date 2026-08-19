@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260819-fed",
+  "title": "But what is cross-entropy? | Compression is Intelligence Part 2 - YouTube",
+  "source_url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+  "source": "rss",
+  "summary": "This video explains cross-entropy as a measure of information loss in predictions, linking it to compression and intelligence. It likely covers the mathematical foundation and intuition behind cross-entropy in machine learning, emphasizing its role in training models.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-19T08:25:29.784823Z",
+  "updated_at": "2026-08-19T08:25:54.387581Z"
+}

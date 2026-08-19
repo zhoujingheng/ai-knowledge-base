@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260819-47e",
+  "title": "How Much Memory Does Your Agent Actually Need?",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+  "source": "rss",
+  "summary": "This content explores the memory requirements for AI agents, likely discussing trade-offs between context windows, external memory, and agent performance. It probably offers practical guidance on sizing memory for different agent tasks, balancing cost and capability.",
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-19T08:25:30.329354Z",
+  "updated_at": "2026-08-19T08:25:54.388600Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260819-d80",
+  "title": "Using the railway network as a flatbed scanner",
+  "source_url": "https://philo.gay/linecam/",
+  "source": "rss",
+  "summary": "This project repurposes railway infrastructure as a flatbed scanner by mounting a line-scan camera on a train, capturing continuous high-resolution imagery of the trackside. It explores the technical challenges of synchronization, motion blur, and data processing, offering a novel approach to infrastructure monitoring and visual documentation.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-19T08:25:29.218454Z",
+  "updated_at": "2026-08-19T08:25:54.387255Z"
+}

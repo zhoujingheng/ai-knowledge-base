@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260819-5ff",
+  "title": "Linux 7.3 improves performance when running out of vRAM",
+  "source_url": "https://pixelcluster.dev/VRAM-Overcommit/",
+  "source": "rss",
+  "summary": "Linux 7.3 introduces VRAM overcommit, allowing AI workloads to run with less physical GPU memory by swapping to system RAM or disk. This improves performance and stability when VRAM is exhausted, reducing OOM errors and enabling larger models on limited hardware.",
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-19T08:25:29.218521Z",
+  "updated_at": "2026-08-19T08:25:54.387294Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260819-ca7",
+  "title": "Google has acquired the data of failed US airline Spirit",
+  "source_url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+  "source": "rss",
+  "summary": "Google acquired the data of bankrupt airline Spirit at auction, likely for AI training or operational insights. The move highlights the value of proprietary datasets in AI development, raising questions about data provenance and privacy in the context of failed companies.",
+  "tags": [
+    "data",
+    "ai",
+    "acquisition"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-19T08:25:29.218501Z",
+  "updated_at": "2026-08-19T08:25:54.387281Z"
+}
