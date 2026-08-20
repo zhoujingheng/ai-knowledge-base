@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260820-ce5",
+  "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+  "source_url": "https://github.com/RyanCodrai/turbovec",
+  "source": "rss",
+  "summary": "Turbovec is a Rust implementation of Google's TurboQuant, a quantization technique for vector search. It aims to improve memory efficiency and speed in similarity search by compressing vectors while maintaining accuracy. The project is open-source, targeting developers building high-performance search systems.",
+  "tags": [
+    "tool",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-20T08:26:54.189802Z",
+  "updated_at": "2026-08-20T08:27:20.543438Z"
+}

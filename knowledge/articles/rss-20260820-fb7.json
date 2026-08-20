@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260820-fb7",
+  "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+  "source_url": "https://github.com/DenisSergeevitch/desktop-fly",
+  "source": "rss",
+  "summary": "A project that renders a 3D fruit fly on macOS desktop, using the real FlyWire connectome data. It visualizes the fly's neural network in an interactive, desktop-based 3D environment, likely for educational or exploratory purposes. The project combines connectomics data with real-time rendering, offering a novel way to explore a complete brain structure.",
+  "tags": [
+    "research",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-20T08:26:54.189749Z",
+  "updated_at": "2026-08-20T08:27:20.543467Z"
+}

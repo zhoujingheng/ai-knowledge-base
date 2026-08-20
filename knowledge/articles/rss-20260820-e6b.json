@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260820-e6b",
+  "title": "Geolocating a random island using geometry and CUDA programming",
+  "source_url": "https://yassa9.github.io/osint/gralhix-004/",
+  "source": "rss",
+  "summary": "The article demonstrates geolocating a random island using geometric analysis and CUDA-accelerated programming, likely for image processing or pattern matching. It showcases a practical OSINT technique combining computational geometry with GPU optimization, appealing to technical audiences interested in applied AI/ML or high-performance computing.",
+  "tags": [
+    "tool",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-20T08:26:54.189618Z",
+  "updated_at": "2026-08-20T08:27:20.543336Z"
+}

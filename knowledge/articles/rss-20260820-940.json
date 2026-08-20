@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260820-940",
+  "title": "Cerebras CS-4",
+  "source_url": "https://www.cerebras.ai/cs4",
+  "source": "rss",
+  "summary": "Cerebras CS-4 is a new AI inference system designed for ultra-low latency and high throughput, targeting large language models. It leverages Cerebras' wafer-scale engine to deliver performance for real-time AI applications, with a focus on scalability and efficiency for enterprise deployment.",
+  "tags": [
+    "deployment",
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-20T08:26:54.189733Z",
+  "updated_at": "2026-08-20T08:27:20.543429Z"
+}

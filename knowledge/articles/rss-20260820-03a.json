@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260820-03a",
+  "title": "AscendNPU-IR: MLIR for Ascend",
+  "source_url": "https://gitcode.com/Ascend/AscendNPU-IR",
+  "source": "rss",
+  "summary": "AscendNPU-IR is an MLIR-based compiler infrastructure for Huawei's Ascend NPUs, enabling hardware-specific optimizations and code generation. It provides a low-level intermediate representation to bridge high-level ML frameworks with Ascend hardware, improving performance and portability for AI workloads.",
+  "tags": [
+    "framework",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-08-20T08:26:54.502684Z",
+  "updated_at": "2026-08-20T08:27:20.543482Z"
+}

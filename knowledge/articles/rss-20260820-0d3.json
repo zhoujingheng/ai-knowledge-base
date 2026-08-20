@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260820-0d3",
+  "title": "Bongard Problems",
+  "source_url": "https://matthodges.com/posts/2026-08-19-bongard-problems/",
+  "source": "rss",
+  "summary": "Bongard Problems are visual reasoning puzzles that challenge AI systems to infer abstract patterns from image pairs. This content likely discusses their use as benchmarks for evaluating machine learning models, particularly in areas like analogy-making and concept learning, highlighting current limitations in AI's visual abstraction capabilities.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-20T08:26:54.502699Z",
+  "updated_at": "2026-08-20T08:27:20.543517Z"
+}

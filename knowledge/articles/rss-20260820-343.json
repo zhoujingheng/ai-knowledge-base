@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260820-343",
+  "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+  "source_url": "https://huggingface.co/blog/LiquidAI/qad",
+  "source": "rss",
+  "summary": "This content describes LFM2.5 Q4_0 checkpoints produced via quantization-aware distillation, a technique combining model compression and knowledge distillation to maintain performance at low bit-widths. It likely targets efficient deployment of large language models on resource-constrained devices.",
+  "tags": [
+    "fine-tuning",
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-20T08:26:55.192401Z",
+  "updated_at": "2026-08-20T08:27:20.544282Z"
+}

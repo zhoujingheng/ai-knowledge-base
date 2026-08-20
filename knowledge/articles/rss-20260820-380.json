@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260820-380",
+  "title": "PostgreSQL for Everything",
+  "source_url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+  "source": "rss",
+  "summary": "The article advocates using PostgreSQL as a universal data platform, covering its use for vector search, full-text search, JSON, time-series, and more, reducing the need for specialized databases. It highlights practical patterns and trade-offs for consolidating workloads.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-20T08:26:54.189600Z",
+  "updated_at": "2026-08-20T08:27:20.543290Z"
+}

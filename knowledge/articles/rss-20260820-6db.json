@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260820-6db",
+  "title": "Go 1.27",
+  "source_url": "https://go.dev/blog/go1.27",
+  "source": "rss",
+  "summary": "Go 1.27 release notes highlight performance improvements, new toolchain features, and language enhancements. It focuses on faster compilation, reduced memory usage, and better support for modern hardware, but does not directly address AI/ML-specific topics.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-20T08:26:54.189427Z",
+  "updated_at": "2026-08-20T08:27:20.543201Z"
+}

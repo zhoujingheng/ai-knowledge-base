@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260820-2bc",
+  "title": "OpenRouter is joining Stripe",
+  "source_url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+  "source": "rss",
+  "summary": "OpenRouter, a popular LLM API aggregator, is being acquired by Stripe for over $7B. This move signals consolidation in the AI infrastructure space, with Stripe integrating OpenRouter's routing and billing capabilities into its payment ecosystem. The news highlights the growing commercial value of LLM access layers.",
+  "tags": [
+    "llm",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-20T08:26:54.189499Z",
+  "updated_at": "2026-08-20T08:27:20.543176Z"
+}

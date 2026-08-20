@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260820-094",
+  "title": "Liquid Types as a behavioural sandbox for agents",
+  "source_url": "https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/",
+  "source": "rss",
+  "summary": "This article discusses using liquid types—a form of refinement types—as a behavioral sandbox for AI agents, ensuring their actions adhere to specified safety and correctness properties at compile time. It explores how this formal method can constrain agent behavior, reducing runtime errors and improving reliability.",
+  "tags": [
+    "research",
+    "agent",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-08-20T08:26:54.502709Z",
+  "updated_at": "2026-08-20T08:27:20.543508Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260820-fe8",
+  "title": "Google has stopped pushing Git tags for some Android source code",
+  "source_url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+  "source": "rss",
+  "summary": "Google has ceased pushing Git tags for certain Android source code repositories, affecting version tracking and build reproducibility. This change impacts developers relying on tags for releases, potentially complicating verification and patching workflows. The community discusses implications for Android's open-source ecosystem and alternative tracking methods.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-20T08:26:54.189465Z",
+  "updated_at": "2026-08-20T08:27:20.543195Z"
+}
