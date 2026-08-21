@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260821-85a",
+  "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+  "source_url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+  "source": "rss",
+  "summary": "This article details a technical reverse-engineering effort to bypass the activation lock on a deactivated e-waste Cricut Maker, enabling its reuse. It covers hardware probing, firmware analysis, and exploiting a vulnerability to unlock the device, highlighting sustainability and right-to-repair issues in consumer electronics.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-08-21T08:28:49.084620Z",
+  "updated_at": "2026-08-21T08:29:14.217391Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260821-bfb",
+  "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+  "source_url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+  "source": "rss",
+  "summary": "This piece critiques the double standard in AI data scraping, contrasting Aaron Swartz's prosecution for mass downloading academic articles with Meta's unpunished scraping of copyrighted content for AI training. It argues that legal consequences are unevenly applied, favoring large corporations, and questions the ethics and legality of current AI data acquisition practices.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-21T08:28:49.084248Z",
+  "updated_at": "2026-08-21T08:29:14.217163Z"
+}

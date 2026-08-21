@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260821-741",
+  "title": "Feature Request: Support AGENTS.md",
+  "source_url": "https://github.com/anthropics/claude-code/issues/6235",
+  "source": "rss",
+  "summary": "A GitHub issue requests Claude Code to support AGENTS.md, a convention for defining agent behavior and project context. The discussion highlights the need for standardized agent configuration files, with users debating implementation details, compatibility, and best practices. The feature would enhance agent customization and workflow integration.",
+  "tags": [
+    "agent",
+    "framework",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-08-21T08:28:49.084593Z",
+  "updated_at": "2026-08-21T08:29:14.217316Z"
+}

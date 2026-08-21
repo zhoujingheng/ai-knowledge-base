@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260821-d17",
+  "title": "Turns are Better than Radians (2022)",
+  "source_url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+  "source": "rss",
+  "summary": "The article argues that using turns (full rotations) as a unit of angle measurement is more intuitive and practical than radians, simplifying mental math and code. It discusses the historical context and computational benefits, sparking debate on mathematical conventions and their real-world applications.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-21T08:28:49.084553Z",
+  "updated_at": "2026-08-21T08:29:14.217358Z"
+}

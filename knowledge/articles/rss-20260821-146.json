@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260821-146",
+  "title": "Don't paste the AI, please",
+  "source_url": "https://dontpastetheai.com/",
+  "source": "rss",
+  "summary": "A critical essay arguing against blindly pasting AI-generated code or text into projects without understanding it. It emphasizes the importance of human review, context awareness, and the risks of over-reliance on AI outputs, advocating for mindful integration rather than copy-paste adoption.",
+  "tags": [
+    "prompt-engineering",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-21T08:28:49.084511Z",
+  "updated_at": "2026-08-21T08:29:14.217271Z"
+}

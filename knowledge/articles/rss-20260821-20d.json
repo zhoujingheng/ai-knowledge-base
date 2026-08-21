@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260821-20d",
+  "title": "Malicious Rust crate Arrayref runs a build-time payload",
+  "source_url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+  "source": "rss",
+  "summary": "This content discusses a supply-chain attack where a malicious Rust crate named Arrayref executes a build-time payload. It highlights security risks in open-source dependencies, emphasizing the need for vigilance in package management and CI/CD pipelines.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-21T08:28:49.084437Z",
+  "updated_at": "2026-08-21T08:29:14.217194Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260821-b1e",
+  "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+  "source": "rss",
+  "summary": "LFM2.5-DSpark is a new model variant that achieves up to 3.2x faster inference compared to its predecessor, likely through architectural optimizations or quantization. The focus is on improving deployment efficiency without sacrificing quality, making it suitable for production environments with latency constraints.",
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-21T08:28:49.801246Z",
+  "updated_at": "2026-08-21T08:29:14.218254Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260821-0d3",
+  "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+  "source_url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+  "source": "rss",
+  "summary": "This article reveals that AliExpress uses silent WebAudio fingerprinting, which interferes with Bluetooth multipoint connections by emitting inaudible ultrasonic tones. The technique exploits browser audio APIs to track users, causing devices to disconnect or switch audio streams. It highlights privacy and security implications of advanced web tracking methods.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-21T08:28:49.084492Z",
+  "updated_at": "2026-08-21T08:29:14.217204Z"
+}
