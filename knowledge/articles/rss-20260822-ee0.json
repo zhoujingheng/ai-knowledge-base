@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260822-ee0",
+  "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+  "source_url": "https://lina.sh/blog/hijacking-e164-arpa",
+  "source": "rss",
+  "summary": "A developer accidentally routed hundreds of thousands of phone calls to military bases due to a misconfiguration involving E.164 number mapping and the .arpa domain. The incident highlights pitfalls in telephony systems, DNS, and automated call routing, offering lessons on unintended side effects in networked infrastructure.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-22T08:18:10.300355Z",
+  "updated_at": "2026-08-22T08:18:37.833149Z"
+}

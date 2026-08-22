@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260822-406",
+  "title": "Felony Bench",
+  "source_url": "https://www.felonybench.com/",
+  "source": "rss",
+  "summary": "Felony Bench is a benchmark or evaluation framework for AI models, likely focusing on legal or criminal justice scenarios. It appears to test model performance on felony-related tasks, possibly for legal reasoning or decision-making. The high engagement suggests community interest in assessing AI capabilities in high-stakes domains.",
+  "tags": [
+    "research",
+    "llm",
+    "evaluation"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-22T08:18:10.300252Z",
+  "updated_at": "2026-08-22T08:18:37.833100Z"
+}

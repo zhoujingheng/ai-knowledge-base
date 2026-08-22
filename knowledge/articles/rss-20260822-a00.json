@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260822-a00",
+  "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+  "source_url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+  "source": "rss",
+  "summary": "This project addresses the common issue of AI models like Claude producing overly enthusiastic, listicle-style responses. It provides a tool or prompt-engineering approach to make Claude's output more neutral and professional, reducing 'BuzzFeed-like' language. The GitHub repo includes a README with implementation details, and the Hacker News discussion highlights community interest in controlling AI tone.",
+  "tags": [
+    "prompt-engineering",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-22T08:18:10.300284Z",
+  "updated_at": "2026-08-22T08:18:37.833110Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260822-3b3",
+  "title": "Kobo can run apps now",
+  "source_url": "https://bandarlabs.github.io/Cobalt/",
+  "source": "rss",
+  "summary": "Cobalt enables Kobo e-readers to run Android apps, expanding their functionality beyond reading. The project likely involves porting or compatibility layers, sparking community interest in repurposing hardware. It highlights creative use of existing devices for broader app support.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-22T08:18:10.300228Z",
+  "updated_at": "2026-08-22T08:18:37.833069Z"
+}

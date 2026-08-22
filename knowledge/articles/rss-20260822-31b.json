@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260822-31b",
+  "title": "Measuring benchmark optimization in speech recognition",
+  "source_url": "https://huggingface.co/blog/asr-benchmark-optimization",
+  "source": "rss",
+  "summary": "This content likely discusses methods to quantify how much speech recognition models are optimized for specific benchmarks, potentially addressing overfitting or benchmark gaming. It may involve evaluating generalization, robustness, or fairness across datasets.",
+  "tags": [
+    "research",
+    "evaluation",
+    "fine-tuning"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-22T08:18:11.306712Z",
+  "updated_at": "2026-08-22T08:18:37.834213Z"
+}

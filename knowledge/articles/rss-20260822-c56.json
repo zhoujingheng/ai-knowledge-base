@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260822-c56",
+  "title": "Kagi added a setting for removing paywalled links from search results",
+  "source_url": "https://kagi.com/changelog#11296",
+  "source": "rss",
+  "summary": "Kagi introduces a user setting to filter out paywalled links from search results, addressing user frustration with inaccessible content. The feature is simple but impactful, reflecting a product decision rather than a technical AI advancement. It highlights practical UX considerations in search, though it doesn't involve complex ML techniques.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-08-22T08:18:10.300321Z",
+  "updated_at": "2026-08-22T08:18:37.833121Z"
+}

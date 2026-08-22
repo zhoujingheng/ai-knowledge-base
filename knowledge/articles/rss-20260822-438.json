@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260822-438",
+  "title": "There's no reason for software to be slow anymore",
+  "source_url": "https://danluu.com/perf-opt/",
+  "source": "rss",
+  "summary": "Dan Luu argues that software performance is often neglected due to cultural and organizational reasons, not technical infeasibility. He highlights how simple optimizations can yield massive speedups, and critiques the acceptance of slow software as inevitable, urging developers to prioritize performance as a feature.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-08-22T08:18:10.300196Z",
+  "updated_at": "2026-08-22T08:18:37.833087Z"
+}
