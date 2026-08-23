@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260823-707",
+  "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+  "source_url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+  "source": "rss",
+  "summary": "This article discusses the deprecation of the hdiutil command-line tool in macOS 27 Golden Gate, signaling a shift in how Apple handles disk images and system utilities. It explores implications for developers and users, including potential migration paths and impact on existing workflows.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-23T08:19:03.437762Z",
+  "updated_at": "2026-08-23T08:19:30.356282Z"
+}

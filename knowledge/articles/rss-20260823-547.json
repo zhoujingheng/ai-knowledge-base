@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260823-547",
+  "title": "Why your local LLM feels dumber than it is",
+  "source_url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+  "source": "rss",
+  "summary": "The article explains why locally run LLMs may underperform compared to cloud models, attributing it to quantization, context window limits, and suboptimal sampling parameters. It offers practical tuning advice to improve perceived intelligence, emphasizing that hardware constraints often mask the model's true capability.",
+  "tags": [
+    "llm",
+    "deployment",
+    "fine-tuning"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-23T08:19:03.437817Z",
+  "updated_at": "2026-08-23T08:19:30.356313Z"
+}

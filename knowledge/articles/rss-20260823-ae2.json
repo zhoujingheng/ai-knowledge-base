@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260823-ae2",
+  "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+  "source_url": "https://twitter.com/argofowl/status/2091150597374537729",
+  "source": "rss",
+  "summary": "Anthropic is reportedly A/B testing reduced effort levels in Claude Code, potentially affecting how much reasoning or processing the coding agent applies to tasks. The community discusses implications for performance, user experience, and cost, with mixed reactions on whether lower effort degrades output quality or improves efficiency.",
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-23T08:19:03.437914Z",
+  "updated_at": "2026-08-23T08:19:30.356300Z"
+}

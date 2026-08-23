@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260823-273",
+  "title": "A week of using Codex more than Claude",
+  "source_url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+  "source": "rss",
+  "summary": "The author shares a week-long experience using OpenAI's Codex more than Claude, comparing coding workflows, strengths, and weaknesses. They discuss practical trade-offs in code generation, debugging, and tool integration, offering insights for developers choosing between AI assistants.",
+  "tags": [
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-08-23T08:19:03.438213Z",
+  "updated_at": "2026-08-23T08:19:30.356472Z"
+}
