@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260824-df1",
+  "title": "How Complex Systems Fail",
+  "source_url": "https://how.complexsystems.fail/",
+  "source": "rss",
+  "summary": "This is a classic essay on the nature of failure in complex systems, originally by Richard Cook. It argues that complex systems are inherently hazardous and run in a degraded mode, with failure being a normal occurrence rather than an anomaly. It emphasizes that safety is a dynamic, non-linear property and that hindsight bias distorts our understanding of accidents.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-24T08:37:32.730821Z",
+  "updated_at": "2026-08-24T08:37:59.537755Z"
+}

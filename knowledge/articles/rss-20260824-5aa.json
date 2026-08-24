@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260824-5aa",
+  "title": "Malware infects Android-based automotive head unit firmware",
+  "source_url": "https://securelist.com/android-head-unit-malware/121106/",
+  "source": "rss",
+  "summary": "This article discusses malware found in Android-based automotive head unit firmware, highlighting security risks in connected vehicles. It details infection methods, potential impacts on vehicle systems, and implications for automotive cybersecurity, emphasizing the need for robust firmware protection and monitoring.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-24T08:37:32.730978Z",
+  "updated_at": "2026-08-24T08:37:59.537841Z"
+}

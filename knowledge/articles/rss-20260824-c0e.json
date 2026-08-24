@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260824-c0e",
+  "title": "AI Chip Architectures",
+  "source_url": "https://www.jepeake.com/ai-chip-architectures",
+  "source": "rss",
+  "summary": "This content discusses AI chip architectures, likely covering hardware design trade-offs for AI workloads, such as memory bandwidth, compute density, and specialized accelerators. It appears to be a link to a discussion thread, so the summary reflects the topic's focus on hardware rather than software.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-24T08:37:33.194036Z",
+  "updated_at": "2026-08-24T08:37:59.538211Z"
+}

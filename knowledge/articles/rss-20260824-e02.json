@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260824-e02",
+  "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+  "source_url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+  "source": "rss",
+  "summary": "This content discusses a cybersecurity incident where Russian backdoors were discovered in traffic speed cameras in Slovakia. It highlights vulnerabilities in IoT/embedded systems used in public infrastructure, emphasizing risks of supply chain compromise and national security implications. The article is from Risky.biz and shared on Hacker News, focusing on real-world security threats rather than AI/ML techniques.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-08-24T08:37:32.730864Z",
+  "updated_at": "2026-08-24T08:37:59.537741Z"
+}

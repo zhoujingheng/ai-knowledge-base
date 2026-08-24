@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260824-47b",
+  "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+  "source_url": "https://martypc.net/",
+  "source": "rss",
+  "summary": "MartyPC is a cross-platform emulator for early IBM PCs, written in Rust. It focuses on accurate hardware emulation, including cycle-level CPU and video behavior, targeting enthusiasts and developers interested in retro computing.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-24T08:37:32.731115Z",
+  "updated_at": "2026-08-24T08:37:59.537866Z"
+}
