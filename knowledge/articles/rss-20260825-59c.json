@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260825-59c",
+  "title": "The entire city of San Francisco as a video game",
+  "source_url": "https://sf.thijs.gg/",
+  "source": "rss",
+  "summary": "The post links to a tweet showcasing a project that renders the entire city of San Francisco as a playable video game, likely using AI/ML for procedural generation or real-time simulation. The HN discussion focuses on technical implementation, scalability, and potential use cases, but the original content lacks detailed technical specifics.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-08-25T08:31:26.390537Z",
+  "updated_at": "2026-08-25T08:31:49.667198Z"
+}

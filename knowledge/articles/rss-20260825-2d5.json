@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260825-2d5",
+  "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
+  "source_url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
+  "source": "rss",
+  "summary": "The article discusses a major data loss incident affecting over 170,000 nonprofits, allegedly due to Microsoft software issues. It explores accountability, technical failures, and the impact on organizations relying on cloud services. The piece raises questions about data resilience and vendor responsibility in critical infrastructure.",
+  "tags": [
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-25T08:31:26.390945Z",
+  "updated_at": "2026-08-25T08:31:49.667423Z"
+}

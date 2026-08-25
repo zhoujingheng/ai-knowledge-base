@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260825-884",
+  "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+  "source_url": "https://developers.openai.com/api/docs/pricing",
+  "source": "rss",
+  "summary": "OpenAI announces a temporary price reduction for GPT-5.6 API usage, effective until at least November 21. The change lowers costs for developers, likely to encourage adoption or respond to competition. The announcement includes updated pricing details on their official docs, with community discussion on Hacker News.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-08-25T08:31:26.390635Z",
+  "updated_at": "2026-08-25T08:31:49.667232Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260825-a02",
+  "title": "I built a low-latency AI companion that plays Skyrim with me",
+  "source_url": "https://pantel.is/projects/ai-gaming-companion/",
+  "source": "rss",
+  "summary": "The author built a low-latency AI companion that interacts with the user while playing Skyrim, likely using real-time voice or text input to provide contextual responses. The project focuses on minimizing latency for immersive gameplay, integrating AI with game state awareness.",
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-25T08:31:26.390832Z",
+  "updated_at": "2026-08-25T08:31:49.667362Z"
+}

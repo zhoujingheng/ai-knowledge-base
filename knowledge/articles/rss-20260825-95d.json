@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260825-95d",
+  "title": "Executable Is a SQLite Database",
+  "source_url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+  "source": "rss",
+  "summary": "The article proposes treating executable binaries as SQLite databases, enabling queryable metadata and structured access to program internals. It explores embedding SQLite schemas within executables for introspection, debugging, and tooling, blending OS-level formats with database capabilities. The idea is novel but practical, with implications for software analysis and deployment.",
+  "tags": [
+    "tool",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-25T08:31:26.390807Z",
+  "updated_at": "2026-08-25T08:31:49.667382Z"
+}

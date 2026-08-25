@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260825-989",
+  "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+  "source_url": "https://twitter.com/lemire/status/2091894299289874926",
+  "source": "rss",
+  "summary": "Discussion of Xiaomi's new CPU claiming single-threaded performance on par with Apple cores and superior multithreaded performance, based on a tweet by Daniel Lemire. Comments analyze benchmarks, architecture implications, and potential impacts on AI/ML workloads, though no direct AI/ML content is present.",
+  "tags": [
+    "hardware",
+    "performance"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-25T08:31:26.390715Z",
+  "updated_at": "2026-08-25T08:31:49.667309Z"
+}

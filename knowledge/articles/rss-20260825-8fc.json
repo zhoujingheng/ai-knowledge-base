@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260825-8fc",
+  "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+  "source_url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+  "source": "rss",
+  "summary": "This article reveals that Microsoft Paint and Photos embed invisible watermarks (GUIDs) into locally generated images, even without cloud involvement. The author reverse-engineers the process, showing how metadata and pixel-level patterns encode unique identifiers, raising privacy and forensic implications for users.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-25T08:31:26.390614Z",
+  "updated_at": "2026-08-25T08:31:49.667222Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260825-eed",
+  "title": "Google Workspace thinks my domain is an email provider (2025)",
+  "source_url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+  "source": "rss",
+  "summary": "A user details troubleshooting Google Workspace incorrectly classifying their custom domain as an email provider, causing delivery issues. The article explores configuration settings, DNS records, and support interactions, offering practical fixes and insights into Google's domain reputation system.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-25T08:31:26.390900Z",
+  "updated_at": "2026-08-25T08:31:49.667403Z"
+}
