@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260826-6ad",
+  "title": "Granite 4.2 LLMs: How They&apos;re Built",
+  "source_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+  "source": "rss",
+  "summary": "This content explains the architecture and training methodology behind Granite 4.2 LLMs, covering model design, data processing, and optimization techniques. It likely targets developers interested in understanding the internal construction of these models, including key components like attention mechanisms and training pipelines.",
+  "tags": [
+    "llm",
+    "research",
+    "fine-tuning"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-26T08:32:36.317817Z",
+  "updated_at": "2026-08-26T08:33:00.797903Z"
+}

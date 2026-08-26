@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260826-cc5",
+  "title": "Firefox 157 will include JPEG XL by default on all platforms",
+  "source_url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+  "source": "rss",
+  "summary": "Mozilla announces Firefox 157 will enable JPEG XL by default across all platforms, a next-gen image codec offering superior compression and quality. This move follows years of advocacy and testing, positioning Firefox as a leader in modern web imaging standards, though it may impact compatibility and performance considerations for developers and users.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-26T08:32:35.908636Z",
+  "updated_at": "2026-08-26T08:33:00.796459Z"
+}

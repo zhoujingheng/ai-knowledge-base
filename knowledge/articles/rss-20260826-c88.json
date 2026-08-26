@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260826-c88",
+  "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+  "source_url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
+  "source": "rss",
+  "summary": "Qwen is releasing a new model, Qwen 3.8-Flash-Next, a 125B parameter model with 6B active parameters (MoE), optimized for efficiency and performance. The announcement on ModelScope and Hacker News highlights its upcoming availability, likely targeting deployment in resource-constrained environments while maintaining high capability.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-26T08:32:35.909054Z",
+  "updated_at": "2026-08-26T08:33:00.796780Z"
+}

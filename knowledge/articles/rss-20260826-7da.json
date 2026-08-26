@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260826-7da",
+  "title": "Don't Wordle",
+  "source_url": "https://dontwordle.com/",
+  "source": "rss",
+  "summary": "Don't Wordle is a playful, interactive web game that challenges players to avoid forming valid Wordle words while solving a puzzle. It flips the classic Wordle mechanic, requiring strategic letter placement to dodge dictionary matches. The site is a fun, lightweight demonstration of game design and word-list logic, not a technical AI/ML project.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-08-26T08:32:35.909026Z",
+  "updated_at": "2026-08-26T08:33:00.796721Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260826-645",
+  "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+  "source_url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+  "source": "rss",
+  "summary": "The post discusses a Bloomberg article claiming OpenAI's 'Jalapeño' chip outperforms Nvidia's Blackwell, sparking debate on custom silicon vs. general-purpose GPUs for AI workloads. It highlights potential shifts in hardware strategy, cost efficiency, and market implications, but lacks technical specifics, focusing more on industry speculation and competitive dynamics.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-26T08:32:35.908924Z",
+  "updated_at": "2026-08-26T08:33:00.796677Z"
+}

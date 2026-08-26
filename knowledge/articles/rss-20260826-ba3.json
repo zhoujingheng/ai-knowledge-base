@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260826-ba3",
+  "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+  "source": "rss",
+  "summary": "The content introduces a novel quantization-aware healing technique that enables a 4-bit compressed model to surpass its full-precision counterpart. This suggests a breakthrough in model compression, likely involving iterative fine-tuning or corrective training to recover and enhance performance post-quantization, offering efficiency gains without quality loss.",
+  "tags": [
+    "fine-tuning",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-08-26T08:32:36.317833Z",
+  "updated_at": "2026-08-26T08:33:00.797977Z"
+}

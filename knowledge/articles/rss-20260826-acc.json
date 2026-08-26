@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260826-acc",
+  "title": "A Manifesto for Responsible Agentic Coding",
+  "source_url": "https://www.techwerkers.nl/en/posts/manifesto-responsible-agentic-coding/",
+  "source": "rss",
+  "summary": "This manifesto advocates for responsible use of AI coding agents, emphasizing human oversight, clear boundaries, and accountability. It argues against fully autonomous coding, promoting a collaborative model where agents assist but humans retain control, ensuring code quality, security, and ethical practices.",
+  "tags": [
+    "agent",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-08-26T08:32:36.047799Z",
+  "updated_at": "2026-08-26T08:33:00.796939Z"
+}

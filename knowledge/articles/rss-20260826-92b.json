@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260826-92b",
+  "title": "AI At Home Part 2: Multi GPU Drifting",
+  "source_url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+  "source": "rss",
+  "summary": "This article discusses setting up multi-GPU systems for AI workloads at home, focusing on 'drifting'—likely referring to model parallelism or distributed inference across GPUs. It covers practical challenges and solutions for running large models locally, including hardware setup and software configuration.",
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-26T08:32:36.047780Z",
+  "updated_at": "2026-08-26T08:33:00.796915Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260826-9c9",
+  "title": "How much of HN is AI?",
+  "source_url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+  "source": "rss",
+  "summary": "The article analyzes Hacker News submissions and comments to estimate the proportion of AI-generated or AI-related content, using heuristics and sampling. It explores trends over time, discusses implications for community quality, and offers insights into how AI is shaping online discourse.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-26T08:32:35.908823Z",
+  "updated_at": "2026-08-26T08:33:00.796580Z"
+}
