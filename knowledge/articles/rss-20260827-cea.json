@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260827-cea",
+  "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+  "source_url": "https://huggingface.co/blog/train-multi-vector-encoder",
+  "source": "rss",
+  "summary": "This content covers training and fine-tuning multi-vector embedding models using the Sentence Transformers library. It likely explains how to adapt models for tasks like retrieval or similarity, focusing on multi-vector architectures (e.g., ColBERT) and practical implementation steps.",
+  "tags": [
+    "fine-tuning",
+    "framework",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-27T18:39:23.809907Z",
+  "updated_at": "2026-08-27T18:39:48.942369Z"
+}

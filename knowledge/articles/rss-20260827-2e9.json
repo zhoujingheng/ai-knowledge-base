@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260827-2e9",
+  "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+  "source_url": "https://github.com/tailscale/tailcat",
+  "source": "rss",
+  "summary": "Tailcat is a tool that replicates netcat's functionality but operates over Tailscale's encrypted WireGuard-based data plane, enabling secure, private network connections between devices in a tailnet. It simplifies debugging and data transfer without exposing services publicly, leveraging Tailscale's identity and access controls.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-27T18:39:22.815412Z",
+  "updated_at": "2026-08-27T18:39:48.940394Z"
+}

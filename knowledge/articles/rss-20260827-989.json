@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260827-989",
+  "title": "Microduck",
+  "source_url": "https://pollen-robotics.com/microduck/",
+  "source": "rss",
+  "summary": "Microduck is a compact, open-source quadruped robot designed for AI/ML experimentation, featuring low-cost hardware and a Python-based SDK. It enables reinforcement learning, computer vision, and edge inference on-device, targeting hobbyists and researchers for agile locomotion and autonomous navigation tasks.",
+  "tags": [
+    "framework",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-27T18:39:22.815107Z",
+  "updated_at": "2026-08-27T18:39:48.940259Z"
+}

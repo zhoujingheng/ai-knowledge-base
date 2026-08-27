@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260827-be8",
+  "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
+  "source_url": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
+  "source": "rss",
+  "summary": "CoMaps is an offline mapping app used by rescuers in Venezuela during a crisis when cellular networks were down. It preloaded OpenStreetMap data and enabled navigation, location sharing, and coordination without internet. The article highlights its practical deployment in disaster response, emphasizing user-centered design and real-world impact over technical novelty.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-27T18:39:22.815487Z",
+  "updated_at": "2026-08-27T18:39:48.940419Z"
+}

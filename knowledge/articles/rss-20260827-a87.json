@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260827-a87",
+  "title": "Nvidia agrees to acquire Hugging Face for $13B",
+  "source_url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+  "source": "rss",
+  "summary": "Nvidia reportedly agrees to acquire Hugging Face for $13B, a major consolidation in AI infrastructure and model distribution. The deal would combine Nvidia's hardware dominance with Hugging Face's platform for open-source models, potentially reshaping AI development workflows and access to pretrained models.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-27T18:39:22.815260Z",
+  "updated_at": "2026-08-27T18:39:48.940301Z"
+}

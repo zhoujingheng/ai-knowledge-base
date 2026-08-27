@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260827-9d7",
+  "title": "Asahi Linux Progress Report: Linux 7.2",
+  "source_url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+  "source": "rss",
+  "summary": "Asahi Linux's progress report covers Linux 7.2, focusing on hardware enablement for Apple Silicon Macs, including GPU driver improvements, power management, and broader device support. It highlights ongoing kernel development and community contributions, but does not center on AI/ML-specific features.",
+  "tags": [
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-27T18:39:22.815335Z",
+  "updated_at": "2026-08-27T18:39:48.940294Z"
+}

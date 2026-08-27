@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260827-520",
+  "title": "Mechanical Turk shutting down September 30",
+  "source_url": "https://www.mturk.com/",
+  "source": "rss",
+  "summary": "Amazon Mechanical Turk, a crowdsourcing platform for human intelligence tasks, is shutting down on September 30. This impacts many AI data labeling workflows and researchers relying on human-in-the-loop annotation. The shutdown signals a shift in how AI training data is sourced, potentially affecting small-scale ML projects and academic research.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-27T18:39:22.815296Z",
+  "updated_at": "2026-08-27T18:39:48.940378Z"
+}

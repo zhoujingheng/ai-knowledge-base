@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260827-260",
+  "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+  "source_url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+  "source": "rss",
+  "summary": "Gemini 3.5 Transcribe introduces enhanced speech-to-text capabilities, leveraging advanced AI for more intelligent transcription. It likely improves accuracy, context understanding, and handling of complex audio, making it a practical tool for developers and businesses.",
+  "tags": [
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-27T18:39:24.632451Z",
+  "updated_at": "2026-08-27T18:39:48.943247Z"
+}

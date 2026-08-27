@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260827-c8d",
+  "title": "An ongoing 3D-printer AGPL violation",
+  "source_url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+  "source": "rss",
+  "summary": "This article discusses an ongoing AGPL license violation involving a 3D-printer company that uses open-source software without complying with the license terms. It highlights legal and community implications, emphasizing the importance of enforcing open-source licenses in hardware-software ecosystems.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-27T18:39:22.815436Z",
+  "updated_at": "2026-08-27T18:39:48.940410Z"
+}

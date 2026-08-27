@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260827-c04",
+  "title": "The Hugging Face incident and the road ahead",
+  "source_url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+  "source": "rss",
+  "summary": "OpenAI discusses a security incident involving Hugging Face, emphasizing the importance of robust AI supply chain security. The article outlines lessons learned and proposes industry-wide measures to prevent similar vulnerabilities, highlighting the need for collaboration and transparency in AI development.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-27T18:39:22.815380Z",
+  "updated_at": "2026-08-27T18:39:48.940308Z"
+}

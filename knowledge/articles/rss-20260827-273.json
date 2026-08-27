@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260827-273",
+  "title": "Tell HN: PayPal blocks GrapheneOS",
+  "source_url": "https://news.ycombinator.com/item?id=49462253",
+  "source": "rss",
+  "summary": "PayPal's Android app now crashes on GrapheneOS due to a root detection security exception, likely triggered by the custom OS's security features. Users report the app fails to launch, possibly related to NFC card settings. This highlights challenges of running banking apps on de-Googled or hardened Android systems.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-27T18:39:22.815159Z",
+  "updated_at": "2026-08-27T18:39:48.940278Z"
+}

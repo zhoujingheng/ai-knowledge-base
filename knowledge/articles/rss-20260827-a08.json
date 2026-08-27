@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260827-a08",
+  "title": "Piloting the world's first double-blind AI evaluations",
+  "source_url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+  "source": "rss",
+  "summary": "This content describes a pilot initiative for the world's first double-blind AI evaluations, aiming to reduce bias in AI assessment by hiding model identities from evaluators. It likely focuses on methodology for fairer benchmarking.",
+  "tags": [
+    "research",
+    "evaluation"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-27T18:39:24.632436Z",
+  "updated_at": "2026-08-27T18:39:48.943239Z"
+}
