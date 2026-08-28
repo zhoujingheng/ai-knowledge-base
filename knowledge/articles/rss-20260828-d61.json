@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260828-d61",
+  "title": "Small Models Have Arrived",
+  "source_url": "https://calv.info/small-models-have-arrived",
+  "source": "rss",
+  "summary": "The article argues that small language models (SLMs) are now competitive with large models for many tasks, offering lower cost, latency, and privacy benefits. It highlights recent advances in model efficiency and suggests that the industry's focus on scaling up may be shifting toward practical, compact solutions.",
+  "tags": [
+    "llm",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-28T19:47:48.155906Z",
+  "updated_at": "2026-08-28T19:48:14.217704Z"
+}

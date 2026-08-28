@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260828-58b",
+  "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+  "source_url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+  "source": "rss",
+  "summary": "Cloudflare details how they reduced DNS cache memory usage by 100 TB across their 1.1.1.1 resolver, using algorithmic optimizations like compact data structures and cache eviction strategies. The post covers engineering trade-offs, performance impacts, and real-world deployment lessons, making it a deep systems optimization case study rather than a typical ML application.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-08-28T19:47:48.155863Z",
+  "updated_at": "2026-08-28T19:48:14.217684Z"
+}

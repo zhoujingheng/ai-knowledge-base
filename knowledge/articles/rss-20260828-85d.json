@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260828-85d",
+  "title": "Htmx 4.0",
+  "source_url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+  "source": "rss",
+  "summary": "Htmx 4.0 is a major release of the hypermedia-driven web framework, introducing new features and improvements for building dynamic web applications without heavy JavaScript. The announcement highlights enhanced server-side integration, better accessibility, and performance optimizations, catering to developers seeking a simpler alternative to modern frontend frameworks.",
+  "tags": [
+    "framework"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-28T19:47:48.155628Z",
+  "updated_at": "2026-08-28T19:48:14.217589Z"
+}

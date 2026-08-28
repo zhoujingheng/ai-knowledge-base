@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260828-23f",
+  "title": "Gemini-3.5-Transcribe",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+  "source": "rss",
+  "summary": "Google announces Gemini-3.5-Transcribe, a specialized model for high-accuracy audio transcription, addressing challenges like speaker diarization, noise robustness, and multilingual support. It integrates with Gemini APIs and offers improved latency and cost efficiency, targeting developers and enterprises for real-time and batch transcription workflows.",
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-28T19:47:48.155818Z",
+  "updated_at": "2026-08-28T19:48:14.217673Z"
+}

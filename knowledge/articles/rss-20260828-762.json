@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260828-762",
+  "title": "Suica, Japan's First IC Transit Card",
+  "source_url": "https://www.tokyodev.com/articles/the-story-of-suica",
+  "source": "rss",
+  "summary": "This article covers the history and technical implementation of Suica, Japan's pioneering IC transit card system, including its RFID technology, fare calculation, and widespread adoption. It focuses on the engineering and societal impact rather than AI/ML, with no direct machine learning content.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-08-28T19:47:48.155931Z",
+  "updated_at": "2026-08-28T19:48:14.217781Z"
+}

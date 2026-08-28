@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260828-8ad",
+  "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+  "source_url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+  "source": "rss",
+  "summary": "The article discusses using a 'vibecoded' fuzzer (likely AI-generated or loosely specified) to discover a division by zero bug in FFmpeg, highlighting the potential of AI-assisted fuzzing for vulnerability discovery. It includes community discussion on the approach's effectiveness and implications for automated testing.",
+  "tags": [
+    "tool",
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-28T19:47:48.155840Z",
+  "updated_at": "2026-08-28T19:48:14.217663Z"
+}

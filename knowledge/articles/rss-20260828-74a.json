@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260828-74a",
+  "title": "GUIs should be fully keyboard-driven",
+  "source_url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+  "source": "rss",
+  "summary": "The article argues that graphical user interfaces should be fully operable via keyboard, citing efficiency, accessibility, and power-user benefits. It critiques current GUI designs that force mouse reliance and proposes design principles for keyboard-first interaction, potentially impacting AI-driven UI automation and accessibility tools.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-28T19:47:48.155575Z",
+  "updated_at": "2026-08-28T19:48:14.217578Z"
+}

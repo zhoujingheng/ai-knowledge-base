@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260828-2e5",
+  "title": "Inception-style curved map for turn-by-turn directions",
+  "source_url": "https://www.orbify.eu/demo/",
+  "source": "rss",
+  "summary": "This is a demo of an inception-style curved map interface for turn-by-turn navigation, likely using AI/ML for route visualization. It presents a novel UI approach rather than a technical ML advancement, with community discussion on usability and implementation.",
+  "tags": [
+    "tool",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-28T19:47:48.155711Z",
+  "updated_at": "2026-08-28T19:48:14.217610Z"
+}
