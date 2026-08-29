@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260829-5f6",
+  "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+  "source_url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+  "source": "rss",
+  "summary": "The Open ASR Leaderboard introduces its first language from the Global South, expanding speech recognition benchmarks beyond dominant languages. This move aims to improve ASR accessibility and evaluation for underrepresented regions, fostering more inclusive AI development.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-29T13:29:33.714461Z",
+  "updated_at": "2026-08-29T13:29:59.268468Z"
+}

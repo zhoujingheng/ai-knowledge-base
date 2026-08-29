@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260829-e11",
+  "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+  "source_url": "https://github.com/Lakr233/vphone-cli",
+  "source": "rss",
+  "summary": "This project demonstrates booting a virtual iPhone using Apple's Virtualization.framework, enabling iOS-like environments on macOS. It leverages virtualization for development and testing, with a CLI tool for management. The content focuses on practical implementation rather than AI/ML, touching on system-level engineering.",
+  "tags": [
+    "tool",
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-29T13:29:32.877057Z",
+  "updated_at": "2026-08-29T13:29:59.267286Z"
+}

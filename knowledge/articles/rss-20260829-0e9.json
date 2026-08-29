@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260829-0e9",
+  "title": "Please stop flooding our projects with AI slop to furnish your CV",
+  "source_url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+  "source": "rss",
+  "summary": "The article criticizes developers for submitting low-quality, AI-generated code contributions primarily to boost their CVs, flooding open-source projects with 'slop.' It argues this harms project quality and maintainer trust, urging contributors to prioritize meaningful, human-reviewed work over volume.",
+  "tags": [
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-29T13:29:32.877448Z",
+  "updated_at": "2026-08-29T13:29:59.267522Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260829-3c4",
+  "title": "The Twelve-Factor App (2025)",
+  "source_url": "https://12factor.net/",
+  "source": "rss",
+  "summary": "The Twelve-Factor App methodology, updated for 2025, provides best practices for building modern, scalable, and portable software-as-a-service applications. It emphasizes declarative configuration, clean separation of concerns, and continuous deployment, adapting principles for cloud-native and AI-driven workloads.",
+  "tags": [
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-08-29T13:29:32.877499Z",
+  "updated_at": "2026-08-29T13:29:59.267654Z"
+}
