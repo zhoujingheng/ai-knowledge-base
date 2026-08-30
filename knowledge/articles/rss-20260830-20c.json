@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260830-20c",
+  "title": "Bug Blindness",
+  "source_url": "https://danluu.com/bug-blind/",
+  "source": "rss",
+  "summary": "Dan Luu discusses how developers often become 'blind' to bugs in their own code due to familiarity and confirmation bias, leading to repeated mistakes. He explores cognitive factors, code review limitations, and suggests techniques like fresh perspectives and structured debugging to mitigate this issue.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-30T13:26:02.541700Z",
+  "updated_at": "2026-08-30T13:26:27.543702Z"
+}

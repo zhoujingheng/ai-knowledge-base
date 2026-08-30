@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260830-977",
+  "title": "Samsung's Processing-in-Memory (PIM)",
+  "source_url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+  "source": "rss",
+  "summary": "Samsung's Processing-in-Memory (PIM) technology integrates compute units directly into memory chips, reducing data movement bottlenecks for AI workloads. The article covers PIM's architecture, performance gains, and energy efficiency, highlighting its potential for future AI accelerators and edge devices.",
+  "tags": [
+    "hardware",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-08-30T13:26:02.542066Z",
+  "updated_at": "2026-08-30T13:26:27.543924Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260830-bfa",
+  "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+  "source_url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
+  "source": "rss",
+  "summary": "GrapheneOS reports that the Pixel 11 drops hardware memory tagging (MTE), a security feature that helps detect memory corruption. This impacts their hardening efforts, as MTE was a key mitigation. The project discusses implications for Android security and potential software-based alternatives.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-30T13:26:02.542005Z",
+  "updated_at": "2026-08-30T13:26:27.543865Z"
+}

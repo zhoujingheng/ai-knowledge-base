@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260830-c4b",
+  "title": "I accidentally turned LLM memory into program analysis",
+  "source_url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+  "source": "rss",
+  "summary": "The author describes an accidental discovery where LLM memory mechanisms, when probed, reveal program-like structures and enable static analysis of model behavior. This unconventional approach treats latent memory as executable code, offering new insights into interpretability and debugging of LLMs.",
+  "tags": [
+    "research",
+    "llm",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-08-30T13:26:02.542129Z",
+  "updated_at": "2026-08-30T13:26:27.543948Z"
+}

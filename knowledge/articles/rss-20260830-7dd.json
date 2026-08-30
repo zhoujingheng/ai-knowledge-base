@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260830-7dd",
+  "title": "EasyEffects can improve laptop speaker sound quality",
+  "source_url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+  "source": "rss",
+  "summary": "This article advocates for EasyEffects, a Linux audio processing tool, to be preinstalled in distributions to enhance laptop speaker quality. It argues that built-in presets and equalization can dramatically improve sound output, addressing poor default hardware tuning. The discussion highlights user experiences and technical setup, but it is not AI/ML-specific.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-08-30T13:26:02.542286Z",
+  "updated_at": "2026-08-30T13:26:27.544074Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260830-9b3",
+  "title": "Debian votes to allow \"responsible use of generative AI\"",
+  "source_url": "https://lwn.net/Articles/1091231/",
+  "source": "rss",
+  "summary": "Debian's community voted to permit responsible use of generative AI in project activities, balancing innovation with ethical guidelines. The decision addresses concerns about copyright, transparency, and community norms, reflecting broader debates on AI adoption in open-source ecosystems.",
+  "tags": [
+    "policy",
+    "community"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-30T13:26:02.542026Z",
+  "updated_at": "2026-08-30T13:26:27.543878Z"
+}

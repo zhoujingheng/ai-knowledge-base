@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260830-3b2",
+  "title": "StemDeck, a free, open-source and local AI stem separator",
+  "source_url": "https://github.com/stemdeckapp/stemdeck",
+  "source": "rss",
+  "summary": "StemDeck is a free, open-source, local AI tool for separating audio stems (vocals, instruments). It prioritizes privacy and offline use, offering a user-friendly interface for music production and remixing. The project is hosted on GitHub and has gained community attention on Hacker News.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-08-30T13:26:02.542108Z",
+  "updated_at": "2026-08-30T13:26:27.543937Z"
+}

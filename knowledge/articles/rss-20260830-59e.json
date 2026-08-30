@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260830-59e",
+  "title": "Stopping the smart TV from being used against you",
+  "source_url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
+  "source": "rss",
+  "summary": "The article discusses privacy and security risks of smart TVs, which can be exploited via built-in microphones, cameras, and tracking. It offers practical mitigation strategies like disabling features, using network segmentation, and physical covers. The content is practical, not deeply technical, focusing on user-level defense rather than advanced AI/ML methods.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-30T13:26:02.542211Z",
+  "updated_at": "2026-08-30T13:26:27.543960Z"
+}
