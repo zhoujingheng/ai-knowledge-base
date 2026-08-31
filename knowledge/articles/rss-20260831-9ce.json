@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260831-9ce",
+  "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+  "source_url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+  "source": "rss",
+  "summary": "This article discusses a security vulnerability in QubesOS where arbitrary code execution is possible through the copy-to-VM error reporting backchannel. It details the attack vector, impact, and mitigation steps, highlighting the importance of secure inter-VM communication in a compartmentalized OS.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-31T15:42:06.987941Z",
+  "updated_at": "2026-08-31T15:42:32.841249Z"
+}

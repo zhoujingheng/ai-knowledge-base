@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260831-9a0",
+  "title": "Omarchy: Any User Process Can Escalate to Root",
+  "source_url": "https://0xcc.io/posts/omarchy-root-creds/",
+  "source": "rss",
+  "summary": "This article discusses a security vulnerability in Omarchy, a Linux distribution, where any user process can escalate privileges to root. It details the technical flaw, likely involving misconfigured permissions or a flawed design, and provides an analysis of the exploit path. The post is a security research write-up aimed at developers and sysadmins.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-31T15:42:06.987756Z",
+  "updated_at": "2026-08-31T15:42:32.841120Z"
+}

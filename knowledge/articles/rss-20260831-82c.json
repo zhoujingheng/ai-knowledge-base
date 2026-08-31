@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260831-82c",
+  "title": "Understanding ChatGPT Work",
+  "source_url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+  "source": "rss",
+  "summary": "The article explains how ChatGPT works under the hood, covering the transformer architecture, tokenization, attention mechanisms, and the training pipeline (pretraining, fine-tuning, and RLHF). It aims to demystify the model's behavior and limitations for a technical audience, emphasizing practical implications for users and developers.",
+  "tags": [
+    "llm",
+    "research",
+    "fine-tuning"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-31T15:42:06.987683Z",
+  "updated_at": "2026-08-31T15:42:32.841074Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260831-c3e",
+  "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+  "source_url": "https://github.com/anthropics/claude-code/issues/66504",
+  "source": "rss",
+  "summary": "Claude Code now automatically appends session URLs to commit messages and PR descriptions, improving traceability of AI-assisted changes. Users discuss privacy, workflow impact, and configuration options, with mixed reactions on default behavior.",
+  "tags": [
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-08-31T15:42:06.987851Z",
+  "updated_at": "2026-08-31T15:42:32.841131Z"
+}

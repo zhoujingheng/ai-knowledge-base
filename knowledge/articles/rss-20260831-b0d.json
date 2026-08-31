@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260831-b0d",
+  "title": "FreeCORE TrueNAS Core – Continued",
+  "source_url": "https://freecore.org/",
+  "source": "rss",
+  "summary": "FreeCORE is an open-source project providing a free, community-driven alternative to TrueNAS Core, focusing on storage management and NAS functionality. The discussion highlights its features, licensing, and potential as a drop-in replacement, with community feedback on deployment and compatibility.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-08-31T15:42:06.988011Z",
+  "updated_at": "2026-08-31T15:42:32.841305Z"
+}

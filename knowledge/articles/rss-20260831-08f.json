@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260831-08f",
+  "title": "P99 0 ms* autocomplete for 240M domain names",
+  "source_url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+  "source": "rss",
+  "summary": "The article details engineering an autocomplete system for 240 million domain names achieving p99 latency under 1 millisecond. It likely covers data structures, caching, and query optimization for extreme scale and speed, focusing on practical deployment challenges and performance tuning.",
+  "tags": [
+    "deployment",
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-08-31T15:42:06.987660Z",
+  "updated_at": "2026-08-31T15:42:32.841064Z"
+}

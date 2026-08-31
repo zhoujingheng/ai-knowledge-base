@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260831-5b6",
+  "title": "“I just chose words carefully”",
+  "source_url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+  "source": "rss",
+  "summary": "The article reflects on the power of precise language in AI interactions, arguing that careful word choice—rather than complex prompting—can significantly improve LLM outputs. It explores how semantic precision reduces ambiguity and enhances model understanding, offering practical insights for everyday users and developers.",
+  "tags": [
+    "prompt-engineering",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-08-31T15:42:06.987710Z",
+  "updated_at": "2026-08-31T15:42:32.841142Z"
+}

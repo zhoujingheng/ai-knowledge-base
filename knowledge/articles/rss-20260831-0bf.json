@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260831-0bf",
+  "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+  "source_url": "https://arxiv.org/abs/1804.07389",
+  "source": "rss",
+  "summary": "This 2018 paper computes the longest straight-line paths on Earth's surface that lie entirely on water or land, using computational geometry and global elevation data. It presents algorithmic methods to find such geodesic paths, with results like the longest over-water path from Pakistan to Russia. The work is a mathematical/geospatial analysis, not directly AI/ML.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-31T15:42:06.987961Z",
+  "updated_at": "2026-08-31T15:42:32.841270Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260831-ca2",
+  "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+  "source_url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
+  "source": "rss",
+  "summary": "This post analyzes a detailed postmortem by METR and Redwood Research on a security breach at HuggingFace, focusing on the attack's technical execution and the broader implications for AI infrastructure security. It highlights vulnerabilities in CI/CD pipelines and shared model repositories, emphasizing the need for stronger supply-chain defenses in ML workflows.",
+  "tags": [
+    "research",
+    "deployment",
+    "security"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-08-31T15:42:06.987829Z",
+  "updated_at": "2026-08-31T15:42:32.841173Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260831-238",
+  "title": "Breaking Claude Code Opus 5 Auto Mode",
+  "source_url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+  "source": "rss",
+  "summary": "The article explores vulnerabilities and limitations in Claude Code Opus 5's auto mode, likely discussing prompt injection, safety bypasses, or unintended behaviors. It provides technical analysis of breaking the AI's constraints, with community discussion on implications for agentic coding tools.",
+  "tags": [
+    "agent",
+    "llm",
+    "security"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-08-31T15:42:06.987603Z",
+  "updated_at": "2026-08-31T15:42:32.841037Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260831-d58",
+  "title": "Brits would quite like their private messages to stay private",
+  "source_url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+  "source": "rss",
+  "summary": "The article discusses British public opinion favoring strong encryption for private messaging, likely in response to government proposals for backdoors or scanning. It highlights tensions between privacy rights and law enforcement access, reflecting broader debates on secure communication and potential impacts on AI/ML systems that rely on data access.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-08-31T15:42:06.987914Z",
+  "updated_at": "2026-08-31T15:42:32.841259Z"
+}
