@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260901-c53",
+  "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+  "source_url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+  "source": "rss",
+  "summary": "Apple underestimated demand for Mac Mini and Mac Studio, driven by AI workloads and local model inference. The surge highlights growing consumer and developer interest in on-device AI, prompting supply chain adjustments. This reflects broader trends in edge AI and hardware requirements for running LLMs locally.",
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-01T12:54:06.325411Z",
+  "updated_at": "2026-09-01T12:54:32.168698Z"
+}

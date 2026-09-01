@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260901-0c0",
+  "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+  "source_url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+  "source": "rss",
+  "summary": "AnkiDroid, an open-source flashcard app, reports that Google Play now prohibits linking to Open Collective for donations in its listing. The issue sparks community discussion about platform policies, monetization alternatives, and the impact on open-source projects relying on third-party funding links.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-09-01T12:54:06.325103Z",
+  "updated_at": "2026-09-01T12:54:32.168623Z"
+}

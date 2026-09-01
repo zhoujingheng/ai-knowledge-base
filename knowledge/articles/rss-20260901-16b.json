@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260901-16b",
+  "title": "uv: Deduplicate all files in the wheel cache",
+  "source_url": "https://github.com/astral-sh/uv/pull/21327",
+  "source": "rss",
+  "summary": "This PR discusses adding deduplication for files in uv's wheel cache, reducing storage usage by identifying and reusing identical files across packages. It focuses on cache efficiency and implementation details, relevant to Python package management tooling.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-01T12:54:06.325558Z",
+  "updated_at": "2026-09-01T12:54:32.168816Z"
+}

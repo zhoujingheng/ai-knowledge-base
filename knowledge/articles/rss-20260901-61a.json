@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260901-61a",
+  "title": "I turned my security cameras into an automatic bird identification system",
+  "source_url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+  "source": "rss",
+  "summary": "The author details building a DIY bird identification system using security cameras and BirdNET, an AI model for bird sound recognition. The project involves capturing audio from cameras, running BirdNET inference locally, and logging detections. It highlights practical deployment challenges like hardware setup, model integration, and real-world accuracy, offering a hands-on example of edge AI for wildlife monitoring.",
+  "tags": [
+    "deployment",
+    "tool",
+    "fine-tuning"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-01T12:54:06.325310Z",
+  "updated_at": "2026-09-01T12:54:32.168704Z"
+}

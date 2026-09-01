@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260901-fe1",
+  "title": "ChatGPT Work Tool and Skill Reference",
+  "source_url": "https://codex-tool-reference.simonw.chatgpt.site/",
+  "source": "rss",
+  "summary": "A reference guide for ChatGPT's work tool and skills, detailing how to use them for coding, automation, and task execution. It covers practical examples and integration patterns, likely aimed at developers and power users.",
+  "tags": [
+    "tool",
+    "llm",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-01T12:54:06.325382Z",
+  "updated_at": "2026-09-01T12:54:32.168693Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260901-37f",
+  "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+  "source_url": "https://ravynos.com/",
+  "source": "rss",
+  "summary": "RavynOS is a pre-alpha open-source operating system built on Darwin, FreeBSD, and Apple's open-source components. It aims to provide a Unix-like environment with macOS-inspired user experience. The Hacker News discussion focuses on its technical feasibility, licensing, and potential as an alternative to macOS, though it is not directly AI/ML-related.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-09-01T12:54:06.325336Z",
+  "updated_at": "2026-09-01T12:54:32.168687Z"
+}

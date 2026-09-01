@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260901-901",
+  "title": "GPU World",
+  "source_url": "https://www.gpuworld.org/",
+  "source": "rss",
+  "summary": "GPU World is a community-driven resource hub for GPU computing, covering hardware specs, benchmarks, and AI/ML acceleration techniques. It aggregates news, tutorials, and tools for developers and researchers, with active discussion on performance optimization and emerging GPU technologies.",
+  "tags": [
+    "tool",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-01T12:54:06.325135Z",
+  "updated_at": "2026-09-01T12:54:32.168648Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260901-599",
+  "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+  "source_url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+  "source": "rss",
+  "summary": "Google has removed Manifest V2 (MV2) extensions from the Chrome Web Store, including uBlock Origin, as part of its forced migration to Manifest V3. This change impacts ad-blocking capabilities and user privacy, sparking community backlash and discussions about extension ecosystem limitations.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-01T12:54:06.325242Z",
+  "updated_at": "2026-09-01T12:54:32.168674Z"
+}

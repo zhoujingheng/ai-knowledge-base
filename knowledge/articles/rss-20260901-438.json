@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260901-438",
+  "title": "Run macOS Software on Linux",
+  "source_url": "https://www.darlinghq.org/",
+  "source": "rss",
+  "summary": "Darling is an open-source compatibility layer that lets users run macOS software on Linux without a full virtual machine. It translates macOS system calls and frameworks to Linux equivalents, enabling command-line tools and some GUI apps. The project is experimental and not production-ready.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-01T12:54:06.325213Z",
+  "updated_at": "2026-09-01T12:54:32.168664Z"
+}

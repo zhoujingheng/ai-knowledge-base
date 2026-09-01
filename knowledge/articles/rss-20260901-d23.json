@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260901-d23",
+  "title": "Internet centralization and the original sin of NAT",
+  "source_url": "https://dreamstation.systems/personal/ntppost.html",
+  "source": "rss",
+  "summary": "The article discusses how Network Address Translation (NAT) has contributed to internet centralization by breaking end-to-end connectivity, forcing reliance on centralized servers and cloud services. It explores the historical 'original sin' of NAT and its implications for peer-to-peer communication, privacy, and the future of internet architecture.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-01T12:54:06.325611Z",
+  "updated_at": "2026-09-01T12:54:32.168825Z"
+}
