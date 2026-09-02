@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260902-c0f",
+  "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+  "source_url": "https://huggingface.co/blog/allenai/benchmirt",
+  "source": "rss",
+  "summary": "The content critiques LLM benchmarks, arguing they often measure superficial pattern matching rather than true reasoning or understanding. It likely introduces BenchMIRT, a framework or methodology to decompose benchmark results and reveal what capabilities are genuinely tested, highlighting gaps in current evaluation practices.",
+  "tags": [
+    "research",
+    "llm",
+    "evaluation"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-02T12:24:44.348999Z",
+  "updated_at": "2026-09-02T12:25:10.021411Z"
+}

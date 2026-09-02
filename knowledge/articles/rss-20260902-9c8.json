@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260902-9c8",
+  "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+  "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+  "source": "rss",
+  "summary": "This content announces the release of Claude Fable 5.1 and Claude Mythos 5.1, highlighting new features and updates. It includes links to official documentation and a system card, with a large community discussion on Hacker News. The focus is on model capabilities and technical improvements.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-02T12:24:43.547459Z",
+  "updated_at": "2026-09-02T12:25:10.020579Z"
+}

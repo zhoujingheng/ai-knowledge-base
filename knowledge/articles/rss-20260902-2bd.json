@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260902-2bd",
+  "title": "Ambient CSS v3 – Blender meets CSS",
+  "source_url": "https://ambientcss.vercel.app/",
+  "source": "rss",
+  "summary": "Ambient CSS v3 is a CSS framework that brings Blender-like 3D scene creation to web styling, enabling developers to build interactive 3D environments using declarative CSS syntax. It focuses on visual design and animation, not AI/ML, but leverages procedural generation and real-time rendering techniques.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-02T12:24:43.547572Z",
+  "updated_at": "2026-09-02T12:25:10.020635Z"
+}

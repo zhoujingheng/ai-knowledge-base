@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260902-1b3",
+  "title": "Atlas: A World Model for Spatial Intelligence",
+  "source_url": "https://www.worldlabs.ai/blog/atlas",
+  "source": "rss",
+  "summary": "Atlas is a foundation world model for spatial intelligence, enabling real-time 3D scene understanding and generation from images or text. It predicts future states and supports interactive editing, aiming to bridge perception and action for embodied AI applications.",
+  "tags": [
+    "research",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-09-02T12:24:43.547496Z",
+  "updated_at": "2026-09-02T12:25:10.020611Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260902-5e1",
+  "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+  "source_url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+  "source": "rss",
+  "summary": "The article reveals that OpenAI's ChatGPT/Codex desktop app includes a full LibreOffice installation, likely for document processing and rendering. This raises questions about app size, licensing, and potential security implications, sparking community discussion on the technical and practical aspects of bundling office software.",
+  "tags": [
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-02T12:24:43.547415Z",
+  "updated_at": "2026-09-02T12:25:10.020570Z"
+}

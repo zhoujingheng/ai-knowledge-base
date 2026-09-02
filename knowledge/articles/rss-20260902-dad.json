@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260902-dad",
+  "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+  "source_url": "https://mvakde.github.io/blog/44-on-arc-1/",
+  "source": "rss",
+  "summary": "The article details training a small transformer model in 1.5 hours that outperforms many larger LLMs on the ARC-AGI benchmark. It likely focuses on architectural innovations, efficient training strategies, or task-specific inductive biases, demonstrating that scale isn't always necessary for reasoning tasks.",
+  "tags": [
+    "research",
+    "fine-tuning",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-09-02T12:24:43.547671Z",
+  "updated_at": "2026-09-02T12:25:10.020692Z"
+}

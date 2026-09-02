@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260902-f57",
+  "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+  "source_url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+  "source": "rss",
+  "summary": "This article discusses an FBI investigation into a service allegedly selling over 153 million driver's license records, highlighting a major data breach. It focuses on cybersecurity and privacy implications, not on AI/ML techniques. The content is relevant to AI/ML only in the context of potential misuse of personal data for identity theft or training models, but it lacks technical depth.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-09-02T12:24:43.547353Z",
+  "updated_at": "2026-09-02T12:25:10.020553Z"
+}

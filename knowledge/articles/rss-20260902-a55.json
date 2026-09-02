@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260902-a55",
+  "title": "My local model setup on an M4 Pro Mac Mini",
+  "source_url": "https://lws.io/blog/my-local-model-setup/",
+  "source": "rss",
+  "summary": "The author details their local LLM setup on an M4 Pro Mac Mini, covering hardware choices, model selection, and tooling for running models efficiently. They discuss performance trade-offs, quantization, and practical tips for using local models in daily workflows, emphasizing privacy and offline capability.",
+  "tags": [
+    "deployment",
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-02T12:24:43.547374Z",
+  "updated_at": "2026-09-02T12:25:10.020528Z"
+}

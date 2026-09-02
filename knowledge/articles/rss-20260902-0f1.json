@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260902-0f1",
+  "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+  "source_url": "https://huggingface.co/blog/webgpu-kernels",
+  "source": "rss",
+  "summary": "Hugging Face announces a new library of 200+ WebGPU kernels to accelerate local AI inference in browsers, enabling high-performance transformer models without cloud dependencies. This initiative targets developers building client-side AI applications, offering optimized operations for tasks like attention and matrix multiplication.",
+  "tags": [
+    "framework",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-02T12:24:44.349012Z",
+  "updated_at": "2026-09-02T12:25:10.021471Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260902-b1b",
+  "title": "Bye Bye Perspective API: Lessons for Measurement Infrastructure in NLP, CSS and LLM Evaluation",
+  "source_url": "https://arxiv.org/abs/2604.25580",
+  "source": "rss",
+  "summary": "The content discusses the deprecation of Perspective API and extracts lessons for building measurement infrastructure in NLP, computational social science, and LLM evaluation. It likely covers challenges in maintaining reliable, scalable evaluation tools and implications for future research and deployment.",
+  "tags": [
+    "research",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-02T12:24:43.930671Z",
+  "updated_at": "2026-09-02T12:25:10.020781Z"
+}

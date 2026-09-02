@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260902-cb8",
+  "title": "Introducing agentic video understanding with Gemini",
+  "source_url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+  "source": "rss",
+  "summary": "This content introduces agentic video understanding using Gemini, likely showcasing how AI agents can analyze and interpret video content through multimodal models. It emphasizes practical applications and integration of Gemini's capabilities for video-based reasoning tasks.",
+  "tags": [
+    "agent",
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-02T12:24:44.879800Z",
+  "updated_at": "2026-09-02T12:25:10.021711Z"
+}

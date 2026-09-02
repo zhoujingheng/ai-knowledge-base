@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260902-ea3",
+  "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
+  "source_url": "https://moviescenemap.com/",
+  "source": "rss",
+  "summary": "Movie Scene Map is a visual database indexing 13,312 films, series, games, anime, and manga by scene locations. It offers an interactive map-based interface for exploring media through geographic context, likely using metadata extraction and clustering. The project is showcased on Hacker News, sparking community discussion.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-02T12:24:43.547514Z",
+  "updated_at": "2026-09-02T12:25:10.020595Z"
+}
