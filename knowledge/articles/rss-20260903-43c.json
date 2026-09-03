@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260903-43c",
+  "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+  "source_url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+  "source": "rss",
+  "summary": "Announces the release of Gemini 3.8 Flash and a specialized Cyber variant, likely focusing on speed, efficiency, and security applications. The Cyber edition suggests enhanced capabilities for threat detection or cybersecurity tasks, while the Flash model targets low-latency, high-volume use cases.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-03T12:23:18.732951Z",
+  "updated_at": "2026-09-03T12:23:38.781052Z"
+}

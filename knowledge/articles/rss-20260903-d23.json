@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260903-d23",
+  "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+  "source_url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+  "source": "rss",
+  "summary": "This content discusses integrating IBM's time series models with Confluent for real-time intelligence, likely covering streaming data processing, anomaly detection, and forecasting. It focuses on deployment and operational aspects of applying AI to time-series data in a streaming context.",
+  "tags": [
+    "deployment",
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-03T12:23:18.115931Z",
+  "updated_at": "2026-09-03T12:23:38.780807Z"
+}

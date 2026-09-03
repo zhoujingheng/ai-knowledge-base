@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260903-3f4",
+  "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+  "source_url": "https://huggingface.co/blog/train-to-paint-with-code",
+  "source": "rss",
+  "summary": "This content explores an unconventional experiment: training a coding-focused AI model to generate watercolour art using TRL (Transformer Reinforcement Learning) and OpenEnv. It likely demonstrates cross-domain transfer, reward design, and RLHF-style fine-tuning, blending coding model capabilities with artistic output generation.",
+  "tags": [
+    "fine-tuning",
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-03T12:23:18.115925Z",
+  "updated_at": "2026-09-03T12:23:38.780784Z"
+}

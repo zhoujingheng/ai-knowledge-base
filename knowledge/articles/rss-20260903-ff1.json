@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260903-ff1",
+  "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+  "source_url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+  "source": "rss",
+  "summary": "This article investigates how three websites generated over 215,000 'best software' pages, which are now frequently cited by Perplexity AI as sources for recommendations. It highlights the issue of AI systems relying on low-quality, programmatically generated content, potentially leading to biased or misleading product suggestions. The piece raises concerns about content authenticity and the need for better source filtering in AI answer engines.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-03T12:23:17.160046Z",
+  "updated_at": "2026-09-03T12:23:38.780062Z"
+}

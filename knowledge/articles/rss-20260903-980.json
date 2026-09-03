@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260903-980",
+  "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+  "source_url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+  "source": "rss",
+  "summary": "This content discusses fine-tuning a 350M parameter model using GRPO (Group Relative Policy Optimization) to improve structured output generation, achieving significant gains in just 100 training steps. It likely covers methodology, efficiency, and results for constrained decoding or schema adherence.",
+  "tags": [
+    "fine-tuning",
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-03T12:23:18.115906Z",
+  "updated_at": "2026-09-03T12:23:38.780775Z"
+}

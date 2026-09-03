@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260903-883",
+  "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+  "source": "rss",
+  "summary": "Announcement of Gemini 3.8 Flash and its Cyber variant, focusing on model card details and capabilities. The discussion highlights performance, safety, and potential applications, with community debate on benchmarks and real-world use.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-03T12:23:17.159987Z",
+  "updated_at": "2026-09-03T12:23:38.779885Z"
+}

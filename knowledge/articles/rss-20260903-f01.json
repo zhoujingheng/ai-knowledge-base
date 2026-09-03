@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260903-f01",
+  "title": "Give Your Coding Agents a Memory You Own",
+  "source_url": "https://huggingface.co/blog/funes",
+  "source": "rss",
+  "summary": "The content discusses giving coding agents a persistent, user-owned memory system, likely to improve context retention and personalization across sessions. It emphasizes ownership and control over memory data, possibly using local storage or custom backends, to enhance agent performance without relying on external services.",
+  "tags": [
+    "agent",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-03T12:23:18.115918Z",
+  "updated_at": "2026-09-03T12:23:38.780766Z"
+}

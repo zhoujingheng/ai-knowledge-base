@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260903-79d",
+  "title": "Can I opt out of my input or output data being used for training?",
+  "source_url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+  "source": "rss",
+  "summary": "This article from Mistral AI explains user options for opting out of data usage in model training. It outlines default data handling practices, how to request opt-out for input/output data, and implications for API and open-source users. The discussion highlights privacy concerns and transparency in AI deployments.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-03T12:23:17.160124Z",
+  "updated_at": "2026-09-03T12:23:38.780078Z"
+}
