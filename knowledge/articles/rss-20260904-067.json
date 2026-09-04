@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260904-067",
+  "title": "Pre-Release of Polars 2.0",
+  "source_url": "https://pola.rs/posts/announcing-polars-2/",
+  "source": "rss",
+  "summary": "Polars 2.0 pre-release announcement highlights major performance and API improvements for the DataFrame library, including a new streaming engine, enhanced expression system, and better integration with external tools. The post details breaking changes and migration guides, targeting data engineers and scientists seeking faster, more scalable data processing.",
+  "tags": [
+    "tool",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-04T12:23:12.315608Z",
+  "updated_at": "2026-09-04T12:23:33.804452Z"
+}

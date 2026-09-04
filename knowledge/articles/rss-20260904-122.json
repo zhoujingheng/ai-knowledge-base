@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260904-122",
+  "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+  "source_url": "https://news.ycombinator.com/item?id=49551096",
+  "source": "rss",
+  "summary": "The post discusses a simultaneous outage of major AI services (OpenAI, Claude, and Grok), prompting speculation about shared infrastructure, dependencies, or coordinated incidents. Users share observations and theories, but no official cause is confirmed. The discussion focuses on operational resilience and potential systemic risks in AI deployment.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-04T12:23:12.315323Z",
+  "updated_at": "2026-09-04T12:23:33.804313Z"
+}

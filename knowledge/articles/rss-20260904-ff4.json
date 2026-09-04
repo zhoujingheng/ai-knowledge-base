@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260904-ff4",
+  "title": "Audacity 4.0",
+  "source_url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+  "source": "rss",
+  "summary": "Audacity 4.0 is a major release of the open-source audio editor, focusing on performance, stability, and modernized UI. It includes a new effects engine, improved multi-track editing, and enhanced accessibility. The update also addresses long-standing bugs and adds support for newer audio formats, making it a significant upgrade for creators and podcasters.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-04T12:23:12.315587Z",
+  "updated_at": "2026-09-04T12:23:33.804440Z"
+}

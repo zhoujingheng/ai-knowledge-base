@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260904-497",
+  "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+  "source_url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+  "source": "rss",
+  "summary": "A developer recounts porting a 1993 Amiga game from 68000 assembly to Godot using Claude, which disassembled and reassembled code to byte-identical binaries. The process revealed a 108-byte discrepancy due to original in-memory assembly. The article covers technical insights, debugging, and releasing the game for free.",
+  "tags": [
+    "llm",
+    "deployment",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-04T12:23:12.315458Z",
+  "updated_at": "2026-09-04T12:23:33.804390Z"
+}

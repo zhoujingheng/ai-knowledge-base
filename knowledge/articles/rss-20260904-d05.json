@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260904-d05",
+  "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+  "source_url": "https://inference-docs.cerebras.ai/models/overview",
+  "source": "rss",
+  "summary": "Cerebras announces support for Qwen 3.8 27B, delivering inference at 1500 tokens per second, a significant speed milestone. This highlights Cerebras's custom hardware advantage for large model deployment, appealing to developers seeking ultra-low-latency responses. The discussion on Hacker News focuses on performance benchmarks, hardware implications, and practical use cases.",
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-04T12:23:12.315164Z",
+  "updated_at": "2026-09-04T12:23:33.804182Z"
+}

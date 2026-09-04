@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260904-e3a",
+  "title": "US government backs OpenAI in New York Times copyright case",
+  "source_url": "https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02/",
+  "source": "rss",
+  "summary": "The US government has filed a brief supporting OpenAI in its copyright dispute with the New York Times, arguing that certain uses of copyrighted material for AI training may constitute fair use. This legal development could set a precedent for how AI models are trained on published content.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-04T12:23:12.667520Z",
+  "updated_at": "2026-09-04T12:23:33.804630Z"
+}

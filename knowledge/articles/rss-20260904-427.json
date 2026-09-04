@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260904-427",
+  "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+  "source_url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+  "source": "rss",
+  "summary": "Google DeepMind introduces WeatherNext 3, an advanced global weather AI model that improves forecast accuracy and efficiency over previous versions. It leverages diffusion-based techniques and graph neural networks to deliver probabilistic predictions, supporting real-time operational use for meteorology and climate resilience.",
+  "tags": [
+    "research",
+    "deployment",
+    "model"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-09-04T12:23:13.754550Z",
+  "updated_at": "2026-09-04T12:23:33.806361Z"
+}

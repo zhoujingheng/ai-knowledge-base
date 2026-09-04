@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260904-1b6",
+  "title": "GPT-6 Astra",
+  "source_url": "https://openai.com/index/gpt-6-astra/",
+  "source": "rss",
+  "summary": "OpenAI's GPT-6 Astra is a new model with a published system card, showing significant performance gains on ARC-AGI-3 and coding agent benchmarks. The Hacker News thread discusses its deployment safety, capabilities, and implications, with high community engagement.",
+  "tags": [
+    "llm",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-04T12:23:12.315126Z",
+  "updated_at": "2026-09-04T12:23:33.804162Z"
+}

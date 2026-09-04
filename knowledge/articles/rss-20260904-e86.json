@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260904-e86",
+  "title": "LLMs and self-referentiality",
+  "source_url": "https://scottaaronson.blog/?p=10046",
+  "source": "rss",
+  "summary": "The content discusses the concept of self-referentiality in large language models, likely exploring how LLMs reason about or reference themselves, their limitations, and implications for AI understanding. It appears to be a discussion thread on Lobsters, focusing on theoretical and practical aspects of LLM behavior.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-04T12:23:12.667505Z",
+  "updated_at": "2026-09-04T12:23:33.804617Z"
+}

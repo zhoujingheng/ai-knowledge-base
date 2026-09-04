@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260904-dc7",
+  "title": "Hillingar - MirageOS Unikernels on NixOS",
+  "source_url": "https://ryan.freumh.org/hillingar.html",
+  "source": "rss",
+  "summary": "Hillingar integrates MirageOS unikernels with NixOS, enabling reproducible, declarative deployment of unikernels within Nix environments. It bridges two distinct ecosystems, offering a novel approach to lightweight virtualization and system configuration.",
+  "tags": [
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-04T12:23:12.814879Z",
+  "updated_at": "2026-09-04T12:23:33.805108Z"
+}

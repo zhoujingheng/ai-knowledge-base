@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260904-28f",
+  "title": "OpenAI begins rolling out GPT-6 Astra",
+  "source_url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+  "source": "rss",
+  "summary": "OpenAI has begun rolling out GPT-6 Astra, a new AI model with significant benchmark improvements. The release is covered across major tech outlets and social media, generating substantial discussion on Hacker News. The model appears to push toward AGI capabilities, though specific technical details are limited in the provided content.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-04T12:23:12.315215Z",
+  "updated_at": "2026-09-04T12:23:33.804263Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260904-b83",
+  "title": "Nvidia to acquire Hugging Face",
+  "source_url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+  "source": "rss",
+  "summary": "Nvidia announces plans to acquire Hugging Face, a leading platform for open-source AI models and datasets. The acquisition aims to strengthen Nvidia's AI ecosystem by integrating Hugging Face's community and tools with Nvidia's hardware and software stack, potentially reshaping model distribution and deployment.",
+  "tags": [
+    "llm",
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-04T12:23:12.315543Z",
+  "updated_at": "2026-09-04T12:23:33.804416Z"
+}

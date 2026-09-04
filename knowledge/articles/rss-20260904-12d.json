@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260904-12d",
+  "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+  "source_url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+  "source": "rss",
+  "summary": "The content highlights Google Antigravity's Terms of Service, which state that third-party usage of the platform can lead to suspension of a user's Google account. This raises concerns about developer reliance on Antigravity for AI workflows, as integrating it into external applications or services may risk account bans, impacting deployment and tooling strategies.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-04T12:23:12.315565Z",
+  "updated_at": "2026-09-04T12:23:33.804428Z"
+}
