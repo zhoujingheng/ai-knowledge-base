@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260905-964",
+  "title": "Solving the Jane Street reverse engineering challenge",
+  "source_url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+  "source": "rss",
+  "summary": "The article details a hands-on approach to solving Jane Street's reverse engineering challenge, covering binary analysis, debugging, and algorithm reconstruction. It emphasizes practical techniques for deobfuscation and problem-solving under constraints, likely appealing to security enthusiasts and competitive programmers.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-05T11:29:51.602176Z",
+  "updated_at": "2026-09-05T11:30:16.150394Z"
+}

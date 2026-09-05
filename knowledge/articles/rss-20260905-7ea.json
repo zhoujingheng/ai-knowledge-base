@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260905-7ea",
+  "title": "IBM Bob",
+  "source_url": "https://bob.ibm.com/",
+  "source": "rss",
+  "summary": "IBM Bob is a new AI tool or platform launched by IBM, generating significant discussion on Hacker News. The content likely introduces a product or service, with community feedback focusing on its capabilities, positioning, or potential impact. The high comment count suggests active debate about its technical merits or market relevance.",
+  "tags": [
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-09-05T11:29:51.602104Z",
+  "updated_at": "2026-09-05T11:30:16.150342Z"
+}

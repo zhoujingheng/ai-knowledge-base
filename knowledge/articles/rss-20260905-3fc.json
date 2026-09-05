@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260905-3fc",
+  "title": "Hackers had a live feed of every ID verification company scanned for over a year",
+  "source_url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+  "source": "rss",
+  "summary": "A security breach exposed a live feed of ID verification scans for over a year, compromising sensitive personal data. The incident highlights vulnerabilities in AI-driven identity systems, raising concerns about privacy, surveillance, and the need for robust security measures in biometric and document verification technologies.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-05T11:29:51.602203Z",
+  "updated_at": "2026-09-05T11:30:16.150405Z"
+}

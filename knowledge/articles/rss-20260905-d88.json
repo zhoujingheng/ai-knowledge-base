@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260905-d88",
+  "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+  "source_url": "https://armature.tech/blog/which-tools-coding-agents-install",
+  "source": "rss",
+  "summary": "The article analyzes which tools coding agents like Claude, Codex, and Cursor install during their workflows, based on 17,000 runs. It reveals patterns in tool preferences, installation frequency, and potential biases, offering insights for developers building agent-compatible environments.",
+  "tags": [
+    "agent",
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-05T11:29:51.602225Z",
+  "updated_at": "2026-09-05T11:30:16.150383Z"
+}

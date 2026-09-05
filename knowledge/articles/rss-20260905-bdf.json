@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260905-bdf",
+  "title": "Show HN: Open-Source eInk Bike Computer",
+  "source_url": "https://opentrailpaper.com",
+  "source": "rss",
+  "summary": "This is an open-source e-ink bike computer project, highlighted on Hacker News. The creator notes that AI assisted in developing an ANT protocol implementation for ESP32 by experimenting with undocumented registers, showcasing AI's utility in low-level hardware coding.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-09-05T11:29:51.602034Z",
+  "updated_at": "2026-09-05T11:30:16.150332Z"
+}

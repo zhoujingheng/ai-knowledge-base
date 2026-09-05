@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260905-703",
+  "title": "Formalizing Fermat's Last Theorem",
+  "source_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+  "source": "rss",
+  "summary": "The content discusses formalizing Fermat's Last Theorem using AI-assisted proof assistants, likely involving Anthropic's Claude. It focuses on the intersection of machine learning and formal mathematics, highlighting challenges and progress in automating complex theorem proving.",
+  "tags": [
+    "research",
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-09-05T11:29:51.602004Z",
+  "updated_at": "2026-09-05T11:30:16.150322Z"
+}

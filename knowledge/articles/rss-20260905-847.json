@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260905-847",
+  "title": "Corporate America is getting hooked on open-source AI",
+  "source_url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+  "source": "rss",
+  "summary": "The article discusses how U.S. corporations are increasingly adopting open-source AI models (e.g., Llama, Mistral) over proprietary ones, driven by cost, control, and customization. It highlights trade-offs like security risks and the need for in-house expertise, and notes the growing ecosystem of tools and services supporting open-source deployments.",
+  "tags": [
+    "llm",
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-05T11:29:51.602085Z",
+  "updated_at": "2026-09-05T11:30:16.150362Z"
+}

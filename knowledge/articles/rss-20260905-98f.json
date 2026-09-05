@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260905-98f",
+  "title": "Can AI design circuit boards yet?",
+  "source_url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+  "source": "rss",
+  "summary": "The article evaluates whether AI can design circuit boards, likely discussing current capabilities, limitations, and benchmarks. It explores AI's role in PCB layout, schematic generation, and verification, concluding that while AI assists in specific tasks, full autonomous design remains elusive due to complex constraints and domain expertise.",
+  "tags": [
+    "research",
+    "tool",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-05T11:29:51.601954Z",
+  "updated_at": "2026-09-05T11:30:16.150266Z"
+}
