@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260906-c8d",
+  "title": "AI handles incidents, engineers lose touch with their systems",
+  "source_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+  "source": "rss",
+  "summary": "The article argues that as AI increasingly automates incident response, engineers risk losing hands-on familiarity with their systems, leading to skill atrophy and reduced ability to debug novel issues. It explores the trade-off between efficiency and operational intuition, sparking debate on HN about the future of human oversight in AI-driven operations.",
+  "tags": [
+    "agent",
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-06T11:50:47.268428Z",
+  "updated_at": "2026-09-06T11:51:08.873657Z"
+}

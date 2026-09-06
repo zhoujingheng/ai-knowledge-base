@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260906-074",
+  "title": "Learn Programming with OCaml",
+  "source_url": "https://usr.lmf.cnrs.fr/lpo/",
+  "source": "rss",
+  "summary": "This is a resource for learning OCaml programming, likely covering functional programming concepts and practical exercises. It is not directly AI/ML-focused but may be relevant for building robust AI systems. The HN discussion suggests community interest in the language's utility.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-06T11:50:47.268136Z",
+  "updated_at": "2026-09-06T11:51:08.873362Z"
+}

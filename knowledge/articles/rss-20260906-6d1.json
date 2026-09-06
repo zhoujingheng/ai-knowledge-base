@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260906-6d1",
+  "title": "Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
+  "source_url": "https://mathstodon.xyz/@tao/117207856734787448",
+  "source": "rss",
+  "summary": "Terence Tao discusses the risks of using purely AI-powered methods to prematurely solve math problems, suggesting similar concerns apply to programming. He implies that relying on AI without deep understanding can hinder genuine progress and learning, emphasizing the need for human insight alongside AI assistance.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-06T11:50:47.525131Z",
+  "updated_at": "2026-09-06T11:51:08.873789Z"
+}

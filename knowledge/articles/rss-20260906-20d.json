@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260906-20d",
+  "title": "LLMs as a Cognitive Virus",
+  "source_url": "https://arxiv.org/abs/2609.03344",
+  "source": "rss",
+  "summary": "This paper explores the idea that large language models (LLMs) can act as a 'cognitive virus,' spreading biases, behaviors, or thought patterns through human interaction. It likely examines how LLM outputs influence user cognition and propagate across populations, raising concerns about unintended societal impacts and the need for safeguards.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-06T11:50:47.267990Z",
+  "updated_at": "2026-09-06T11:51:08.873232Z"
+}

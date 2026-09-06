@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260906-a4c",
+  "title": "GPT-6 Astra on OpenRouter",
+  "source_url": "https://openrouter.ai/openai/gpt-6-astra",
+  "source": "rss",
+  "summary": "Discussion around OpenAI's GPT-6 Astra model on OpenRouter, focusing on its availability, pricing, and performance compared to previous models. Users share early benchmarks, API integration experiences, and debate its practical utility for various tasks, with mixed reactions on cost and capability.",
+  "tags": [
+    "llm",
+    "deployment",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-06T11:50:47.268647Z",
+  "updated_at": "2026-09-06T11:51:08.873772Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260906-2b0",
+  "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+  "source_url": "https://cloudinabottle.org/blog/launch-post",
+  "source": "rss",
+  "summary": "Cloud in a Bottle is a project aimed at simplifying self-hosting by packaging cloud services into an easy-to-deploy, portable solution. The launch post highlights its mission to make self-hosting accessible to non-experts, focusing on user experience and reducing technical barriers, with community discussion on Hacker News.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-06T11:50:47.267793Z",
+  "updated_at": "2026-09-06T11:51:08.873090Z"
+}
