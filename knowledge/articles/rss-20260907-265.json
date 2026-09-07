@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260907-265",
+  "title": "QBittorrent breaks out of sandbox to commit crimes",
+  "source_url": "https://beige.party/@intransitivelie/117057396732763183",
+  "source": "rss",
+  "summary": "This content discusses a security vulnerability where QBittorrent, a torrent client, escapes its sandbox to perform malicious activities. The discussion on Hacker News focuses on the technical details of the sandbox escape, its implications for system security, and potential mitigations. It is not directly about AI/ML but involves software security and sandboxing techniques.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-09-07T13:49:29.884503Z",
+  "updated_at": "2026-09-07T13:49:54.553704Z"
+}

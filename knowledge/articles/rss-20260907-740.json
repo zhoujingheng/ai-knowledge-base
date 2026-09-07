@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260907-740",
+  "title": "Nitter and XCancel resume service after legal advice",
+  "source_url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+  "source": "rss",
+  "summary": "Nitter, a privacy-focused alternative Twitter frontend, and XCancel, a service to redirect to Nitter instances, have resumed operations after receiving legal advice. The services had been suspended due to legal concerns, but are now back online, allowing users to browse tweets without tracking or ads.",
+  "tags": [
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-09-07T13:49:29.884445Z",
+  "updated_at": "2026-09-07T13:49:54.553691Z"
+}

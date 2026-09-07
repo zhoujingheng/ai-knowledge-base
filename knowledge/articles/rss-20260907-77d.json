@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260907-77d",
+  "title": "An Alien Mind",
+  "source_url": "https://openai.com/index/an-alien-mind/",
+  "source": "rss",
+  "summary": "OpenAI's 'An Alien Mind' explores the nature of AI cognition, arguing that advanced models develop reasoning patterns fundamentally different from human thought. The article discusses implications for interpretability, safety, and our understanding of intelligence, emphasizing the need to study AI minds on their own terms rather than anthropomorphizing them.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-07T13:49:29.884459Z",
+  "updated_at": "2026-09-07T13:49:54.553698Z"
+}

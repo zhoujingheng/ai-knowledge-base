@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260907-1f1",
+  "title": "Making a Python interpreter in 1024 bytes",
+  "source_url": "https://austinhenley.com/blog/python1024.html",
+  "source": "rss",
+  "summary": "The article details the creation of a minimal Python interpreter in just 1024 bytes, showcasing extreme code golf and interpreter design. It explores parsing, execution, and memory management constraints, offering insights into language implementation and optimization. The piece is a technical challenge rather than a practical tool, appealing to enthusiasts of low-level programming and compiler theory.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-09-07T13:49:29.884380Z",
+  "updated_at": "2026-09-07T13:49:54.553656Z"
+}

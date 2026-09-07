@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260907-10e",
+  "title": "Asahi Linux on M3",
+  "source_url": "https://asahilinux.org/2026/09/m2-episode-1/",
+  "source": "rss",
+  "summary": "Asahi Linux announces official support for Apple M3 chips, enabling Linux on newer Mac hardware. The project details progress on GPU, display, and power management, marking a significant milestone for ARM Linux adoption.",
+  "tags": [
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-07T13:49:29.884488Z",
+  "updated_at": "2026-09-07T13:49:54.553710Z"
+}

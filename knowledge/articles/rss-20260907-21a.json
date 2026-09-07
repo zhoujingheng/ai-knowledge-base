@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260907-21a",
+  "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
+  "source_url": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
+  "source": "rss",
+  "summary": "Switzerland's federal government is piloting the replacement of Microsoft software on 3,000 computers, likely with open-source alternatives, to increase digital sovereignty and reduce vendor lock-in. The move reflects growing public-sector interest in self-managed IT infrastructure, though details on specific technologies or migration challenges remain limited.",
+  "tags": [
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-07T13:49:29.884344Z",
+  "updated_at": "2026-09-07T13:49:54.553647Z"
+}
