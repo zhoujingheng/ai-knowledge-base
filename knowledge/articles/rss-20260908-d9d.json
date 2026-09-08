@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260908-d9d",
+  "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+  "source_url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+  "source": "rss",
+  "summary": "This PDF is a mathematical statement by Tristan Buckmaster on the Navier-Stokes equations, likely discussing regularity, singularities, or well-posedness. It is a research-level exposition, not directly about AI/ML, but may involve computational or theoretical methods relevant to scientific machine learning.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 9,
+  "created_at": "2026-09-08T12:26:07.861323Z",
+  "updated_at": "2026-09-08T12:26:34.050941Z"
+}

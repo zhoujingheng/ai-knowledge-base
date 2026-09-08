@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260908-61c",
+  "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+  "source_url": "https://mathathonchallenge.com/index.html",
+  "source": "rss",
+  "summary": "A hackathon focused on research-level mathematics, likely involving AI/ML for problem-solving or theorem discovery. The event emphasizes collaborative, high-complexity math challenges, possibly leveraging LLMs or custom frameworks, but details are limited to the announcement.",
+  "tags": [
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-08T12:26:07.861710Z",
+  "updated_at": "2026-09-08T12:26:34.051153Z"
+}

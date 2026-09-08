@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260908-5f5",
+  "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+  "source_url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+  "source": "rss",
+  "summary": "This article discusses the successful factoring of RSA keys used by a 1990s Certificate Authority, highlighting the historical weakness of key generation algorithms. It likely explores the cryptographic implications, the evolution of security standards, and lessons for modern systems. The content is technical but accessible, focusing on real-world cryptographic failure and its historical context.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-08T12:26:07.861503Z",
+  "updated_at": "2026-09-08T12:26:34.051070Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260908-a37",
+  "title": "We have a year to fix security everywhere",
+  "source_url": "https://jyn.dev/a-year-to-fix-security/",
+  "source": "rss",
+  "summary": "The article argues that the AI/ML community has roughly one year to proactively address systemic security vulnerabilities before they become catastrophic, emphasizing the need for secure-by-design practices, threat modeling, and cross-industry collaboration to prevent exploitation of AI systems at scale.",
+  "tags": [
+    "research",
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-08T12:26:07.861391Z",
+  "updated_at": "2026-09-08T12:26:34.050799Z"
+}
