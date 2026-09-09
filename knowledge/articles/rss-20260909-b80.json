@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260909-b80",
+  "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
+  "source_url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
+  "source": "rss",
+  "summary": "The content discusses serving large language models on Tenstorrent hardware via a vLLM plugin, focusing on integration and performance for AI inference on specialized accelerators.",
+  "tags": [
+    "deployment",
+    "llm",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-09T12:35:06.138876Z",
+  "updated_at": "2026-09-09T12:35:32.266940Z"
+}

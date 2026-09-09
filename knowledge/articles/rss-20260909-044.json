@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260909-044",
+  "title": "Muse – Meta’s personal AI agent",
+  "source_url": "https://ai.meta.com/muse/",
+  "source": "rss",
+  "summary": "Meta introduces Muse, a personal AI agent designed to assist users with tasks across Meta's apps, emphasizing personalization and proactive assistance. The article highlights its integration with social platforms, memory features, and multimodal capabilities, positioning it as a consumer-facing agent rather than a technical deep-dive.",
+  "tags": [
+    "agent",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-09T12:35:05.511713Z",
+  "updated_at": "2026-09-09T12:35:32.266829Z"
+}

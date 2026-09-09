@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260909-ee7",
+  "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+  "source_url": "https://github.com/ayghri/i-have-adhd",
+  "source": "rss",
+  "summary": "A GitHub skill that prevents coding agents from burying key answers in verbose output, designed for users with ADHD. It likely instructs agents to prioritize concise, direct responses and highlight critical information, improving usability for neurodivergent users and others seeking clarity.",
+  "tags": [
+    "prompt-engineering",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-09T12:35:05.511875Z",
+  "updated_at": "2026-09-09T12:35:32.266873Z"
+}

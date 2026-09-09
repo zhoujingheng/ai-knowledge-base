@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260909-20a",
+  "title": "ChatGPT Images 2.5",
+  "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+  "source": "rss",
+  "summary": "OpenAI introduces ChatGPT Images 2.5, an upgraded image generation model integrated into ChatGPT, offering improved realism, text rendering, and instruction following. The release highlights enhanced creative control and consistency, likely leveraging multimodal capabilities. The HN discussion focuses on practical applications, limitations, and comparisons with other image models.",
+  "tags": [
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-09T12:35:05.511730Z",
+  "updated_at": "2026-09-09T12:35:32.266824Z"
+}

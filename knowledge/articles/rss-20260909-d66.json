@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260909-d66",
+  "title": "Tao: Open math problems being non-renewably mined by AI",
+  "source_url": "https://mathstodon.xyz/@tao/117237320796901560",
+  "source": "rss",
+  "summary": "Terence Tao discusses how AI systems are increasingly solving open math problems, comparing this to non-renewable resource mining. He highlights that AI can exhaust finite sets of tractable problems, shifting mathematical research toward generating new problem classes or deeper theoretical frameworks.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-09T12:35:05.511673Z",
+  "updated_at": "2026-09-09T12:35:32.266812Z"
+}

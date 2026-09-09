@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260909-c84",
+  "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+  "source": "rss",
+  "summary": "The content discusses a nuanced approach to AI safety, arguing that refusal mechanisms should target specific harmful subsets of a topic rather than blocking the entire topic. This enables more precise control, preserving legitimate uses while mitigating risks.",
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "safety"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-09T12:35:07.133040Z",
+  "updated_at": "2026-09-09T12:35:32.267787Z"
+}

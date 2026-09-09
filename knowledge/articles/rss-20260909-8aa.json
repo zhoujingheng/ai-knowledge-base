@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260909-8aa",
+  "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+  "source_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+  "source": "rss",
+  "summary": "AlphaGenome Atlas is a predictive resource mapping molecular effects of 9 billion single-letter DNA variants across the human genome, likely using AI models to predict variant impact. It serves as a comprehensive reference for genomic research and clinical interpretation.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-09T12:35:07.982031Z",
+  "updated_at": "2026-09-09T12:35:32.268159Z"
+}

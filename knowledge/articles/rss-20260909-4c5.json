@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260909-4c5",
+  "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+  "source_url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+  "source": "rss",
+  "summary": "The article benchmarks Qwen3.8 27B model quantizations, finding that 4-bit precision retains near-full quality while 1-bit severely degrades performance. It provides practical insights for deploying large models with reduced memory, highlighting trade-offs between size and accuracy.",
+  "tags": [
+    "deployment",
+    "fine-tuning",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-09T12:35:05.511819Z",
+  "updated_at": "2026-09-09T12:35:32.266846Z"
+}

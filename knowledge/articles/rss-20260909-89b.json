@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260909-89b",
+  "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+  "source_url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+  "source": "rss",
+  "summary": "The article highlights that among European companies using a CDN, nearly 90% rely on Cloudflare, indicating a significant market concentration. It discusses potential risks of such dependency, including single points of failure and regulatory concerns, based on data analysis from CipherCue.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-09T12:35:05.511940Z",
+  "updated_at": "2026-09-09T12:35:32.266888Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260909-b09",
+  "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+  "source_url": "https://github.com/argonautlabsai/deltafin",
+  "source": "rss",
+  "summary": "This content discusses running the massive Kimi K3 (2.8T parameter) model on a MacBook Pro at 1 token/s by streaming weights from four SSDs, likely via a custom framework (DeltaFin). It highlights extreme memory optimization and I/O-bound inference, pushing the limits of local deployment for frontier-scale LLMs.",
+  "tags": [
+    "deployment",
+    "llm",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 9,
+  "created_at": "2026-09-09T12:35:05.511693Z",
+  "updated_at": "2026-09-09T12:35:32.266818Z"
+}
