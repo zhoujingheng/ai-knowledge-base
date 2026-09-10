@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260910-999",
+  "title": "DeepSeek v4.1 Flash",
+  "source_url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+  "source": "rss",
+  "summary": "A Hacker News discussion linking to the Hugging Face model card for DeepSeek-V4.1-Flash, a new release from DeepSeek AI. With 482 points and 261 comments, the thread likely covers model capabilities, benchmarks, architecture, and comparisons to prior DeepSeek versions and competing LLMs.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-10T12:32:03.025416Z",
+  "updated_at": "2026-09-10T12:32:26.206585Z"
+}

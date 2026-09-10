@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260910-289",
+  "title": "Better AI code comment detector",
+  "source_url": "https://entropicthoughts.com/better-ai-comment-classifier",
+  "source": "rss",
+  "summary": "A Lobsters discussion about building a better AI code comment detector. The author trained a logistic regression model on LLM outputs to classify code comments, combining traditional ML with AI-generated data. The post notes the use of AI and vibecoding tags and laments the absence of a statistics tag for the regression-based approach.",
+  "tags": [
+    "llm",
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-09-10T12:32:03.496567Z",
+  "updated_at": "2026-09-10T12:32:26.207137Z"
+}

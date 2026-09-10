@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260910-bd1",
+  "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+  "source_url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+  "source": "rss",
+  "summary": "A Sebastian Raschka article exploring speculative developments around GPT-6 'Astra,' including looped transformer architectures that reuse layers iteratively for deeper computation, and the notion of hidden or latent reasoning within models. The piece examines how these techniques could improve efficiency and reasoning capability, drawing discussion from a Hacker News thread with hundreds of comments.",
+  "tags": [
+    "llm",
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-10T12:32:03.025604Z",
+  "updated_at": "2026-09-10T12:32:26.206856Z"
+}

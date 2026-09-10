@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260910-549",
+  "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+  "source_url": "https://huggingface.co/blog/gradio-workflow-1111",
+  "source": "rss",
+  "summary": "The article describes rebuilding the AUTOMATIC1111 Stable Diffusion web UI using Gradio's workflow capabilities, likely leveraging Gradio's Blocks or a similar interface system to recreate the popular image generation tool. It covers the architectural and implementation decisions involved in replicating AUTOMATIC1111's functionality within a Gradio-based framework.",
+  "tags": [
+    "tool",
+    "framework",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-10T12:32:03.914762Z",
+  "updated_at": "2026-09-10T12:32:26.208073Z"
+}

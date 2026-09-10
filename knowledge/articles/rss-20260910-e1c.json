@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260910-e1c",
+  "title": "An alignment assessment of recent cybersecurity incidents",
+  "source_url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+  "source": "rss",
+  "summary": "This piece assesses recent cybersecurity incidents through an AI alignment lens, examining how failures in deployed systems relate to broader alignment concerns. It likely analyzes specific incidents to draw lessons about goal misgeneralization, specification gaming, or unintended behaviors in real-world AI/ML deployments, connecting practical security breaches to theoretical alignment research.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-10T12:32:03.496505Z",
+  "updated_at": "2026-09-10T12:32:26.207106Z"
+}

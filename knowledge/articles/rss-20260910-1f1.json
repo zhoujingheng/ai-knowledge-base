@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260910-1f1",
+  "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+  "source_url": "https://news.ycombinator.com/item?id=49624603",
+  "source": "rss",
+  "summary": "DeepSeek announced the upcoming release of V4.1 Flash around September 10, 2026, claiming it surpasses V4 Pro in performance, cost, speed, and task completion. Until V4.1 Pro launches, all Pro requests will be routed to Flash and billed at Flash pricing. New off-peak rates are $0.003 per input cache hit, $0.15 per cache miss, and $0.6 for output, with peak-hour prices doubled.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-10T12:32:03.025700Z",
+  "updated_at": "2026-09-10T12:32:26.206888Z"
+}

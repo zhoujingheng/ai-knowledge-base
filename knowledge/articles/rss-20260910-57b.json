@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260910-57b",
+  "title": "Efficient and accurate systems for querying unstructured data",
+  "source_url": "https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf",
+  "source": "rss",
+  "summary": "This dissertation addresses the high cost and unreliability of using ML to query unstructured data like video. It proposes systems that return approximate answers with statistical accuracy guarantees, exploiting the fact that many applications tolerate approximations and that query methods vary by up to 10 orders of magnitude in cost. The systems support selection, aggregation, and limit queries and can be orders of magnitude cheaper than standard approaches.",
+  "tags": [
+    "research",
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-10T12:32:03.496550Z",
+  "updated_at": "2026-09-10T12:32:26.207130Z"
+}
