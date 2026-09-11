@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260911-929",
+  "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+  "source_url": "https://news.ycombinator.com/item?id=49643556",
+  "source": "rss",
+  "summary": "A Hacker News user reports that OpenAI repeatedly re-enables the 'allow training' data-sharing setting after they disable it, despite carefully tracking resets. The post urges others to verify their own settings, sparking a large discussion (459 points, 180 comments) about privacy, consent, and default opt-in practices in AI services.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-09-11T12:27:49.101829Z",
+  "updated_at": "2026-09-11T12:28:12.898575Z"
+}

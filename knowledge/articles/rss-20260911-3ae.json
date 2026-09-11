@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260911-3ae",
+  "title": "Rust is tier-1 language at Microsoft",
+  "source_url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+  "source": "rss",
+  "summary": "A Rust Foundation guest post explains that Microsoft now treats Rust as a tier-1 language, meaning it receives first-class support across Microsoft's engineering systems, tooling, and developer workflows. The accompanying Hacker News discussion debates the implications for systems programming, memory safety, and Microsoft's broader language strategy.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-11T12:27:49.101856Z",
+  "updated_at": "2026-09-11T12:28:12.898743Z"
+}

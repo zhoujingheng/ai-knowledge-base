@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260911-8cd",
+  "title": "I have a theory that software drives people insane",
+  "source_url": "https://graybeard.ing/software-drives-people-insane/",
+  "source": "rss",
+  "summary": "A Hacker News discussion linking to an essay arguing that software complexity and modern development practices drive engineers to madness. The 447-point thread with 181 comments debates whether tooling, abstraction layers, and constant churn create unsustainable cognitive burdens, touching on AI-assisted coding as both a potential relief and a new source of chaos.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-11T12:27:49.101657Z",
+  "updated_at": "2026-09-11T12:28:12.898563Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260911-e04",
+  "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+  "source_url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+  "source": "rss",
+  "summary": "A Hacker News discussion (825 points, 759 comments) examining whether mathematicians and researchers can trust OpenAI with unpublished mathematical work, prompted by social media posts from academics. The debate centers on data usage, confidentiality, and the ethics of sharing pre-publication research with a commercial AI lab, reflecting broader concerns about trust between the research community and AI companies.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-11T12:27:49.101967Z",
+  "updated_at": "2026-09-11T12:28:12.898973Z"
+}

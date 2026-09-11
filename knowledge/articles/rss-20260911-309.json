@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260911-309",
+  "title": "What algorithm did Windows XP use to choose your initial user picture?",
+  "source_url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+  "source": "rss",
+  "summary": "This Hacker News discussion examines a Microsoft DevBlogs post about the algorithm Windows XP used to select a default user account picture. Commenters analyze the likely deterministic or hash-based selection logic, speculate on implementation details, and share nostalgic anecdotes about the iconic XP login screen imagery.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-11T12:27:49.101930Z",
+  "updated_at": "2026-09-11T12:28:12.898868Z"
+}

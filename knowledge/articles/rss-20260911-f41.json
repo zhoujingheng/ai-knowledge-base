@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260911-f41",
+  "title": "Astra for Coding: Why Are We Doing This Again?",
+  "source_url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+  "source": "rss",
+  "summary": "A blog post by Armin Ronacher questioning the rationale behind building AI coding assistants like Astra, reflecting on whether current approaches to AI-assisted development actually deliver meaningful value or just chase hype. The piece sparked extensive discussion on Hacker News with 371 points and 271 comments debating the purpose, tradeoffs, and future of AI coding tools.",
+  "tags": [
+    "agent",
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-11T12:27:49.101622Z",
+  "updated_at": "2026-09-11T12:28:12.898487Z"
+}

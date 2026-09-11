@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260911-98b",
+  "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+  "source_url": "https://cognition.com/blog/swe-2",
+  "source": "rss",
+  "summary": "Cognition has released SWE-2, a new software engineering model that reportedly competes with Fable 5.1 and GPT-Astra. The announcement, shared via a blog post and discussed on Hacker News with 426 points and 176 comments, highlights ongoing competition among AI coding assistants and agentic developer tools.",
+  "tags": [
+    "agent",
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-11T12:27:49.101719Z",
+  "updated_at": "2026-09-11T12:28:12.898587Z"
+}
