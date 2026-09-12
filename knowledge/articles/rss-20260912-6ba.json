@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260912-6ba",
+  "title": "Measuring the sloppiness of code",
+  "source_url": "https://earendil.com/posts/measuring-code-sloppiness/",
+  "source": "rss",
+  "summary": "A Hacker News discussion linking to an article about quantifying code sloppiness, likely using metrics or AI/ML techniques to assess code quality. The 265-point thread with 228 comments debates definitions of sloppiness, measurement approaches, and implications for AI-generated code and software maintenance.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-09-12T11:49:21.858353Z",
+  "updated_at": "2026-09-12T11:49:44.647066Z"
+}

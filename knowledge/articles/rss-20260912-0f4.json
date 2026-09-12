@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260912-0f4",
+  "title": "OpenAI Agents API",
+  "source_url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+  "source": "rss",
+  "summary": "A Hacker News discussion linking to OpenAI's official Agents API documentation. The thread covers the new API for building agentic applications, with 341 points and 179 comments debating its design, capabilities, and how it compares to existing agent frameworks and alternative approaches.",
+  "tags": [
+    "agent",
+    "llm",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-12T11:49:21.858577Z",
+  "updated_at": "2026-09-12T11:49:44.647177Z"
+}

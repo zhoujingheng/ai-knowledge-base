@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260912-cb1",
+  "title": "Claude is only available to people over 18 years",
+  "source_url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+  "source": "rss",
+  "summary": "A Hacker News discussion about Anthropic's new age assurance policy restricting Claude access to users 18 and older. The 650-point thread with 629 comments debates age verification methods, privacy implications, and whether such restrictions are practical or effective for AI chatbot platforms.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-09-12T11:49:21.858458Z",
+  "updated_at": "2026-09-12T11:49:44.647075Z"
+}
