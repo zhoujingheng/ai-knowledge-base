@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260913-b17",
+  "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+  "source_url": "https://withspecific.com/benchmarks/real-swe",
+  "source": "rss",
+  "summary": "Real-SWE is a new benchmark for evaluating AI coding models on private, real-world enterprise codebases rather than public repositories. It addresses the gap between synthetic benchmarks like SWE-bench and actual production environments, testing models on proprietary code with real dependencies, conventions, and constraints. The benchmark aims to measure practical agentic coding performance in enterprise settings where data privacy and codebase complexity matter.",
+  "tags": [
+    "agent",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-13T12:58:33.810366Z",
+  "updated_at": "2026-09-13T12:58:57.479976Z"
+}

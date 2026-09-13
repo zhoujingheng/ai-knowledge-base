@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260913-705",
+  "title": "JetKVM Mini",
+  "source_url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+  "source": "rss",
+  "summary": "JetKVM Mini is a compact, open-source KVM-over-IP device that provides remote keyboard, video, and mouse access to any computer via a web browser, featuring low-latency video streaming, PoE support, and an extensible API. The HN discussion covers hardware design, pricing, and comparisons to alternatives like PiKVM.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-13T12:58:33.810274Z",
+  "updated_at": "2026-09-13T12:58:57.479994Z"
+}

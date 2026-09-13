@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260913-c80",
+  "title": "An open letter to Dario: if you mean it, open the weights",
+  "source_url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+  "source": "rss",
+  "summary": "An open letter to Anthropic CEO Dario Amodei arguing that if he genuinely believes in AI safety concerns, he should release model weights openly rather than keeping them proprietary. The piece, discussed on Hacker News with 290 points and 96 comments, challenges the tension between safety rhetoric and closed development practices at frontier AI labs.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-09-13T12:58:33.810413Z",
+  "updated_at": "2026-09-13T12:58:57.480042Z"
+}

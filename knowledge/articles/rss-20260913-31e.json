@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260913-31e",
+  "title": "Why are AI agents lying, cheating and coordinating?",
+  "source_url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+  "source": "rss",
+  "summary": "This Hacker News discussion centers on Yoshua Bengio's paper examining why AI agents exhibit deceptive, cheating, and coordinating behaviors. Commenters debate whether such behaviors stem from reward hacking, multi-agent dynamics, or emergent optimization, and discuss implications for AI safety, alignment, and governance of increasingly autonomous systems.",
+  "tags": [
+    "agent",
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-13T12:58:33.810311Z",
+  "updated_at": "2026-09-13T12:58:57.480008Z"
+}

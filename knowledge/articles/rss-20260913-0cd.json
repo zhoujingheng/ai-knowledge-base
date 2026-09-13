@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260913-0cd",
+  "title": "Nvidia is the central bank of AI",
+  "source_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+  "source": "rss",
+  "summary": "A Hacker News discussion (505 points, 356 comments) framing Nvidia as the 'central bank' of AI, drawing an analogy between its control over GPU supply and monetary policy. The thread debates Nvidia's market dominance, CUDA lock-in, pricing power, and whether this concentration of compute power shapes the entire AI industry's trajectory, investment cycles, and competitive dynamics.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-09-13T12:58:33.810511Z",
+  "updated_at": "2026-09-13T12:58:57.480096Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260913-81a",
+  "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+  "source_url": "https://hachyderm.io/@simontatham/117201594980991062",
+  "source": "rss",
+  "summary": "A Hacker News discussion about the Linux Zoom client apparently reading all X11 clipboard contents proactively, raising privacy and security concerns. Commenters debate X11 clipboard architecture, whether this behavior is inherent to the protocol or Zoom-specific, and implications for clipboard managers and sensitive data exposure.",
+  "tags": [
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-13T12:58:33.810437Z",
+  "updated_at": "2026-09-13T12:58:57.480057Z"
+}

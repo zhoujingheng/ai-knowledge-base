@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260913-895",
+  "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+  "source_url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+  "source": "rss",
+  "summary": "A Mullvad blog post and Hacker News discussion revealing that Android's NAT-T keepalive offload feature can leak traffic outside a VPN tunnel, even when VPN lockdown mode is enabled. The flaw allows packets to bypass the VPN's kill switch, undermining a core privacy guarantee. Commenters debate the root cause, Android's offload design, and potential mitigations.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-13T12:58:33.810691Z",
+  "updated_at": "2026-09-13T12:58:57.480198Z"
+}
