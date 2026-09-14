@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260914-c74",
+  "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+  "source_url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+  "source": "rss",
+  "summary": "This work presents an asynchronous implementation of GRPO (Group Relative Policy Optimization) for reinforcement learning of LLMs, using LoRA adapters and Hugging Face Jobs. It avoids NCCL by coordinating distributed training through a shared bucket and a proxy, enabling flexible, decoupled worker communication without tight GPU interconnect requirements.",
+  "tags": [
+    "fine-tuning",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-09-14T14:35:20.012925Z",
+  "updated_at": "2026-09-14T14:35:41.980920Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260914-635",
+  "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+  "source_url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+  "source": "rss",
+  "summary": "A blog post and Hacker News discussion about Fable 5.1, an AI system that reportedly solved the Cyphral Distich, a 370-year-old cipher. The 1,100-point thread with over 500 comments debates the method, significance, and whether the solution is genuine or an artifact of the model's training data.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-14T14:35:19.007119Z",
+  "updated_at": "2026-09-14T14:35:41.979848Z"
+}

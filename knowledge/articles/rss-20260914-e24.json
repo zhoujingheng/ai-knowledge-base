@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260914-e24",
+  "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+  "source_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+  "source": "rss",
+  "summary": "Y Combinator's Garry Tan argues that U.S. open-weight AI labs should be permitted to distill frontier models, mirroring practices already common among Chinese labs. The piece, discussed on Hacker News with hundreds of comments, weighs competitive dynamics, IP concerns, and the strategic implications of distillation for the open-weight ecosystem versus closed frontier developers.",
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-09-14T14:35:19.007277Z",
+  "updated_at": "2026-09-14T14:35:41.979922Z"
+}

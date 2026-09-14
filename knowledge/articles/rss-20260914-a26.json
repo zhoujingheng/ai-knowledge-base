@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260914-a26",
+  "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+  "source_url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+  "source": "rss",
+  "summary": "Signal is exploring phone-number-free registration using zero-knowledge proofs to verify users without revealing identity. The linked forum discussion and Hacker News thread debate privacy, abuse prevention, and implementation tradeoffs for anonymous account creation in a secure messaging app.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-14T14:35:19.007101Z",
+  "updated_at": "2026-09-14T14:35:41.979834Z"
+}

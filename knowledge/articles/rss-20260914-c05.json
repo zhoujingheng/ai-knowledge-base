@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260914-c05",
+  "title": "Data collected by cars and sold to third parties",
+  "source_url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+  "source": "rss",
+  "summary": "A Hacker News discussion about cars collecting driver data and selling it to third parties, based on an archived article. The 448-point thread with 230 comments examines privacy implications of automotive data collection, including telemetry, location tracking, and driver behavior data being monetized without clear consumer consent.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-14T14:35:19.007321Z",
+  "updated_at": "2026-09-14T14:35:41.979933Z"
+}

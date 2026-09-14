@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260914-2e3",
+  "title": "Ask HN: What are you working on? (September 2026)",
+  "source_url": "https://news.ycombinator.com/item?id=49686380",
+  "source": "rss",
+  "summary": "This is a Hacker News 'Ask HN' discussion thread from September 2026 where users share their current projects and curiosities. With 684 comments, it aggregates diverse AI/ML work including agents, LLM applications, RAG systems, and deployment experiments, offering a community snapshot of active developer interests rather than a single technical article.",
+  "tags": [
+    "agent",
+    "llm",
+    "rag"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-09-14T14:35:19.007238Z",
+  "updated_at": "2026-09-14T14:35:41.979908Z"
+}
