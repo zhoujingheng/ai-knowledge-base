@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260915-c84",
+  "title": "Distributed Systems Classics (2017)",
+  "source_url": "https://nvartolomei.com/dist-sys-classics/",
+  "source": "rss",
+  "summary": "A curated list of classic distributed systems papers and resources, shared on Hacker News with 321 points and 68 comments. While not directly AI/ML content, it covers foundational distributed computing concepts—consensus, replication, fault tolerance—that underpin modern ML infrastructure, training clusters, and large-scale model serving systems.",
+  "tags": [
+    "research",
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-15T13:00:23.453256Z",
+  "updated_at": "2026-09-15T13:00:46.041071Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260915-f4f",
+  "title": "Why don’t machine learning research agents overfit?",
+  "source_url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+  "source": "rss",
+  "summary": "The article explores why machine learning research agents—AI systems that autonomously conduct ML research—do not overfit to their training objectives despite operating in open-ended search spaces. It examines how these agents generalize across tasks, the role of evaluation design, and why traditional overfitting intuitions from supervised learning may not directly apply to agentic research workflows.",
+  "tags": [
+    "agent",
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-15T13:00:23.987681Z",
+  "updated_at": "2026-09-15T13:00:46.041249Z"
+}

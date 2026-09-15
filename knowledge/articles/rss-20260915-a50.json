@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260915-a50",
+  "title": "Pion, an agent designed to run any company autonomously",
+  "source_url": "https://andonlabs.com/blog/why-we-built-pion",
+  "source": "rss",
+  "summary": "Pion is an autonomous AI agent from Andon Labs designed to run an entire company without human intervention. The blog post explains the motivation behind building it, likely covering architecture, decision-making capabilities, and challenges of autonomous business operations. The Hacker News discussion drew significant attention with 430 points and 530 comments, indicating strong community interest in agentic AI systems applied to real-world business management.",
+  "tags": [
+    "agent",
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-15T13:00:23.453226Z",
+  "updated_at": "2026-09-15T13:00:46.041064Z"
+}

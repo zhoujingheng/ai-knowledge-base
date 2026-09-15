@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260915-025",
+  "title": "Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces",
+  "source_url": "https://maggieappleton.com/planning-agents",
+  "source": "rss",
+  "summary": "The article examines how AI agents plan and coordinate across differing representations of the world, drawing on concepts like boundary objects and thicker interfaces from CSCW and HCI. It argues that effective multi-agent planning requires shared artifacts and richer interaction surfaces rather than assuming a single unified world model.",
+  "tags": [
+    "agent",
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-15T13:00:23.987664Z",
+  "updated_at": "2026-09-15T13:00:46.041237Z"
+}

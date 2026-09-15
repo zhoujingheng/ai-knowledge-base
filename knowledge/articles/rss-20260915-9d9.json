@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260915-9d9",
+  "title": "Charts built for Chat",
+  "source_url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+  "source": "rss",
+  "summary": "A blog post introducing dbtcharts.com, a tool for generating charts designed specifically for chat interfaces. The HN discussion (249 points, 78 comments) covers rendering charts in conversational contexts, likely involving LLM-generated visualizations and integration with chat platforms.",
+  "tags": [
+    "tool",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-09-15T13:00:23.453182Z",
+  "updated_at": "2026-09-15T13:00:46.040936Z"
+}

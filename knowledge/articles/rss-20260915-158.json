@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260915-158",
+  "title": "How to write an effective software design document",
+  "source_url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+  "source": "rss",
+  "summary": "This Hacker News discussion links to an article on writing effective software design documents, covering structure, clarity, and communication practices. While not AI/ML-specific, the principles apply broadly to engineering, including ML system design. The 334-point thread includes 137 comments debating doc templates, review processes, and when design docs are worthwhile.",
+  "tags": [
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-15T13:00:23.453316Z",
+  "updated_at": "2026-09-15T13:00:46.041084Z"
+}

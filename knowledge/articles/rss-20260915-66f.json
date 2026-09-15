@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260915-66f",
+  "title": "A Letter from a Machine Learning Engineer",
+  "source_url": "https://nemin.hu/llm-letter/index.html",
+  "source": "rss",
+  "summary": "A reflective letter from a machine learning engineer discussing the realities of the ML profession, including the gap between academic expectations and production work, the importance of data quality over model sophistication, and the often-overlooked engineering challenges of deploying and maintaining ML systems in practice.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-15T13:00:23.987671Z",
+  "updated_at": "2026-09-15T13:00:46.041244Z"
+}
