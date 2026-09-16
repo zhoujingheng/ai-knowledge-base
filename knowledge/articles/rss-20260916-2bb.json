@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260916-2bb",
+  "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+  "source": "rss",
+  "summary": "Google announced Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking, new multimodal model releases from its Gemini family. The Extended Thinking variant adds deeper reasoning capabilities for complex tasks. The announcement generated significant discussion on Hacker News with 435 points and 292 comments, reflecting strong community interest in Google's latest frontier model updates.",
+  "tags": [
+    "llm",
+    "research",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-16T12:57:37.510750Z",
+  "updated_at": "2026-09-16T12:57:59.552406Z"
+}

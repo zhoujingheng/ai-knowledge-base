@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260916-f19",
+  "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+  "source_url": "https://codyho.dev/blog/gpu-driver/",
+  "source": "rss",
+  "summary": "A developer documents writing a Linux GPU driver for the M4 Mac Mini's Apple Silicon GPU in roughly one month. The post covers reverse-engineering the hardware, implementing kernel-mode driver components, and getting basic graphics working under Linux, drawing significant Hacker News discussion (362 points, 211 comments) about the difficulty of Apple Silicon Linux support.",
+  "tags": [
+    "research",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 9,
+  "created_at": "2026-09-16T12:57:37.510649Z",
+  "updated_at": "2026-09-16T12:57:59.552295Z"
+}

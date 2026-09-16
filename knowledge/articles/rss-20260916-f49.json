@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260916-f49",
+  "title": "We got admin access to Baseten's production GitHub",
+  "source_url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+  "source": "rss",
+  "summary": "A security disclosure describing how researchers obtained admin access to Baseten's production GitHub via a leaked Harbor GitHub personal access token. The write-up details the token takeover, the resulting access to production repositories, and the implications for supply-chain and infrastructure security at an AI inference platform.",
+  "tags": [
+    "deployment",
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-16T12:57:37.510701Z",
+  "updated_at": "2026-09-16T12:57:59.552394Z"
+}

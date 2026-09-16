@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260916-f9b",
+  "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+  "source_url": "https://github.com/arnegiacomo/fugleramme",
+  "source": "rss",
+  "summary": "A Show HN project presents an e-ink picture frame that listens for bird calls, identifies the species, and generates 1800s-style illustrations of the detected birds. The system combines audio recognition with generative image models to produce a real-time, ambient display. Discussion references a related 'Avian Visitors' project from May 2026.",
+  "tags": [
+    "tool",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-16T12:57:37.510955Z",
+  "updated_at": "2026-09-16T12:57:59.552460Z"
+}

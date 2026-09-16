@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260916-b31",
+  "title": "Apple Reference Image: A New Approach for Verified Photography",
+  "source_url": "https://security.apple.com/blog/apple-reference-image/",
+  "source": "rss",
+  "summary": "Apple introduces Reference Image, a system for verifying the authenticity of photographs captured on iPhone. It uses cryptographic signing and secure hardware to attest that an image came directly from a camera sensor without manipulation, aiming to combat AI-generated and edited media. The Hacker News discussion (316 points, 225 comments) debates its technical design, privacy implications, and whether such provenance standards can gain broad adoption.",
+  "tags": [
+    "research",
+    "deployment",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-16T12:57:37.510614Z",
+  "updated_at": "2026-09-16T12:57:59.552351Z"
+}

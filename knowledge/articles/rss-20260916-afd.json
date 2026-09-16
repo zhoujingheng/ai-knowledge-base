@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260916-afd",
+  "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+  "source_url": "https://withcapsule.app/",
+  "source": "rss",
+  "summary": "Capsule is a Rust/Tauri 2.0 app that packages HTML apps and their data into a single SQLite file, embedding assets and supporting localStorage-style key/value storage or a MongoDB-inspired document API. It offers CSV/JSON export, sandboxed permissions, optional local or remote AI models, and UUID/timestamp-based merging for divergent copies. The file format spec is planned for 1.0.",
+  "tags": [
+    "tool",
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-16T12:57:37.510896Z",
+  "updated_at": "2026-09-16T12:57:59.552467Z"
+}

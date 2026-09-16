@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260916-c3c",
+  "title": "Interpreting Pangram",
+  "source_url": "https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/",
+  "source": "rss",
+  "summary": "This Lobste.rs discussion thread examines Pangram, an AI-generated text detection tool. Commenters analyze its underlying methodology, probing how it distinguishes human from machine writing and questioning the reliability and interpretability of its detection signals. The conversation touches on model internals, false positives, and the broader challenges of attributing text authorship.",
+  "tags": [
+    "research",
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-16T12:57:37.760028Z",
+  "updated_at": "2026-09-16T12:57:59.552737Z"
+}
