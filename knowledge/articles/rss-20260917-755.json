@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260917-755",
+  "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+  "source_url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+  "source": "rss",
+  "summary": "A reverse-engineering enthusiast has fully broken the Sony PlayStation 2's CXP102064 'Mechacon' security chip after four years of effort, 26 years after the console's release. The exploit exposes the hardware's cryptographic protections, enabling deeper homebrew and emulation research. The Hacker News discussion highlights the technical achievement and its implications for preservation and security research.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-17T12:53:59.048444Z",
+  "updated_at": "2026-09-17T12:54:21.161393Z"
+}

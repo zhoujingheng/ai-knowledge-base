@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260917-9ac",
+  "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+  "source_url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+  "source": "rss",
+  "summary": "This Hacker News discussion centers on reports that AWS cannot restore some data from Middle East facilities struck by Iran, raising questions about cloud resilience, redundancy, and disaster recovery. Commenters debate whether AWS's claims are plausible, the limits of multi-region backups, and the geopolitical risks of concentrating critical infrastructure in conflict zones.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-17T12:53:59.048625Z",
+  "updated_at": "2026-09-17T12:54:21.161558Z"
+}

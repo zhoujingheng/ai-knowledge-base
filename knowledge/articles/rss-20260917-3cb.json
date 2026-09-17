@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260917-3cb",
+  "title": "Small programming tricks",
+  "source_url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+  "source": "rss",
+  "summary": "This Hacker News discussion links to a blog post by Will Keleher arguing that small programming tricks and micro-optimizations matter in software development. The 566-point thread with 251 comments explores practical coding techniques, readability trade-offs, and when clever shortcuts help versus hurt maintainability. While not AI-specific, it touches on general engineering craft relevant to building ML systems.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-17T12:53:59.048354Z",
+  "updated_at": "2026-09-17T12:54:21.161362Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260917-517",
+  "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+  "source_url": "https://mimo.xiaomi.com/rl/",
+  "source": "rss",
+  "summary": "Xiaomi's MiMo team published a live post-training dashboard for their MiMo 2.6 model, showing real-time reinforcement learning metrics during training. The HN discussion (467 points, 134 comments) covers the transparency of the dashboard, RL training dynamics, and comparisons to other open models.",
+  "tags": [
+    "llm",
+    "research",
+    "fine-tuning"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-17T12:53:59.048305Z",
+  "updated_at": "2026-09-17T12:54:21.161150Z"
+}

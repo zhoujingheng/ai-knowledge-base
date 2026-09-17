@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260917-84a",
+  "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+  "source_url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
+  "source": "rss",
+  "summary": "The lead developer of the PS5 Linux project has resigned, citing frustration that open-source projects are increasingly populated by inexperienced contributors who rely on LLM-generated code they do not understand. The Hacker News discussion (318 points, 219 comments) debates the impact of AI coding assistants on open-source quality, maintainer burnout, and whether LLM-assisted contributions lower the bar for participation.",
+  "tags": [
+    "llm",
+    "tool",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-17T12:53:59.048383Z",
+  "updated_at": "2026-09-17T12:54:21.161371Z"
+}

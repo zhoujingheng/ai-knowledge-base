@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260917-9be",
+  "title": "Nvidia announces native GPU programming in Rust",
+  "source_url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+  "source": "rss",
+  "summary": "Nvidia announced native GPU programming support for Rust via CUDA, offering two tracks for writing GPU kernels. The developer blog post details how Rust developers can now target Nvidia GPUs directly, expanding beyond C/C++ and opening GPU compute to Rust's safety and ecosystem. The Hacker News discussion drew significant attention with 761 points and 307 comments.",
+  "tags": [
+    "tool",
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-17T12:53:59.048492Z",
+  "updated_at": "2026-09-17T12:54:21.161462Z"
+}
