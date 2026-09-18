@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260918-6c9",
+  "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+  "source_url": "https://bend-lang.com/",
+  "source": "rss",
+  "summary": "Bend is a new programming language designed to prevent AI mistakes by using formal proofs, running on both CPU and GPU. It aims to make AI-generated code verifiably correct, addressing reliability concerns in AI-assisted development. The project sparked significant discussion on Hacker News with 502 points and 238 comments.",
+  "tags": [
+    "framework",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-18T12:31:52.007098Z",
+  "updated_at": "2026-09-18T12:32:12.836154Z"
+}

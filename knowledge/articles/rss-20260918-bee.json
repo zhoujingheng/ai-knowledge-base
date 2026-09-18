@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260918-bee",
+  "title": "How GLM built its own inference infrastructure",
+  "source_url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+  "source": "rss",
+  "summary": "GLM (Zhipu AI) details how it built its own inference infrastructure from scratch rather than relying on existing serving stacks. The post covers engineering decisions around model serving, throughput, latency, and hardware utilization for large language models at scale, sparking extensive discussion on Hacker News about tradeoffs of custom versus off-the-shelf inference systems.",
+  "tags": [
+    "deployment",
+    "llm",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-18T12:31:52.007337Z",
+  "updated_at": "2026-09-18T12:32:12.836544Z"
+}

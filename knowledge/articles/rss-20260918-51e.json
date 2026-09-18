@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260918-51e",
+  "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+  "source_url": "https://prismml.com/news/bonsai-2-27b",
+  "source": "rss",
+  "summary": "Bonsai 2 27B is a model compression technique that reduces a 27-billion-parameter model to roughly 9x smaller size while maintaining near-lossless quality. The linked article and Hacker News discussion (475 points, 141 comments) cover the method, tradeoffs, and practical implications for running large models with reduced memory and compute requirements.",
+  "tags": [
+    "llm",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-18T12:31:52.007071Z",
+  "updated_at": "2026-09-18T12:32:12.836230Z"
+}

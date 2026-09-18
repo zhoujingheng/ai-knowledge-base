@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260918-535",
+  "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+  "source_url": "https://ryan.science/blog/keys-not-included",
+  "source": "rss",
+  "summary": "A security research post describing how the author reverse-engineered and recovered the cryptographic signing keys used in US driver's license barcode data (PDF417/AAMVA standard). The work exposes weaknesses in how states protect license verification, with discussion on Hacker News about privacy, forgery risks, and the feasibility of verifying IDs.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-18T12:31:52.007397Z",
+  "updated_at": "2026-09-18T12:32:12.836566Z"
+}

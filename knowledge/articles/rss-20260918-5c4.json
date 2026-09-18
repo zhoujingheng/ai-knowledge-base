@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260918-5c4",
+  "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+  "source_url": "https://arxiv.org/abs/2609.16338",
+  "source": "rss",
+  "summary": "An arXiv paper claiming to break the 1.58-bit barrier for ternary LLMs, sparking discussion on Hacker News with 241 points and 39 comments. The work likely explores quantization techniques that push beyond the standard ternary weight representation, potentially improving efficiency and performance trade-offs in large language model compression.",
+  "tags": [
+    "llm",
+    "research",
+    "fine-tuning"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-09-18T12:31:52.007438Z",
+  "updated_at": "2026-09-18T12:32:12.836686Z"
+}

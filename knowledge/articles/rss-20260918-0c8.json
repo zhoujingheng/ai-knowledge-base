@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260918-0c8",
+  "title": "Hister: A private search engine for the pages you visit and the files you keep",
+  "source_url": "https://github.com/asciimoo/hister",
+  "source": "rss",
+  "summary": "Hister is an open-source private search engine that indexes the web pages you visit and files you keep locally, offering full-text search over personal browsing history and documents without sending data to external servers. It is a self-hosted tool aimed at privacy-conscious users, discussed extensively on Hacker News with 637 points and 171 comments.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-18T12:31:52.007162Z",
+  "updated_at": "2026-09-18T12:32:12.836247Z"
+}

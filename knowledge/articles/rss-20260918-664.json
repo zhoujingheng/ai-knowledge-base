@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260918-664",
+  "title": "One year of sponsored Servo development",
+  "source_url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+  "source": "rss",
+  "summary": "This Hacker News discussion links to a Servo blog post reviewing one year of sponsored development for the Servo browser engine. Commenters discuss progress on the Rust-based rendering engine, funding sustainability, performance improvements, and comparisons to other browser engines, with 352 points and 141 comments reflecting strong community interest.",
+  "tags": [
+    "tool",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-18T12:31:52.007357Z",
+  "updated_at": "2026-09-18T12:32:12.836559Z"
+}
