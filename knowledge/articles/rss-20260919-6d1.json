@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260919-6d1",
+  "title": "I vibed a proof of Conway's conjecture",
+  "source_url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+  "source": "rss",
+  "summary": "A Hacker News discussion about a GitHub repository where developer Dan Abramov (gaearon) used AI-assisted 'vibe coding' to produce a purported proof of Conway's conjecture. The thread debates the validity of the proof, the role of LLMs in mathematical reasoning, and whether AI-generated proofs constitute genuine mathematical work or merely plausible-looking text.",
+  "tags": [
+    "llm",
+    "research",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-19T12:09:56.877859Z",
+  "updated_at": "2026-09-19T12:10:18.927206Z"
+}

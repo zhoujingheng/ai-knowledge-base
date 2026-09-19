@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260919-1ee",
+  "title": "Jemalloc 5.4.0",
+  "source_url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+  "source": "rss",
+  "summary": "This is a Hacker News post linking to the Jemalloc 5.4.0 release on GitHub. Jemalloc is a general-purpose malloc implementation focused on performance and memory fragmentation avoidance, widely used in production systems. The post generated significant discussion (331 points, 94 comments), though the content itself is a release announcement rather than AI/ML-specific material.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-19T12:09:56.878040Z",
+  "updated_at": "2026-09-19T12:10:18.927425Z"
+}

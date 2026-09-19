@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260919-5ca",
+  "title": "The scourge of x86 emulation",
+  "source_url": "https://fex-emu.com/Scourge-of-emulation/",
+  "source": "rss",
+  "summary": "This Hacker News discussion links to an article about FEX-Emu, an x86 emulator for ARM, examining the performance and compatibility challenges of emulating x86 on other architectures. Despite the AI/ML framing, the content concerns systems-level emulation and CPU translation rather than machine learning, with commenters debating overhead, JIT techniques, and use cases like gaming and legacy software.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-19T12:09:56.878058Z",
+  "updated_at": "2026-09-19T12:10:18.927446Z"
+}

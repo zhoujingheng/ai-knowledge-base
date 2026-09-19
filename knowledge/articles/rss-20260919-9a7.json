@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260919-9a7",
+  "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+  "source_url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+  "source": "rss",
+  "summary": "A critical analysis of ZCode, an AI coding tool that silently uploads users' Git history and workspace snapshots to the cloud without clear disclosure. The article examines the privacy and security implications of this behavior, sparking discussion about transparency and data handling practices in AI-powered developer tools.",
+  "tags": [
+    "tool",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-09-19T12:09:56.878022Z",
+  "updated_at": "2026-09-19T12:10:18.927385Z"
+}

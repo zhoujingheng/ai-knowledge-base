@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260919-a81",
+  "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+  "source_url": "https://spectrum.ieee.org/llms-for-chip-design",
+  "source": "rss",
+  "summary": "OpenAI reportedly leveraged its own large language models to assist in the design of a custom chip codenamed Jalapeño, applying AI to hardware engineering tasks such as architecture exploration and optimization. The article, discussed on Lobste.rs, highlights a self-reinforcing loop where OpenAI's LLMs aid in creating specialized silicon, potentially improving training and inference efficiency for future models.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-19T12:09:57.155245Z",
+  "updated_at": "2026-09-19T12:10:18.927492Z"
+}

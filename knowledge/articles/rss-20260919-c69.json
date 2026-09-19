@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260919-c69",
+  "title": "US Military had close call after using AI for hallucinated intelligence report",
+  "source_url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+  "source": "rss",
+  "summary": "A CNN report describes a near-miss incident in which the US military acted on an AI-generated intelligence report that turned out to be hallucinated, involving a purported Chinese ship. The story highlights the risks of deploying LLM-based systems in high-stakes decision-making without adequate verification, sparking extensive discussion on Hacker News about reliability, oversight, and trust in AI outputs.",
+  "tags": [
+    "llm",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-19T12:09:56.877835Z",
+  "updated_at": "2026-09-19T12:10:18.927192Z"
+}

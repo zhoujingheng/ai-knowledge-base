@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260919-9a6",
+  "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+  "source_url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+  "source": "rss",
+  "summary": "This is a Hacker News discussion about Android 17 being the first Android version since 3.x to introduce new APIs without releasing them to the AOSP. The linked post from GrapheneOS highlights concerns about Google's increasingly closed development model, with 449 comments debating implications for custom ROMs, open-source Android forks, and platform governance.",
+  "tags": [
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-09-19T12:09:56.877790Z",
+  "updated_at": "2026-09-19T12:10:18.927200Z"
+}

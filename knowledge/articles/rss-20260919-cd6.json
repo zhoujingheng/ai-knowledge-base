@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260919-cd6",
+  "title": "Cloudflare Quick Tunnels",
+  "source_url": "https://try.cloudflare.com/",
+  "source": "rss",
+  "summary": "This Hacker News post links to Cloudflare Quick Tunnels, a service that exposes local servers to the internet via temporary public URLs without configuration. The 729-point discussion covers use cases like webhook testing, demos, and bypassing NAT, plus concerns about reliability, security, and alternatives like ngrok.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-19T12:09:56.877880Z",
+  "updated_at": "2026-09-19T12:10:18.927253Z"
+}

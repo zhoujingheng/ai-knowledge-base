@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260919-861",
+  "title": "AI-generated posters don’t have to be horrible",
+  "source_url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+  "source": "rss",
+  "summary": "A Hacker News discussion linking to a blog post about using AI to generate event posters that avoid the usual aesthetic pitfalls. The author shares practical techniques for prompting image-generation models to produce usable, non-ugly designs, and commenters debate workflows, tooling, and the limits of AI graphic design.",
+  "tags": [
+    "tool",
+    "prompt-engineering",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-19T12:09:56.877683Z",
+  "updated_at": "2026-09-19T12:10:18.927005Z"
+}
