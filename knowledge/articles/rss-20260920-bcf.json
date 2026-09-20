@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260920-bcf",
+  "title": "Brood War Bench",
+  "source_url": "https://bw.swerdlow.dev/report",
+  "source": "rss",
+  "summary": "Brood War Bench is a benchmark evaluating AI agents on StarCraft: Brood War, a complex real-time strategy game requiring long-horizon planning, resource management, and opponent modeling. The report details task design, agent performance, and failure modes, offering a challenging testbed for LLM-based and reinforcement learning agents in dynamic, partially observable environments.",
+  "tags": [
+    "agent",
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-20T12:46:04.459678Z",
+  "updated_at": "2026-09-20T12:46:25.383232Z"
+}

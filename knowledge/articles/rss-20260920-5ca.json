@@ -1,0 +1,14 @@
+{
+  "id": "rss-20260920-5ca",
+  "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+  "source_url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+  "source": "rss",
+  "summary": "This article reverse-engineers Hacker News' ranking algorithm, revealing the formula based on points, age, and gravity, plus penalties for controversial comments and voting ring detection. It explains how submission scores decay over time and how comment ranking differs from story ranking.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-20T12:46:04.459564Z",
+  "updated_at": "2026-09-20T12:46:25.383121Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260920-4ae",
+  "title": "I built non-autoregressive decision models with RL a year ago",
+  "source_url": "https://laya.convaiinnovations.com/",
+  "source": "rss",
+  "summary": "A Hacker News discussion about non-autoregressive decision models built with reinforcement learning, shared via a project link. The high engagement (1231 points, 295 comments) suggests strong community interest in alternatives to autoregressive LLM architectures, likely covering RL training approaches, decision-making agents, and comparisons to transformer-based generation.",
+  "tags": [
+    "research",
+    "agent",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-20T12:46:04.459770Z",
+  "updated_at": "2026-09-20T12:46:25.383351Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260920-6f1",
+  "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
+  "source_url": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
+  "source": "rss",
+  "summary": "A Lobsters discussion thread about hands-on experimentation with Jev, TypeSafe's System One model, using the game 2048 as a testbed. Commenters share impressions of the model's capabilities and behavior in an interactive setting.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-20T12:46:04.717021Z",
+  "updated_at": "2026-09-20T12:46:25.383894Z"
+}

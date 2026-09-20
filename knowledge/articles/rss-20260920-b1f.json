@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260920-b1f",
+  "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
+  "source_url": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
+  "source": "rss",
+  "summary": "The author claims to have independently developed non-autoregressive decision models a year before a frontier AI lab publicly described similar work as a breakthrough. The post reflects on being ahead of a major research trend and likely discusses the technical approach, its advantages over autoregressive models, and the broader implications for AI research priorities.",
+  "tags": [
+    "research",
+    "llm",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-20T12:46:04.717005Z",
+  "updated_at": "2026-09-20T12:46:25.383831Z"
+}

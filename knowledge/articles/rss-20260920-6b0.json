@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260920-6b0",
+  "title": "Tin: full-text search for Postgres",
+  "source_url": "https://planetscale.com/blog/introducing-tin",
+  "source": "rss",
+  "summary": "PlanetScale introduces Tin, a full-text search extension for Postgres designed as an alternative to traditional search engines. The blog post details its architecture, indexing approach, and performance characteristics, sparking discussion on Hacker News about tradeoffs versus tools like Elasticsearch and pg_trgm.",
+  "tags": [
+    "tool",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-20T12:46:04.459747Z",
+  "updated_at": "2026-09-20T12:46:25.383328Z"
+}

