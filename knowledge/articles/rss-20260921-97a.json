@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260921-97a",
+  "title": "Qwen Image 2.1",
+  "source_url": "https://qwen.ai/blog?id=qwen-image-2.1",
+  "source": "rss",
+  "summary": "This Hacker News discussion covers the release of Qwen Image 2.1, an updated image generation model from Alibaba's Qwen team. Commenters compare its output quality and prompt adherence against competitors like Flux and Stable Diffusion, discuss licensing and open-weight availability, and share generation examples and benchmarks.",
+  "tags": [
+    "llm",
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-21T14:42:43.393348Z",
+  "updated_at": "2026-09-21T14:43:04.923371Z"
+}

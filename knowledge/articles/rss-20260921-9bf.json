@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260921-9bf",
+  "title": "The LLMentalist Effect (2023)",
+  "source_url": "https://softwarecrisis.dev/letters/llmentalist/",
+  "source": "rss",
+  "summary": "The LLMentalist Effect argues that LLM-based products often appear intelligent due to the same psychological biases exploited by cold reading and mentalism, rather than genuine reasoning. It critiques anthropomorphizing chatbots, warns against overhyping emergent capabilities, and urges developers to evaluate LLMs skeptically, focusing on measurable utility rather than deceptive fluency.",
+  "tags": [
+    "llm",
+    "research",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-21T14:42:43.393360Z",
+  "updated_at": "2026-09-21T14:43:04.923395Z"
+}

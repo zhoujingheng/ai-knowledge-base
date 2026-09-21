@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260921-1f8",
+  "title": "AX – Google’s Open Agentic Orchestrator",
+  "source_url": "https://agentexecutor.io",
+  "source": "rss",
+  "summary": "AX is Google's open-source agentic orchestrator, presented via agentexecutor.io and discussed on Hacker News with 564 points and 255 comments. It provides a framework for coordinating autonomous AI agents, likely integrating with Google's ecosystem and LLM tooling. The high engagement suggests strong developer interest in standardized agent orchestration infrastructure.",
+  "tags": [
+    "agent",
+    "framework",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-21T14:42:43.393209Z",
+  "updated_at": "2026-09-21T14:43:04.923269Z"
+}

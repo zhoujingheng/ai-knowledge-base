@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260921-60a",
+  "title": "A study of sequence weighting at scale",
+  "source_url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+  "source": "rss",
+  "summary": "This Lobste.rs discussion links to a study on sequence weighting at scale, likely examining how weighting training sequences affects large language model performance. The content is a community comment thread rather than the paper itself, so details are limited to the linked discussion.",
+  "tags": [
+    "research",
+    "llm",
+    "fine-tuning"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-21T14:42:43.695442Z",
+  "updated_at": "2026-09-21T14:43:04.923643Z"
+}

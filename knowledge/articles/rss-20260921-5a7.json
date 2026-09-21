@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260921-5a7",
+  "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+  "source": "rss",
+  "summary": "This work reframes LLM pruning as an Ising optimization problem, where removing entire transformer blocks is treated like finding low-energy spin configurations. By mapping block importance to pairwise interactions, the authors apply physics-inspired solvers to identify optimal block subsets for deletion, enabling structured compression without retraining. The approach bridges statistical physics and efficient model deployment.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-09-21T14:42:44.113797Z",
+  "updated_at": "2026-09-21T14:43:04.923878Z"
+}

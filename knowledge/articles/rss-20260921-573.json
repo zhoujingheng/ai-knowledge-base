@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260921-573",
+  "title": "MCP was always a bad idea?",
+  "source_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+  "source": "rss",
+  "summary": "A critical blog post arguing that MCP (Model Context Protocol) was fundamentally a flawed design, sparking a 193-comment Hacker News debate with 224 points. The discussion likely examines MCP's architectural tradeoffs, alternatives, and whether its approach to connecting LLMs with external tools and context is sound.",
+  "tags": [
+    "llm",
+    "agent",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-21T14:42:43.393244Z",
+  "updated_at": "2026-09-21T14:43:04.923275Z"
+}

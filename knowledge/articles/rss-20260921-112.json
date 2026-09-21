@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260921-112",
+  "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+  "source_url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+  "source": "rss",
+  "summary": "ZuckOff is a free app designed to detect Meta smart glasses nearby, alerting users when they may be recorded. The Wired article covers the app's purpose, privacy implications, and the growing tension between wearable surveillance tech and personal privacy, sparking discussion on Hacker News about counter-surveillance tools.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-21T14:42:43.393134Z",
+  "updated_at": "2026-09-21T14:43:04.923183Z"
+}

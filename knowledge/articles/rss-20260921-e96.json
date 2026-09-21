@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260921-e96",
+  "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+  "source_url": "https://github.com/jaredpalmer/kev/tree/main",
+  "source": "rss",
+  "summary": "Kev is a lightweight family of decision models built on Qwen3.5, inspired by Jevons-style reasoning. Released on GitHub and discussed on Hacker News with 213 points and 92 comments, it targets efficient decision-making tasks using small, specialized models rather than large general-purpose LLMs.",
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-21T14:42:43.393167Z",
+  "updated_at": "2026-09-21T14:43:04.923223Z"
+}

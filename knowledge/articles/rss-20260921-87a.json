@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260921-87a",
+  "title": "tokenizers v1: encode, decode and scaling, measured",
+  "source_url": "https://huggingface.co/blog/tokenizers-v1",
+  "source": "rss",
+  "summary": "This content examines tokenizer v1 functionality, focusing on encode and decode operations alongside scaling behavior, with performance measured empirically. It likely benchmarks tokenization throughput and efficiency across different configurations, providing practical insights into how tokenizer design choices affect encoding/decoding speed and scalability in LLM pipelines.",
+  "tags": [
+    "llm",
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-21T14:42:44.113808Z",
+  "updated_at": "2026-09-21T14:43:04.923859Z"
+}

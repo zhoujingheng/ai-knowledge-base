@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260921-242",
+  "title": "ZuckOff Know when a camera is in the room",
+  "source_url": "https://zuckoff.app/",
+  "source": "rss",
+  "summary": "ZuckOff is a web app that detects when a camera is present in a room, likely by analyzing device signals or network activity. It gained significant attention on Hacker News with 476 points and 198 comments, indicating strong community interest in privacy-focused tools that alert users to potential surveillance.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-21T14:42:43.393106Z",
+  "updated_at": "2026-09-21T14:43:04.923170Z"
+}

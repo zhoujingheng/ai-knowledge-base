@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260921-9a0",
+  "title": "ChatGPT now knows what you do on other websites via ad collector",
+  "source_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+  "source": "rss",
+  "summary": "A Hacker News discussion (733 points, 387 comments) about an article claiming ChatGPT can learn what users do on other websites through an ad collector mechanism. The piece raises privacy concerns about how advertising or tracking data may be funneled into ChatGPT, prompting debate on data collection practices and user consent.",
+  "tags": [
+    "llm",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-21T14:42:43.393300Z",
+  "updated_at": "2026-09-21T14:43:04.923331Z"
+}
