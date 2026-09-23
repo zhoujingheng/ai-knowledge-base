@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260923-1c9",
+  "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+  "source_url": "https://foxscript.org/",
+  "source": "rss",
+  "summary": "A developer revived Visual FoxPro, discontinued in 2007, by reimplementing its language on a new Rust-to-WASM runtime validated against the real vfp9.exe. The project removes the 2 GB table limit, keeps legacy 32-bit .fll add-ins working, and adds lambdas, JSON, and an HTTP server. Reports and signed builds remain unfinished. It targets businesses still running aging FoxPro apps they cannot afford to rewrite.",
+  "tags": [
+    "tool",
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-23T13:09:05.417699Z",
+  "updated_at": "2026-09-23T13:09:27.886963Z"
+}

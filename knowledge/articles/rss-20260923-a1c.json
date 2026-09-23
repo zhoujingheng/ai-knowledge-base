@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260923-a1c",
+  "title": "AMD's random number generator can't generate a 0?",
+  "source_url": "https://board.flatassembler.net/topic.php?t=24261",
+  "source": "rss",
+  "summary": "A discussion thread examining an apparent bug in AMD's hardware random number generator (RDRAND/RDSEED) where it seemingly cannot produce a zero value, raising questions about the statistical quality and correctness of the entropy source. Commenters analyze the underlying microcode, testing methodology, and implications for cryptographic security.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-23T13:09:05.417962Z",
+  "updated_at": "2026-09-23T13:09:27.887132Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260923-23e",
+  "title": "Claude Opus 5.5",
+  "source_url": "https://www.anthropic.com/claude-opus-5-5",
+  "source": "rss",
+  "summary": "A Hacker News discussion thread about Anthropic's announcement of Claude Opus 5.5, an updated frontier LLM. The post links to Anthropic's official page and has drawn over 1,600 points and nearly 1,000 comments, indicating strong community interest in the model's capabilities, benchmarks, and comparisons to prior Claude versions and competing models.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-23T13:09:05.417850Z",
+  "updated_at": "2026-09-23T13:09:27.887062Z"
+}

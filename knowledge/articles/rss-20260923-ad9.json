@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260923-ad9",
+  "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+  "source_url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+  "source": "rss",
+  "summary": "A Pentagon report concludes that overreliance on AI systems contributed to a missile strike that hit an Iranian school, highlighting failures in human-AI decision-making and targeting workflows. The incident underscores risks of automation bias in military applications, where operators may defer to algorithmic recommendations without adequate verification, raising urgent questions about accountability, oversight, and safeguards for AI in high-stakes defense contexts.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-23T13:09:05.417729Z",
+  "updated_at": "2026-09-23T13:09:27.886971Z"
+}
