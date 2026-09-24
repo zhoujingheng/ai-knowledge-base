@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260924-31e",
+  "title": "Gemini 3.8 text-to-speech says hello",
+  "source_url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+  "source": "rss",
+  "summary": "The content announces Gemini 3.8's text-to-speech capability with a brief greeting demo. No technical details, architecture, or benchmarks are provided, making it a lightweight product update rather than an in-depth technical analysis.",
+  "tags": [
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-24T13:02:38.254229Z",
+  "updated_at": "2026-09-24T13:03:13.599859Z"
+}

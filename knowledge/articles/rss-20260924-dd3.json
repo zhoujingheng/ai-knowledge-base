@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260924-dd3",
+  "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+  "source_url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+  "source": "rss",
+  "summary": "The Seattle City Council voted to ban surveillance pricing in grocery sales, a practice where AI and personal data are used to set individualized prices. The Consumer Reports press release and Hacker News discussion highlight regulatory pushback against algorithmic pricing, raising questions about fairness, privacy, and the deployment of ML-driven pricing systems in consumer markets.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-24T13:02:37.562359Z",
+  "updated_at": "2026-09-24T13:03:13.598055Z"
+}

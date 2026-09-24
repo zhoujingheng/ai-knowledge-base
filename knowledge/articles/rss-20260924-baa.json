@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260924-baa",
+  "title": "Gemini 3.8 text-to-speech",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+  "source": "rss",
+  "summary": "A Google blog post announcing Gemini 3.8's text-to-speech capabilities, shared on Hacker News where it garnered 313 points and 139 comments. The discussion likely covers voice quality, latency, multilingual support, and comparisons to competing TTS systems. The content focuses on a new model release rather than novel research or agentic frameworks.",
+  "tags": [
+    "llm",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-24T13:02:37.562268Z",
+  "updated_at": "2026-09-24T13:03:13.597983Z"
+}

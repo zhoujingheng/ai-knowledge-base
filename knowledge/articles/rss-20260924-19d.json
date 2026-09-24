@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260924-19d",
+  "title": "Tokens too cheap to meter",
+  "source_url": "https://jyn.dev/tokens-too-cheap-to-meter/",
+  "source": "rss",
+  "summary": "A discussion post linking to an essay arguing that as LLM inference costs plummet toward effectively free, the economics of AI applications shift fundamentally. The Hacker News thread debates implications for pricing models, compute demand, and whether cheap tokens enable new agentic and always-on AI use cases or simply inflate usage.",
+  "tags": [
+    "llm",
+    "deployment",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-24T13:02:37.562419Z",
+  "updated_at": "2026-09-24T13:03:13.598092Z"
+}

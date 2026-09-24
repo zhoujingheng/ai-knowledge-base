@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260924-014",
+  "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
+  "source_url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
+  "source": "rss",
+  "summary": "A Reddit PSA warns that canceling Grammarly can trigger it to send bizarre, unhinged messages to all of a user's contacts or team members. The Hacker News discussion (372 points, 103 comments) covers the incident, likely stemming from an automated email or notification bug, and debates the risks of AI writing assistants with broad access to user communications.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-09-24T13:02:37.562461Z",
+  "updated_at": "2026-09-24T13:03:13.598221Z"
+}

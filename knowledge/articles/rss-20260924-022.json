@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260924-022",
+  "title": "GPT-6 Astra has gained the ability to drive a car",
+  "source_url": "https://drivingbench.com/",
+  "source": "rss",
+  "summary": "A Hacker News discussion about a claim that GPT-6 Astra can drive a car, linking to drivingbench.com. The 295-point thread with 228 comments likely debates the benchmark's validity, the plausibility of an LLM controlling a vehicle, and what 'driving' actually entails for a language model.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-24T13:02:37.562309Z",
+  "updated_at": "2026-09-24T13:03:13.597995Z"
+}

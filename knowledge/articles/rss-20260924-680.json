@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260924-680",
+  "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+  "source_url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+  "source": "rss",
+  "summary": "Anthropic reports that its Claude model discovered a novel enzyme system featuring CRISPR-like repeats, demonstrating AI's potential to contribute to scientific discovery in biology. The Hacker News discussion (682 points, 695 comments) debates the significance, methodology, and implications of AI-driven research findings.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-24T13:02:37.562198Z",
+  "updated_at": "2026-09-24T13:03:13.597924Z"
+}

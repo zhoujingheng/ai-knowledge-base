@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260924-812",
+  "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+  "source_url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+  "source": "rss",
+  "summary": "A blog post and Hacker News discussion revealing that Claude Code only reads the AGENTS.md configuration file when telemetry is enabled, implying a bug or intentional coupling between agent behavior and data collection. The author reports it as fixed, sparking debate about privacy, transparency, and how AI coding agents handle project instructions.",
+  "tags": [
+    "agent",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-24T13:02:37.562400Z",
+  "updated_at": "2026-09-24T13:03:13.598081Z"
+}

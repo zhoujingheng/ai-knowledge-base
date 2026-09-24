@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260924-830",
+  "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+  "source_url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+  "source": "rss",
+  "summary": "This guide explains how to use NVIDIA Warp, a GPU-accelerated simulation framework, alongside MjWarp, its MuJoCo-based physics backend, to speed up robotics simulation and reinforcement learning workflows. It covers setup, differentiable simulation, batched environments, and integration with ML pipelines for faster training and policy learning.",
+  "tags": [
+    "framework",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-24T13:02:38.093757Z",
+  "updated_at": "2026-09-24T13:03:13.599368Z"
+}

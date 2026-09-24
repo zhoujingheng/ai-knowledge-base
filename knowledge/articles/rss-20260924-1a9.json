@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260924-1a9",
+  "title": "I don't want the details",
+  "source_url": "https://michaelheap.com/i-dont-want-the-details/",
+  "source": "rss",
+  "summary": "A Hacker News discussion (411 points, 212 comments) reacting to an essay arguing that AI coding assistants often bury users in unnecessary implementation details. Commenters debate whether verbose AI output reflects poor prompt design, model limitations, or a genuine mismatch between how tools present information and what developers actually need when delegating tasks.",
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-24T13:02:37.562378Z",
+  "updated_at": "2026-09-24T13:03:13.598068Z"
+}

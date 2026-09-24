@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260924-4f1",
+  "title": "Clankers Made Me Build a Second Brain",
+  "source_url": "https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/",
+  "source": "rss",
+  "summary": "A Lobsters discussion post about how experiences with AI 'clankers' (LLMs) motivated the author to build a personal 'second brain' knowledge management system. The linked comments thread likely explores using LLMs for note-taking, retrieval, and personal knowledge organization.",
+  "tags": [
+    "llm",
+    "rag",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-24T13:02:37.783655Z",
+  "updated_at": "2026-09-24T13:03:13.598299Z"
+}

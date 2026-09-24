@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260924-f1e",
+  "title": "Jev in 25 Lines of Python",
+  "source_url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+  "source": "rss",
+  "summary": "A Hacker News discussion (654 points, 204 comments) about an article demonstrating a minimal implementation of Jev, an AI/ML concept, in just 25 lines of Python. The post links to nobodywho.ai and sparks community debate on the simplicity and underlying mechanics of the approach.",
+  "tags": [
+    "llm",
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-24T13:02:37.562438Z",
+  "updated_at": "2026-09-24T13:03:13.598167Z"
+}

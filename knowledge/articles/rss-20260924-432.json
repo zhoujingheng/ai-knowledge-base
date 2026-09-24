@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260924-432",
+  "title": "Linux support is coming to Snapdragon X2 Series",
+  "source_url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+  "source": "rss",
+  "summary": "Qualcomm announced Linux support for its Snapdragon X2 Series chips at the Snapdragon Summit, alongside a push toward 'agentic AI PCs.' The Hacker News discussion (467 points, 195 comments) covers implications for Linux on ARM laptops, driver support, and competition with x86 platforms.",
+  "tags": [
+    "deployment",
+    "agent",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-24T13:02:37.562124Z",
+  "updated_at": "2026-09-24T13:03:13.597837Z"
+}
