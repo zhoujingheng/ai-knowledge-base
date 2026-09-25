@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260925-49d",
+  "title": "VSCode's SSH Agent Is Bananas (2025)",
+  "source_url": "https://fly.io/blog/vscode-ssh-wtf/",
+  "source": "rss",
+  "summary": "A Fly.io blog post examining surprising behavior in VSCode's SSH agent implementation, sparking a 306-point Hacker News discussion with 213 comments. The article critiques how VSCode handles SSH connections, likely covering security, performance, or architectural quirks. Despite the 'AI/ML' framing, the content is primarily about developer tooling and remote development infrastructure rather than machine learning.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-25T13:07:22.855813Z",
+  "updated_at": "2026-09-25T13:07:45.023960Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260925-a32",
+  "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+  "source": "rss",
+  "summary": "The content introduces LFM2.5-VL-DSpark, a system designed to accelerate vision-language models. It likely covers architectural or inference optimizations that improve the speed and efficiency of multimodal VLMs, targeting faster processing of combined image and text inputs for practical deployment scenarios.",
+  "tags": [
+    "llm",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-25T13:07:23.543892Z",
+  "updated_at": "2026-09-25T13:07:45.024381Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260925-863",
+  "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+  "source_url": "https://github.com/devdotfast/whiteboard",
+  "source": "rss",
+  "summary": "Whiteboard is an open-source desktop IDE (built on CodeOSS) where humans and AI coding agents collaborate on software architecture via a shared canvas. Agents like Claude Code and Codex get an SDK to draw diagrams, traces, and specs linked directly to code. Features include an AST-aware semantic diff viewer in Rust, a decision log for agent reasoning, and LSP support. It targets reviewing agent-generated code and reducing 'cognitive debt' from unreviewed AI contributions.",
+  "tags": [
+    "agent",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-25T13:07:22.855621Z",
+  "updated_at": "2026-09-25T13:07:45.023771Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260925-548",
+  "title": "Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem",
+  "source_url": "https://machinelearning.apple.com/research/homomorphic-encryption",
+  "source": "rss",
+  "summary": "This piece explores integrating machine learning with homomorphic encryption within Apple's ecosystem, enabling computations on encrypted data without decryption. It likely covers Apple's privacy-preserving ML efforts, such as on-device processing and secure inference, and discusses practical trade-offs between privacy, performance, and model accuracy in real-world deployments.",
+  "tags": [
+    "deployment",
+    "research",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-09-25T13:07:23.117222Z",
+  "updated_at": "2026-09-25T13:07:45.023997Z"
+}

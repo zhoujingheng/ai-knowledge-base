@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260925-22b",
+  "title": "GitHub has not removed malicious imitation software after 3 weeks",
+  "source_url": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
+  "source": "rss",
+  "summary": "A Hacker News discussion about GitHub failing to remove malicious imitation software for three weeks, raising concerns about supply chain security and platform moderation. The incident highlights risks for developers who may unknowingly install typosquatted or impersonating packages, a growing threat in open-source ecosystems.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-09-25T13:07:22.855652Z",
+  "updated_at": "2026-09-25T13:07:45.023783Z"
+}

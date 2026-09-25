@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260925-bb3",
+  "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+  "source_url": "https://www.dawo.community/en/",
+  "source": "rss",
+  "summary": "A Hacker News discussion about the Dutch government developing an open-source alternative to Microsoft software built on NixOS. The linked project, DAWO, aims to provide a sovereign, reproducible desktop and collaboration stack for public sector use, reducing dependence on proprietary vendors. The thread covers technical, political, and practical implications of large-scale NixOS adoption in government.",
+  "tags": [
+    "deployment",
+    "tool",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-25T13:07:22.855522Z",
+  "updated_at": "2026-09-25T13:07:45.023751Z"
+}

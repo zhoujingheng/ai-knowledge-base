@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260925-7e2",
+  "title": "Show HN: Make cursed fonts like Times New Bastard",
+  "source_url": "https://bastardica.mitpit.com",
+  "source": "rss",
+  "summary": "A humorous web tool that exploits OpenType ligature substitution to blend multiple fonts into 'cursed' hybrids like Times New Bastard. It runs entirely client-side by loading a Python runtime compiled to WebAssembly, enabling fast font manipulation without a backend server.",
+  "tags": [
+    "tool",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-25T13:07:22.855767Z",
+  "updated_at": "2026-09-25T13:07:45.023918Z"
+}
