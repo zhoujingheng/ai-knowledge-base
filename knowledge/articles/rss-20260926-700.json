@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260926-700",
+  "title": "Platform-independent SIMD in Go",
+  "source_url": "https://go.dev/blog/simd-experiment",
+  "source": "rss",
+  "summary": "A Go blog post exploring an experimental approach to platform-independent SIMD (Single Instruction, Multiple Data) in Go, aiming to let developers write vectorized code that compiles across architectures without architecture-specific intrinsics. The Hacker News discussion (389 points, 144 comments) debates performance, portability trade-offs, and comparisons to C/C++ and Rust SIMD support.",
+  "tags": [
+    "research",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-26T12:34:40.337439Z",
+  "updated_at": "2026-09-26T12:35:01.587357Z"
+}

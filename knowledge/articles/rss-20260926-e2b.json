@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260926-e2b",
+  "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+  "source_url": "https://github.com/git-bug/git-bug",
+  "source": "rss",
+  "summary": "Git-bug is an open-source, distributed bug tracker that stores issues directly inside a Git repository, enabling fully offline-first workflows. It syncs via standard Git remotes, supports bridging to platforms like GitHub and GitLab, and offers a CLI plus terminal UI. The project is unrelated to AI/ML but demonstrates decentralized data management patterns.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-09-26T12:34:40.337460Z",
+  "updated_at": "2026-09-26T12:35:01.587344Z"
+}
