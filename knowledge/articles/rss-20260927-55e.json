@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260927-55e",
+  "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+  "source_url": "https://github.com/reladraw/reladraw",
+  "source": "rss",
+  "summary": "Reladraw is a new diagram language that combines the convenience of declarative tools like Mermaid with the manual layout control of editors like Draw.io. It targets both humans and AI agents, offering a web playground, npm install, and an agent skill for Claude and similar tools, so agents can generate and manipulate diagrams more efficiently.",
+  "tags": [
+    "tool",
+    "agent",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-27T13:25:31.622442Z",
+  "updated_at": "2026-09-27T13:25:53.264892Z"
+}

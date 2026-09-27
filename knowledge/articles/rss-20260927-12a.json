@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260927-12a",
+  "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+  "source_url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+  "source": "rss",
+  "summary": "A Hacker News discussion (365 points, 304 comments) links to an Authors Guild report alleging that OpenAI executives knew mass book piracy was illegal and feared the \"optics\" of what might appear on Hacker News. The thread centers on legal and ethical implications of using copyrighted books to train LLMs, corporate transparency, and public perception of AI training data practices.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-27T13:25:31.622306Z",
+  "updated_at": "2026-09-27T13:25:53.264767Z"
+}

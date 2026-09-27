@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260927-5fa",
+  "title": "A Brief Perspective on Deep Learning Using Common Lisp",
+  "source_url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
+  "source": "rss",
+  "summary": "A discussion post linking to a perspective piece on implementing deep learning in Common Lisp, exploring the language's suitability for neural network work and its ecosystem of ML libraries. The accompanying comments debate Lisp's strengths for symbolic and numeric computation versus its limited adoption in modern deep learning compared to Python frameworks.",
+  "tags": [
+    "framework",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-09-27T13:25:31.911969Z",
+  "updated_at": "2026-09-27T13:25:53.265110Z"
+}

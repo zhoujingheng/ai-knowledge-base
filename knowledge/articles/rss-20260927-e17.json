@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260927-e17",
+  "title": "Go Concurrency Distilled",
+  "source_url": "https://antonz.org/go-concurrency-distilled/",
+  "source": "rss",
+  "summary": "A Hacker News discussion linking to an article that distills Go's concurrency model, covering goroutines, channels, and synchronization primitives. Commenters debate design trade-offs, compare Go's approach to other languages, and share practical patterns for writing safe, idiomatic concurrent code.",
+  "tags": [
+    "tool",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-27T13:25:31.622517Z",
+  "updated_at": "2026-09-27T13:25:53.264902Z"
+}

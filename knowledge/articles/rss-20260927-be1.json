@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260927-be1",
+  "title": "Floci: Locally emulating any cloud service",
+  "source_url": "https://floci.io",
+  "source": "rss",
+  "summary": "Floci is a tool for locally emulating any cloud service, allowing developers to run cloud-dependent workloads on their own machines. It targets development and testing workflows by mimicking cloud APIs without requiring live cloud accounts. The Hacker News discussion covers use cases, limitations, and comparisons to existing emulators like LocalStack.",
+  "tags": [
+    "tool",
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-09-27T13:25:31.622611Z",
+  "updated_at": "2026-09-27T13:25:53.264988Z"
+}
