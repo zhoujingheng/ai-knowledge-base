@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260928-21e",
+  "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+  "source_url": "https://loficities.com/",
+  "source": "rss",
+  "summary": "Lofi Cities is a browser-based web app that generates pixel-art city night scenes paired with procedurally generated lofi music, all running client-side without server dependencies. It was shared on Hacker News as a Show HN project, drawing significant community interest with 300 points and 120 comments discussing its implementation and creative approach.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-09-28T16:17:08.335359Z",
+  "updated_at": "2026-09-28T16:17:29.336148Z"
+}

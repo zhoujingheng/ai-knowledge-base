@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260928-e66",
+  "title": "Coding Is Not Solved",
+  "source_url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+  "source": "rss",
+  "summary": "A blog post arguing that AI has not solved coding, despite claims to the contrary. The author contends that LLMs assist with code generation but still fail at the deeper engineering work: understanding requirements, system design, debugging, and maintaining correctness. The piece sparked extensive discussion on Hacker News about the real limits of AI coding tools.",
+  "tags": [
+    "llm",
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-28T16:17:08.335086Z",
+  "updated_at": "2026-09-28T16:17:29.335989Z"
+}

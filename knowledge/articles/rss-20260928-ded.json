@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260928-ded",
+  "title": "Ember-1",
+  "source_url": "https://fireworks.ai/blog/ember-1",
+  "source": "rss",
+  "summary": "Ember-1 is a model announced by Fireworks AI, discussed on Hacker News with 550 points and 237 comments. The article likely details its architecture, training approach, and performance benchmarks, positioning it as a competitive offering in the fast-moving LLM landscape, with community discussion covering capabilities, cost, and comparisons to existing models.",
+  "tags": [
+    "llm",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-28T16:17:08.335399Z",
+  "updated_at": "2026-09-28T16:17:29.336174Z"
+}

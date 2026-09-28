@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260928-d32",
+  "title": "Prompting Claude Opus 5.5",
+  "source_url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+  "source": "rss",
+  "summary": "A Hacker News discussion linking to Anthropic's official prompt engineering guide for Claude Opus 5.5, covering best practices for eliciting optimal responses from the model. With 181 points and 199 comments, the thread likely debates the guide's recommendations, compares prompting strategies, and shares practitioner experiences with the latest Opus release.",
+  "tags": [
+    "llm",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-28T16:17:08.335242Z",
+  "updated_at": "2026-09-28T16:17:29.336133Z"
+}

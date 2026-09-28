@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260928-676",
+  "title": "Holo4: powering generalist computer-use agents",
+  "source_url": "https://huggingface.co/blog/Hcompany/holo4",
+  "source": "rss",
+  "summary": "Holo4 is presented as a foundation model designed to power generalist computer-use agents capable of operating graphical user interfaces across diverse applications. It targets the emerging area of AI agents that interact with computers directly, moving beyond text-only tasks toward autonomous control of real software environments.",
+  "tags": [
+    "agent",
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-28T16:17:08.949986Z",
+  "updated_at": "2026-09-28T16:17:29.337297Z"
+}

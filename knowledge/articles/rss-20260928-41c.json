@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260928-41c",
+  "title": "The Normalization of Inexplicable Failures",
+  "source_url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+  "source": "rss",
+  "summary": "A discussion-driven article arguing that society has begun to accept inexplicable failures in AI and software systems as normal, rather than treating them as bugs to be fixed. The piece critiques how reliability expectations have eroded as complex, opaque models are deployed, and HN commenters debate accountability, testing, and the cultural shift toward tolerating unpredictable behavior.",
+  "tags": [
+    "deployment",
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-28T16:17:08.335483Z",
+  "updated_at": "2026-09-28T16:17:29.336216Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260928-f44",
+  "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+  "source_url": "https://git.mills.io/prologic/parley",
+  "source": "rss",
+  "summary": "Parley is a federated, decentralised chat system that uses plain IRC as its protocol, allowing users to run their own servers and interoperate with existing IRC networks. The project, shared on Hacker News, sparked discussion about decentralised communication, federation models, and the practicality of building on legacy protocols like IRC.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-28T16:17:08.335132Z",
+  "updated_at": "2026-09-28T16:17:29.336055Z"
+}

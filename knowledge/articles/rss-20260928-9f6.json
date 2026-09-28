@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260928-9f6",
+  "title": "There are no \"rogue\" AI agents",
+  "source_url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+  "source": "rss",
+  "summary": "A Substack essay arguing that the concept of \"rogue\" AI agents is misleading, since current agents lack genuine autonomy and are ultimately executing human-designed objectives and incentives. The piece likely critiques anthropomorphic framing of agentic systems and emphasizes that responsibility for agent behavior lies with developers and deployers rather than the agents themselves.",
+  "tags": [
+    "agent",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-28T16:17:08.335442Z",
+  "updated_at": "2026-09-28T16:17:29.336162Z"
+}

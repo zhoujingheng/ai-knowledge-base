@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260928-a17",
+  "title": "GPU Glossary",
+  "source_url": "https://modal.com/gpu-glossary",
+  "source": "rss",
+  "summary": "A GPU glossary resource shared on Lobste.rs, providing definitions and explanations of GPU-related terminology. Likely covers concepts relevant to AI/ML workloads such as CUDA, memory hierarchies, tensor cores, and parallel computing primitives used in training and inference.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-09-28T16:17:08.613355Z",
+  "updated_at": "2026-09-28T16:17:29.336383Z"
+}

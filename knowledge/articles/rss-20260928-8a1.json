@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260928-8a1",
+  "title": "Don't couple your Go code to GitHub",
+  "source_url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+  "source": "rss",
+  "summary": "This is a Hacker News discussion about a blog post arguing that Go developers should avoid tightly coupling their code to GitHub, likely by using module paths or import strategies that don't depend on GitHub-specific hosting. The post has 302 points and 156 comments, indicating strong community interest in Go dependency management and portability.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-09-28T16:17:08.335422Z",
+  "updated_at": "2026-09-28T16:17:29.336168Z"
+}
