@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260929-917",
+  "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+  "source": "rss",
+  "summary": "This work addresses verification for MCP (Model Context Protocol) agents, arguing that checking factual correctness alone is insufficient—agents must also verify the provenance and trustworthiness of sources. It proposes source-aware verification methods to help agents assess where information originates, improving reliability and reducing risks from untrusted or manipulated data in tool-using LLM systems.",
+  "tags": [
+    "agent",
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-29T14:28:26.589470Z",
+  "updated_at": "2026-09-29T14:28:46.401383Z"
+}

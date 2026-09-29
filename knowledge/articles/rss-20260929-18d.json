@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260929-18d",
+  "title": "Sonnet 5.5",
+  "source_url": "https://www.anthropic.com/claude-sonnet-5-5",
+  "source": "rss",
+  "summary": "This Hacker News submission links to Anthropic's announcement of Claude Sonnet 5.5, generating 841 points and 570 comments. The post points to the official Anthropic product page and a discussion thread, indicating strong community interest in a new LLM release. No technical details are provided in the submission itself.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-09-29T14:28:25.751898Z",
+  "updated_at": "2026-09-29T14:28:46.400481Z"
+}

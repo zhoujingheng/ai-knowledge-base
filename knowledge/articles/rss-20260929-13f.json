@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260929-13f",
+  "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+  "source_url": "https://github.com/firelex/jeff",
+  "source": "rss",
+  "summary": "Jeff is a family of Jev-compatible 0.8B parameter decision models trained at home on consumer hardware, achieving ~30 ms inference latency. The GitHub project targets lightweight, locally runnable models for decision-making tasks, with discussion on Hacker News covering training setup, performance, and practical applications.",
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-09-29T14:28:25.751823Z",
+  "updated_at": "2026-09-29T14:28:46.400283Z"
+}

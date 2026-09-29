@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260929-507",
+  "title": "AI companies leak data to advertisers [pdf]",
+  "source_url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+  "source": "rss",
+  "summary": "A PDF article (discussed on Hacker News) examining how AI companies leak user data to advertisers, likely through prompt content, tracking mechanisms, and embedded analytics in AI interfaces. The title's 'prompt like a butterfly, sting like a tracker' suggests prompts can carry hidden tracking payloads or that AI interactions expose sensitive user information to third-party ad networks.",
+  "tags": [
+    "research",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-29T14:28:25.751801Z",
+  "updated_at": "2026-09-29T14:28:46.400322Z"
+}

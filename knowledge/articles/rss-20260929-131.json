@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260929-131",
+  "title": "The problem is not AI code, but not knowing about system architecture or intent",
+  "source_url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+  "source": "rss",
+  "summary": "A discussion post arguing that the real challenge with AI-generated code isn't the code itself, but the loss of understanding around system architecture and developer intent. With 371 points and 235 comments on Hacker News, it sparks debate about how AI tools affect code comprehension, maintainability, and the tacit knowledge that humans bring to software design.",
+  "tags": [
+    "llm",
+    "deployment",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-09-29T14:28:25.751938Z",
+  "updated_at": "2026-09-29T14:28:46.400441Z"
+}
