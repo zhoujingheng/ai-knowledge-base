@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260930-881",
+  "title": "Dots: Always-on agents",
+  "source_url": "https://openai.com/index/introducing-dots/",
+  "source": "rss",
+  "summary": "OpenAI introduces Dots, a system for always-on autonomous agents that run continuously in the background. The announcement generated significant discussion on Hacker News with 672 points and 530 comments, reflecting strong community interest in persistent agent architectures and their implications for AI deployment.",
+  "tags": [
+    "agent",
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-30T14:26:57.872501Z",
+  "updated_at": "2026-09-30T14:27:17.908250Z"
+}

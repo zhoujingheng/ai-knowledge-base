@@ -1,0 +1,16 @@
+{
+  "id": "rss-20260930-a5c",
+  "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+  "source_url": "https://github.com/ninjahawk/livenerf",
+  "source": "rss",
+  "summary": "A Hacker News discussion (729 points, 292 comments) about LiveNeRF, a GitHub project by ninjahawk. The title jokingly asks whether 'Opus 5.5' has been nerfed, suggesting the project relates to real-time neural radiance fields (NeRF) and possibly performance comparisons or model capability debates. The thread likely covers implementation details, rendering performance, and comparisons to other NeRF approaches.",
+  "tags": [
+    "research",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-09-30T14:26:57.872427Z",
+  "updated_at": "2026-09-30T14:27:17.908225Z"
+}
