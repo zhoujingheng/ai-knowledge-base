@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261001-852",
+  "title": "StreetComplete on iOS is now in public beta",
+  "source_url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+  "source": "rss",
+  "summary": "StreetComplete, an OpenStreetMap survey editor app, has launched a public beta for iOS after previously being Android-only. The linked GitHub issue tracks the iOS port's progress, and the Hacker News discussion covers the app's purpose, development challenges, and community reactions to the cross-platform release.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-10-01T14:57:11.242825Z",
+  "updated_at": "2026-10-01T14:57:33.066172Z"
+}

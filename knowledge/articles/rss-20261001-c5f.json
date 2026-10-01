@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261001-c5f",
+  "title": "Introducing SynthID Bio",
+  "source_url": "https://deepmind.google/blog/introducing-synthid-bio/",
+  "source": "rss",
+  "summary": "SynthID Bio is a proof-of-concept watermarking method for AI-generated proteins that embeds detectable signatures while preserving biological function. It extends watermarking techniques from text and images to the protein design domain, addressing provenance and misuse concerns in AI-driven synthetic biology.",
+  "tags": [
+    "research",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-10-01T14:57:12.178261Z",
+  "updated_at": "2026-10-01T14:57:33.069001Z"
+}

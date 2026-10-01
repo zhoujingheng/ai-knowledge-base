@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261001-30d",
+  "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+  "source_url": "https://huggingface.co/blog/open-tts-leaderboard",
+  "source": "rss",
+  "summary": "The Open TTS Leaderboard introduces a scalable evaluation framework for multilingual text-to-speech and voice cloning systems. It provides standardized benchmarks to compare models across languages and tasks, addressing the lack of consistent, reproducible metrics in TTS research. The leaderboard aims to accelerate progress by enabling fair comparisons and highlighting strengths and weaknesses of current approaches.",
+  "tags": [
+    "research",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-01T14:57:11.769255Z",
+  "updated_at": "2026-10-01T14:57:33.068275Z"
+}

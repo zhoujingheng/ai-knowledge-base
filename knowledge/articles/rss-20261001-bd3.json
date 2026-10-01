@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261001-bd3",
+  "title": "Vermont replacing power plants with home batteries",
+  "source_url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+  "source": "rss",
+  "summary": "This Hacker News discussion covers Vermont's initiative to replace traditional power plants with distributed home battery systems as a primary energy source. Commenters debate the technical, economic, and grid-reliability implications of virtual power plants, including battery chemistry, inverter capabilities, and utility coordination challenges.",
+  "tags": [
+    "deployment",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-10-01T14:57:11.243293Z",
+  "updated_at": "2026-10-01T14:57:33.066761Z"
+}

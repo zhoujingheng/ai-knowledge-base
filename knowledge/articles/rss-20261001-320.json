@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261001-320",
+  "title": "EDG C++ front-end goes public",
+  "source_url": "https://edgcpp.org/#transition",
+  "source": "rss",
+  "summary": "The EDG C++ front-end, a long-standing commercial-grade C++ parser and semantic analyzer used in many compilers and tools, has been released publicly on GitHub. The announcement sparked discussion on Hacker News about its licensing, architecture, and impact on the C++ tooling ecosystem.",
+  "tags": [
+    "tool",
+    "framework",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-10-01T14:57:11.242979Z",
+  "updated_at": "2026-10-01T14:57:33.066273Z"
+}

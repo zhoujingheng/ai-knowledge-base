@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261001-c50",
+  "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+  "source_url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+  "source": "rss",
+  "summary": "A Hacker News discussion about a Singapore government-backed dating app that reportedly uses the Gale-Shapley stable marriage algorithm to match users. Commenters debate the algorithm's suitability for real-world dating, its assumptions about preferences, and how government involvement shapes the design and privacy tradeoffs.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-01T14:57:11.243138Z",
+  "updated_at": "2026-10-01T14:57:33.066511Z"
+}

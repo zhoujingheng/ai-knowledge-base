@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261001-39f",
+  "title": "You said no MCP",
+  "source_url": "https://earendil.com/posts/you-said-no-mcp/",
+  "source": "rss",
+  "summary": "A Hacker News discussion (651 points, 356 comments) linking to an article titled 'You said no MCP' on earendil.com. The piece appears to critique or push back on Model Context Protocol (MCP) adoption, sparking debate about whether MCP is necessary for connecting LLMs to tools and data, or whether simpler alternatives suffice.",
+  "tags": [
+    "llm",
+    "tool",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-01T14:57:11.243117Z",
+  "updated_at": "2026-10-01T14:57:33.066494Z"
+}
