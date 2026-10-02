@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261002-da5",
+  "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+  "source_url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+  "source": "rss",
+  "summary": "The article reports that multiple independent projects have discovered undocumented software-defined radio (SDR) capabilities in ESP32 microcontrollers, enabling them to receive and process radio signals without dedicated SDR hardware. This expands the ESP32's utility for low-cost wireless experimentation, though it is not directly related to AI/ML.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-10-02T14:20:17.959412Z",
+  "updated_at": "2026-10-02T14:20:38.999596Z"
+}

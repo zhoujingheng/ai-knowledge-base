@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261002-530",
+  "title": "DeepSeek Harness Desktop for macOS and Windows",
+  "source_url": "https://www.deepseek.com/en/harness/",
+  "source": "rss",
+  "summary": "A Hacker News discussion linking to DeepSeek's Harness, a desktop application for macOS and Windows. The tool appears to provide a local interface for interacting with DeepSeek's AI models, drawing significant community interest with over 300 points and 150 comments debating its capabilities, performance, and comparison to other LLM desktop clients.",
+  "tags": [
+    "llm",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-10-02T14:20:17.959187Z",
+  "updated_at": "2026-10-02T14:20:38.999407Z"
+}

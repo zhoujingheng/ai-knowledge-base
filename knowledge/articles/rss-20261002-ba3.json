@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261002-ba3",
+  "title": "Frog and Toad and the Increasingly Capable Machines",
+  "source_url": "https://www.frogandtoad.ai/",
+  "source": "rss",
+  "summary": "A Hacker News discussion linking to frogandtoad.ai, an essay using the Frog and Toad children's stories as a lens to explore the growing capabilities of AI systems. Commenters debate the implications of increasingly powerful machines, touching on alignment, societal impact, and what it means for AI to be 'capable' in human-like ways.",
+  "tags": [
+    "llm",
+    "research",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-10-02T14:20:17.959245Z",
+  "updated_at": "2026-10-02T14:20:38.999497Z"
+}

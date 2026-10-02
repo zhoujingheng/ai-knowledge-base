@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261002-7d8",
+  "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+  "source_url": "https://blog.gitbutler.com/git-3-sha-256",
+  "source": "rss",
+  "summary": "This Hacker News discussion critiques Git 3.0's plan to make SHA-256 the default hash algorithm, arguing the migration will be costly and disruptive for existing repositories, tooling, and workflows. Commenters debate performance, compatibility, and whether the security benefits justify the ecosystem-wide churn.",
+  "tags": [
+    "tool",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-02T14:20:17.959334Z",
+  "updated_at": "2026-10-02T14:20:38.999559Z"
+}

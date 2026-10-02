@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261002-89d",
+  "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+  "source_url": "https://blog.cloudflare.com/clef-decision-models/",
+  "source": "rss",
+  "summary": "Cloudflare introduces Clef, a set of open-weight decision models paired with a new reinforcement learning fine-tuning platform. The release targets developers seeking customizable, self-hostable models for decision-making tasks, offering both pretrained weights and tooling to adapt them via RL. The accompanying blog post details the models, training approach, and platform capabilities, sparking substantial discussion on Hacker News.",
+  "tags": [
+    "fine-tuning",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-10-02T14:20:17.959359Z",
+  "updated_at": "2026-10-02T14:20:38.999620Z"
+}

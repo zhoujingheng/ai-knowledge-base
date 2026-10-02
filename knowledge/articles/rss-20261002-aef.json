@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261002-aef",
+  "title": "SvelteKit 3",
+  "source_url": "https://svelte.dev/blog/sveltekit-3-is-here",
+  "source": "rss",
+  "summary": "This is a Hacker News submission linking to the SvelteKit 3 release announcement, a web development framework. Despite its presence in an AI/ML content stream, the post concerns frontend tooling rather than artificial intelligence or machine learning, with 338 points and 140 comments on Hacker News.",
+  "tags": [
+    "framework",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 1,
+  "created_at": "2026-10-02T14:20:17.959269Z",
+  "updated_at": "2026-10-02T14:20:38.999545Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261002-d50",
+  "title": "Cloudflare K2: serverless event streams",
+  "source_url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+  "source": "rss",
+  "summary": "Cloudflare introduces K2, a serverless platform for building and consuming event streams at the edge. The post details how K2 enables developers to create durable, scalable stream processing pipelines without managing infrastructure, leveraging Cloudflare's global network for low-latency data ingestion and delivery.",
+  "tags": [
+    "deployment",
+    "framework",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-02T14:20:17.959514Z",
+  "updated_at": "2026-10-02T14:20:38.999668Z"
+}

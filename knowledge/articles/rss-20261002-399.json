@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261002-399",
+  "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+  "source_url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
+  "source": "rss",
+  "summary": "This article reports that law enforcement can bypass the iPhone's automatic inactivity reboot feature using a tool called GrayKey, allowing access to locked devices that would otherwise become harder to unlock. The discussion highlights ongoing tensions between device security features and forensic access, raising privacy and encryption concerns.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-10-02T14:20:17.959494Z",
+  "updated_at": "2026-10-02T14:20:38.999644Z"
+}

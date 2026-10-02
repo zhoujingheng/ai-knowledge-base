@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261002-500",
+  "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+  "source_url": "https://huggingface.co/blog/allenai/olmocore3",
+  "source": "rss",
+  "summary": "Olmo-core 3 is an open-source training infrastructure designed to scale large Mixture-of-Experts (MoE) models. It provides tooling for efficient distributed training, enabling researchers and developers to train massive sparse models with improved throughput and resource utilization.",
+  "tags": [
+    "framework",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-10-02T14:20:18.693747Z",
+  "updated_at": "2026-10-02T14:20:39.001137Z"
+}
