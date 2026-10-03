@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261003-ab5",
+  "title": "FLUX 3 Image",
+  "source_url": "https://bfl.ai/models/flux-3-image",
+  "source": "rss",
+  "summary": "A Hacker News discussion linking to Black Forest Labs' announcement of FLUX 3 Image, a new image generation model. With 360 points and 79 comments, the thread covers the model's capabilities, comparisons to prior FLUX versions and competitors, and community reactions to its release.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-03T12:53:19.523473Z",
+  "updated_at": "2026-10-03T12:53:39.744946Z"
+}

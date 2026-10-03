@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261003-b1f",
+  "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+  "source_url": "https://stillwet.art/",
+  "source": "rss",
+  "summary": "A Show HN project called 'stillwet.art' that gives a language model (referred to as Opus 5.5) a simulated paint canvas, allowing it to interact with a virtual painting environment. The 290-point HN discussion explores the model's creative output and the technical setup behind simulating artistic tools for an LLM.",
+  "tags": [
+    "llm",
+    "tool",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-03T12:53:19.523258Z",
+  "updated_at": "2026-10-03T12:53:39.744639Z"
+}

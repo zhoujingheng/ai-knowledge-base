@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261003-40a",
+  "title": "Sites in ChatGPT",
+  "source_url": "https://chatgpt.com/features/sites/",
+  "source": "rss",
+  "summary": "This Hacker News discussion centers on ChatGPT's new 'Sites' feature, which lets users build and publish interactive web pages or mini-apps directly within ChatGPT. Commenters debate its capabilities, limitations, and implications for web development, comparing it to existing tools and speculating about OpenAI's broader platform ambitions.",
+  "tags": [
+    "tool",
+    "deployment",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-10-03T12:53:19.523386Z",
+  "updated_at": "2026-10-03T12:53:39.744813Z"
+}

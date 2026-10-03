@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261003-e5b",
+  "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+  "source_url": "https://huggingface.co/blog/allenai/astabrief",
+  "source": "rss",
+  "summary": "Allen Institute for AI open-sources AstaBrief, a fast report-generation model powering the Asta scientific research assistant. The model synthesizes information into structured reports, likely leveraging retrieval over scientific literature combined with an LLM backbone. The release enables researchers and developers to build similar automated literature-review and summarization tools.",
+  "tags": [
+    "llm",
+    "rag",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-03T12:53:20.247685Z",
+  "updated_at": "2026-10-03T12:53:39.746168Z"
+}

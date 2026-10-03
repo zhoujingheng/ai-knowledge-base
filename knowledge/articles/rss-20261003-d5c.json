@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261003-d5c",
+  "title": "From the creator of Redis; run LLM locally with ds4",
+  "source_url": "https://dwarfstar.sh/",
+  "source": "rss",
+  "summary": "DwarfStar (ds4) is a project by Salvatore Sanfilippo, the creator of Redis, for running large language models locally. Shared on Hacker News, it drew significant attention (266 points, 69 comments) as a lightweight, self-hosted LLM inference tool, reflecting growing interest in local, privacy-preserving AI deployment outside of cloud APIs.",
+  "tags": [
+    "llm",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-03T12:53:19.523040Z",
+  "updated_at": "2026-10-03T12:53:39.744508Z"
+}

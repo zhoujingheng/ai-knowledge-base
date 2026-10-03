@@ -1,0 +1,14 @@
+{
+  "id": "rss-20261003-159",
+  "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+  "source_url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+  "source": "rss",
+  "summary": "A court ruling agrees with the EFF that Utah's new VPN law is technically impossible to comply with, as it would require VPN providers to verify user ages and block certain content in ways that fundamentally conflict with how VPN encryption and routing work. The decision highlights the gap between legislative intent and technical reality.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-10-03T12:53:19.523367Z",
+  "updated_at": "2026-10-03T12:53:39.744734Z"
+}
