@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261004-705",
+  "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+  "source_url": "https://tej.as/blog/aleph-alpha-kolibri",
+  "source": "rss",
+  "summary": "Aleph Alpha's Kolibri is a sovereign German large language model designed to offer an alternative to US and Chinese AI providers, emphasizing data sovereignty, transparency, and compliance with European regulations. The blog post details its architecture, training approach, and deployment options for enterprises and public sector organizations seeking control over their AI infrastructure.",
+  "tags": [
+    "llm",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-04T13:34:47.747847Z",
+  "updated_at": "2026-10-04T13:35:09.064724Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261004-7ea",
+  "title": "Cloudflare OHTTP gateway",
+  "source_url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+  "source": "rss",
+  "summary": "Cloudflare announces an OHTTP (Oblivious HTTP) gateway, a privacy-preserving relay that decouples client identity from request content by encrypting and forwarding HTTP requests through a trusted intermediary. The post explains the protocol, its use cases for protecting user privacy in applications, and how developers can integrate it. Discussion on Hacker News covers implementation details, privacy tradeoffs, and comparisons to similar approaches.",
+  "tags": [
+    "tool",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-04T13:34:47.747915Z",
+  "updated_at": "2026-10-04T13:35:09.064891Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261004-666",
+  "title": "Agents don't need memory, they need documentation",
+  "source_url": "https://liao.gg/blog/agents-dont-need-memory",
+  "source": "rss",
+  "summary": "A blog post arguing that AI agents should rely on structured documentation rather than opaque memory systems. The author contends that persistent memory in agents creates reliability and debugging problems, while documentation-based approaches offer transparency, version control, and easier maintenance. The piece sparked extensive discussion on Hacker News with 226 points and 129 comments.",
+  "tags": [
+    "agent",
+    "llm",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-04T13:34:47.747777Z",
+  "updated_at": "2026-10-04T13:35:09.064662Z"
+}

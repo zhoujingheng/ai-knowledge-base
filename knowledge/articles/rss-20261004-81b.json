@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261004-81b",
+  "title": "We're going to need default hard budget caps on pretty much everything",
+  "source_url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+  "source": "rss",
+  "summary": "Simon Willison argues that AI systems, particularly LLM-powered agents, need default hard budget caps to prevent runaway costs and resource consumption. The piece discusses how autonomous agents can loop, retry, or make excessive API calls without limits, and advocates for built-in spending and usage ceilings as a standard safety practice.",
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-04T13:34:47.747452Z",
+  "updated_at": "2026-10-04T13:35:09.064460Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261004-131",
+  "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+  "source_url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+  "source": "rss",
+  "summary": "A blog post discussing techniques for maximizing performance with Opus 5.5, an AI model available in Claude and Claude Code. The article covers practical usage tips, likely including prompting strategies and workflow optimizations. It generated significant discussion on Hacker News with 221 points and 152 comments, indicating strong community interest in getting better results from the model.",
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-10-04T13:34:47.747643Z",
+  "updated_at": "2026-10-04T13:35:09.064639Z"
+}

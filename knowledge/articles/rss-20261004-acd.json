@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261004-acd",
+  "title": "Kolibri: A Sovereign Open-Weight Model",
+  "source_url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+  "source": "rss",
+  "summary": "Aleph Alpha released Kolibri, an open-weight sovereign AI model, accompanied by a technical report and additional analysis paper. The announcement sparked significant discussion on Hacker News with 624 points and 318 comments, reflecting strong interest in open-weight models that offer transparency, local control, and independence from proprietary AI providers.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-10-04T13:34:47.747874Z",
+  "updated_at": "2026-10-04T13:35:09.064740Z"
+}
