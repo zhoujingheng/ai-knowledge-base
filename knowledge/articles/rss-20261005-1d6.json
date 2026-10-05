@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261005-1d6",
+  "title": "Web Search API",
+  "source_url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+  "source": "rss",
+  "summary": "Cloudflare announces a new Web Search API, likely enabling developers to integrate real-time web search capabilities into AI applications and agents. The Hacker News discussion (193 points, 102 comments) suggests significant community interest in using this for RAG pipelines, grounding LLM outputs, and building search-augmented agents without managing their own crawling or indexing infrastructure.",
+  "tags": [
+    "tool",
+    "rag",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-05T16:38:16.541659Z",
+  "updated_at": "2026-10-05T16:38:37.671363Z"
+}

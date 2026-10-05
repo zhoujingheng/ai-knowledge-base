@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261005-b71",
+  "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+  "source_url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+  "source": "rss",
+  "summary": "GrapheneOS, a security-hardened Android distribution, reports that Google's Pixel 11 hardware does not yet meet its security standards and may be skipped as a supported device. The discussion covers hardware security requirements, attestation, and the tradeoffs of relying on a single vendor for a secure mobile OS.",
+  "tags": [
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-10-05T16:38:16.541595Z",
+  "updated_at": "2026-10-05T16:38:37.671352Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261005-804",
+  "title": "Why don't more developers “use the platform”?",
+  "source_url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+  "source": "rss",
+  "summary": "A Hacker News discussion linking to Nolan Lawson's blog post examining why developers avoid native web platform features in favor of frameworks and libraries. The 332-comment thread debates tradeoffs around abstraction, cross-browser inconsistencies, developer experience, and long-term maintenance, drawing parallels to broader patterns in software tooling adoption.",
+  "tags": [
+    "framework",
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-10-05T16:38:16.541970Z",
+  "updated_at": "2026-10-05T16:38:37.671728Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261005-11e",
+  "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+  "source_url": "https://github.com/omlahore/RemoveMacAI",
+  "source": "rss",
+  "summary": "A GitHub project and Hacker News discussion about disabling Apple Intelligence on macOS 27 to reclaim disk space. The tool removes or disables Apple's on-device AI features, which can consume significant storage. The 701-point thread with 466 comments reflects strong user interest in controlling AI features and managing system resources.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-10-05T16:38:16.541816Z",
+  "updated_at": "2026-10-05T16:38:37.671527Z"
+}

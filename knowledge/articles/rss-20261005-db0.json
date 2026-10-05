@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261005-db0",
+  "title": "A browser-native classic Visual Basic VB6 IDE",
+  "source_url": "https://wieslawsoltes.github.io/VB6/",
+  "source": "rss",
+  "summary": "A browser-native recreation of the classic Visual Basic 6 IDE, hosted on GitHub Pages and discussed on Hacker News. The project runs entirely in the browser, letting users write and run VB6-style code without installing the original toolchain. While not an AI/ML project itself, it is a notable web-based development environment.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-10-05T16:38:16.541862Z",
+  "updated_at": "2026-10-05T16:38:37.671556Z"
+}
