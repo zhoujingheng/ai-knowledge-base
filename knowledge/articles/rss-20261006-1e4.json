@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261006-1e4",
+  "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
+  "source_url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
+  "source": "rss",
+  "summary": "Mold, a high-speed linker, has released version 3.0.0, which is a complete rewrite in Rust. The release announcement links to the GitHub repository and a Hacker News discussion with 241 points and 178 comments, indicating significant community interest in this performance-focused systems tool.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-10-06T14:36:10.774469Z",
+  "updated_at": "2026-10-06T14:36:32.593145Z"
+}

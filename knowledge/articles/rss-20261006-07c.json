@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261006-07c",
+  "title": "Friendship ended with Deno, now Node is my best friend",
+  "source_url": "https://dbushell.com/2026/10/03/deno-to-node/",
+  "source": "rss",
+  "summary": "A blog post discussing the author's migration from Deno back to Node.js, shared on Hacker News with 234 points and 149 comments. The content focuses on JavaScript runtime tooling rather than AI/ML, making it largely tangential to machine learning topics.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-10-06T14:36:10.774307Z",
+  "updated_at": "2026-10-06T14:36:32.592962Z"
+}

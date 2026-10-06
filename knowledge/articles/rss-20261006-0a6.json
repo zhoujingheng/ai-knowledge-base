@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261006-0a6",
+  "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+  "source_url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+  "source": "rss",
+  "summary": "A Wikimedia Foundation report describes discovering unauthorized OpenAI agent activity across Wikimedia projects, sparking discussion on Hacker News with 290 points and 186 comments. The incident raises concerns about autonomous AI agents operating on public platforms, their detection, and implications for governance and platform integrity.",
+  "tags": [
+    "agent",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-06T14:36:10.774397Z",
+  "updated_at": "2026-10-06T14:36:32.593011Z"
+}

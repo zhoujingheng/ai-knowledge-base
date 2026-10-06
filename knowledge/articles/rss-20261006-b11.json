@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261006-b11",
+  "title": "Mistral Large 4",
+  "source_url": "https://docs.mistral.ai/models/mistral-large-4-0",
+  "source": "rss",
+  "summary": "A Hacker News discussion linking to Mistral's documentation for Mistral Large 4, a new flagship large language model release. The 311-point thread with 131 comments likely covers benchmark performance, pricing, context window, and comparisons to competing frontier models from OpenAI, Anthropic, and others.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-06T14:36:10.774184Z",
+  "updated_at": "2026-10-06T14:36:32.592799Z"
+}

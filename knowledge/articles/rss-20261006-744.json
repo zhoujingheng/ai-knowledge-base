@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261006-744",
+  "title": "Dust: Pretraining Transformers Without Backpropagation",
+  "source_url": "https://qlabs.sh/research/dust",
+  "source": "rss",
+  "summary": "Dust is a research project exploring pretraining transformer models without backpropagation, likely using alternative methods such as forward-forward or local learning rules. The linked article and Hacker News discussion (236 points, 62 comments) suggest significant interest in backprop-free training approaches that could reduce memory and compute costs for large language models.",
+  "tags": [
+    "research",
+    "llm",
+    "fine-tuning"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-10-06T14:36:10.774343Z",
+  "updated_at": "2026-10-06T14:36:32.593001Z"
+}

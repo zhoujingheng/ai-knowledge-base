@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261006-9f3",
+  "title": "Beam: Reflection's 501B open-weight model",
+  "source_url": "https://reflection.ai/blog/introducing-beam",
+  "source": "rss",
+  "summary": "Reflection AI introduces Beam, a 501-billion-parameter open-weight language model. The release is discussed on Hacker News with 486 points and 158 comments, drawing attention for its large scale and open-weight availability, positioning it among the largest publicly released models.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-10-06T14:36:10.774379Z",
+  "updated_at": "2026-10-06T14:36:32.592982Z"
+}

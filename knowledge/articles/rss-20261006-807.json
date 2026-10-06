@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261006-807",
+  "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+  "source_url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+  "source": "rss",
+  "summary": "Falcon-Emirati is a specialized large language model fine-tuned to understand and generate the Emirati Arabic dialect, along with its cultural context and nuances. It addresses the gap in mainstream LLMs that struggle with regional dialects, aiming to provide more authentic and culturally aware responses for Emirati users.",
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-06T14:36:11.568668Z",
+  "updated_at": "2026-10-06T14:36:32.593736Z"
+}

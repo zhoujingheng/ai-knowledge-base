@@ -1,0 +1,14 @@
+{
+  "id": "rss-20261006-a46",
+  "title": "Why Common Lisp is now the best programming language",
+  "source_url": "https://www.vivienhenz.com/common-lisp",
+  "source": "rss",
+  "summary": "A Hacker News discussion linking to an article arguing that Common Lisp is now the best programming language, likely due to its suitability for AI development, homoiconicity, and interactive REPL-driven workflow. The 317 comments suggest a lively debate on Lisp's advantages and drawbacks versus modern languages.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-10-06T14:36:10.774251Z",
+  "updated_at": "2026-10-06T14:36:32.592891Z"
+}

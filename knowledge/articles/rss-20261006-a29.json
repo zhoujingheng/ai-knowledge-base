@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261006-a29",
+  "title": "Find the flattest route between any two points in SF",
+  "source_url": "https://flattensf.com/",
+  "source": "rss",
+  "summary": "A web tool called FlattenSF finds the flattest walking or cycling route between any two points in San Francisco by analyzing elevation data. It was shared on Hacker News, where commenters discussed routing algorithms, elevation datasets, and practical applications for cyclists and pedestrians avoiding hills.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-10-06T14:36:10.774326Z",
+  "updated_at": "2026-10-06T14:36:32.592972Z"
+}
