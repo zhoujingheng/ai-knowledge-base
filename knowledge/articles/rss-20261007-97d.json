@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261007-97d",
+  "title": "Sharing AI progress in mathematics",
+  "source_url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+  "source": "rss",
+  "summary": "OpenAI shared a GitHub repository containing preprints on AI progress in mathematics, sparking extensive discussion on Hacker News with over 1,000 comments. The release highlights advances in using AI models to tackle mathematical reasoning and proof generation, reflecting growing interest in AI-assisted mathematical research.",
+  "tags": [
+    "research",
+    "llm",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-10-07T14:56:14.622437Z",
+  "updated_at": "2026-10-07T14:56:37.649498Z"
+}

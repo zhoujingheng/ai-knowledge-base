@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261007-669",
+  "title": "Strands Decider 2B: a small, open-source, decision model",
+  "source_url": "https://strandsagents.com/blog/introducing-strands-decider/",
+  "source": "rss",
+  "summary": "Strands Decider 2B is a small, open-source decision model introduced by Strands Agents. It is designed to make routing and decision-making tasks within agentic systems more efficient, offering a lightweight alternative to large LLMs for selecting tools, actions, or next steps. The release targets developers building agent frameworks who need fast, cost-effective decision components.",
+  "tags": [
+    "agent",
+    "llm",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-07T14:56:14.622323Z",
+  "updated_at": "2026-10-07T14:56:37.649558Z"
+}

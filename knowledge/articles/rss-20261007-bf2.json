@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261007-bf2",
+  "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+  "source_url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+  "source": "rss",
+  "summary": "EmbeddingGemma 2 is an open, lightweight multimodal embedding model, suggesting a successor to Google's EmbeddingGemma that extends text-only embeddings to handle multiple modalities. It targets efficient deployment for retrieval, semantic search, and RAG pipelines where compact, open embedding models are preferred over large proprietary alternatives.",
+  "tags": [
+    "llm",
+    "rag",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-07T14:56:16.129080Z",
+  "updated_at": "2026-10-07T14:56:37.651147Z"
+}

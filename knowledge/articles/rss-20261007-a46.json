@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261007-a46",
+  "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+  "source_url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+  "source": "rss",
+  "summary": "A blog post analyzing a subtle Claude Code feature that suggests follow-up messages to users, arguing the feature is designed primarily to benefit the underlying model rather than the human user. The author contends that by steering users toward prompts the model handles well, Anthropic improves perceived model quality and reduces failure modes, sparking discussion on Hacker News about agent UX and incentives.",
+  "tags": [
+    "agent",
+    "llm",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-07T14:56:14.622572Z",
+  "updated_at": "2026-10-07T14:56:37.649660Z"
+}

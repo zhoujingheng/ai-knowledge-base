@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261007-28e",
+  "title": "Mistral Large 4",
+  "source_url": "https://mistral.ai/news/mistral-large-4/\\",
+  "source": "rss",
+  "summary": "Mistral AI has released Mistral Large 4, a new flagship large language model documented on their official docs site. The Hacker News submission drew significant attention with 1918 points and over 1150 comments, indicating strong community interest in the model's capabilities, benchmarks, and positioning relative to competitors like GPT and Claude.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-07T14:56:14.622662Z",
+  "updated_at": "2026-10-07T14:56:37.649718Z"
+}

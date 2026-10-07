@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261007-2b3",
+  "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+  "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+  "source": "rss",
+  "summary": "Google announces EmbeddingGemma 2, an open, lightweight multimodal embedding model aimed at developers. The release targets efficient embedding generation across text and other modalities, positioning it as a practical tool for retrieval, search, and RAG pipelines. Discussion on Hacker News drew significant interest, reflecting demand for compact, open embedding models that can run with modest compute.",
+  "tags": [
+    "llm",
+    "rag",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-07T14:56:14.622622Z",
+  "updated_at": "2026-10-07T14:56:37.649729Z"
+}

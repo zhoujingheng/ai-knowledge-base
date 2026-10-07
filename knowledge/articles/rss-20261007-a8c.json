@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261007-a8c",
+  "title": "Gleam doesn't compile to Erlang source anymore",
+  "source_url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+  "source": "rss",
+  "summary": "Gleam, a statically typed functional language for the Erlang VM, has changed its compiler to emit Erlang bytecode directly instead of generating Erlang source code. This removes a compilation step, improves build times, and gives the compiler more control over generated output, though it may affect tooling that relied on inspecting intermediate Erlang source.",
+  "tags": [
+    "tool",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-07T14:56:14.622830Z",
+  "updated_at": "2026-10-07T14:56:37.649865Z"
+}

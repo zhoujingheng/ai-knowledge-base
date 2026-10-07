@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261007-c0c",
+  "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+  "source_url": "https://news.ycombinator.com/item?id=49982498",
+  "source": "rss",
+  "summary": "A developer of Photopea, a browser-based photo editor, reports that GitHub refused to remove repositories containing AI-generated cracked copies of his JavaScript code with ads stripped out. After filing a DMCA takedown notice, GitHub cited 17 U.S. Code § 1201 and declined action. The developer seeks advice on legal recourse, suspecting automated rejection.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-10-07T14:56:14.622542Z",
+  "updated_at": "2026-10-07T14:56:37.649670Z"
+}

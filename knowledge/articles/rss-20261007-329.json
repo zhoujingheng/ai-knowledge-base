@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261007-329",
+  "title": "Decisions API is in public beta",
+  "source_url": "https://developers.openai.com/api/docs/guides/decisions",
+  "source": "rss",
+  "summary": "OpenAI has launched its Decisions API in public beta, as announced on the OpenAI developer documentation site and discussed on Hacker News with 356 points and 196 comments. The API likely enables developers to integrate decision-making or policy-based logic into AI applications, though specific capabilities are not detailed in the provided metadata.",
+  "tags": [
+    "tool",
+    "deployment",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-07T14:56:14.622460Z",
+  "updated_at": "2026-10-07T14:56:37.649649Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261007-068",
+  "title": "Meta’s Muse is an adorable privacy and security dumpster fire",
+  "source_url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
+  "source": "rss",
+  "summary": "A Techdirt article, discussed on Hacker News with 381 points and 272 comments, critiques Meta's 'Muse' product as a serious privacy and security failure. The piece argues that despite its appealing design, Muse exposes user data and introduces significant security risks, sparking community debate about Meta's handling of AI product privacy.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-10-07T14:56:14.622687Z",
+  "updated_at": "2026-10-07T14:56:37.649749Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261007-1de",
+  "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+  "source_url": "https://github.com/boykopovar/AnyPS5",
+  "source": "rss",
+  "summary": "AnyPS5 is a project that ports PlayStation 5 binaries to PC without emulation by mapping 87% of system libraries, translating PS5 API calls to native PC equivalents. It sparked a 310-point Hacker News discussion with 272 comments, though the content is primarily a systems/reverse-engineering effort rather than AI/ML.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-10-07T14:56:14.622370Z",
+  "updated_at": "2026-10-07T14:56:37.649543Z"
+}

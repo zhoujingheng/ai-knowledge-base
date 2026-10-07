@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261007-36b",
+  "title": "Polars 2.0",
+  "source_url": "https://pola.rs/posts/release-polars-2/",
+  "source": "rss",
+  "summary": "Polars 2.0 is a major release of the Rust-based DataFrame library, announced on the project blog and discussed on Hacker News with 447 points and 99 comments. The release focuses on performance, API stability, and expanded functionality for data processing workflows, positioning Polars as a faster alternative to pandas for analytical workloads.",
+  "tags": [
+    "tool",
+    "framework",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-07T14:56:14.622745Z",
+  "updated_at": "2026-10-07T14:56:37.649843Z"
+}

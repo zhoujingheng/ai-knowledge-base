@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261007-fd5",
+  "title": "Burn 0.22.0: Faster Builds, Easier Extensions, and Smarter Autotuning",
+  "source_url": "https://tracel.ai/blog/release-0.22.0/",
+  "source": "rss",
+  "summary": "Burn 0.22.0 is a release of the Burn deep learning framework in Rust, introducing faster build times, a simplified extension mechanism, and improved autotuning capabilities. The update aims to enhance developer productivity and performance for machine learning workloads written in Rust.",
+  "tags": [
+    "framework",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-07T14:56:14.935974Z",
+  "updated_at": "2026-10-07T14:56:37.649932Z"
+}
