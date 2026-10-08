@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261008-2cf",
+  "title": "Claude Haiku 5.5",
+  "source_url": "https://www.anthropic.com/claude-haiku-5-5",
+  "source": "rss",
+  "summary": "A Hacker News discussion thread about Anthropic's release of Claude Haiku 5.5, linking to the official announcement and drawing 971 points with 453 comments. The content centers on community reactions, benchmarks, and comparisons to prior Claude models, though the provided metadata offers no technical details about the model itself.",
+  "tags": [
+    "llm",
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-10-08T15:04:51.968895Z",
+  "updated_at": "2026-10-08T15:05:13.601052Z"
+}

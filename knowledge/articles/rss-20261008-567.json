@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261008-567",
+  "title": "Multimodal open d1 decision models for the edge",
+  "source_url": "https://huggingface.co/blog/LiquidAI/open-d1",
+  "source": "rss",
+  "summary": "The content discusses multimodal open decision models (d1) designed for edge deployment, combining vision, language, and other modalities to enable autonomous decision-making on resource-constrained devices. It likely covers model architectures, optimization techniques, and trade-offs for running multimodal AI locally without cloud dependency.",
+  "tags": [
+    "deployment",
+    "research",
+    "agent"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-10-08T15:04:52.868484Z",
+  "updated_at": "2026-10-08T15:05:13.602477Z"
+}

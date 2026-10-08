@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261008-596",
+  "title": "Navier–Stokes Lost in Translation",
+  "source_url": "https://arxiv.org/abs/2610.08144",
+  "source": "rss",
+  "summary": "A Hacker News discussion linking to an arXiv paper titled 'Navier–Stokes Lost in Translation,' which appears to examine how AI/ML methods (likely neural operators or learned surrogates) handle or misrepresent Navier–Stokes fluid dynamics. The 329 points and 198 comments suggest strong community interest in the intersection of machine learning and fundamental physics.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-08T15:04:51.969006Z",
+  "updated_at": "2026-10-08T15:05:13.601133Z"
+}

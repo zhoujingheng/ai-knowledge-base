@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261008-2b0",
+  "title": "Clojure in the Age of Language Models",
+  "source_url": "https://yogthos.net/posts/2026-10-07-clojure-llms.html",
+  "source": "rss",
+  "summary": "A discussion post linking to Lobsters comments about Clojure's role and relevance in the era of large language models, likely covering how the language's REPL-driven, data-oriented design fits AI-assisted development, LLM tooling, and code generation workflows.",
+  "tags": [
+    "llm",
+    "tool",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-10-08T15:04:52.294105Z",
+  "updated_at": "2026-10-08T15:05:13.601418Z"
+}

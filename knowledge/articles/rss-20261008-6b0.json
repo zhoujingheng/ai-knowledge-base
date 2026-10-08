@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261008-6b0",
+  "title": "Introducing Falcon ASR",
+  "source_url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+  "source": "rss",
+  "summary": "Falcon ASR is an automatic speech recognition model introduced by the Falcon team, extending the Falcon family beyond language modeling into audio transcription. The announcement likely covers model architecture, training data, benchmark performance against existing ASR systems, and availability for developers. It represents a new open or commercial offering for speech-to-text tasks.",
+  "tags": [
+    "research",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-08T15:04:52.868499Z",
+  "updated_at": "2026-10-08T15:05:13.602524Z"
+}

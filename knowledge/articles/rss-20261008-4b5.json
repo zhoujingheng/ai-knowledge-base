@@ -1,0 +1,14 @@
+{
+  "id": "rss-20261008-4b5",
+  "title": "Margaret Hamilton has died",
+  "source_url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+  "source": "rss",
+  "summary": "Margaret Hamilton, the MIT computer scientist who led development of the Apollo onboard flight software and coined the term 'software engineering,' has died. The Hacker News discussion commemorates her pioneering work on error-tolerant, mission-critical systems, which laid groundwork for modern software reliability practices relevant to today's AI/ML engineering.",
+  "tags": [
+    "research"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-10-08T15:04:51.968731Z",
+  "updated_at": "2026-10-08T15:05:13.600968Z"
+}

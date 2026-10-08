@@ -1,0 +1,16 @@
+{
+  "id": "github-20261008-81f",
+  "title": "Panniantong/Agent-Reach",
+  "source_url": "https://github.com/Panniantong/Agent-Reach",
+  "source": "github",
+  "summary": "Agent-Reach is a CLI tool that gives AI agents the ability to read and search across multiple internet platforms including Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu. It provides unified web access for agents without requiring paid APIs, enabling broader data retrieval and interaction capabilities.",
+  "tags": [
+    "agent",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-10-08T15:04:49.343183Z",
+  "updated_at": "2026-10-08T15:05:13.600893Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261008-589",
+  "title": "Animated ASCII Art for Web Pages",
+  "source_url": "https://ascii.rest/",
+  "source": "rss",
+  "summary": "A Hacker News discussion linking to ascii.rest, a project for creating animated ASCII art for web pages. The 419-point thread with 72 comments covers implementation techniques, rendering performance, and creative uses of ASCII animation in browser-based interfaces.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-10-08T15:04:51.969072Z",
+  "updated_at": "2026-10-08T15:05:13.601243Z"
+}

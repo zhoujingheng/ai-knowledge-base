@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261008-219",
+  "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+  "source_url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+  "source": "rss",
+  "summary": "This news item reports that Meta and Microsoft are taking measures to curb internal employee use of Anthropic's Claude AI, likely favoring their own AI tools. The Hacker News discussion (356 points, 367 comments) focuses on corporate AI strategy, vendor lock-in, and competition among LLM providers rather than technical AI/ML details.",
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-10-08T15:04:51.968860Z",
+  "updated_at": "2026-10-08T15:05:13.601076Z"
+}

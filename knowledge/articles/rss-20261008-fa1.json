@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261008-fa1",
+  "title": "Shipping JPEG XL in Chrome",
+  "source_url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+  "source": "rss",
+  "summary": "This Hacker News discussion covers Chrome's decision to ship JPEG XL image format support, with 557 points and 372 comments. The thread examines technical tradeoffs, browser implementation challenges, and comparisons to existing formats like AVIF and WebP, reflecting broader debates about image compression standards and web platform adoption.",
+  "tags": [
+    "tool",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-10-08T15:04:51.969134Z",
+  "updated_at": "2026-10-08T15:05:13.601358Z"
+}
