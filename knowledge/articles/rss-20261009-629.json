@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261009-629",
+  "title": "Yes, and",
+  "source_url": "https://htmx.org/essays/yes-and/",
+  "source": "rss",
+  "summary": "This HN discussion links to an htmx essay titled 'Yes, and,' which argues for embracing incremental, composable web development instead of over-engineering. Commenters debate the essay's implications for modern frontend frameworks, AI-assisted coding, and whether the 'yes, and' improvisation principle applies to software design and LLM-driven development workflows.",
+  "tags": [
+    "framework",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-10-09T14:48:48.746687Z",
+  "updated_at": "2026-10-09T14:49:09.455372Z"
+}

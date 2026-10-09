@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261009-e2b",
+  "title": "The model that didn&apos;t exist, so you made it yourself",
+  "source_url": "https://huggingface.co/blog/building-with-ml-intern",
+  "source": "rss",
+  "summary": "The content discusses the practice of building custom AI models when existing solutions don't meet specific needs, likely covering motivations, approaches, and tradeoffs of creating bespoke models rather than relying on off-the-shelf options.",
+  "tags": [
+    "fine-tuning",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-09T14:48:49.719060Z",
+  "updated_at": "2026-10-09T14:49:09.456468Z"
+}

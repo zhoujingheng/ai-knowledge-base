@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261009-82a",
+  "title": "OpenAI withdraws three mathematical results",
+  "source_url": "https://twitter.com/danintheory/status/2108065033070789090",
+  "source": "rss",
+  "summary": "OpenAI has withdrawn three mathematical results previously published in its GitHub repository, as documented in a history file. The move, discussed extensively on Hacker News, raises questions about the reliability and verification of AI-generated mathematical proofs and the broader implications for AI-assisted research.",
+  "tags": [
+    "research",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-09T14:48:48.746767Z",
+  "updated_at": "2026-10-09T14:49:09.455443Z"
+}

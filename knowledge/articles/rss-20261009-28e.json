@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261009-28e",
+  "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+  "source_url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+  "source": "rss",
+  "summary": "A Reddit user claims to have used Claude Code, Anthropic's agentic coding tool, to discover a previously unknown planet, sparking discussion on Hacker News with 230 points and 112 comments. The post highlights AI's potential for scientific discovery through autonomous tool use, though the specific methodology and verification of the claim remain unclear from the title alone.",
+  "tags": [
+    "agent",
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-09T14:48:48.746742Z",
+  "updated_at": "2026-10-09T14:49:09.455490Z"
+}
