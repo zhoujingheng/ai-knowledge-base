@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261010-c97",
+  "title": "Python 3.15",
+  "source_url": "https://www.python.org/downloads/release/python-3150/",
+  "source": "rss",
+  "summary": "This Hacker News post links to the official Python 3.15.0 release page on python.org, with 298 points and 102 comments. It announces a new CPython release, likely covering language features, performance improvements, and standard library changes. While not AI/ML-specific, Python is the dominant language for ML frameworks and tooling, so the release is relevant to practitioners building and deploying models.",
+  "tags": [
+    "tool",
+    "framework"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-10-10T14:06:40.110784Z",
+  "updated_at": "2026-10-10T14:06:59.420808Z"
+}

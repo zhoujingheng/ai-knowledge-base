@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261010-493",
+  "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+  "source_url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+  "source": "rss",
+  "summary": "A Show HN project enabling AI agents to draw large arrows, boxes, and text overlays directly on a user's screen. The tool provides a visual annotation layer that agents can invoke to highlight UI elements, guide users, or communicate spatially during tasks. It gained significant traction on Hacker News with 400 points and 180 comments, reflecting strong interest in agent-driven screen interaction and visual grounding.",
+  "tags": [
+    "agent",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 5,
+  "created_at": "2026-10-10T14:06:40.110907Z",
+  "updated_at": "2026-10-10T14:06:59.420912Z"
+}

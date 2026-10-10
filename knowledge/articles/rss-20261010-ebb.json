@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261010-ebb",
+  "title": "Impactful scheduling for GPU clusters",
+  "source_url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+  "source": "rss",
+  "summary": "The content discusses scheduling strategies for GPU clusters, focusing on optimizing resource allocation and job placement to improve utilization and reduce idle time in AI/ML training and inference workloads. It likely covers techniques like gang scheduling, preemption, and topology-aware placement to maximize throughput on expensive GPU hardware.",
+  "tags": [
+    "deployment",
+    "framework",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-10T14:06:40.825014Z",
+  "updated_at": "2026-10-10T14:06:59.422148Z"
+}

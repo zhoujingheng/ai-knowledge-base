@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261010-08e",
+  "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+  "source_url": "https://carrierexplode.com/",
+  "source": "rss",
+  "summary": "Carrier-Explode is a side project that continuously archives carrier settings for major phone brands like iPhone, Pixel, and Galaxy. It includes decoders and explanations for common baseband configurations. The creator notes that assumptions still need verification, but the tool has already proven useful for enthusiast groups.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-10-10T14:06:40.110619Z",
+  "updated_at": "2026-10-10T14:06:59.420616Z"
+}

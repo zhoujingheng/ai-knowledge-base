@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261010-8f8",
+  "title": "Show HN: Quake ported to safe Rust, playable in browser",
+  "source_url": "https://quake-srp.pages.dev/",
+  "source": "rss",
+  "summary": "A Show HN post about a Quake port written in safe Rust that runs playable in the browser. The submission links to a live demo and a Hacker News discussion with 230 points and 176 comments. Despite being framed as AI/ML content, the project is a game engine port and does not involve machine learning, LLMs, or AI techniques.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-10-10T14:06:40.111013Z",
+  "updated_at": "2026-10-10T14:06:59.420926Z"
+}
