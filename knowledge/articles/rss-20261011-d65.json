@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261011-d65",
+  "title": "Apple/macOS removed from official Unix registry",
+  "source_url": "https://www.opengroup.org//openbrand/register/",
+  "source": "rss",
+  "summary": "This Hacker News discussion concerns Apple/macOS being removed from the Open Group's official Unix registry, meaning macOS no longer holds formal UNIX certification. The 282-point thread with 238 comments debates the technical and legal implications, including whether macOS still behaves like Unix, the cost of certification, and what this means for developers and POSIX compliance.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-10-11T14:30:39.958377Z",
+  "updated_at": "2026-10-11T14:31:02.596921Z"
+}

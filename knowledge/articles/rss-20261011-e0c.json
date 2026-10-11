@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261011-e0c",
+  "title": "Build your own decision model",
+  "source_url": "https://nishtahir.com/build-your-own-decision-model/",
+  "source": "rss",
+  "summary": "A blog post (discussed on Hacker News with 382 points and 85 comments) explaining how to build your own decision model from scratch. It likely walks through implementing a simple ML-based decision system, covering data, training, and inference, aimed at developers who want to understand decision models beyond using off-the-shelf libraries.",
+  "tags": [
+    "research",
+    "framework",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-11T14:30:39.958257Z",
+  "updated_at": "2026-10-11T14:31:02.596758Z"
+}

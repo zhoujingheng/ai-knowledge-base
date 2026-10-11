@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261011-8b4",
+  "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+  "source_url": "https://arxiv.org/html/2610.05978v1",
+  "source": "rss",
+  "summary": "This paper shows that flat Transformers processing raw bytes can outperform subword tokenizers as parameter sizes scale, since longer sequences provide extra computation. Byte models develop implicit local abstractions, show high per-byte loss variance enabling 3.4x speculative decoding gains, and improve fine-grained tasks like CUTE and OCRBench. The authors suggest byte-level models with sparse mixture-of-experts could replace rigid subword vocabularies and benefit multimodal alignment.",
+  "tags": [
+    "research",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-10-11T14:30:40.306850Z",
+  "updated_at": "2026-10-11T14:31:02.597112Z"
+}

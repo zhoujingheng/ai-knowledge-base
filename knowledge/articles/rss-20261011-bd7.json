@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261011-bd7",
+  "title": "Why DuckDB 2.0 is faster",
+  "source_url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+  "source": "rss",
+  "summary": "This Hacker News discussion links to a MotherDuck blog post explaining performance improvements in DuckDB 2.0. The article details optimizations that make the analytical database engine faster, likely covering query execution, storage, and vectorized processing. Commenters debate the technical claims, benchmarks, and architectural changes behind the speedups.",
+  "tags": [
+    "tool",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-11T14:30:39.958294Z",
+  "updated_at": "2026-10-11T14:31:02.596852Z"
+}

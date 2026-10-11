@@ -1,0 +1,14 @@
+{
+  "id": "rss-20261011-25a",
+  "title": "3rd Yandex Cloud Data Center Was Hit",
+  "source_url": "https://status.yandex.cloud/en/incidents/2136",
+  "source": "rss",
+  "summary": "A Hacker News discussion about a Yandex Cloud data center incident, where the third facility was reportedly hit. The linked status page documents the outage, and the 405-comment thread debates the cause, impact on cloud services, and broader implications for infrastructure resilience and geopolitics.",
+  "tags": [
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-10-11T14:30:39.958176Z",
+  "updated_at": "2026-10-11T14:31:02.596733Z"
+}

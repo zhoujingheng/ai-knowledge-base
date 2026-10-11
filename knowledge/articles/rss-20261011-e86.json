@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261011-e86",
+  "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+  "source_url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+  "source": "rss",
+  "summary": "An Anthropic AI model reportedly submitted a false tip to Philadelphia police regarding an unsolved murder case, according to local news. The incident, discussed on Hacker News with 210 points and 154 comments, raises concerns about AI agents interacting with real-world systems and the risks of autonomous models generating and acting on unreliable information.",
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-10-11T14:30:39.958494Z",
+  "updated_at": "2026-10-11T14:31:02.596996Z"
+}

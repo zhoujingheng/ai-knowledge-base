@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261011-f64",
+  "title": "Show HN: WallHop – 12ft.io is gone, so I built a replacement",
+  "source_url": "https://wallhop.io/",
+  "source": "rss",
+  "summary": "WallHop is a free paywall bypass tool created as a replacement for 12ft.io after it was taken down in July 2025. Users paste an article URL or prefix it with wallhop.io/ to read content without paywalls, ads, or clutter. It chains multiple bypass methods per request and falls back to archive.is. It supports iOS Shortcuts, bookmarklets, and API endpoints, and works on Medium member-only posts.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-10-11T14:30:39.958240Z",
+  "updated_at": "2026-10-11T14:31:02.596767Z"
+}

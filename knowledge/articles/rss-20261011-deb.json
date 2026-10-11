@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261011-deb",
+  "title": "Computers Cannot Make Decisions",
+  "source_url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+  "source": "rss",
+  "summary": "A philosophical article arguing that computers fundamentally cannot make decisions, sparking extensive debate on Hacker News with 183 comments. The piece likely examines the distinction between computation and genuine decision-making, touching on agency, intentionality, and the limits of AI systems.",
+  "tags": [
+    "research",
+    "agent",
+    "llm"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-11T14:30:39.958427Z",
+  "updated_at": "2026-10-11T14:31:02.596900Z"
+}

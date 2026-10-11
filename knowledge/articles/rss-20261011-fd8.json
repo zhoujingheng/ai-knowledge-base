@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261011-fd8",
+  "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+  "source_url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+  "source": "rss",
+  "summary": "A Cloudflare Radar report shows a sharp decline in bot traffic originating from AS13238, a Yandex datacenter, following a reported strike on the facility. The Hacker News discussion examines the traffic patterns, attribution, and implications for bot activity and infrastructure resilience.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-10-11T14:30:39.958158Z",
+  "updated_at": "2026-10-11T14:31:02.596655Z"
+}
