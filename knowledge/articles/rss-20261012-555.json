@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261012-555",
+  "title": "The gap in shared understanding of LLM capability is widening",
+  "source_url": "https://twitter.com/karpathy/status/2109361546505966046",
+  "source": "rss",
+  "summary": "A Hacker News discussion sparked by Andrej Karpathy's tweet about the widening gap in shared understanding of LLM capabilities. With 593 points and 852 comments, the thread explores how practitioners, researchers, and the public increasingly diverge in their mental models of what LLMs can and cannot do, and the implications for evaluation, trust, and deployment.",
+  "tags": [
+    "llm",
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-12T17:09:40.464776Z",
+  "updated_at": "2026-10-12T17:10:02.949872Z"
+}

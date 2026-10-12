@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261012-7c1",
+  "title": "QGIS bans AI assisted contributions",
+  "source_url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+  "source": "rss",
+  "summary": "QGIS, the open-source geographic information system, has moved to ban AI-assisted contributions following a QGIS Enhancement Proposal (QEP) discussion on GitHub. The policy reflects growing debate in open-source communities about the use of LLMs and AI coding tools, touching on concerns like code quality, licensing, attribution, and maintainer burden. The Hacker News thread drew hundreds of comments debating the merits and drawbacks of such bans.",
+  "tags": [
+    "llm",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-10-12T17:09:40.464648Z",
+  "updated_at": "2026-10-12T17:10:02.949836Z"
+}

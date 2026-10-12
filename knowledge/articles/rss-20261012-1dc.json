@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261012-1dc",
+  "title": "Fingerprints are the new cookies",
+  "source_url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+  "source": "rss",
+  "summary": "A discussion post linking to an article arguing that browser and device fingerprinting has replaced cookies as the primary method for tracking users online. The Hacker News thread (581 points, 285 comments) debates the technical, privacy, and regulatory implications of fingerprinting, including its persistence, difficulty of blocking, and use by advertisers and anti-bot systems.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 4,
+  "created_at": "2026-10-12T17:09:40.464718Z",
+  "updated_at": "2026-10-12T17:10:02.949849Z"
+}

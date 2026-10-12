@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261012-22f",
+  "title": "I paid people to try and follow my README",
+  "source_url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+  "source": "rss",
+  "summary": "A blog post describing an experiment where the author paid participants to attempt following their project's README documentation, revealing usability issues and gaps in setup instructions. The HN discussion (410 points, 197 comments) covers documentation best practices, developer experience, and onboarding friction for open-source tools.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-10-12T17:09:40.464882Z",
+  "updated_at": "2026-10-12T17:10:02.950011Z"
+}
