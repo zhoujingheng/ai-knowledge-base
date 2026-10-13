@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261013-e6b",
+  "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+  "source_url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+  "source": "rss",
+  "summary": "This Hacker News discussion links to Reuters, BBC, and Le Monde reports about hackers remotely triggering automatic defrost cycles in supermarket refrigeration systems across Europe, plus Claroty Team82 research on freezer controller vulnerabilities. Commenters also reference a similar 2026 incident involving military commissary freezers, debating IoT/OT security weaknesses in commercial refrigeration.",
+  "tags": [
+    "research",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 3,
+  "created_at": "2026-10-13T15:26:08.423551Z",
+  "updated_at": "2026-10-13T15:26:32.618924Z"
+}

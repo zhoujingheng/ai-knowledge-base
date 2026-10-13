@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261013-5f9",
+  "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+  "source_url": "https://github.com/openai/codex/issues/48195",
+  "source": "rss",
+  "summary": "A GitHub issue on OpenAI's Codex CLI reports that the tool installs a persistent, self-updating background daemon by default, sparking discussion about user consent, privacy, and security implications. The HN thread (588 points, 283 comments) debates whether silently running background services is acceptable for developer tooling and how it compares to other CLI agents.",
+  "tags": [
+    "agent",
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-13T15:26:08.423269Z",
+  "updated_at": "2026-10-13T15:26:32.618708Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261013-fce",
+  "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+  "source_url": "https://github.com/h0m3us3r/w1700k-sdr",
+  "source": "rss",
+  "summary": "A GitHub project demonstrating how to repurpose a WiFi 7 router (W1700K) into a 320 Msps software-defined radio receiver. The work involves hardware hacking, firmware modification, and signal processing to capture raw IQ samples, enabling SDR applications like spectrum analysis and signal decoding. It highlights creative reuse of consumer networking hardware for RF experimentation.",
+  "tags": [
+    "tool",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-10-13T15:26:08.423504Z",
+  "updated_at": "2026-10-13T15:26:32.618910Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261013-e88",
+  "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+  "source_url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+  "source": "rss",
+  "summary": "Intel's D270 data center GPU is a new AI accelerator featuring up to 480 GB of LPDDR5X memory, aimed at large-scale inference and training workloads. The Hacker News discussion (280 points, 156 comments) debates its competitive positioning against NVIDIA and AMD, memory bandwidth trade-offs, and software ecosystem challenges.",
+  "tags": [
+    "deployment",
+    "tool",
+    "research"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-13T15:26:08.423245Z",
+  "updated_at": "2026-10-13T15:26:32.618694Z"
+}

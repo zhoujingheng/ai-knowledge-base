@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261013-23d",
+  "title": "11 year old unsoundness bugs found in Rust borrow checker",
+  "source_url": "https://github.com/rust-lang/rust/issues/164250",
+  "source": "rss",
+  "summary": "A GitHub issue reports that 11-year-old unsoundness bugs have been discovered in Rust's borrow checker, a core component of the language's memory safety guarantees. The finding, discussed on Hacker News with hundreds of comments, highlights long-standing flaws in Rust's static analysis that could allow undefined behavior despite the compiler's safety promises.",
+  "tags": [
+    "research",
+    "tool"
+  ],
+  "status": "draft",
+  "score": 8,
+  "created_at": "2026-10-13T15:26:08.423146Z",
+  "updated_at": "2026-10-13T15:26:32.618558Z"
+}

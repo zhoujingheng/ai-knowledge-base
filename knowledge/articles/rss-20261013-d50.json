@@ -1,0 +1,15 @@
+{
+  "id": "rss-20261013-d50",
+  "title": "A Modern Web App in C",
+  "source_url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+  "source": "rss",
+  "summary": "A Hacker News discussion linking to an article about building a modern web application in C, with 659 points and 281 comments. The content focuses on low-level systems programming and web development rather than AI/ML, so it has minimal relevance to machine learning topics.",
+  "tags": [
+    "tool",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 2,
+  "created_at": "2026-10-13T15:26:08.423422Z",
+  "updated_at": "2026-10-13T15:26:32.618759Z"
+}

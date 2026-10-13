@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261013-ba2",
+  "title": "'AI' Is Not a Tool by Rich Hickey",
+  "source_url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+  "source": "rss",
+  "summary": "Rich Hickey (creator of Clojure) argues that 'AI' is not a tool in the traditional sense, challenging common assumptions about how we frame and use AI systems. The essay, discussed on Hacker News with 292 points and 154 comments, prompts debate about the conceptual and philosophical framing of AI, its agency, and the implications for how developers and society should think about these systems.",
+  "tags": [
+    "llm",
+    "research",
+    "prompt-engineering"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-10-13T15:26:08.423292Z",
+  "updated_at": "2026-10-13T15:26:32.618733Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261013-cc8",
+  "title": "AI coding agents generate more code, but not more software",
+  "source_url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+  "source": "rss",
+  "summary": "An Ars Technica article (discussed on Hacker News with 349 points and 291 comments) argues that AI coding agents produce more lines of code but not proportionally more functional software. The piece likely examines productivity claims around agentic coding tools, noting that increased code volume does not translate into equivalent gains in shipped features, maintainability, or real-world value.",
+  "tags": [
+    "agent",
+    "llm",
+    "deployment"
+  ],
+  "status": "draft",
+  "score": 6,
+  "created_at": "2026-10-13T15:26:08.423316Z",
+  "updated_at": "2026-10-13T15:26:32.618810Z"
+}

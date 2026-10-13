@@ -1,0 +1,16 @@
+{
+  "id": "rss-20261013-340",
+  "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+  "source_url": "https://github.com/snuri00/ps2-web-recomp",
+  "source": "rss",
+  "summary": "A Show HN project that statically recompiles PlayStation 2 games into WebAssembly, enabling them to run in a web browser. The GitHub repository provides the tooling and approach for translating PS2 binaries ahead-of-time rather than emulating them dynamically, drawing significant community interest with 303 points and 156 comments on Hacker News.",
+  "tags": [
+    "tool",
+    "deployment",
+    "research"
+  ],
+  "status": "draft",
+  "score": 7,
+  "created_at": "2026-10-13T15:26:08.423638Z",
+  "updated_at": "2026-10-13T15:26:32.618937Z"
+}
