@@ -1,0 +1,1377 @@
+[
+  {
+    "source": "github",
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "stars": 266062,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "nous-research",
+      "openai"
+    ],
+    "collected_at": "2026-11-25T18:17:56.659101Z"
+  },
+  {
+    "source": "github",
+    "title": "anthropics/skills",
+    "url": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "stars": 200393,
+    "language": "Python",
+    "topics": [
+      "agent-skills"
+    ],
+    "collected_at": "2026-11-25T18:17:56.659114Z"
+  },
+  {
+    "source": "github",
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "stars": 188185,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "autonomous-agents",
+      "claude",
+      "gpt",
+      "llama-api",
+      "llm",
+      "openai",
+      "python"
+    ],
+    "collected_at": "2026-11-25T18:17:56.659118Z"
+  },
+  {
+    "source": "github",
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "stars": 169307,
+    "language": "Python",
+    "topics": [
+      "audio",
+      "deep-learning",
+      "deepseek",
+      "gemma",
+      "glm",
+      "hacktoberfest",
+      "llm",
+      "machine-learning",
+      "model-hub",
+      "natural-language-processing",
+      "nlp",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "pytorch-transformers",
+      "qwen",
+      "speech-recognition",
+      "transformer",
+      "vlm"
+    ],
+    "collected_at": "2026-11-25T18:17:56.659120Z"
+  },
+  {
+    "source": "github",
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI",
+    "stars": 165381,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-art",
+      "deep-learning",
+      "diffusion",
+      "gradio",
+      "image-generation",
+      "image2image",
+      "img2img",
+      "pytorch",
+      "stable-diffusion",
+      "text2image",
+      "torch",
+      "txt2img",
+      "unstable",
+      "upscaling",
+      "web"
+    ],
+    "collected_at": "2026-11-25T18:17:56.659123Z"
+  },
+  {
+    "source": "github",
+    "title": "langgenius/dify",
+    "url": "https://github.com/langgenius/dify",
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+    "stars": 161893,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "automation",
+      "claude",
+      "deepseek",
+      "genai",
+      "gpt",
+      "llm",
+      "low-code",
+      "mcp",
+      "nextjs",
+      "no-code",
+      "openai",
+      "python",
+      "skills",
+      "workflow"
+    ],
+    "collected_at": "2026-11-25T18:17:56.659126Z"
+  },
+  {
+    "source": "github",
+    "title": "langflow-ai/langflow",
+    "url": "https://github.com/langflow-ai/langflow",
+    "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+    "stars": 156938,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "chatgpt",
+      "generative-ai",
+      "large-language-models",
+      "multiagent",
+      "react-flow"
+    ],
+    "collected_at": "2026-11-25T18:17:56.659128Z"
+  },
+  {
+    "source": "github",
+    "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
+    "stars": 154108,
+    "language": "Python",
+    "topics": [
+      "ai-skills",
+      "antigravity",
+      "claude",
+      "claude-code",
+      "codex",
+      "command-line",
+      "copilot",
+      "cursor-ai",
+      "html5",
+      "kiro",
+      "landing-page",
+      "mobile-ui",
+      "qoder",
+      "react",
+      "tailwindcss",
+      "trae",
+      "ui-design",
+      "uikit",
+      "windsurf-ai"
+    ],
+    "collected_at": "2026-11-25T18:17:56.659134Z"
+  },
+  {
+    "source": "github",
+    "title": "Graphify-Labs/graphify",
+    "url": "https://github.com/Graphify-Labs/graphify",
+    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+    "stars": 153269,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "antigravity",
+      "ast",
+      "claude-code",
+      "code-analysis",
+      "code-search",
+      "codex",
+      "cursor",
+      "developer-tools",
+      "gemini",
+      "graphify",
+      "graphrag",
+      "knowledge-graph",
+      "leiden",
+      "llm",
+      "mcp",
+      "openclaw",
+      "rag",
+      "skills",
+      "tree-sitter"
+    ],
+    "collected_at": "2026-11-25T18:17:56.659137Z"
+  },
+  {
+    "source": "github",
+    "title": "github/spec-kit",
+    "url": "https://github.com/github/spec-kit",
+    "description": "💫 Toolkit to help you get started with SDD or any other process!",
+    "stars": 151359,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "copilot",
+      "development",
+      "engineering",
+      "prd",
+      "spec",
+      "spec-driven"
+    ],
+    "collected_at": "2026-11-25T18:17:56.659140Z"
+  },
+  {
+    "source": "github",
+    "title": "langchain-ai/langchain",
+    "url": "https://github.com/langchain-ai/langchain",
+    "description": "The agent engineering platform.",
+    "stars": 149985,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "deepagents",
+      "enterprise",
+      "framework",
+      "gemini",
+      "generative-ai",
+      "langchain",
+      "langgraph",
+      "llm",
+      "multiagent",
+      "open-source",
+      "openai",
+      "pydantic",
+      "python",
+      "rag",
+      "typescript"
+    ],
+    "collected_at": "2026-11-25T18:17:56.659143Z"
+  },
+  {
+    "source": "github",
+    "title": "Comfy-Org/ComfyUI",
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+    "stars": 148591,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "comfy",
+      "comfyui",
+      "python",
+      "pytorch",
+      "stable-diffusion"
+    ],
+    "collected_at": "2026-11-25T18:17:56.659146Z"
+  },
+  {
+    "source": "github",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+    "stars": 145679,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "llms",
+      "python",
+      "rag"
+    ],
+    "collected_at": "2026-11-25T18:17:56.659154Z"
+  },
+  {
+    "source": "github",
+    "title": "harry0703/MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "stars": 145662,
+    "language": "Python",
+    "topics": [
+      "ai-video-generator",
+      "content-creation",
+      "ffmpeg",
+      "instagram-reels",
+      "llm",
+      "python",
+      "short-video",
+      "subtitles",
+      "text-to-speech",
+      "tiktok",
+      "video-automation",
+      "video-workflow",
+      "workflow-automation",
+      "youtube-shorts"
+    ],
+    "collected_at": "2026-11-25T18:17:56.659158Z"
+  },
+  {
+    "source": "github",
+    "title": "browser-use/browser-use",
+    "url": "https://github.com/browser-use/browser-use",
+    "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+    "stars": 122046,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-agent",
+      "browser-automation",
+      "browser-use",
+      "cdp",
+      "cloud-browser",
+      "computer-use",
+      "headless-browser",
+      "llm",
+      "mcp",
+      "playwright",
+      "python",
+      "remote-browser",
+      "stealth-browser",
+      "web-automation",
+      "web-scraping"
+    ],
+    "collected_at": "2026-11-25T18:17:56.659159Z"
+  },
+  {
+    "source": "github",
+    "title": "debpalash/VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "stars": 118272,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "audiobook",
+      "cuda",
+      "dubbing",
+      "elevenlabs-alternative",
+      "huggingface",
+      "local-first",
+      "mlx",
+      "omnivoice-studio",
+      "speech-to-text",
+      "text-to-speech",
+      "transcription",
+      "translate",
+      "tts",
+      "voice-ai",
+      "voice-cloning",
+      "voice-generation",
+      "voicestudio",
+      "workflow"
+    ],
+    "collected_at": "2026-11-25T18:17:56.659161Z"
+  },
+  {
+    "source": "github",
+    "title": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "stars": 114677,
+    "language": "Python",
+    "topics": [
+      "agent-infrastructure",
+      "ai-agent",
+      "ai-search",
+      "automation",
+      "bilibili",
+      "claude-code",
+      "cli",
+      "cursor",
+      "free-api",
+      "llm-tools",
+      "mcp",
+      "python",
+      "reddit-scraper",
+      "twitter-scraper",
+      "web-scraper",
+      "xiaohongshu",
+      "youtube-transcript"
+    ],
+    "collected_at": "2026-11-25T18:17:56.659162Z"
+  },
+  {
+    "source": "github",
+    "title": "D4Vinci/Scrapling",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+    "stars": 105751,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-scraping",
+      "automation",
+      "crawler",
+      "crawling",
+      "crawling-python",
+      "data",
+      "data-extraction",
+      "mcp",
+      "mcp-server",
+      "playwright",
+      "python",
+      "scraping",
+      "selectors",
+      "stealth",
+      "web-scraper",
+      "web-scraping",
+      "web-scraping-python",
+      "webscraping",
+      "xpath"
+    ],
+    "collected_at": "2026-11-25T18:17:56.659163Z"
+  },
+  {
+    "source": "github",
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "stars": 105729,
+    "language": "Python",
+    "topics": [
+      "autograd",
+      "deep-learning",
+      "gpu",
+      "machine-learning",
+      "neural-network",
+      "numpy",
+      "python",
+      "tensor"
+    ],
+    "collected_at": "2026-11-25T18:17:56.659164Z"
+  },
+  {
+    "source": "github",
+    "title": "karpathy/autoresearch",
+    "url": "https://github.com/karpathy/autoresearch",
+    "description": "AI agents running research on single-GPU nanochat training automatically",
+    "stars": 100612,
+    "language": "Python",
+    "topics": [],
+    "collected_at": "2026-11-25T18:17:56.659165Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hacker News Best",
+    "category": "tech-news",
+    "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+    "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+    "description": "Article URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers\nComments URL: https://news.ycombinator.com/item?id=50642086\nPoints: 298\n# Comments: 237",
+    "collected_at": "2026-11-25T18:18:00.330259Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hacker News Best",
+    "category": "tech-news",
+    "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+    "url": "https://buttons.joshwcomeau.com/",
+    "description": "Article URL: https://buttons.joshwcomeau.com/\nComments URL: https://news.ycombinator.com/item?id=50638032\nPoints: 725\n# Comments: 116",
+    "collected_at": "2026-11-25T18:18:00.330314Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hacker News Best",
+    "category": "tech-news",
+    "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+    "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+    "description": "Article URL: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit\nComments URL: https://news.ycombinator.com/item?id=50637890\nPoints: 379\n# Comments: 131",
+    "collected_at": "2026-11-25T18:18:00.330360Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hacker News Best",
+    "category": "tech-news",
+    "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+    "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+    "description": "Article URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being\nComments URL: https://news.ycombinator.com/item?id=50637686\nPoints: 395\n# Comments: 169",
+    "collected_at": "2026-11-25T18:18:00.330411Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hacker News Best",
+    "category": "tech-news",
+    "title": "The matrix multiplication exponent is nine fourths [pdf]",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "description": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50637220\nPoints: 906\n# Comments: 510",
+    "collected_at": "2026-11-25T18:18:00.330459Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hacker News Best",
+    "category": "tech-news",
+    "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+    "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+    "description": "Article URL: https://greydanus.github.io/2026/11/12/pengpt/\nComments URL: https://news.ycombinator.com/item?id=50637056\nPoints: 370\n# Comments: 67",
+    "collected_at": "2026-11-25T18:18:00.330499Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hacker News Best",
+    "category": "tech-news",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "description": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/\nComments URL: https://news.ycombinator.com/item?id=50634658\nPoints: 339\n# Comments: 94",
+    "collected_at": "2026-11-25T18:18:00.330542Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hacker News Best",
+    "category": "tech-news",
+    "title": "Ternary Bonsai 2.5 27B",
+    "url": "https://prismml.com/news/bonsai-2-5-27b",
+    "description": "Article URL: https://prismml.com/news/bonsai-2-5-27b\nComments URL: https://news.ycombinator.com/item?id=50633922\nPoints: 514\n# Comments: 168",
+    "collected_at": "2026-11-25T18:18:00.330576Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hacker News Best",
+    "category": "tech-news",
+    "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+    "url": "https://news.ycombinator.com/item?id=50630809",
+    "description": "Basically the title.Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models.Our only usage which I think could get us flagged is automated regression benchmarks whenever we change some AI settings. But this is not against their policy?Now I've got 24h to prove we didn't.Has anyone dealt with this too? How can you prove that you are not distilling Anthropic models without breaking your user's privacy?\n\nComments URL: https://news.ycombinator.com/item?id=50630809\nPoints: 421\n# Comments: 320",
+    "collected_at": "2026-11-25T18:18:00.330642Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hacker News Best",
+    "category": "tech-news",
+    "title": "Active intrusion campaign against Check Point security management servers",
+    "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+    "description": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign\nComments URL: https://news.ycombinator.com/item?id=50630594\nPoints: 297\n# Comments: 148",
+    "collected_at": "2026-11-25T18:18:00.330670Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hacker News Best",
+    "category": "tech-news",
+    "title": "Jetty Pro",
+    "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+    "description": "Article URL: http://hypercritical.co/2026/11/23/jetty-pro\nComments URL: https://news.ycombinator.com/item?id=50630462\nPoints: 310\n# Comments: 139",
+    "collected_at": "2026-11-25T18:18:00.330691Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hacker News Best",
+    "category": "tech-news",
+    "title": "Tidal bans AI-generated music",
+    "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+    "description": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/\nComments URL: https://news.ycombinator.com/item?id=50630309\nPoints: 334\n# Comments: 324",
+    "collected_at": "2026-11-25T18:18:00.330715Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hacker News Best",
+    "category": "tech-news",
+    "title": "Anthropic breaks below $83 IPO price",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading\nComments URL: https://news.ycombinator.com/item?id=50627836\nPoints: 415\n# Comments: 785",
+    "collected_at": "2026-11-25T18:18:00.330740Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hacker News Best",
+    "category": "tech-news",
+    "title": "GTA 6 Running on Windows",
+    "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+    "description": "Article URL: https://twitter.com/raul_bs3/status/2125213756238291075\nComments URL: https://news.ycombinator.com/item?id=50627783\nPoints: 486\n# Comments: 564",
+    "collected_at": "2026-11-25T18:18:00.330762Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hacker News Best",
+    "category": "tech-news",
+    "title": "LLM agents work for their parent companies, not for you",
+    "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+    "description": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/\nComments URL: https://news.ycombinator.com/item?id=50627340\nPoints: 994\n# Comments: 409",
+    "collected_at": "2026-11-25T18:18:00.330791Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hacker News Best",
+    "category": "tech-news",
+    "title": "Who in Washington owns and trades Nvidia stock",
+    "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
+    "description": "Article URL: https://www.kadoa.com/congress/insights/trump-nvidia\nComments URL: https://news.ycombinator.com/item?id=50626861\nPoints: 288\n# Comments: 166",
+    "collected_at": "2026-11-25T18:18:00.330813Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hacker News Best",
+    "category": "tech-news",
+    "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+    "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
+    "description": "Article URL: https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/\nComments URL: https://news.ycombinator.com/item?id=50626578\nPoints: 477\n# Comments: 273",
+    "collected_at": "2026-11-25T18:18:00.330837Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hacker News Best",
+    "category": "tech-news",
+    "title": "Quad9 pulled their DNS service from France",
+    "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+    "description": "Article URL: https://quad9.net/news/blog/quad9-service-deactivation-in-france/\nComments URL: https://news.ycombinator.com/item?id=50625384\nPoints: 378\n# Comments: 269",
+    "collected_at": "2026-11-25T18:18:00.330860Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hacker News Best",
+    "category": "tech-news",
+    "title": "2035 came early",
+    "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+    "description": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early\nComments URL: https://news.ycombinator.com/item?id=50624497\nPoints: 1013\n# Comments: 374",
+    "collected_at": "2026-11-25T18:18:00.330881Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hacker News Best",
+    "category": "tech-news",
+    "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+    "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+    "description": "Article URL: https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription\nComments URL: https://news.ycombinator.com/item?id=50622774\nPoints: 807\n# Comments: 432",
+    "collected_at": "2026-11-25T18:18:00.330907Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "category": "tech-news",
+    "title": "Matrix Multiplication is Θ(n^2.25)",
+    "url": "https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "description": "<p><a href=\"https://lobste.rs/s/kn0pmh/matrix_multiplication_is_n_2_25\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.697694Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "category": "tech-news",
+    "title": "9/UX: a Macintosh-inspired desktop for 9front",
+    "url": "https://progrium.github.io/9ux/",
+    "description": "<p>I have written a story about this on the Register, but of course I can't post that here.</p>\n<p>I think this is a quite astonishing effort and could make 9front <em>considerably</em> more usable... but it's bot-assisted, so I don't think they'll take it.</p>\n<p><a href=\"https://lobste.rs/s/vciex6/9_ux_macintosh_inspired_desktop_for\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.697732Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "category": "tech-news",
+    "title": "Rebuilding my local voice assistant pipeline",
+    "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+    "description": "<p><a href=\"https://lobste.rs/s/gn5qb1/rebuilding_my_local_voice_assistant\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.697746Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "category": "tech-news",
+    "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+    "description": "<p><a href=\"https://lobste.rs/s/svneem/sleep_framework_new_way_for_llms_retain\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.697759Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "category": "tech-news",
+    "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+    "url": "https://energy-based-reasoners.github.io/",
+    "description": "<p><a href=\"https://lobste.rs/s/8mbnbd/energy_based_reasoners_your_recurrent\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.697771Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "category": "tech-news",
+    "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+    "url": "https://arxiv.org/abs/2607.02512",
+    "description": "<p><a href=\"https://lobste.rs/s/qkalae/program_as_weights_programming_paradigm\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.697783Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "category": "tech-news",
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "url": "https://arxiv.org/abs/2605.29713",
+    "description": "<p><a href=\"https://lobste.rs/s/0aungk/little_book_generative_ai_foundations\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.697794Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "category": "tech-news",
+    "title": "You could have invented transformers from memory",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "description": "<p><a href=\"https://lobste.rs/s/u2h9as/you_could_have_invented_transformers\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.697806Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "category": "tech-news",
+    "title": "e-means: 10x faster k-means at equal loss",
+    "url": "https://e-means.github.io/",
+    "description": "<p><a href=\"https://lobste.rs/s/rnmylu/e_means_10x_faster_k_means_at_equal_loss\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.697821Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "category": "tech-news",
+    "title": "libreagi - save OS models",
+    "url": "https://libreagi.com/",
+    "description": "<p><a href=\"https://lobste.rs/s/7c4iar/libreagi_save_os_models\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.697833Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "category": "tech-news",
+    "title": "Writing a SIGGRAPH paper from scratch",
+    "url": "https://alexandergoslin.me/writing-a-siggraph-paper-from-scratch/",
+    "description": "<p><a href=\"https://lobste.rs/s/793ecg/writing_siggraph_paper_from_scratch\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.697844Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "category": "tech-news",
+    "title": "Online learning on the programmable dataplane (2022)",
+    "url": "https://theses.gla.ac.uk/83235/3/2022SimpsonPhD.pdf",
+    "description": "<p><a href=\"https://lobste.rs/s/tj73bq/online_learning_on_programmable\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.697855Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "category": "tech-news",
+    "title": "Catching prompt injections hidden in PDFs",
+    "url": "https://tomclancy.info/joshua-judges-ruth.html",
+    "description": "<p><a href=\"https://lobste.rs/s/hreu0b/catching_prompt_injections_hidden_pdfs\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.697866Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "category": "tech-news",
+    "title": "Firecracker VM Escape: PwnEscape Part 2",
+    "url": "https://pwn.ai/blog/firecracker-escape",
+    "description": "<p><a href=\"https://lobste.rs/s/wzz4u3/firecracker_vm_escape_pwnescape_part_2\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.697877Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "category": "tech-news",
+    "title": "Reflections on Rust in the LLM Age",
+    "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
+    "description": "<p><a href=\"https://lobste.rs/s/yomksa/reflections_on_rust_llm_age\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.697888Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "category": "tech-news",
+    "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+    "description": "<p><a href=\"https://lobste.rs/s/u7wdqj/sparks_weight_space_programming_llms_can\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.697900Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "category": "tech-news",
+    "title": "An easy way to try local AI with braindead-local-intelligence",
+    "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+    "description": "<p><a href=\"https://lobste.rs/s/rlmrfy/easy_way_try_local_ai_with_braindead_local\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.697912Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "category": "tech-news",
+    "title": "Let’s Build a Brain",
+    "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+    "description": "<p><a href=\"https://lobste.rs/s/bmmj1e/let_s_build_brain\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.697927Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "category": "tech-news",
+    "title": "Building fine-grained version control for agents with Rust and Durable Objects",
+    "url": "https://delta.dev/blog/fine-grained-version-control-for-agents",
+    "description": "<p><a href=\"https://lobste.rs/s/cctbcu/building_fine_grained_version_control\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.697939Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters AI/ML",
+    "category": "tech-news",
+    "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",
+    "url": "https://divagr.com/blog/qwenputer",
+    "description": "<p><a href=\"https://lobste.rs/s/zftely/qwenputer_fully_functioning\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.697950Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters Machine Learning",
+    "category": "tech-news",
+    "title": "Flat/non-higher-order construction of ANF via mutable holes",
+    "url": "https://blueberrywren.dev/blog/anf-mutable/",
+    "description": "<p><a href=\"https://lobste.rs/s/n0itvf/flat_non_higher_order_construction_anf\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.749245Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters Machine Learning",
+    "category": "tech-news",
+    "title": "Alice v0.6.0",
+    "url": "https://www.alicecaml.org/blog/alice-v0-6-0/",
+    "description": "<p><a href=\"https://lobste.rs/s/18c0lq/alice_v0_6_0\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.749270Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters Machine Learning",
+    "category": "tech-news",
+    "title": "ML Modules for Mere Mortals",
+    "url": "https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/",
+    "description": "<p><a href=\"https://lobste.rs/s/mgiv0i/ml_modules_for_mere_mortals\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.749294Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters Machine Learning",
+    "category": "tech-news",
+    "title": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
+    "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+    "description": "<p><a href=\"https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.749318Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters Machine Learning",
+    "category": "tech-news",
+    "title": "Compile-Time Dependent Types",
+    "url": "https://thenumb.at/Syl-Intro/",
+    "description": "<p><a href=\"https://lobste.rs/s/d09iy3/compile_time_dependent_types\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.749339Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters Machine Learning",
+    "category": "tech-news",
+    "title": "Unikernels in OCaml",
+    "url": "https://uniker.nl/",
+    "description": "<p><a href=\"https://lobste.rs/s/mfserj/unikernels_ocaml\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.749360Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters Machine Learning",
+    "category": "tech-news",
+    "title": "ConcurrentML: Improving on Go's concurrency model",
+    "url": "https://nikhilism.com/post/2026/golang-racket-concurrency/",
+    "description": "<p><a href=\"https://lobste.rs/s/50whrl/concurrentml_improving_on_go_s\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.749382Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters Machine Learning",
+    "category": "tech-news",
+    "title": "HOL Light Tutorial",
+    "url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+    "description": "<p><a href=\"https://lobste.rs/s/zqa5yz/hol_light_tutorial\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.749404Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters Machine Learning",
+    "category": "tech-news",
+    "title": "Lists that keep track of their reversal",
+    "url": "https://grim.cargocut.org/a/rev-list.html",
+    "description": "<p><a href=\"https://lobste.rs/s/eqemtu/lists_keep_track_their_reversal\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.749425Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters Machine Learning",
+    "category": "tech-news",
+    "title": "Typeclasses vs Modules",
+    "url": "https://sm2n.ca/articles/typeclasses-vs-modules/",
+    "description": "<p><a href=\"https://lobste.rs/s/crlwst/typeclasses_vs_modules\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.749447Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters Machine Learning",
+    "category": "tech-news",
+    "title": "A study of sequence weighting at scale",
+    "url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+    "description": "<p><a href=\"https://lobste.rs/s/tamvz4/study_sequence_weighting_at_scale\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.749469Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters Machine Learning",
+    "category": "tech-news",
+    "title": "Hillingar - MirageOS Unikernels on NixOS",
+    "url": "https://ryan.freumh.org/hillingar.html",
+    "description": "<p><a href=\"https://lobste.rs/s/ifyeuo/hillingar_mirageos_unikernels_on_nixos\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.749491Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters Machine Learning",
+    "category": "tech-news",
+    "title": "Just a rumour of a bug is enough to find a security exploit these days",
+    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+    "description": "<p><a href=\"https://lobste.rs/s/t73wqi/just_rumour_bug_is_enough_find_security\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.749514Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters Machine Learning",
+    "category": "tech-news",
+    "title": "Retrofitting a build system into a compiler",
+    "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+    "description": "<p><a href=\"https://lobste.rs/s/izkimy/retrofitting_build_system_into_compiler\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.749537Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters Machine Learning",
+    "category": "tech-news",
+    "title": "bonsai: A library for building dynamic webapps, using Js_of_ocaml",
+    "url": "https://github.com/janestreet/bonsai",
+    "description": "<p><a href=\"https://lobste.rs/s/mdm2yk/bonsai_library_for_building_dynamic\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.749560Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters Machine Learning",
+    "category": "tech-news",
+    "title": "Guarded methods in OCaml",
+    "url": "https://xvw.lol/en/articles/oop-refl.html",
+    "description": "<p><a href=\"https://lobste.rs/s/ki0ge3/guarded_methods_ocaml\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.749580Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters Machine Learning",
+    "category": "tech-news",
+    "title": "Why Rocq is better than Lean for program verification",
+    "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+    "description": "<p>A write-up on why I don't give in to the hype and switch to Lean for formal verification of programs.</p>\n<p><a href=\"https://lobste.rs/s/vnh6b2/why_rocq_is_better_than_lean_for_program\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.749625Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters Machine Learning",
+    "category": "tech-news",
+    "title": "Xavier Leroy on programming, languages and formal verification",
+    "url": "https://www.youtube.com/watch?v=9Cswiqrq6So",
+    "description": "<p><a href=\"https://lobste.rs/s/oviysl/xavier_leroy_on_programming_languages\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.749647Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters Machine Learning",
+    "category": "tech-news",
+    "title": "Taking OCaml and Eio for a spin",
+    "url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+    "description": "<p><a href=\"https://lobste.rs/s/mush3s/taking_ocaml_eio_for_spin\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.749671Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Lobsters Machine Learning",
+    "category": "tech-news",
+    "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+    "url": "https://soteria-tools.com/blog/meta-garbage-collection",
+    "description": "<p><a href=\"https://lobste.rs/s/p3z0zw/meta_garbage_collection_using_ocaml_s_gc\">Comments</a></p>",
+    "collected_at": "2026-11-25T18:18:00.749691Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "category": "company-blog",
+    "title": "An Indic Voice Agent with CUGA",
+    "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.322882Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "category": "company-blog",
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.322896Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "category": "company-blog",
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.322905Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "category": "company-blog",
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "url": "https://huggingface.co/blog/allenai/robotrack",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.322912Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "category": "company-blog",
+    "title": "How to build and maintain an agentic evaluation",
+    "url": "https://huggingface.co/blog/agentic-evals",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.322919Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "category": "company-blog",
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "url": "https://huggingface.co/blog/inkling2mini",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.322926Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "category": "company-blog",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.322934Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "category": "company-blog",
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.322941Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "category": "company-blog",
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.322949Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "category": "company-blog",
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "url": "https://huggingface.co/blog/moe-expert-streaming",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.322956Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "category": "company-blog",
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "url": "https://huggingface.co/blog/rumble-2-flash",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.322963Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "category": "company-blog",
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "url": "https://huggingface.co/blog/openrouter",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.322970Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "category": "company-blog",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.322980Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "category": "company-blog",
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.322987Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "category": "company-blog",
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "url": "https://huggingface.co/blog/3d-lora-finetuning",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.322994Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "category": "company-blog",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "url": "https://huggingface.co/blog/qvac/botpsy",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.323001Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "category": "company-blog",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "url": "https://huggingface.co/blog/token-pooling",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.323008Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "category": "company-blog",
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.323015Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "category": "company-blog",
+    "title": "Decision Models in Hugging Face",
+    "url": "https://huggingface.co/blog/decision",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.323022Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "Hugging Face Blog",
+    "category": "company-blog",
+    "title": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
+    "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.323030Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "DeepMind Blog",
+    "category": "company-blog",
+    "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+    "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+    "description": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+    "collected_at": "2026-11-25T18:18:01.760189Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "DeepMind Blog",
+    "category": "company-blog",
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "description": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+    "collected_at": "2026-11-25T18:18:01.760207Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "DeepMind Blog",
+    "category": "company-blog",
+    "title": "Introducing Gemini 4 Neon",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.760215Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "DeepMind Blog",
+    "category": "company-blog",
+    "title": "Genie 4 is now available",
+    "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.760222Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "DeepMind Blog",
+    "category": "company-blog",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.760229Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "DeepMind Blog",
+    "category": "company-blog",
+    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "description": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+    "collected_at": "2026-11-25T18:18:01.760240Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "DeepMind Blog",
+    "category": "company-blog",
+    "title": "Gemini 4 Carbon is now available",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.760248Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "DeepMind Blog",
+    "category": "company-blog",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "description": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
+    "collected_at": "2026-11-25T18:18:01.760262Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "DeepMind Blog",
+    "category": "company-blog",
+    "title": "Opening the datasets behind our AI weather models",
+    "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+    "description": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+    "collected_at": "2026-11-25T18:18:01.760274Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "DeepMind Blog",
+    "category": "company-blog",
+    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+    "description": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+    "collected_at": "2026-11-25T18:18:01.760286Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "DeepMind Blog",
+    "category": "company-blog",
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.760293Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "DeepMind Blog",
+    "category": "company-blog",
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "description": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+    "collected_at": "2026-11-25T18:18:01.760305Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "DeepMind Blog",
+    "category": "company-blog",
+    "title": "Speeding up planning decisions with AI",
+    "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "description": "Google DeepMind and UK government work together to reduce planning assessment times",
+    "collected_at": "2026-11-25T18:18:01.760315Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "DeepMind Blog",
+    "category": "company-blog",
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.760322Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "DeepMind Blog",
+    "category": "company-blog",
+    "title": "Genie 4: A new generation of world simulation",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "description": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+    "collected_at": "2026-11-25T18:18:01.760337Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "DeepMind Blog",
+    "category": "company-blog",
+    "title": "Beyond tree cover: mapping the world’s forest types",
+    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "description": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "collected_at": "2026-11-25T18:18:01.760350Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "DeepMind Blog",
+    "category": "company-blog",
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "description": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "collected_at": "2026-11-25T18:18:01.760361Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "DeepMind Blog",
+    "category": "company-blog",
+    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "description": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "collected_at": "2026-11-25T18:18:01.760373Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "DeepMind Blog",
+    "category": "company-blog",
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.760380Z"
+  },
+  {
+    "source": "rss",
+    "source_name": "DeepMind Blog",
+    "category": "company-blog",
+    "title": "Gemini 4 Argon for Robotics",
+    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "description": "",
+    "collected_at": "2026-11-25T18:18:01.760387Z"
+  }
+]
